@@ -12,7 +12,7 @@
             </trans-unit>
             <trans-unit id="all">
               <source>All</source>
-              <target>Όλα</target>
+              <target>Όλες</target>
             </trans-unit>
             <trans-unit id="support">
               <source>Support</source>
@@ -48,7 +48,7 @@
             </trans-unit>
             <trans-unit id="issues">
               <source>Issues</source>
-              <target>Θέματα</target>
+              <target>Υποβολή σφαλμάτων</target>
             </trans-unit>
             <trans-unit id="submit">
               <source>Submit</source>
@@ -76,11 +76,11 @@
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
               <source>IPv4 Public IP</source>
-              <target>IPv4 Δημόσια IP</target>
+              <target>Δημόσια IPv4 IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
               <source>IPv6 Public IP</source>
-              <target>IPv6 Δημόσια IP</target>
+              <target>Δημόσια IPv6 IP</target>
             </trans-unit>
             <trans-unit id="os">
               <source>OS</source>
@@ -88,11 +88,11 @@
             </trans-unit>
             <trans-unit id="hostname">
               <source>Hostname</source>
-              <target>Όνομα κεντρικού υπολογιστή</target>
+              <target>Hostname</target>
             </trans-unit>
             <trans-unit id="cpu">
               <source>CPU</source>
-              <target>Επεξεργαστής</target>
+              <target>CPU</target>
             </trans-unit>
             <trans-unit id="cores">
               <source>Cores</source>
@@ -136,7 +136,7 @@
             </trans-unit>
             <trans-unit id="email">
               <source>E-Mail</source>
-              <target>Διεύθυνση ηλεκτρονικού ταχυδρομίου (E-Mail)</target>
+              <target>E-Mail</target>
             </trans-unit>
             <trans-unit id="timezone">
               <source>Timezone</source>
@@ -172,7 +172,7 @@
             </trans-unit>
             <trans-unit id="account">
               <source>Account</source>
-              <target>Λογαριασμός</target>
+              <target>Ο λογαριασμός μου</target>
             </trans-unit>
             <trans-unit id="security">
               <source>Security</source>
@@ -240,7 +240,7 @@
             </trans-unit>
             <trans-unit id="back-to-sites">
               <source>Back to Sites</source>
-              <target>Επιστροφή στις Ιστοσελίδες</target>
+              <target>Επιστροφή</target>
             </trans-unit>
             <trans-unit id="users">
               <source>Users</source>
@@ -264,7 +264,7 @@
             </trans-unit>
             <trans-unit id="role-admin">
               <source>Admin</source>
-              <target>Διαχειριστής (Admin)</target>
+              <target>Υπερδιαχειριστής (Admin)</target>
             </trans-unit>
             <trans-unit id="role-user">
               <source>User</source>
@@ -272,7 +272,7 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
               <source>Site Manager</source>
-              <target>Διαχειριστής Ιστοσελίδας</target>
+              <target>Διαχειριστής Ιστοσελίδων</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
               <source>User has been added.</source>
@@ -324,7 +324,7 @@
             </trans-unit>
             <trans-unit id="view">
               <source>View</source>
-              <target>Βλέπω</target>
+              <target>Λεπτομέρειες</target>
             </trans-unit>
             <trans-unit id="notifications">
               <source>Notifications</source>
@@ -356,7 +356,7 @@
             </trans-unit>
             <trans-unit id="action">
               <source>Action</source>
-              <target>Δράση</target>
+              <target>Ενέργεια</target>
             </trans-unit>
             <trans-unit id="info">
               <source>Info</source>
@@ -384,7 +384,7 @@
             </trans-unit>
             <trans-unit id="instance">
               <source>Instance</source>
-              <target>Παράδειγμα</target>
+              <target>Διακομιστής</target>
             </trans-unit>
             <trans-unit id="firewall">
               <source>Firewall</source>
@@ -444,7 +444,7 @@
             </trans-unit>
             <trans-unit id="rule-source-custom">
               <source>Custom</source>
-              <target>Προσαρμογή</target>
+              <target>Προσαρμοσμένη</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
               <source>Anywhere-IPv4</source>
@@ -524,7 +524,7 @@
             </trans-unit>
             <trans-unit id="instance-settings">
               <source>Instance Settings</source>
-              <target>Ρυθμίσεις εικονικής μηχανής</target>
+              <target>Ρυθμίσεις Διακομιστή</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
               <source>Timezone has been saved.</source>
@@ -536,11 +536,11 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
               <source>Instance will reboot shortly.</source>
-              <target>Η εικονική μηχανή θα επανεκκινήσει σύντομα.</target>
+              <target>Ο διακομιστής θα επανεκκινήσει σύντομα.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
               <source>It's recommended to reboot the instance after changing the timezone.</source>
-              <target>Συνιστάται η επανεκκίνηση της εικονικής μηχανής μετά την αλλαγή της ζώνης ώρας.</target>
+              <target>Συνιστάται η επανεκκίνηση του διακομιστή μετά την αλλαγή της ζώνης ώρας.</target>
             </trans-unit>
             <trans-unit id="general">
               <source>General</source>
@@ -808,7 +808,7 @@
             </trans-unit>
             <trans-unit id="add-site">
               <source>+ Add Site</source>
-              <target>+ Δημιουργία Ιστοσελίδας</target>
+              <target>+ Νέα Ιστοσελίδα</target>
             </trans-unit>
             <trans-unit id="domain">
               <source>Domain</source>
@@ -1000,15 +1000,19 @@
             </trans-unit>
             <trans-unit id="read-and-write">
               <source>Read and Write</source>
-              <target>Δικαιώματα ανάγνωσης και εγγραφής</target>
+              <target>Aνάγνωσης και εγγραφής</target>
             </trans-unit>
             <trans-unit id="read-only">
               <source>Read Only</source>
-              <target>Δικαιώματα μόνο για ανάγνωση</target>
+              <target>Μόνο ανάγνωση</target>
             </trans-unit>
             <trans-unit id="new-database-user">
               <source>New Database User</source>
               <target>Νέος χρήστης βάσης δεδομένων</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+               <source>Database Name</source>
+               <target>Όνομα βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="database-user-name">
               <source>Database User Name</source>
@@ -1072,7 +1076,7 @@
             </trans-unit>
             <trans-unit id="expiration-date">
               <source>Expiration Date</source>
-              <target>Ημερομηνία λήξης</target>
+              <target>Ημ. λήξης</target>
             </trans-unit>
             <trans-unit id="installed">
               <source>Installed</source>
@@ -1200,7 +1204,7 @@
             </trans-unit>
             <trans-unit id="whitelisted-ips">
               <source>Whitelisted IPs</source>
-              <target>IP στη λίστα επιτρεπόμενων</target>
+              <target>IP στo Whitelist</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
               <source>Allow traffic from Cloudflare only</source>
@@ -1340,7 +1344,7 @@
             </trans-unit>
             <trans-unit id="purge-cache">
               <source>Purge Cache</source>
-              <target>Purge Cache</target>
+              <target>Εκκαθάριση Cache</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
               <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
@@ -1372,7 +1376,7 @@
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
               <source>Create a Static HTML Site</source>
-              <target>Δημιουργήστε μια Στατική ιστοσελίδα HTML</target>
+              <target>Δημιουργήστε μια ιστοσελίδα HTML</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
               <source>Create a Python Site</source>
@@ -1480,7 +1484,7 @@
             </trans-unit>
             <trans-unit id="is-another-version-needed">
               <source>Is another version needed?</source>
-              <target>Χρειάζεται άλλη έκδοση;</target>
+              <target>Χρειάζεστε άλλη έκδοση;</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
               <source>Check out the docs.</source>
