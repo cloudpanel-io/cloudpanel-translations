@@ -70,6 +70,10 @@
               <source>English</source>
               <target>English</target>
             </trans-unit>
+            <trans-unit id="locale-greek">
+              <source>Greek</source>
+              <target>Greek</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
               <source>IPv4 Public IP</source>
               <target>IPv4 Public IP</target>
