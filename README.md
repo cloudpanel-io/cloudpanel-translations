@@ -1,4 +1,4 @@
-**CloudPanel** needs you! To make **CloudPanel** popular around the world, we need as many translations as possible.
+**CloudPanel** needs you! To make **CloudPanel** famous worldwide, we need as many translations as possible.
 If you like to support **CloudPanel**, help us with the translation.
 
 How can you provide a translation for **CloudPanel**?
