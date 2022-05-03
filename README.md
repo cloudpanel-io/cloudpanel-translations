@@ -1,6 +1,16 @@
 **CloudPanel** needs you! To make **CloudPanel** popular around the world, we need as many translations as possible.
 If you like to support **CloudPanel**, help us with the translation.
 
+How can you provide a translation for **CloudPanel**?
+
+1. Fork this repository.
+
+2. Copy **v2/en_en** to your locale e.g. **v2/es_es**.
+
+3. Translate the files **messages.xlf** and **validators.xlf**.
+
+4. Send a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
 ## :sparkling_heart: Support This Project
 
 * Please star the project
