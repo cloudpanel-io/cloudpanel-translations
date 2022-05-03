@@ -70,6 +70,10 @@
               <source>English</source>
               <target>Englisch</target>
             </trans-unit>
+            <trans-unit id="locale-greek">
+              <source>Greek</source>
+              <target>Griechisch</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
               <source>IPv4 Public IP</source>
               <target>IPv4 Öffentliche IP</target>
@@ -96,7 +100,7 @@
             </trans-unit>
             <trans-unit id="memory">
               <source>Memory</source>
-              <target>Arbeitspeicher</target>
+              <target>Arbeitsspeicher</target>
             </trans-unit>
             <trans-unit id="user-name">
               <source>User Name</source>
@@ -1001,6 +1005,10 @@
             <trans-unit id="new-database-user">
               <source>New Database User</source>
               <target>Neuer Datenbankbenutzer</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+              <source>Database Name</source>
+              <target>Name der Datenbank</target>
             </trans-unit>
             <trans-unit id="database-user-name">
               <source>Database User Name</source>
