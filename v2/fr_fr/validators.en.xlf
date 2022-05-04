@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
               <source>Database Server credentials are not valid.</source>
-              <target>Identifiants du serveurs de base de donnée erronés.</target>
+              <target>Identifiants du serveur de base de données erronés.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
               <source>Port is already in use.</source>
