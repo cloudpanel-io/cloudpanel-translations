@@ -70,6 +70,26 @@
               <source>English</source>
               <target>Anglais</target>
             </trans-unit>
+            <trans-unit id="locale-french">
+              <source>French</source>
+              <target>Français</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+              <source>Dutch</source>
+              <target>Néerlandaise</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+              <source>Italian</source>
+              <target>Italienne</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+              <source>Spanish</source>
+              <target>Espagnole</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+              <source>Portuguese</source>
+              <target>Portugais</target>
+            </trans-unit>
             <trans-unit id="locale-greek">
               <source>Greek</source>
               <target>Grec</target>
@@ -1413,6 +1433,10 @@
             <trans-unit id="admin-password">
               <source>Admin Password</source>
               <target>Mot de passe d'administration</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+              <source>Admin Url</source>
+              <target>URL d'administration</target>
             </trans-unit>
             <trans-unit id="multisite">
               <source>Multisite</source>

@@ -70,6 +70,26 @@
               <source>English</source>
               <target>Englisch</target>
             </trans-unit>
+            <trans-unit id="locale-french">
+              <source>French</source>
+              <target>Französisch</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+              <source>Dutch</source>
+              <target>Niederländisch</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+              <source>Italian</source>
+              <target>Italienisch</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+              <source>Spanish</source>
+              <target>Spanisch</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+              <source>Portuguese</source>
+              <target>Portugiesisch</target>
+            </trans-unit>
             <trans-unit id="locale-greek">
               <source>Greek</source>
               <target>Griechisch</target>
