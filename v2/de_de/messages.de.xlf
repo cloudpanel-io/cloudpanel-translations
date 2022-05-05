@@ -1410,6 +1410,10 @@
               <source>Admin Password</source>
               <target>Admin Passwort</target>
             </trans-unit>
+            <trans-unit id="admin-url">
+              <source>Admin Url</source>
+              <target>Admin Url</target>
+            </trans-unit>
             <trans-unit id="multisite">
               <source>Multisite</source>
               <target>Multisite</target>

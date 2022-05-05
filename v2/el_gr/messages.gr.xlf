@@ -1414,6 +1414,10 @@
               <source>Admin Password</source>
               <target>Κωδικός διαχειριστή</target>
             </trans-unit>
+            <trans-unit id="admin-url">
+              <source>Admin Url</source>
+              <target>Διεύθυνση URL</target>
+            </trans-unit>
             <trans-unit id="multisite">
               <source>Multisite</source>
               <target>Multisite</target>
