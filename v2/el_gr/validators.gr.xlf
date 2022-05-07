@@ -3,28 +3,28 @@
     <file source-language="en" target-language="gr" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="does-not-exist">
-              <source>Does not exist.</source>
-              <target>Δεν υπάρχει.</target>
+                <source>Does not exist.</source>
+                <target>Δεν υπάρχει.</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
-              <source>This value already exists.</source>
-              <target>Αυτή η τιμή υπάρχει ήδη.</target>
+                <source>This value already exists.</source>
+                <target>Αυτή η τιμή υπάρχει ήδη.</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
-              <source>This value is not a valid domain name.</source>
-              <target>Αυτή η τιμή δεν είναι έγκυρο όνομα τομέα.</target>
+                <source>This value is not a valid domain name.</source>
+                <target>Αυτή η τιμή δεν είναι έγκυρο όνομα τομέα.</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
-              <source>Does not match certificate.</source>
-              <target>Δεν ταιριάζει με το πιστοποιητικό.</target>
+                <source>Does not match certificate.</source>
+                <target>Δεν ταιριάζει με το πιστοποιητικό.</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
-              <source>Database Server credentials are not valid.</source>
-              <target>Τα διαπιστευτήρια διακομιστή της βάσης δεδομένων δεν είναι έγκυρα.</target>
+                <source>Database Server credentials are not valid.</source>
+                <target>Τα διαπιστευτήρια διακομιστή της βάσης δεδομένων δεν είναι έγκυρα.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
-              <source>Port is already in use.</source>
-              <target>Η θύρα χρησιμοποιείται ήδη.</target>
+                <source>Port is already in use.</source>
+                <target>Η θύρα χρησιμοποιείται ήδη.</target>
             </trans-unit>
         </body>
     </file>
