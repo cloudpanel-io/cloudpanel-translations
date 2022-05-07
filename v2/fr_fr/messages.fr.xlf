@@ -48,7 +48,7 @@
             </trans-unit>
             <trans-unit id="issues">
               <source>Issues</source>
-              <target>Problèmes</target>
+              <target>Remonter un bug</target>
             </trans-unit>
             <trans-unit id="submit">
               <source>Submit</source>
@@ -108,7 +108,7 @@
             </trans-unit>
             <trans-unit id="hostname">
               <source>Hostname</source>
-              <target>Nom d'hôte</target>
+              <target>Nom du serveur</target>
             </trans-unit>
             <trans-unit id="cpu">
               <source>CPU</source>
@@ -124,7 +124,7 @@
             </trans-unit>
             <trans-unit id="user-name">
               <source>User Name</source>
-              <target>Nom d'utilisateur</target>
+              <target>Identifiant</target>
             </trans-unit>
             <trans-unit id="password">
               <source>Password</source>
@@ -172,7 +172,7 @@
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
               <source>I agree to the license terms and acknowledge the privacy policy.</source>
-              <target>J'accepte les termes du<![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">contrat de licence</a>]]> et ai pris connaissance de la <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">politique de confidentialité</a>]]>.</target>
+              <target>J'accepte les termes du <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">contrat de licence</a>]]> et ai pris connaissance de la <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">politique de confidentialité</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
               <source>An error has occurred, error message: %errorMessage%</source>
@@ -180,7 +180,7 @@
             </trans-unit>
             <trans-unit id="admin-user-creation">
               <source>Admin User Creation</source>
-              <target>Créer administrateur</target>
+              <target>Créer compte d'administration</target>
             </trans-unit>
             <trans-unit id="admin-area">
               <source>Admin Area</source>
@@ -204,7 +204,7 @@
             </trans-unit>
             <trans-unit id="save">
               <source>Save</source>
-              <target>Sauver</target>
+              <target>Appliquer</target>
             </trans-unit>
             <trans-unit id="create">
               <source>Create</source>
@@ -240,7 +240,7 @@
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
               <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
-              <target>Dans l'application, sélectionnez entrée manuelle et introduisez votre nom d'utilisateur: "%userName%" et le code: %secret%</target>
+              <target>Dans l'application, sélectionnez entrée manuelle et introduisez votre identifiant: "%userName%" et le code: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
               <source>Two-Factor Authentication has been enabled.</source>
@@ -304,7 +304,7 @@
             </trans-unit>
             <trans-unit id="no-users-found">
               <source>No users found.</source>
-              <target>Pas d'utilisateur trouvé.</target>
+              <target>Pas d'utilisateurs trouvés.</target>
             </trans-unit>
             <trans-unit id="role">
               <source>Role</source>
@@ -332,7 +332,7 @@
             </trans-unit>
             <trans-unit id="no-events-found">
               <source>No events found.</source>
-              <target>Pas d'événements trouvé.</target>
+              <target>Pas d'événements trouvés.</target>
             </trans-unit>
             <trans-unit id="event-time">
               <source>Event Time</source>
@@ -352,7 +352,7 @@
             </trans-unit>
             <trans-unit id="no-notifications-found">
               <source>No notifications found.</source>
-              <target>Pas de notification trouvées.</target>
+              <target>Pas de notifications trouvées.</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
               <source>Notification has been deleted.</source>
@@ -404,7 +404,7 @@
             </trans-unit>
             <trans-unit id="instance">
               <source>Instance</source>
-              <target>Instance</target>
+              <target>Serveur</target>
             </trans-unit>
             <trans-unit id="firewall">
               <source>Firewall</source>
@@ -428,7 +428,7 @@
             </trans-unit>
             <trans-unit id="no-rules-found">
               <source>No rules found.</source>
-              <target>Pas de règle trouvée.</target>
+              <target>Pas de règles trouvées.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
               <source>Add Firewall Rule</source>
@@ -504,7 +504,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
               <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-              <target>L'authentification de base ajoute un degré de sécurité à CloudPanel.</target>
+              <target>L'authentification de base en amont de CloudPanel ajoute un degré de sécurité complémentaire.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
               <source>Basic Auth has been enabled.</source>
@@ -544,7 +544,7 @@
             </trans-unit>
             <trans-unit id="instance-settings">
               <source>Instance Settings</source>
-              <target>Paramètres d'instance</target>
+              <target>Paramètres du serveur</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
               <source>Timezone has been saved.</source>
@@ -556,11 +556,11 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
               <source>Instance will reboot shortly.</source>
-              <target>L'instance redémarrera sous peu.</target>
+              <target>Le serveur redémarrera sous peu.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
               <source>It's recommended to reboot the instance after changing the timezone.</source>
-              <target>Il est conseillé de redémarrer l'instance après avoir changé de fuseau horaire.</target>
+              <target>Il est conseillé de redémarrer le serveur après avoir changé de fuseau horaire.</target>
             </trans-unit>
             <trans-unit id="general">
               <source>General</source>
@@ -712,7 +712,7 @@
             </trans-unit>
             <trans-unit id="no-images-found">
               <source>No images found.</source>
-              <target>Pas d'image trouvée.</target>
+              <target>Pas d'images trouvées.</target>
             </trans-unit>
             <trans-unit id="available">
               <source>Available</source>
@@ -768,7 +768,7 @@
             </trans-unit>
             <trans-unit id="no-snapshots-found">
               <source>No snapshots found.</source>
-              <target>Aucun snapshot trouvé.</target>
+              <target>Pas de snapshots trouvés.</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
               <source>Snapshot Name</source>
@@ -776,7 +776,7 @@
             </trans-unit>
             <trans-unit id="size">
               <source>Size</source>
-              <target>Taille</target>
+              <target>Configuration</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
               <source>Snapshot is being created.</source>
@@ -824,7 +824,7 @@
             </trans-unit>
             <trans-unit id="no-sites-found">
               <source>No sites found.</source>
-              <target>Pas de site trouvé.</target>
+              <target>Pas de sites trouvés.</target>
             </trans-unit>
             <trans-unit id="add-site">
               <source>+ Add Site</source>
@@ -868,7 +868,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
               <source>File Manager</source>
-              <target>Gestionnaire de fichier</target>
+              <target>Gestionnaire de fichiers</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
               <source>Cron Jobs</source>
@@ -880,7 +880,7 @@
             </trans-unit>
             <trans-unit id="domain-settings">
               <source>Domain Settings</source>
-              <target>Paramètres de domaine</target>
+              <target>Paramètres du domaine</target>
             </trans-unit>
             <trans-unit id="root-directory">
               <source>Root Directory</source>
@@ -960,11 +960,11 @@
             </trans-unit>
             <trans-unit id="site-user-settings">
               <source>Site User Settings</source>
-              <target>Paramètres utilisateur du site</target>
+              <target>Gestionnaire du site</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
               <source>Site User Settings have been saved.</source>
-              <target>Paramètres utilisateur du site sauvegardés.</target>
+              <target>Identifiants du gestionnaire du site sauvegardés.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
               <source>SSH Keys</source>
@@ -1012,11 +1012,11 @@
             </trans-unit>
             <trans-unit id="add-database-user">
               <source>Add Database User</source>
-              <target>Ajouter utilisateur de base de données</target>
+              <target>Ajouter utilisateur</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
               <source>No database users found.</source>
-              <target>Pas d'utilisateur de base de données trouvé.</target>
+              <target>Pas d'utilisateur de base de données trouvés.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
               <source>Read and Write</source>
@@ -1032,11 +1032,11 @@
             </trans-unit>
             <trans-unit id="database-name">
               <source>Database Name</source>
-              <target>Nom de base de données</target>
+              <target>Nom de la base de données</target>
             </trans-unit>
             <trans-unit id="database-user-name">
               <source>Database User Name</source>
-              <target>Nom d'utilisateur de base de données</target>
+              <target>Identifiant utilisateur de base de données</target>
             </trans-unit>
             <trans-unit id="database-user-password">
               <source>Database User Password</source>
@@ -1080,7 +1080,7 @@
             </trans-unit>
             <trans-unit id="no-certificates-found">
               <source>No certificates found.</source>
-              <target>Pas de certificat trouvé.</target>
+              <target>Pas de certificats trouvés.</target>
             </trans-unit>
             <trans-unit id="self-signed">
               <source>Self-Signed</source>
@@ -1168,7 +1168,7 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
               <source>No ips found.</source>
-              <target>Pas d'IP trouvée.</target>
+              <target>Pas d'IP trouvées.</target>
             </trans-unit>
             <trans-unit id="examples">
               <source>Examples</source>
@@ -1192,7 +1192,7 @@
             </trans-unit>
             <trans-unit id="no-bots-found">
               <source>No bots found.</source>
-              <target>Pas de robots trouvé.</target>
+              <target>Pas de robots trouvés.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
               <source>Bots Blocking</source>
@@ -1272,7 +1272,7 @@
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
               <source>No cron jobs found.</source>
-              <target>Pas de tâche cron trouvée.</target>
+              <target>Pas de tâches cron trouvées.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
               <source>New Cron Job</source>
@@ -1304,7 +1304,7 @@
             </trans-unit>
             <trans-unit id="once-a-week">
               <source>Once a week (At 00:00 on Sunday)</source>
-              <target>Toute les semaines (Dimanche à 00:00)</target>
+              <target>Toute les semaines (dimanche à 00:00)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
               <source>Once a month (At 00:00 on day-of-month 1)</source>
@@ -1312,7 +1312,7 @@
             </trans-unit>
             <trans-unit id="template">
               <source>Template</source>
-              <target>Modèle</target>
+              <target>Modèle crontab</target>
             </trans-unit>
             <trans-unit id="minute">
               <source>Minute</source>
@@ -1332,7 +1332,7 @@
             </trans-unit>
             <trans-unit id="weekday">
               <source>Weekday</source>
-              <target>Jour ouvrable</target>
+              <target>Jour de la semaine</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
               <source>Cron Job has been added.</source>
@@ -1352,7 +1352,7 @@
             </trans-unit>
             <trans-unit id="command">
               <source>Command</source>
-              <target>Commandement</target>
+              <target>Commande à exécuter</target>
             </trans-unit>
             <trans-unit id="update">
               <source>Update</source>
@@ -1372,7 +1372,7 @@
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
               <source>Page Speed Settings have been saved.</source>
-              <target>Paramètres PageSpeed sauvegardé.</target>
+              <target>Paramètres PageSpeed sauvegardés.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
               <source>Page Speed Cache has been purged.</source>
@@ -1432,7 +1432,7 @@
             </trans-unit>
             <trans-unit id="admin-password">
               <source>Admin Password</source>
-              <target>Mot de passe d'administration</target>
+              <target>Mot de passe</target>
             </trans-unit>
             <trans-unit id="admin-url">
               <source>Admin Url</source>
@@ -1508,7 +1508,7 @@
             </trans-unit>
             <trans-unit id="is-another-version-needed">
               <source>Is another version needed?</source>
-              <target>Est-ce qu'une autre version est nécessaire?</target>
+              <target>Une autre version de python est nécessaire ?</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
               <source>Check out the docs.</source>
@@ -1540,7 +1540,7 @@
             </trans-unit>
             <trans-unit id="instance-id">
               <source>Instance ID</source>
-              <target>ID d'instance</target>
+              <target>ID du serveur</target>
             </trans-unit>
             <trans-unit id="monitoring">
               <source>Monitoring</source>
@@ -1580,15 +1580,15 @@
             </trans-unit>
             <trans-unit id="cpu-usage">
               <source>CPU Usage</source>
-              <target>Utilisation processeur</target>
+              <target>Charge processeur</target>
             </trans-unit>
             <trans-unit id="disk-usage">
               <source>Disk Usage</source>
-              <target>Utilisation disque</target>
+              <target>Utilisation du disque</target>
             </trans-unit>
             <trans-unit id="memory-usage">
               <source>Memory Usage</source>
-              <target>Utilisation mémoire</target>
+              <target>Utilisation de la mémoire</target>
             </trans-unit>
             <trans-unit id="load-average">
               <source>Load Average</source>
