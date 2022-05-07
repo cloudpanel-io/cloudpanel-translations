@@ -94,6 +94,10 @@
                 <source>Greek</source>
                 <target>Graikų</target>
             </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>Lithuanian</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>IPv4 Viešas IP adresas</target>
@@ -172,11 +176,7 @@
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>Aš sutinku su
-                    <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> ir
-                    patvirtinu
-                    <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.
-                </target>
+                <target>Aš sutinku su <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> ir patvirtinu <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
@@ -219,12 +219,8 @@
                 <target>Dviejų veiksnių autentifikavimas</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
-                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in,
-                    you’ll need to enter both your password and also a security code.
-                </source>
-                <target>Dviejų veiksnių autentifikavimas prideda papildomą apsaugos sluoksnį jūsų paskyrai. Kai
-                    bandysite prisijungti, jūs turėsite suvesti abu slaptažodžius ir apsaugos kodą.
-                </target>
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>Dviejų veiksnių autentifikavimas prideda papildomą apsaugos sluoksnį jūsų paskyrai. Kai bandysite prisijungti, jūs turėsite suvesti abu slaptažodžius ir apsaugos kodą.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
@@ -235,12 +231,8 @@
                 <target>Prijungti jūsų autentifikatorių</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
-                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It
-                    will display a 6 digit code which you need to enter below.
-                </source>
-                <target>Naudojant autentifikatoriaus programėlę kaip %googleAuthenticatorLink% ar %duoLink%,
-                    nuskenuokite QR kodą. Ji parodys 6 skaitmenų kodą kurį reikia įvesti apačioje.
-                </target>
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>Naudojant autentifikatoriaus programėlę kaip %googleAuthenticatorLink% ar %duoLink%, nuskenuokite QR kodą. Ji parodys 6 skaitmenų kodą kurį reikia įvesti apačioje.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
@@ -251,11 +243,8 @@
                 <target>Bandykite tai</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
-                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%
-                </source>
-                <target>Pasirinkite rankinį įvedimą jūsų programėlėje ir įveskite savo vartotojo vardą: "%userName%" ir
-                    kodą: %secret%
-                </target>
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>Pasirinkite rankinį įvedimą jūsų programėlėje ir įveskite savo vartotojo vardą: "%userName%" ir kodą: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
@@ -550,12 +539,8 @@
                 <target>Maskaradinis adresas</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
-                <source>MasqueradeAddress causes the server to display the network information for the specified IP
-                    address or DNS hostname to the client.
-                </source>
-                <target>Dėl maskaradinio adreso klientui rodo tinklo informaciją pagal nurodytą IP adresą arba DNS
-                    pagrindinio kompiuterio pavadinimą.
-                </target>
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>Dėl maskaradinio adreso klientui rodo tinklo informaciją pagal nurodytą IP adresą arba DNS pagrindinio kompiuterio pavadinimą.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -927,13 +912,11 @@
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Nustato maksimalų laiką, kurį leidžiama paleisti scenarijui, kol jį nutraukia analizatorius.
-                </target>
+                <target>Nustato maksimalų laiką, kurį leidžiama paleisti scenarijui, kol jį nutraukia analizatorius.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Nustato maksimalų laiką, kurį scenarijus gali analizuoti įvesties duomenis, kaip POST ir GET.
-                </target>
+                <target>Nustato maksimalų laiką, kurį scenarijus gali analizuoti įvesties duomenis, kaip POST ir GET.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
@@ -946,42 +929,6 @@
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
                 <target>Didžiausias įkelto failo dydis.</target>
-            </trans-unit>
-            <trans-unit id="additional-configuration-explanation">
-                <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>Galite apibrėžti bet kokius PHP parametrus, kaip apibrėžtumėte php.ini.</target>
-            </trans-unit>
-            <trans-unit id="additional-configuration-directives">
-                <source>Additional Configuration Directives</source>
-                <target>Papildomos konfigūracijos direktyvos</target>
-            </trans-unit>
-            <trans-unit id="php-settings-have-been-saved">
-                <source>PHP Settings have been saved.</source>
-                <target>PHP nustatymai išsaugoti.</target>
-            </trans-unit>
-            <trans-unit id="delete-site">
-                <source>Delete Site</source>
-                <target>Ištrinti svetainę</target>
-            </trans-unit>
-            <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they
-                    will be non-recoverable.
-                </source>
-                <target>Ištrinant svetainę visam laikui panaikinami visi svetainės failai, duomenų bazės, vartotojai bei
-                    konfiguracijos ir jų nebegalėsitė atkurti.
-                </target>
-            </trans-unit>
-            <trans-unit id="cancel">
-                <source>Cancel</source>
-                <target>Atšaukti</target>
-            </trans-unit>
-            <trans-unit id="confirm-site-deletion">
-                <source>To confirm deletion, type %domain% into the field.</source>
-                <target>Norint patvirtinti ištrynimą, įveskite %domain% į laukelį.</target>
-            </trans-unit>
-            <trans-unit id="site-has-been-deleted">
-                <source>Site has been deleted.</source>
-                <target>Svetainė ištrinta.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
@@ -1043,7 +990,6 @@
                 <source>No database users found.</source>
                 <target>Duomenų bazės vartotojai nerasti.</target>
             </trans-unit>
-            ū
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
                 <target>Skaityti ir Rašyti</target>
@@ -1162,9 +1108,7 @@
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Norint išduoti Let's Encrypt SSL sertifikatą, reikalingas DNS įrašas, nukreipiantis į šį
-                    serverį.
-                </target>
+                <target>Norint išduoti Let's Encrypt SSL sertifikatą, reikalingas DNS įrašas, nukreipiantis į šį serverį.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1259,12 +1203,8 @@
                 <target>Leisti srautą tik iš „Cloudflare“</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
-                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns
-                    records.
-                </source>
-                <target>Vardų serveriai turi nukreipti į „Cloudflare“, o tarpinis serveris turi būti įjungtas jūsų DNS
-                    įrašams.
-                </target>
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>Vardų serveriai turi nukreipti į „Cloudflare“, o tarpinis serveris turi būti įjungtas jūsų DNS įrašams.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
