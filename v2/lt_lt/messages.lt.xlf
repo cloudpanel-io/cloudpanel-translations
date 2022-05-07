@@ -898,6 +898,14 @@
                 <source>Domain Name</source>
                 <target>Domeno vardas</target>
             </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>Taikymas</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>Bendras</target>
+            </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
                 <target>Root direktorija išsaugota.</target>

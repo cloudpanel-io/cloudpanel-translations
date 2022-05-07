@@ -846,6 +846,10 @@
                 <source>Site User</source>
                 <target>Χρήστης ιστότοπου</target>
             </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>Κωδικός χρήστη του ιστότοπου</target>
+            </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
                 <target>Εφαρμογή</target>
@@ -897,6 +901,14 @@
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
                 <target>Ονομα τομέα</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>Εφαρμογή</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>Γενικός</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>

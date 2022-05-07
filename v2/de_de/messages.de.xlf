@@ -902,6 +902,14 @@
                 <source>Domain Name</source>
                 <target>Domain Name</target>
             </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>Application</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>Generic</target>
+            </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
                 <target>Root Verzeichnis wurde gespeichert.</target>
