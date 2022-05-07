@@ -842,6 +842,10 @@
                 <source>Site User</source>
                 <target>Svetainės vartotojas</target>
             </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>Svetainės vartotojo slaptažodis</target>
+            </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
                 <target>Programėlė</target>

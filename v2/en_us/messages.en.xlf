@@ -842,6 +842,10 @@
                 <source>Site User</source>
                 <target>Site User</target>
             </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>Site User Password</target>
+            </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
                 <target>App</target>
