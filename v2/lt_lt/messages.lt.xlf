@@ -930,6 +930,38 @@
                 <source>The maximum size of an uploaded file.</source>
                 <target>Didžiausias įkelto failo dydis.</target>
             </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>Galite apibrėžti bet kokius PHP parametrus, kaip apibrėžtumėte php.ini.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>Papildomos konfigūracijos direktyvos</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>PHP nustatymai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>Ištrinti svetainę</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>Ištrinant svetainę visam laikui panaikinami visi svetainės failai, duomenų bazės, vartotojai bei konfiguracijos ir jų nebegalėsitė atkurti.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>Atšaukti</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>Norint patvirtinti ištrynimą, įveskite %domain% į laukelį.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>Svetainė ištrinta.</target>
+            </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
                 <target>Svetainės vartotojo nustatymai</target>

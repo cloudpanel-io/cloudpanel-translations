@@ -176,11 +176,7 @@
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>I agree to the
-                    <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> and
-                    acknowledge the
-                    <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.
-                </target>
+                <target>I agree to the <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> and acknowledge the <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
@@ -223,12 +219,8 @@
                 <target>Two-Factor Authentication</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
-                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in,
-                    you’ll need to enter both your password and also a security code.
-                </source>
-                <target>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in,
-                    you’ll need to enter both your password and also a security code.
-                </target>
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
@@ -239,12 +231,8 @@
                 <target>Connect your app</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
-                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It
-                    will display a 6 digit code which you need to enter below.
-                </source>
-                <target>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It
-                    will display a 6 digit code which you need to enter below.
-                </target>
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
@@ -255,10 +243,8 @@
                 <target>Try this instead</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
-                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%
-                </source>
-                <target>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%
-                </target>
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
@@ -553,12 +539,8 @@
                 <target>MasqueradeAddress</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
-                <source>MasqueradeAddress causes the server to display the network information for the specified IP
-                    address or DNS hostname to the client.
-                </source>
-                <target>MasqueradeAddress causes the server to display the network information for the specified IP
-                    address or DNS hostname to the client.
-                </target>
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -965,12 +947,8 @@
                 <target>Delete Site</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they
-                    will be non-recoverable.
-                </source>
-                <target>Deleting a site will permanently remove all site files, databases, users, and configs, and they
-                    will be non-recoverable.
-                </target>
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1257,12 +1235,8 @@
                 <target>Allow traffic from Cloudflare only</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
-                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns
-                    records.
-                </source>
-                <target>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns
-                    records.
-                </target>
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>

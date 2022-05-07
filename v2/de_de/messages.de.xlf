@@ -179,8 +179,7 @@
                 <target>Ich stimme den
                     <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">Lizenzbedingungen</a>]]>
                     zu und erkenne die
-                    <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">Datenschutzbestimmungen</a>]]>
-                    an.
+                    <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">Datenschutzbestimmungen</a>]]> an.
                 </target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
@@ -224,12 +223,8 @@
                 <target>Zwei-Faktor-Authentifizierung</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
-                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in,
-                    you’ll need to enter both your password and also a security code.
-                </source>
-                <target>Eine Zwei-Faktor-Authentifizierung erhöht die Sicherheit ihres Accounts. Beim Einloggen müssen
-                    Sie ihr Passwort und einen Sicherheitscode eingeben.
-                </target>
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>Eine Zwei-Faktor-Authentifizierung erhöht die Sicherheit ihres Accounts. Beim Einloggen müssen Sie ihr Passwort und einen Sicherheitscode eingeben.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
@@ -240,13 +235,8 @@
                 <target>Verbinden Sie ihre App</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
-                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It
-                    will display a 6 digit code which you need to enter below.
-                </source>
-                <target>Verwenden Sie eine Authentifizierung App wie zum Beispiel den %googleAuthenticatorLink% oder
-                    %duoLink% und scannen Sie den QR code. Die App wird Ihnen einen 6 stelligen Code anzeigen den Sie
-                    unten eingeben müssen.
-                </target>
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>Verwenden Sie eine Authentifizierung App wie zum Beispiel den %googleAuthenticatorLink% oder %duoLink% und scannen Sie den QR code. Die App wird Ihnen einen 6 stelligen Code anzeigen den Sie unten eingeben müssen.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
@@ -257,11 +247,8 @@
                 <target>Versuchen Sie stattdessen</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
-                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%
-                </source>
-                <target>Erstellen Sie einen manuellen Eintrag in ihrer App und geben Sie ihren Benutzernamen:
-                    "%userName%" und den folgenden Code ein: %secret%
-                </target>
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>Erstellen Sie einen manuellen Eintrag in ihrer App und geben Sie ihren Benutzernamen: "%userName%" und den folgenden Code ein: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
@@ -551,13 +538,13 @@
                 <source>Proftpd Settings</source>
                 <target>Proftpd Einstellungen</target>
             </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>MasqueradeAddress</target>
+            </trans-unit>
             <trans-unit id="masquerade-address-explanation">
-                <source>MasqueradeAddress causes the server to display the network information for the specified IP
-                    address or DNS hostname to the client.
-                </source>
-                <target>MasqueradeAddress veranlasst den Server, dem Client die Netzwerkinformationen für die angegebene
-                    IP-Adresse oder den angegebenen DNS-Hostnamen anzuzeigen.
-                </target>
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress veranlasst den Server, dem Client die Netzwerkinformationen für die angegebene IP-Adresse oder den angegebenen DNS-Hostnamen anzuzeigen.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -965,12 +952,8 @@
                 <target>Webseite Löschen</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they
-                    will be non-recoverable.
-                </source>
-                <target>Durch das Löschen einer Site werden alle Dateien, Datenbanken, Benutzer und Konfigurationen
-                    dauerhaft entfernt und können nicht wiederhergestellt werden.
-                </target>
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>Durch das Löschen einer Site werden alle Dateien, Datenbanken, Benutzer und Konfigurationen dauerhaft entfernt und können nicht wiederhergestellt werden.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1158,14 +1141,11 @@
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>Geben Sie die Domainnamen ein, die Sie mit einem Let's Encrypt SSL-Zertifikat sichern möchten.
-                </target>
+                <target>Geben Sie die Domainnamen ein, die Sie mit einem Let's Encrypt SSL-Zertifikat sichern möchten.</target>
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Ein DNS-Eintrag, der auf diesen Server verweist, ist erforderlich, um ein Let's
-                    Encrypt-Zertifikat auszustellen.
-                </target>
+                <target>Ein DNS-Eintrag, der auf diesen Server verweist, ist erforderlich, um ein Let's Encrypt-Zertifikat auszustellen.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1260,12 +1240,8 @@
                 <target>Nur Datenverkehr von Cloudflare zulassen</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
-                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns
-                    records.
-                </source>
-                <target>Die Nameserver müssen auf Cloudflare verweisen und der Proxy muss für Ihre DNS-Einträge
-                    aktiviert sein.
-                </target>
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>Die Nameserver müssen auf Cloudflare verweisen und der Proxy muss für Ihre DNS-Einträge aktiviert sein.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
