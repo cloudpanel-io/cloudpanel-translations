@@ -7,7 +7,7 @@ How can you provide a translation for **CloudPanel**?
 
 2. Copy **v2/en_en** to your locale e.g. **v2/es_es**.
 
-3. Translate the files **messages.xlf** and **validators.xlf**.
+3. Translate the files **messages.xlf** and **validators.xlf** and **file-manager.js**.
 
 4. Send a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
