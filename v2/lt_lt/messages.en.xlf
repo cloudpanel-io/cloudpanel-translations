@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+              <source>Yes</source>
+              <target>Taip</target>
+            </trans-unit>
+            <trans-unit id="no">
+              <source>No</source>
+              <target>Ne</target>
+            </trans-unit>
+            <trans-unit id="all">
+              <source>All</source>
+              <target>Visi</target>
+            </trans-unit>
+            <trans-unit id="support">
+              <source>Support</source>
+              <target>Pagalba</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+              <source>Click to Copy</source>
+              <target>Spauskite norint kopijuoti</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+              <source>Copied to Clipboard</source>
+              <target>Nukopijuota į iškarpinę</target>
+            </trans-unit>
+            <trans-unit id="loading">
+              <source>Loading</source>
+              <target>Kraunama</target>
+            </trans-unit>
+            <trans-unit id="blog">
+              <source>Blog</source>
+              <target>Tinklaraštis</target>
+            </trans-unit>
+            <trans-unit id="contact">
+              <source>Contact</source>
+              <target>Kontaktai</target>
+            </trans-unit>
+            <trans-unit id="docs">
+              <source>Docs</source>
+              <target>Dokumentai</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+              <source>Update available</source>
+              <target>Galimas atnaujinimas</target>
+            </trans-unit>
+            <trans-unit id="issues">
+              <source>Issues</source>
+              <target>Problemos</target>
+            </trans-unit>
+            <trans-unit id="submit">
+              <source>Submit</source>
+              <target>Pateikti</target>
+            </trans-unit>
+            <trans-unit id="site">
+              <source>Site</source>
+              <target>Svetainė</target>
+            </trans-unit>
+            <trans-unit id="sites">
+              <source>Sites</source>
+              <target>Svetainės</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+              <source>German</source>
+              <target>Vokiečių</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+              <source>English</source>
+              <target>Anglų</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+              <source>French</source>
+              <target>Prancūzų</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+              <source>Dutch</source>
+              <target>Olandų</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+              <source>Italian</source>
+              <target>Italų</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+              <source>Spanish</source>
+              <target>Ispanų</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+              <source>Portuguese</source>
+              <target>Portugalų</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+              <source>Greek</source>
+              <target>Graikų</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+              <source>IPv4 Public IP</source>
+              <target>IPv4 Viešas IP adresas</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+              <source>IPv6 Public IP</source>
+              <target>IPv6 Viešas IP adresas</target>
+            </trans-unit>
+            <trans-unit id="os">
+              <source>OS</source>
+              <target>OS</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+              <source>Hostname</source>
+              <target>Pagrindinis kompiuterio vardas</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+              <source>CPU</source>
+              <target>CPU</target>
+            </trans-unit>
+            <trans-unit id="cores">
+              <source>Cores</source>
+              <target>Branduoliai</target>
+            </trans-unit>
+            <trans-unit id="memory">
+              <source>Memory</source>
+              <target>Atmintis</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+              <source>User Name</source>
+              <target>Vartotojo vardas</target>
+            </trans-unit>
+            <trans-unit id="password">
+              <source>Password</source>
+              <target>Slaptažodis</target>
+            </trans-unit>
+            <trans-unit id="login">
+              <source>Log In</source>
+              <target>Prisijungti</target>
+            </trans-unit>
+            <trans-unit id="settings">
+              <source>Settings</source>
+              <target>Nustatymai</target>
+            </trans-unit>
+            <trans-unit id="logout">
+              <source>Logout</source>
+              <target>Atsijungti</target>
+            </trans-unit>
+            <trans-unit id="language">
+              <source>Language</source>
+              <target>Kalba</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+              <source>First Name</source>
+              <target>Vardas</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+              <source>Last Name</source>
+              <target>Pavardė</target>
+            </trans-unit>
+            <trans-unit id="email">
+              <source>E-Mail</source>
+              <target>El. paštas</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+              <source>Timezone</source>
+              <target>Laiko zona</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+              <source>Generate new password</source>
+              <target>Generuoti naują slaptažodį</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+              <source>Create User</source>
+              <target>Sukurti vartotoją</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+              <source>I agree to the license terms and acknowledge the privacy policy.</source>
+              <target>Aš sutinku su <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> ir patvirtinu <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+              <source>An error has occurred, error message: %errorMessage%</source>
+              <target>Klaida, klaidos žinutė: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+              <source>Admin User Creation</source>
+              <target>Administratoriaus vartotojo sukūrimas</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+              <source>Admin Area</source>
+              <target>Administratoriaus zona</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+              <source>Dashboard</source>
+              <target>Skydelis</target>
+            </trans-unit>
+            <trans-unit id="account">
+              <source>Account</source>
+              <target>Paskyra</target>
+            </trans-unit>
+            <trans-unit id="security">
+              <source>Security</source>
+              <target>Apsauga</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+              <source>The account information has been saved.</source>
+              <target>Paskyros informacija išsaugota.</target>
+            </trans-unit>
+            <trans-unit id="save">
+              <source>Save</source>
+              <target>Išsaugoti</target>
+            </trans-unit>
+            <trans-unit id="create">
+              <source>Create</source>
+              <target>Sukurti</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+              <source>Two-Factor Authentication</source>
+              <target>Dviejų veiksnių autentifikavimas</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+              <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+              <target>Dviejų veiksnių autentifikavimas prideda papildomą apsaugos sluoksnį jūsų paskyrai. Kai bandysite prisijungti, jūs turėsite suvesti abu slaptažodžius ir apsaugos kodą.</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+              <source>Enable Two-Factor Authentication</source>
+              <target>Įgalinti dviejų veiksnių autentifikavimą</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+              <source>Connect your app</source>
+              <target>Prijungti jūsų autentifikatorių</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+              <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+              <target>Naudojant autentifikatoriaus programėlę kaip %googleAuthenticatorLink% ar %duoLink%, nuskenuokite QR kodą. Ji parodys 6 skaitmenų kodą kurį reikia įvesti apačioje.</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+              <source>Having trouble scanning the code?</source>
+              <target>Turite problemų skenuojant kodą?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+              <source>Try this instead</source>
+              <target>Bandykite tai</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+              <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+              <target>Pasirinkite rankinį įvedimą jūsų programėlėje ir įveskite savo vartotojo vardą: "%userName%" ir kodą: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+              <source>Two-Factor Authentication has been enabled.</source>
+              <target>Dviejų veiksnių autentifikavimas įjungtas.</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+              <source>Disable Two-Factor Authentication</source>
+              <target>Išjungti dviejų veiksnių autentifikavimą</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+              <source>Two-Factor Authentication has been disabled.</source>
+              <target>Dviejų veiksnių autentifikavimas išjungtas.</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+              <source>Enter authentication code</source>
+              <target>Įvesti autentifikacijos kodą</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+              <source>Back to Sites</source>
+              <target>Grįžti į svetaines</target>
+            </trans-unit>
+            <trans-unit id="users">
+              <source>Users</source>
+              <target>Vartotojai</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+              <source>Add User</source>
+              <target>Pridėti vartotoją</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+              <source>New User</source>
+              <target>Naujas vartotojas</target>
+            </trans-unit>
+            <trans-unit id="active">
+              <source>Active</source>
+              <target>Aktyvus</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+              <source>Not Active</source>
+              <target>Ne aktyvus</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+              <source>Admin</source>
+              <target>Administratorius</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+              <source>User</source>
+              <target>Vartotojas</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+              <source>Site Manager</source>
+              <target>Svetainių valdymas</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+              <source>User has been added.</source>
+              <target>Vartotojas pridėtas.</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+              <source>User has been updated.</source>
+              <target>Vartotojas atnaujintas.</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+              <source>No users found.</source>
+              <target>Vartotojų nerasta.</target>
+            </trans-unit>
+            <trans-unit id="role">
+              <source>Role</source>
+              <target>Rolė</target>
+            </trans-unit>
+            <trans-unit id="status">
+              <source>Status</source>
+              <target>Statusas</target>
+            </trans-unit>
+            <trans-unit id="delete">
+              <source>Delete</source>
+              <target>Ištrinti</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+              <source>Are you sure?</source>
+              <target>Ar jūs tikras?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+              <source>User has been deleted.</source>
+              <target>Vartotojas ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="events">
+              <source>Events</source>
+              <target>Įvykiai</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+              <source>No events found.</source>
+              <target>Įvykių nerasta.</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+              <source>Event Time</source>
+              <target>Įvykių laikas</target>
+            </trans-unit>
+            <trans-unit id="event">
+              <source>Event</source>
+              <target>Įvykis</target>
+            </trans-unit>
+            <trans-unit id="view">
+              <source>View</source>
+              <target>Peržiūrėti</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+              <source>Notifications</source>
+              <target>Pranešimai</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+              <source>No notifications found.</source>
+              <target>Pranešimų nerasta.</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+              <source>Notification has been deleted.</source>
+              <target>Pranešimas ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+              <source>Show Message</source>
+              <target>Rodyti žinutę</target>
+            </trans-unit>
+            <trans-unit id="severity">
+              <source>Severity</source>
+              <target>Griežtumas</target>
+            </trans-unit>
+            <trans-unit id="date">
+              <source>Date</source>
+              <target>Data</target>
+            </trans-unit>
+            <trans-unit id="message">
+              <source>Message</source>
+              <target>Žinutė</target>
+            </trans-unit>
+            <trans-unit id="action">
+              <source>Action</source>
+              <target>Veiksmas</target>
+            </trans-unit>
+            <trans-unit id="info">
+              <source>Info</source>
+              <target>Informacija</target>
+            </trans-unit>
+            <trans-unit id="warning">
+              <source>Warning</source>
+              <target>Įspėjimas</target>
+            </trans-unit>
+            <trans-unit id="critical">
+              <source>Critical</source>
+              <target>Kritinis</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+              <source>More Information</source>
+              <target>Daugiau informacijos</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+              <source>Mark as Read</source>
+              <target>Pažymėti kaip skaitytą</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+              <source>Mark as Unread</source>
+              <target>Pažymėti kaip neskaitytą</target>
+            </trans-unit>
+            <trans-unit id="instance">
+              <source>Instance</source>
+              <target>Instancija</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+              <source>Firewall</source>
+              <target>Ugniasienė</target>
+            </trans-unit>
+            <trans-unit id="service">
+              <source>Service</source>
+              <target>Tarnyba</target>
+            </trans-unit>
+            <trans-unit id="services">
+              <source>Services</source>
+              <target>Tarnybos</target>
+            </trans-unit>
+            <trans-unit id="rules">
+              <source>Rules</source>
+              <target>Taisyklės</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+              <source>Add Rule</source>
+              <target>Pridėti taisyklę</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+              <source>No rules found.</source>
+              <target>Taisyklių nerasta.</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+              <source>Add Firewall Rule</source>
+              <target>Pridėti ugniasienės taisyklę</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+              <source>Rule has been added.</source>
+              <target>Taisyklė pridėta.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+              <source>Rule has been deleted.</source>
+              <target>Taisyklė ištrinta.</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+              <source>Type</source>
+              <target>Tipas</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+              <source>Custom TCP</source>
+              <target>Pasirinktinis TCP</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+              <source>Port Range</source>
+              <target>Prievadų diapazonas</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+              <source>IP Version</source>
+              <target>IP Versija</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+              <source>Source</source>
+              <target>Šaltinis</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+              <source>Custom</source>
+              <target>Pasirinktinis</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+              <source>Anywhere-IPv4</source>
+              <target>Bet kur IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+              <source>Anywhere-IPv6</source>
+              <target>Bet kur IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+              <source>My IP</source>
+              <target>Mano IP adreas</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+              <source>IP or CIDR</source>
+              <target>IP ar CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+              <source>Description</source>
+              <target>Aprašymas</target>
+            </trans-unit>
+            <trans-unit id="actions">
+              <source>Actions</source>
+              <target>Veiksmai</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+              <source>Edit Firewall Rule</source>
+              <target>Redaguoti ugniasienės taisyklę</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+              <source>Basic Auth</source>
+              <target>Pagrindinis autentifikavimas</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+              <source>Enable Basic Auth</source>
+              <target>Įgalinti pagrindinį autentifikavimą</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+              <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+              <target>Pagrindinis autentifikavimas prieš „CloudPanel“ suteikia papildomą apsaugos sluoksnį.</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+              <source>Basic Auth has been enabled.</source>
+              <target>Pagrindinis autentifikavimas įjungtas.</target>
+            </trans-unit>
+            <trans-unit id="running">
+              <source>Running</source>
+              <target>Veikia</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+              <source>Stopped</source>
+              <target>Sustabdyta</target>
+            </trans-unit>
+            <trans-unit id="restart">
+              <source>Restart</source>
+              <target>Perkrauti</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+              <source>Service will restart shortly.</source>
+              <target>Tarnyba persikraus greitai.</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+              <source>Proftpd Settings</source>
+              <target>Proftpd Nustatymai</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+              <source>MasqueradeAddress</source>
+              <target>Maskaradinis adresas</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+              <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+              <target>Dėl maskaradinio adreso klientui rodo tinklo informaciją pagal nurodytą IP adresą arba DNS pagrindinio kompiuterio pavadinimą.</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+              <source>MasqueradeAddress has been saved.</source>
+              <target>Maskaradinis adresas išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+              <source>Instance Settings</source>
+              <target>Instancijos nustatymai</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+              <source>Timezone has been saved.</source>
+              <target>Laiko zona nustatyta.</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+              <source>Reboot</source>
+              <target>Perkrauti</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+              <source>Instance will reboot shortly.</source>
+              <target>Instancija persikraus greitai.</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+              <source>It's recommended to reboot the instance after changing the timezone.</source>
+              <target>Rekomenduojama perkrauti instanciją po laiko zonos keitimo.</target>
+            </trans-unit>
+            <trans-unit id="general">
+              <source>General</source>
+              <target>Bendras</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+              <source>Database Servers</source>
+              <target>Duomenų bazių serveriai</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+              <source>Add Database Server</source>
+              <target>Pridėti duomenų bazių serverį</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+              <source>Edit Database Server</source>
+              <target>Redaguoti duomenų bazių serverį</target>
+            </trans-unit>
+            <trans-unit id="engine">
+              <source>Engine</source>
+              <target>Variklis</target>
+            </trans-unit>
+            <trans-unit id="host">
+              <source>Host</source>
+              <target>Pagrindinis kompiuteris</target>
+            </trans-unit>
+            <trans-unit id="port">
+              <source>Port</source>
+              <target>Prievadas</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+              <source>IP or DNS Name</source>
+              <target>IP ar DNS vardas</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+              <source>Certificate</source>
+              <target>Sertifikatas</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+              <source>Set Active</source>
+              <target>Nustatyti aktyviu</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+              <source>Database Server has been added.</source>
+              <target>Duomenų bazių serveris pridėtas.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+              <source>Database Server has been updated.</source>
+              <target>Duomenų bazių serveris atnaujintas.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+              <source>Database Server has been deleted.</source>
+              <target>Duomenų bazių serveris ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+              <source>Database Server has been changed.</source>
+              <target>Duomenų bazių serveris pakeistas.</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+              <source>Custom Domain</source>
+              <target>Pasirinktinis domenas</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+              <source>TLS Certificate</source>
+              <target>TLS Sertifikatas</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+              <source>Let's Encrypt HTTP Challenge</source>
+              <target>Let's Encrypt HTTP iššūkis</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+              <source>Let's Encrypt DNS Challenge</source>
+              <target>Let's Encrypt DNS iššūkis</target>
+            </trans-unit>
+            <trans-unit id="backups">
+              <source>Backups</source>
+              <target>Atsarginės kopijos</target>
+            </trans-unit>
+            <trans-unit id="images">
+              <source>Images</source>
+              <target>Vaizdai</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+              <source>AWS Credentials</source>
+              <target>AWS Kredencialai</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+              <source>AWS Access Key</source>
+              <target>AWS Priegos raktas</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+              <source>AWS Secret Access Key</source>
+              <target>AWS Slaptas prieigos raktas</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+              <source>AWS Access Keys are not valid.</source>
+              <target>AWS Prieigos raktas neteisingas.</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+              <source>AWS Access Keys have been saved.</source>
+              <target>AWS Prieigos raktai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+              <source>Images Settings</source>
+              <target>Vaizdų nustatymai</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+              <source>Enable Automatic Images</source>
+              <target>Įgalinti automatines nuotraukas</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+              <source>Frequency</source>
+              <target>Dažnis</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+              <source>Retention Period (Days)</source>
+              <target>Susilaikymo periodas (Dienos)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+              <source>Images Settings have been saved.</source>
+              <target>Vaizdų nustatymai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+              <source>Every Hour</source>
+              <target>Kas valandą</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+              <source>Every Three Hours</source>
+              <target>Kas tris valandas</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+              <source>Every Six Hours</source>
+              <target>Kas šešias valandas</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+              <source>Every Twelve Hours</source>
+              <target>Kas dvylika valandų</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+              <source>Once per Day</source>
+              <target>Kartą per dieną</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+              <source>Create Image</source>
+              <target>Sukurti paveikslėlį</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+              <source>Image Name</source>
+              <target>Paveikslėlio vardas</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+              <source>No images found.</source>
+              <target>Paveikslėlis nerastas.</target>
+            </trans-unit>
+            <trans-unit id="available">
+              <source>Available</source>
+              <target>Laisvas</target>
+            </trans-unit>
+            <trans-unit id="pending">
+              <source>Pending</source>
+              <target>Laukiama</target>
+            </trans-unit>
+            <trans-unit id="failed">
+              <source>Failed</source>
+              <target>Nesėkminga</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+              <source>Created At</source>
+              <target>Sukurta</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+              <source>Image is being created.</source>
+              <target>Vaizdas kuriamas.</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+              <source>Image is being deleted.</source>
+              <target>Vaizdas įštrinamas.</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+              <source>Access Token is not valid.</source>
+              <target>Prieigos raktas neteisingas.</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+              <source>Access Token has been saved.</source>
+              <target>Prieigos raktas išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+              <source>Access Token</source>
+              <target>Prieigos raktas</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+              <source>Snapshots</source>
+              <target>Sistemos kopija</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+              <source>Snapshots Settings</source>
+              <target>Sistemos kopijos nustatymai</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+              <source>Enable Automatic Snapshots</source>
+              <target>Įgalinti automatines sistemos kopijas</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+              <source>Create Snapshot</source>
+              <target>Sukurti sistemos kopiją</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+              <source>No snapshots found.</source>
+              <target>Sistemų kopijų nerasta.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+              <source>Snapshot Name</source>
+              <target>Sistemų kopijos vardas</target>
+            </trans-unit>
+            <trans-unit id="size">
+              <source>Size</source>
+              <target>Dydis</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+              <source>Snapshot is being created.</source>
+              <target>Sistemos kopija kuriama.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+              <source>Snapshot is being deleted.</source>
+              <target>Sistemos kopija ištrinama.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+              <source>Service Account Keys</source>
+              <target>Tarnybos paskyros raktai</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+              <source>Service Account Keys are not valid.</source>
+              <target>Tarnybos paskyros raktai neteisingi.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+              <source>Service Account Keys have been saved.</source>
+              <target>Tarnybos paskyros raktai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+              <source>Api Key</source>
+              <target>API raktas (key)</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+              <source>Api Key is not valid.</source>
+              <target>API raktas neteisingas.</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+              <source>Api Key has been saved.</source>
+              <target>API raktas išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+              <source>Api Token</source>
+              <target>API raktas (token)</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+              <source>Api Token is not valid.</source>
+              <target>API raktas (token) neteisingas.</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+              <source>Api Token has been saved.</source>
+              <target>API raktas (token) išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+              <source>No sites found.</source>
+              <target>Svetainių nerasta.</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+              <source>+ Add Site</source>
+              <target>+ Pridėti svetainę</target>
+            </trans-unit>
+            <trans-unit id="domain">
+              <source>Domain</source>
+              <target>Domenas</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+              <source>Site User</source>
+              <target>Svetainės vartotojas</target>
+            </trans-unit>
+            <trans-unit id="app">
+              <source>App</source>
+              <target>Programėlė</target>
+            </trans-unit>
+            <trans-unit id="manage">
+              <source>Manage</source>
+              <target>Valdyti</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+              <source>IP Address</source>
+              <target>IP Adresas</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+              <source>Vhost</source>
+              <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+              <source>Databases</source>
+              <target>Duomenų bazės</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+              <source>SSL/TLS</source>
+              <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+              <source>SSH/FTP</source>
+              <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+              <source>File Manager</source>
+              <target>Failų tvarkyklė</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+              <source>Cron Jobs</source>
+              <target>Cron Jobs</target>
+            </trans-unit>
+            <trans-unit id="logs">
+              <source>Logs</source>
+              <target>Registras</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+              <source>Domain Settings</source>
+              <target>Domeno nustatymai</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+              <source>Root Directory</source>
+              <target>Root direktorija</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+              <source>Domain Name</source>
+              <target>Domeno vardas</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+              <source>Root Directory has been saved.</source>
+              <target>Root direktorija išsaugota.</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+              <source>PHP Settings</source>
+              <target>PHP Nustatymai</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+              <source>PHP Version</source>
+              <target>PHP Versija</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+              <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+              <target>Nustato didžiausią atminties kiekį, kurį leidžiama skirti scenarijui.</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+              <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+              <target>Nustato maksimalų laiką, kurį leidžiama paleisti scenarijui, kol jį nutraukia analizatorius.</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+              <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+              <target>Nustato maksimalų laiką, kurį scenarijus gali analizuoti įvesties duomenis, kaip POST ir GET.</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+              <source>Sets the limit of the number of inputs for posting forms.</source>
+              <target>Nustato registravimo formų įvesties ribą.</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+              <source>Maximum size of POST data that PHP will accept.</source>
+              <target>Maksimalus POST duomenų dydis, kurį priims PHP.</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+              <source>The maximum size of an uploaded file.</source>
+              <target>Didžiausias įkelto failo dydis.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+              <source>You can define any PHP parameters like you would define in the php.ini.</source>
+              <target>Galite apibrėžti bet kokius PHP parametrus, kaip apibrėžtumėte php.ini.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+              <source>Additional Configuration Directives</source>
+              <target>Papildomos konfigūracijos direktyvos</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+              <source>PHP Settings have been saved.</source>
+              <target>PHP nustatymai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+              <source>Delete Site</source>
+              <target>Ištrinti svetainę</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+              <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+              <target>Ištrinant svetainę visam laikui panaikinami visi svetainės failai, duomenų bazės, vartotojai bei konfiguracijos ir jų nebegalėsitė atkurti.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+              <source>Cancel</source>
+              <target>Atšaukti</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+              <source>To confirm deletion, type %domain% into the field.</source>
+              <target>Norint patvirtinti ištrynimą, įveskite %domain% į laukelį.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+              <source>Site has been deleted.</source>
+              <target>Svetainė ištrinta.</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+              <source>Site User Settings</source>
+              <target>Svetainės vartotojo nustatymai</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+              <source>Site User Settings have been saved.</source>
+              <target>Svetainės vartotojo nustatymai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+              <source>SSH Keys</source>
+              <target>SSH Raktai</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+              <source>Vhost Editor</source>
+              <target>Vhost Redaktorius</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+              <source>Vhost has been saved.</source>
+              <target>Vhost išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+              <source>Vhost is not valid, error message: %errorMessage%</source>
+              <target>Vhost neteisingas, klaidos žinutė: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+              <source>No databases found.</source>
+              <target>Duomenų bazės nerastos.</target>
+            </trans-unit>
+            <trans-unit id="database">
+              <source>Database</source>
+              <target>Duomenų bazė</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+              <source>Add Database</source>
+              <target>Pridėti duomenų bazę</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+              <source>New Database</source>
+              <target>Nauja duomenų bazė</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+              <source>Database has been added.</source>
+              <target>Duomenų bazė pridėta.</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+              <source>Database has been deleted.</source>
+              <target>Duomenų bazė ištrinta.</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+              <source>Database Users</source>
+              <target>Duomenų bazės vartotojai</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+              <source>Add Database User</source>
+              <target>Pridėti duomenų bazės vartotoją</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+              <source>No database users found.</source>
+              <target>Duomenų bazės vartotojai nerasti.</target>
+            </trans-unit>ū
+            <trans-unit id="read-and-write">
+              <source>Read and Write</source>
+              <target>Skaityti ir Rašyti</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+              <source>Read Only</source>
+              <target>Tik skaityti</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+              <source>New Database User</source>
+              <target>Naujas duomenų bazės vartotojas</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+              <source>Database Name</source>
+              <target>Duomenų bazės vardas</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+              <source>Database User Name</source>
+              <target>Duomenų bazės vartotojo vardas</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+              <source>Database User Password</source>
+              <target>Duomenų bazės vartotojo slaptažodis</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+              <source>Permissions</source>
+              <target>Leidimai</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+              <source>No database found; create a database first.</source>
+              <target>Duomenų bazė nerasta, pirma sukurkite duomenų bazę.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+              <source>Database User has been added.</source>
+              <target>Duomenų bazės vartotojas pridėtas.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+              <source>Database User has been deleted.</source>
+              <target>Duomenų bazės vartotojas ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+              <source>Edit Database User</source>
+              <target>Redaguoti duomenų bazės vartotoją</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+              <source>Database User has been updated.</source>
+              <target>Duomenų bazės vartotojas atnaujintas.</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+              <source>Certificates</source>
+              <target>Sertifikatai</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+              <source>New Let's Encrypt Certificate</source>
+              <target>Naujas Let's Encrypt sertifikatas</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+              <source>Import Certificate</source>
+              <target>Importuoti sertifikatą</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+              <source>No certificates found.</source>
+              <target>Sertifikatų nerasta.</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+              <source>Self-Signed</source>
+              <target>Self-Signed</target>
+            </trans-unit>
+            <trans-unit id="imported">
+              <source>Imported</source>
+              <target>Importuota</target>
+            </trans-unit>
+            <trans-unit id="domains">
+              <source>Domains</source>
+              <target>Domenai</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+              <source>Expiration Date</source>
+              <target>Galiojimo laikas</target>
+            </trans-unit>
+            <trans-unit id="installed">
+              <source>Installed</source>
+              <target>Instaliuota</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+              <source>Private Key</source>
+              <target>Privatus raktas</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+              <source>Certificate Chain</source>
+              <target>Sertifikatų grandinė</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+              <source>Certificate has been deleted.</source>
+              <target>Sertifikatas ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+              <source>Certificate has been installed.</source>
+              <target>Sertifikatas instaliuotas.</target>
+            </trans-unit>
+            <trans-unit id="install">
+              <source>Install</source>
+              <target>Instaliuoti</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+              <source>Import and Install</source>
+              <target>Importuoti ir instaliuoti</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+              <source>Create and Install</source>
+              <target>Sukurti ir instaliuoti</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+              <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+              <target>Įveskite domenų vardus, kuriuos norite apsaugoti Let's Encrypt SSL sertifikatu.</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+              <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+              <target>Norint išduoti Let's Encrypt SSL sertifikatą, reikalingas DNS įrašas, nukreipiantis į šį serverį.</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+              <source>Domain Names</source>
+              <target>Domenų vardai</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+              <source>Add Domain</source>
+              <target>Pridėti domeną</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+              <source>CloudPanel Custom Domain</source>
+              <target>CloudPanel pasirinktinis domenas</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+              <source>CloudPanel Custom Domain has been saved.</source>
+              <target>CloudPanel pasirinktinis domenas išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+              <source>IP Blocking</source>
+              <target>IP Blokavimas</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+              <source>Add IP</source>
+              <target>Pridėti IP</target>
+            </trans-unit>
+            <trans-unit id="ip">
+              <source>IP</source>
+              <target>IP adresas</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+              <source>No ips found.</source>
+              <target>IP adresų nerasta.</target>
+            </trans-unit>
+            <trans-unit id="examples">
+              <source>Examples</source>
+              <target>Pavyzdžiai</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+              <source>Single IP</source>
+              <target>Vienas IP</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+              <source>CIDR Format</source>
+              <target>CIDR Formatas</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+              <source>IP has been added.</source>
+              <target>IP adresas pridėtas.</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+              <source>IP has been deleted.</source>
+              <target>IP adresas ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+              <source>No bots found.</source>
+              <target>Bot'ų nerasta.</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+              <source>Bots Blocking</source>
+              <target>Bot'ai blokuoja</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+              <source>Add Bot</source>
+              <target>Pridėti Bot'ą</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+              <source>Bot has been added.</source>
+              <target>Bot'as pridėtas.</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+              <source>Bot has been deleted.</source>
+              <target>Bot'as ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+              <source>Bot Name</source>
+              <target>Bot'o vardas</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+              <source>Basic Authentication</source>
+              <target>Pagrindinis autentifikavimas</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+              <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+              <target>Pagrindinio autentifikavimo apėjimo IP adresų sąrašas, atskirtas kableliais.</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+              <source>Whitelisted IPs</source>
+              <target>IP adresai baltajame sąraše</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+              <source>Allow traffic from Cloudflare only</source>
+              <target>Leisti srautą tik iš „Cloudflare“</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+              <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+              <target>Vardų serveriai turi nukreipti į „Cloudflare“, o tarpinis serveris turi būti įjungtas jūsų DNS įrašams.</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+              <source>SSH Users</source>
+              <target>SSH Vartotojai</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+              <source>Home Directory</source>
+              <target>Namų direktorija</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+              <source>SSH User</source>
+              <target>SSH Vartotojas</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+              <source>New SSH User</source>
+              <target>Naujas SSH vartotojas</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+              <source>User has been saved.</source>
+              <target>Vartotojas išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+              <source>FTP User</source>
+              <target>FTP Vartotojas</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+              <source>FTP Users</source>
+              <target>FTP Vartotojai</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+              <source>New FTP User</source>
+              <target>Naujas FTP Vartotojas</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+              <source>Add Cron Job</source>
+              <target>Pridėti Cron Job</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+              <source>No cron jobs found.</source>
+              <target>Cron Job nerasta .</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+              <source>New Cron Job</source>
+              <target>Naujas Cron Job</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+              <source>Every minute</source>
+              <target>Kas 1 minutę</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+              <source>Every 5 minutes</source>
+              <target>Kas 5 minutes</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+              <source>Once an hour</source>
+              <target>Kartą per 1 valandą</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+              <source>Every 3 hours</source>
+              <target>Kas 3 valandas</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+              <source>Once a day (At 00:00)</source>
+              <target>Kartą per dieną (00:00 laiku)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+              <source>Every day at 4 a.m.</source>
+              <target>Kas dieną 4 valandą</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+              <source>Once a week (At 00:00 on Sunday)</source>
+              <target>Kartą per savaitę (00:00 laiku sekmadienį)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+              <source>Once a month (At 00:00 on day-of-month 1)</source>
+              <target>Kartą per mėnėsį (00:00 laiku, 1 mėnėsio dieną)</target>
+            </trans-unit>
+            <trans-unit id="template">
+              <source>Template</source>
+              <target>Ruošinys</target>
+            </trans-unit>
+            <trans-unit id="minute">
+              <source>Minute</source>
+              <target>Minutė</target>
+            </trans-unit>
+            <trans-unit id="hour">
+              <source>Hour</source>
+              <target>Valanda</target>
+            </trans-unit>
+            <trans-unit id="day">
+              <source>Day</source>
+              <target>Diena</target>
+            </trans-unit>
+            <trans-unit id="month">
+              <source>Month</source>
+              <target>Mėnėsis</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+              <source>Weekday</source>
+              <target>Savaitės diena</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+              <source>Cron Job has been added.</source>
+              <target>Cron Job pridėtas.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+              <source>Cron Job has been deleted.</source>
+              <target>Cron Job ištrintas.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+              <source>Cron Job has been saved.</source>
+              <target>Cron Job išsaugotas.</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+              <source>Schedule</source>
+              <target>Tvarkaraštis</target>
+            </trans-unit>
+            <trans-unit id="command">
+              <source>Command</source>
+              <target>Komanda</target>
+            </trans-unit>
+            <trans-unit id="update">
+              <source>Update</source>
+              <target>Atnaujinimas</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+              <source>PageSpeed</source>
+              <target>PageSpeed</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+              <source>Purge Cache</source>
+              <target>Išvalyti talpyklą</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+              <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+              <target>PageSpeed nustatymai neteisingi, klaidos žinutė: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+              <source>Page Speed Settings have been saved.</source>
+              <target>PageSpeed nustatymai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+              <source>Page Speed Cache has been purged.</source>
+              <target>PageSpeed talpykla išvalyta.</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+              <source>What kind of site would you like to create?</source>
+              <target>Kokio tipo svetainę norėtumėte sukurti?</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+              <source>Create a WordPress Site</source>
+              <target>Sukurti WordPress svetainę</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+              <source>Create a PHP Site</source>
+              <target>Sukurti PHP svetainę</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+              <source>Create a Node.js Site</source>
+              <target>Sukurti Node.js svetainę</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+              <source>Create a Static HTML Site</source>
+              <target>Sukurti Static HTML svetainę</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+              <source>Create a Python Site</source>
+              <target>Sukurti Python svetainę</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+              <source>New Site</source>
+              <target>Nauja svetainė</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+              <source>New WordPress Site</source>
+              <target>Nauja WordPress svetainė</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+              <source>Pre-Install WordPress</source>
+              <target>Iš anksto įdiegtas WordPress</target>
+            </trans-unit>
+            <trans-unit id="back">
+              <source>Back</source>
+              <target>Grįžti</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+              <source>Site Title</source>
+              <target>Svetainės pavadinimas</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+              <source>Admin E-Mail</source>
+              <target>Administratoriaus el. paštas</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+              <source>Admin User Name</source>
+              <target>Administratoriaus vartotojo vardas</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+              <source>Admin Password</source>
+              <target>Administratoriaus slaptažodis</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+              <source>Admin Url</source>
+              <target>Administratoriaus URL</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+              <source>Multisite</source>
+              <target>Kelios svetainės</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+              <source>Vhost Template %vhostTemplate% does not exist.</source>
+              <target>Vhost ruošinys %vhostTemplate% neegzistuoja.</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+              <source>WordPress Site has been created!</source>
+              <target>WordPress svetainė sukurta!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+              <source>Copy the credentials for your created WordPress site.</source>
+              <target>Nukopijuokite sukurtos „WordPress“ svetainės kredencialus.</target>
+            </trans-unit>
+            <trans-unit id="creating">
+              <source>Creating</source>
+              <target>Kuriama</target>
+            </trans-unit>
+            <trans-unit id="saving">
+              <source>Saving</source>
+              <target>Išsaugoma</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+              <source>New PHP Site</source>
+              <target>Nauja PHP svetainė</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+              <source>The main SSH User for the site.</source>
+              <target>Pagrindinis SSH vartotojas svetainei.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+              <source>Site has been created.</source>
+              <target>Svetainė sukurta.</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+              <source>New Static HTML Site</source>
+              <target>Nauja Static HTML svetainė</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+              <source>New Node.js Site</source>
+              <target>Nauja Node.js svetainė</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+              <source>Node.js Version</source>
+              <target>Node.js Versija</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+              <source>App Port</source>
+              <target>Pridėti prievadą</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+              <source>Node.js Settings</source>
+              <target>Node.js Nustatymai</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+              <source>Node.js Settings have been saved.</source>
+              <target>Node.js Nustatymai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+              <source>New Python Site</source>
+              <target>Nauja Python svetainė</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+              <source>Python Version</source>
+              <target>Python Versija</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+              <source>Is another version needed?</source>
+              <target>Ar reikalinga kita versija?</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+              <source>Check out the docs.</source>
+              <target>Peržiūrėkite šiuos dokumentus.</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+              <source>Python Settings</source>
+              <target>Python Nustatymai</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+              <source>Python Settings have been saved.</source>
+              <target>Python Nustatymai išsaugoti.</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+              <source>Operating System</source>
+              <target>Operacinė sistema</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+              <source>Cloud</source>
+              <target>Debesis</target>
+            </trans-unit>
+            <trans-unit id="region">
+              <source>Region</source>
+              <target>Regionas</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+              <source>Droplet ID</source>
+              <target>Droplet ID</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+              <source>Instance ID</source>
+              <target>Instancijos ID</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+              <source>Monitoring</source>
+              <target>Stebėjimas</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+              <source>Last 30 Minutes</source>
+              <target>Paskutinės 30 minučių</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+              <source>Last Hour</source>
+              <target>Paskutinė 1 valanda</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+              <source>Last 3 Hours</source>
+              <target>Paskutinės 3 valandos</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+              <source>Last 6 Hours</source>
+              <target>Paskutinės 6 valandos</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+              <source>Last 12 Hours</source>
+              <target>Paskutinės 12 valandų</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+              <source>1 Minute</source>
+              <target>1 Minutė</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+              <source>5 Minutes</source>
+              <target>5 Minutės</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+              <source>15 Minutes</source>
+              <target>15 Minučių</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+              <source>CPU Usage</source>
+              <target>CPU Naudojimas</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+              <source>Disk Usage</source>
+              <target>Disko naudojimas</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+              <source>Memory Usage</source>
+              <target>Atminties naudojimas</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+              <source>Load Average</source>
+              <target>Apkrovos vidurkis</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
