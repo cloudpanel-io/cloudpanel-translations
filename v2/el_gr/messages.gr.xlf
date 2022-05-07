@@ -3,1596 +3,1639 @@
     <file source-language="en" target-language="gr" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
-              <source>Yes</source>
-              <target>Ναι</target>
+                <source>Yes</source>
+                <target>Ναι</target>
             </trans-unit>
             <trans-unit id="no">
-              <source>No</source>
-              <target>Όχι</target>
+                <source>No</source>
+                <target>Όχι</target>
             </trans-unit>
             <trans-unit id="all">
-              <source>All</source>
-              <target>Όλες</target>
+                <source>All</source>
+                <target>Όλες</target>
             </trans-unit>
             <trans-unit id="support">
-              <source>Support</source>
-              <target>Υποστήριξη</target>
+                <source>Support</source>
+                <target>Υποστήριξη</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
-              <source>Click to Copy</source>
-              <target>Κάντε κλικ για Αντιγραφή</target>
+                <source>Click to Copy</source>
+                <target>Κάντε κλικ για Αντιγραφή</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
-              <source>Copied to Clipboard</source>
-              <target>Αντιγράφηκε στο Πρόχειρο</target>
+                <source>Copied to Clipboard</source>
+                <target>Αντιγράφηκε στο Πρόχειρο</target>
             </trans-unit>
             <trans-unit id="loading">
-              <source>Loading</source>
-              <target>Φόρτωση</target>
+                <source>Loading</source>
+                <target>Φόρτωση</target>
             </trans-unit>
             <trans-unit id="blog">
-              <source>Blog</source>
-              <target>Ιστολόγιο</target>
+                <source>Blog</source>
+                <target>Ιστολόγιο</target>
             </trans-unit>
             <trans-unit id="contact">
-              <source>Contact</source>
-              <target>Επικοινωνία</target>
+                <source>Contact</source>
+                <target>Επικοινωνία</target>
             </trans-unit>
             <trans-unit id="docs">
-              <source>Docs</source>
-              <target>Τεκμηρίωση</target>
+                <source>Docs</source>
+                <target>Τεκμηρίωση</target>
             </trans-unit>
             <trans-unit id="update-available">
-              <source>Update available</source>
-              <target>Διαθέσιμη ενημέρωση</target>
+                <source>Update available</source>
+                <target>Διαθέσιμη ενημέρωση</target>
             </trans-unit>
             <trans-unit id="issues">
-              <source>Issues</source>
-              <target>Υποβολή σφαλμάτων</target>
+                <source>Issues</source>
+                <target>Υποβολή σφαλμάτων</target>
             </trans-unit>
             <trans-unit id="submit">
-              <source>Submit</source>
-              <target>Υποβολή</target>
+                <source>Submit</source>
+                <target>Υποβολή</target>
             </trans-unit>
             <trans-unit id="site">
-              <source>Site</source>
-              <target>Ιστοσελίδα</target>
+                <source>Site</source>
+                <target>Ιστοσελίδα</target>
             </trans-unit>
             <trans-unit id="sites">
-              <source>Sites</source>
-              <target>Ιστοσελίδες</target>
+                <source>Sites</source>
+                <target>Ιστοσελίδες</target>
             </trans-unit>
             <trans-unit id="locale-german">
-              <source>German</source>
-              <target>Γερμανικά</target>
+                <source>German</source>
+                <target>Γερμανικά</target>
             </trans-unit>
             <trans-unit id="locale-english">
-              <source>English</source>
-              <target>Αγγλικά</target>
+                <source>English</source>
+                <target>Αγγλικά</target>
             </trans-unit>
             <trans-unit id="locale-french">
-              <source>French</source>
-              <target>γαλλική γλώσσα</target>
+                <source>French</source>
+                <target>γαλλική γλώσσα</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
-              <source>Dutch</source>
-              <target>Ολλανδός</target>
+                <source>Dutch</source>
+                <target>Ολλανδός</target>
             </trans-unit>
             <trans-unit id="locale-italian">
-              <source>Italian</source>
-              <target>ιταλικός</target>
+                <source>Italian</source>
+                <target>ιταλικός</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
-              <source>Spanish</source>
-              <target>Spanish</target>
+                <source>Spanish</source>
+                <target>Spanish</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
-              <source>Portuguese</source>
-              <target>Ισπανικά</target>
+                <source>Portuguese</source>
+                <target>Ισπανικά</target>
             </trans-unit>
             <trans-unit id="locale-greek">
-              <source>Greek</source>
-              <target>Ελληνικά</target>
+                <source>Greek</source>
+                <target>Ελληνικά</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>Λιθουανικά</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
-              <source>IPv4 Public IP</source>
-              <target>Δημόσια IPv4 IP</target>
+                <source>IPv4 Public IP</source>
+                <target>Δημόσια IPv4 IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
-              <source>IPv6 Public IP</source>
-              <target>Δημόσια IPv6 IP</target>
+                <source>IPv6 Public IP</source>
+                <target>Δημόσια IPv6 IP</target>
             </trans-unit>
             <trans-unit id="os">
-              <source>OS</source>
-              <target>Λειτουργικό Σύστημα</target>
+                <source>OS</source>
+                <target>Λειτουργικό Σύστημα</target>
             </trans-unit>
             <trans-unit id="hostname">
-              <source>Hostname</source>
-              <target>Hostname</target>
+                <source>Hostname</source>
+                <target>Hostname</target>
             </trans-unit>
             <trans-unit id="cpu">
-              <source>CPU</source>
-              <target>CPU</target>
+                <source>CPU</source>
+                <target>CPU</target>
             </trans-unit>
             <trans-unit id="cores">
-              <source>Cores</source>
-              <target>Πυρήνες</target>
+                <source>Cores</source>
+                <target>Πυρήνες</target>
             </trans-unit>
             <trans-unit id="memory">
-              <source>Memory</source>
-              <target>Μνήμη</target>
+                <source>Memory</source>
+                <target>Μνήμη</target>
             </trans-unit>
             <trans-unit id="user-name">
-              <source>User Name</source>
-              <target>Όνομα Χρήστη</target>
+                <source>User Name</source>
+                <target>Όνομα Χρήστη</target>
             </trans-unit>
             <trans-unit id="password">
-              <source>Password</source>
-              <target>Κωδικός Πρόσβασης</target>
+                <source>Password</source>
+                <target>Κωδικός Πρόσβασης</target>
             </trans-unit>
             <trans-unit id="login">
-              <source>Log In</source>
-              <target>Σύνδεση</target>
+                <source>Log In</source>
+                <target>Σύνδεση</target>
             </trans-unit>
             <trans-unit id="settings">
-              <source>Settings</source>
-              <target>Ρυθμίσεις</target>
+                <source>Settings</source>
+                <target>Ρυθμίσεις</target>
             </trans-unit>
             <trans-unit id="logout">
-              <source>Logout</source>
-              <target>Αποσύνδεση</target>
+                <source>Logout</source>
+                <target>Αποσύνδεση</target>
             </trans-unit>
             <trans-unit id="language">
-              <source>Language</source>
-              <target>Γλώσσα</target>
+                <source>Language</source>
+                <target>Γλώσσα</target>
             </trans-unit>
             <trans-unit id="firstName">
-              <source>First Name</source>
-              <target>Όνομα</target>
+                <source>First Name</source>
+                <target>Όνομα</target>
             </trans-unit>
             <trans-unit id="lastName">
-              <source>Last Name</source>
-              <target>Επώνυμο</target>
+                <source>Last Name</source>
+                <target>Επώνυμο</target>
             </trans-unit>
             <trans-unit id="email">
-              <source>E-Mail</source>
-              <target>E-Mail</target>
+                <source>E-Mail</source>
+                <target>E-Mail</target>
             </trans-unit>
             <trans-unit id="timezone">
-              <source>Timezone</source>
-              <target>Ζώνη ώρας</target>
+                <source>Timezone</source>
+                <target>Ζώνη ώρας</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
-              <source>Generate new password</source>
-              <target>Δημιουργία νέου κωδικού πρόσβασης</target>
+                <source>Generate new password</source>
+                <target>Δημιουργία νέου κωδικού πρόσβασης</target>
             </trans-unit>
             <trans-unit id="create-user-button">
-              <source>Create User</source>
-              <target>Δημιουργία Χρήστη</target>
+                <source>Create User</source>
+                <target>Δημιουργία Χρήστη</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
-              <source>I agree to the license terms and acknowledge the privacy policy.</source>
-              <target>Συμφωνώ με τους <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">όρους άδειας χρήσης</a>]]> και αναγνωρίζω την <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">πολιτική απορρήτου</a>]]>.</target>
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>Συμφωνώ με τους
+                    <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">όρους άδειας χρήσης</a>]]>
+                    και αναγνωρίζω την
+                    <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">πολιτική απορρήτου</a>]]>
+                    .
+                </target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
-              <source>An error has occurred, error message: %errorMessage%</source>
-              <target>Παρουσιάστηκε σφάλμα, μήνυμα σφάλματος: %errorMessage%</target>
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>Παρουσιάστηκε σφάλμα, μήνυμα σφάλματος: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
-              <source>Admin User Creation</source>
-              <target>Δημιουργία χρήστη διαχειριστή</target>
+                <source>Admin User Creation</source>
+                <target>Δημιουργία χρήστη διαχειριστή</target>
             </trans-unit>
             <trans-unit id="admin-area">
-              <source>Admin Area</source>
-              <target>Περιοχή Διαχειριστή</target>
+                <source>Admin Area</source>
+                <target>Περιοχή Διαχειριστή</target>
             </trans-unit>
             <trans-unit id="dashboard">
-              <source>Dashboard</source>
-              <target>Πίνακας Ελέγχου</target>
+                <source>Dashboard</source>
+                <target>Πίνακας Ελέγχου</target>
             </trans-unit>
             <trans-unit id="account">
-              <source>Account</source>
-              <target>Ο λογαριασμός μου</target>
+                <source>Account</source>
+                <target>Ο λογαριασμός μου</target>
             </trans-unit>
             <trans-unit id="security">
-              <source>Security</source>
-              <target>Ασφάλεια</target>
+                <source>Security</source>
+                <target>Ασφάλεια</target>
             </trans-unit>
             <trans-unit id="account-saved">
-              <source>The account information has been saved.</source>
-              <target>Οι πληροφορίες του λογαριασμού έχουν αποθηκευτεί.</target>
+                <source>The account information has been saved.</source>
+                <target>Οι πληροφορίες του λογαριασμού έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="save">
-              <source>Save</source>
-              <target>Αποθήκευση</target>
+                <source>Save</source>
+                <target>Αποθήκευση</target>
             </trans-unit>
             <trans-unit id="create">
-              <source>Create</source>
-              <target>Δημιουργία</target>
+                <source>Create</source>
+                <target>Δημιουργία</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
-              <source>Two-Factor Authentication</source>
-              <target>Έλεγχος ταυτότητας δύο παραγόντων (2FA)</target>
+                <source>Two-Factor Authentication</source>
+                <target>Έλεγχος ταυτότητας δύο παραγόντων (2FA)</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
-              <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-              <target>Ο έλεγχος ταυτότητας δύο παραγόντων (2FA) προσθέτει ένα επιπλέον επίπεδο ασφάλειας στον λογαριασμό σας. Κάθε φορά που συνδέεστε, θα πρέπει να εισάγετε και τον κωδικό πρόσβασής σας και επίσης έναν κωδικό ασφαλείας.</target>
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in,
+                    you’ll need to enter both your password and also a security code.
+                </source>
+                <target>Ο έλεγχος ταυτότητας δύο παραγόντων (2FA) προσθέτει ένα επιπλέον επίπεδο ασφάλειας στον
+                    λογαριασμό σας. Κάθε φορά που συνδέεστε, θα πρέπει να εισάγετε και τον κωδικό πρόσβασής σας και
+                    επίσης έναν κωδικό ασφαλείας.
+                </target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
-              <source>Enable Two-Factor Authentication</source>
-              <target>Ενεργοποίηση ελέγχου ταυτότητας δύο παραγόντων (2FA)</target>
+                <source>Enable Two-Factor Authentication</source>
+                <target>Ενεργοποίηση ελέγχου ταυτότητας δύο παραγόντων (2FA)</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
-              <source>Connect your app</source>
-              <target>Συνδέστε την εφαρμογή σας</target>
+                <source>Connect your app</source>
+                <target>Συνδέστε την εφαρμογή σας</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
-              <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-              <target>Χρησιμοποιώντας μια εφαρμογή ελέγχου ταυτότητας όπως το %googleAuthenticatorLink% ή το %duoLink%, σαρώνετε το QR Code. Θα εμφανίσει ένας 6 ψήφιος κωδικός που πρέπει να εισαγάγετε παρακάτω.</target>
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It
+                    will display a 6 digit code which you need to enter below.
+                </source>
+                <target>Χρησιμοποιώντας μια εφαρμογή ελέγχου ταυτότητας όπως το %googleAuthenticatorLink% ή το
+                    %duoLink%, σαρώνετε το QR Code. Θα εμφανίσει ένας 6 ψήφιος κωδικός που πρέπει να εισαγάγετε
+                    παρακάτω.
+                </target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
-              <source>Having trouble scanning the code?</source>
-              <target>Αντιμετωπίζετε πρόβλημα με τη σάρωση του QR Code;</target>
+                <source>Having trouble scanning the code?</source>
+                <target>Αντιμετωπίζετε πρόβλημα με τη σάρωση του QR Code;</target>
             </trans-unit>
             <trans-unit id="try-this-instead">
-              <source>Try this instead</source>
-              <target>Δοκιμάστε αυτό</target>
+                <source>Try this instead</source>
+                <target>Δοκιμάστε αυτό</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
-              <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
-              <target>Επιλέξτε τη χειροκίνητη καταχώριση στην εφαρμογή σας και εισαγάγετε το όνομα χρήστη σας: "%userName%" και τον κωδικό: %secret%</target>
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%
+                </source>
+                <target>Επιλέξτε τη χειροκίνητη καταχώριση στην εφαρμογή σας και εισαγάγετε το όνομα χρήστη σας:
+                    "%userName%" και τον κωδικό: %secret%
+                </target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
-              <source>Two-Factor Authentication has been enabled.</source>
-              <target>Ο έλεγχος ταυτότητας δύο παραγόντων (2FA) έχει ενεργοποιηθεί.</target>
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>Ο έλεγχος ταυτότητας δύο παραγόντων (2FA) έχει ενεργοποιηθεί.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
-              <source>Disable Two-Factor Authentication</source>
-              <target>Απενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων (2FA)</target>
+                <source>Disable Two-Factor Authentication</source>
+                <target>Απενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων (2FA)</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
-              <source>Two-Factor Authentication has been disabled.</source>
-              <target>Ο έλεγχος ταυτότητας δύο παραγόντων (2FA) έχει απενεργοποιηθεί.</target>
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>Ο έλεγχος ταυτότητας δύο παραγόντων (2FA) έχει απενεργοποιηθεί.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
-              <source>Enter authentication code</source>
-              <target>Εισαγάγετε τον κωδικό ελέγχου ταυτότητας</target>
+                <source>Enter authentication code</source>
+                <target>Εισαγάγετε τον κωδικό ελέγχου ταυτότητας</target>
             </trans-unit>
             <trans-unit id="back-to-sites">
-              <source>Back to Sites</source>
-              <target>Επιστροφή</target>
+                <source>Back to Sites</source>
+                <target>Επιστροφή</target>
             </trans-unit>
             <trans-unit id="users">
-              <source>Users</source>
-              <target>Χρήστες</target>
+                <source>Users</source>
+                <target>Χρήστες</target>
             </trans-unit>
             <trans-unit id="add-user">
-              <source>Add User</source>
-              <target>Προσθήκη Χρήστη</target>
+                <source>Add User</source>
+                <target>Προσθήκη Χρήστη</target>
             </trans-unit>
             <trans-unit id="new-user">
-              <source>New User</source>
-              <target>Νέος Χρήστης</target>
+                <source>New User</source>
+                <target>Νέος Χρήστης</target>
             </trans-unit>
             <trans-unit id="active">
-              <source>Active</source>
-              <target>Ενεργός</target>
+                <source>Active</source>
+                <target>Ενεργός</target>
             </trans-unit>
             <trans-unit id="not-active">
-              <source>Not Active</source>
-              <target>Απενεργοποιημένος</target>
+                <source>Not Active</source>
+                <target>Απενεργοποιημένος</target>
             </trans-unit>
             <trans-unit id="role-admin">
-              <source>Admin</source>
-              <target>Υπερδιαχειριστής (Admin)</target>
+                <source>Admin</source>
+                <target>Υπερδιαχειριστής (Admin)</target>
             </trans-unit>
             <trans-unit id="role-user">
-              <source>User</source>
-              <target>Χρήστης</target>
+                <source>User</source>
+                <target>Χρήστης</target>
             </trans-unit>
             <trans-unit id="role-site-manager">
-              <source>Site Manager</source>
-              <target>Διαχειριστής Ιστοσελίδων</target>
+                <source>Site Manager</source>
+                <target>Διαχειριστής Ιστοσελίδων</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
-              <source>User has been added.</source>
-              <target>Ο χρήστης έχει προστεθεί.</target>
+                <source>User has been added.</source>
+                <target>Ο χρήστης έχει προστεθεί.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
-              <source>User has been updated.</source>
-              <target>Ο χρήστης έχει ενημερωθεί.</target>
+                <source>User has been updated.</source>
+                <target>Ο χρήστης έχει ενημερωθεί.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
-              <source>No users found.</source>
-              <target>Δεν βρέθηκαν χρήστες.</target>
+                <source>No users found.</source>
+                <target>Δεν βρέθηκαν χρήστες.</target>
             </trans-unit>
             <trans-unit id="role">
-              <source>Role</source>
-              <target>Ρόλος</target>
+                <source>Role</source>
+                <target>Ρόλος</target>
             </trans-unit>
             <trans-unit id="status">
-              <source>Status</source>
-              <target>Κατάσταση</target>
+                <source>Status</source>
+                <target>Κατάσταση</target>
             </trans-unit>
             <trans-unit id="delete">
-              <source>Delete</source>
-              <target>Διαγραφή</target>
+                <source>Delete</source>
+                <target>Διαγραφή</target>
             </trans-unit>
             <trans-unit id="are-you-sure">
-              <source>Are you sure?</source>
-              <target>Είσαι σίγουρος;</target>
+                <source>Are you sure?</source>
+                <target>Είσαι σίγουρος;</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
-              <source>User has been deleted.</source>
-              <target>Ο χρήστης έχει διαγραφεί.</target>
+                <source>User has been deleted.</source>
+                <target>Ο χρήστης έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="events">
-              <source>Events</source>
-              <target>Γεγονότα</target>
+                <source>Events</source>
+                <target>Γεγονότα</target>
             </trans-unit>
             <trans-unit id="no-events-found">
-              <source>No events found.</source>
-              <target>Δεν βρέθηκαν γεγονότα.</target>
+                <source>No events found.</source>
+                <target>Δεν βρέθηκαν γεγονότα.</target>
             </trans-unit>
             <trans-unit id="event-time">
-              <source>Event Time</source>
-              <target>Ώρα γεγονότων</target>
+                <source>Event Time</source>
+                <target>Ώρα γεγονότων</target>
             </trans-unit>
             <trans-unit id="event">
-              <source>Event</source>
-              <target>Γεγονός</target>
+                <source>Event</source>
+                <target>Γεγονός</target>
             </trans-unit>
             <trans-unit id="view">
-              <source>View</source>
-              <target>Λεπτομέρειες</target>
+                <source>View</source>
+                <target>Λεπτομέρειες</target>
             </trans-unit>
             <trans-unit id="notifications">
-              <source>Notifications</source>
-              <target>Ειδοποιήσεις</target>
+                <source>Notifications</source>
+                <target>Ειδοποιήσεις</target>
             </trans-unit>
             <trans-unit id="no-notifications-found">
-              <source>No notifications found.</source>
-              <target>Δεν βρέθηκαν ειδοποιήσεις.</target>
+                <source>No notifications found.</source>
+                <target>Δεν βρέθηκαν ειδοποιήσεις.</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
-              <source>Notification has been deleted.</source>
-              <target>Οι ειδοποιήσεις έχουν διαγραφτεί</target>
+                <source>Notification has been deleted.</source>
+                <target>Οι ειδοποιήσεις έχουν διαγραφτεί</target>
             </trans-unit>
             <trans-unit id="show-message">
-              <source>Show Message</source>
-              <target>Εμφάνιση μηνύματος</target>
+                <source>Show Message</source>
+                <target>Εμφάνιση μηνύματος</target>
             </trans-unit>
             <trans-unit id="severity">
-              <source>Severity</source>
-              <target>Σπουδαιότητα</target>
+                <source>Severity</source>
+                <target>Σπουδαιότητα</target>
             </trans-unit>
             <trans-unit id="date">
-              <source>Date</source>
-              <target>Ημερομηνία</target>
+                <source>Date</source>
+                <target>Ημερομηνία</target>
             </trans-unit>
             <trans-unit id="message">
-              <source>Message</source>
-              <target>Μήνυμα</target>
+                <source>Message</source>
+                <target>Μήνυμα</target>
             </trans-unit>
             <trans-unit id="action">
-              <source>Action</source>
-              <target>Ενέργεια</target>
+                <source>Action</source>
+                <target>Ενέργεια</target>
             </trans-unit>
             <trans-unit id="info">
-              <source>Info</source>
-              <target>Πληροφορία</target>
+                <source>Info</source>
+                <target>Πληροφορία</target>
             </trans-unit>
             <trans-unit id="warning">
-              <source>Warning</source>
-              <target>Ειδοποίηση</target>
+                <source>Warning</source>
+                <target>Ειδοποίηση</target>
             </trans-unit>
             <trans-unit id="critical">
-              <source>Critical</source>
-              <target>Κρίσιμο</target>
+                <source>Critical</source>
+                <target>Κρίσιμο</target>
             </trans-unit>
             <trans-unit id="more-information">
-              <source>More Information</source>
-              <target>Περισσότερες πληροφορίες</target>
+                <source>More Information</source>
+                <target>Περισσότερες πληροφορίες</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
-              <source>Mark as Read</source>
-              <target>Επισήμανση ως αναγνωσμένο</target>
+                <source>Mark as Read</source>
+                <target>Επισήμανση ως αναγνωσμένο</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
-              <source>Mark as Unread</source>
-              <target>Επισήμανση ως μη αναγνωσμένο</target>
+                <source>Mark as Unread</source>
+                <target>Επισήμανση ως μη αναγνωσμένο</target>
             </trans-unit>
             <trans-unit id="instance">
-              <source>Instance</source>
-              <target>Διακομιστής</target>
+                <source>Instance</source>
+                <target>Διακομιστής</target>
             </trans-unit>
             <trans-unit id="firewall">
-              <source>Firewall</source>
-              <target>Τείχος προστασίας</target>
+                <source>Firewall</source>
+                <target>Τείχος προστασίας</target>
             </trans-unit>
             <trans-unit id="service">
-              <source>Service</source>
-              <target>Υπηρεσία</target>
+                <source>Service</source>
+                <target>Υπηρεσία</target>
             </trans-unit>
             <trans-unit id="services">
-              <source>Services</source>
-              <target>Υπηρεσίες</target>
+                <source>Services</source>
+                <target>Υπηρεσίες</target>
             </trans-unit>
             <trans-unit id="rules">
-              <source>Rules</source>
-              <target>Κανόνες</target>
+                <source>Rules</source>
+                <target>Κανόνες</target>
             </trans-unit>
             <trans-unit id="add-rule">
-              <source>Add Rule</source>
-              <target>Προσθήκη κανόνα</target>
+                <source>Add Rule</source>
+                <target>Προσθήκη κανόνα</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
-              <source>No rules found.</source>
-              <target>Δεν βρέθηκαν κανόνες.</target>
+                <source>No rules found.</source>
+                <target>Δεν βρέθηκαν κανόνες.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
-              <source>Add Firewall Rule</source>
-              <target>Προσθήκη κανόνα τείχου προστασίας</target>
+                <source>Add Firewall Rule</source>
+                <target>Προσθήκη κανόνα τείχου προστασίας</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
-              <source>Rule has been added.</source>
-              <target>Ο κανόνας προστέθηκε.</target>
+                <source>Rule has been added.</source>
+                <target>Ο κανόνας προστέθηκε.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
-              <source>Rule has been deleted.</source>
-              <target>Ο κανόνας έχει διαγραφεί.</target>
+                <source>Rule has been deleted.</source>
+                <target>Ο κανόνας έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="rule-type">
-              <source>Type</source>
-              <target>Κατηγορία</target>
+                <source>Type</source>
+                <target>Κατηγορία</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
-              <source>Custom TCP</source>
-              <target>Προσαρμοσμένο TCP</target>
+                <source>Custom TCP</source>
+                <target>Προσαρμοσμένο TCP</target>
             </trans-unit>
             <trans-unit id="port-range">
-              <source>Port Range</source>
-              <target>Port Range</target>
+                <source>Port Range</source>
+                <target>Port Range</target>
             </trans-unit>
             <trans-unit id="ip-version">
-              <source>IP Version</source>
-              <target>IP Έκδοση</target>
+                <source>IP Version</source>
+                <target>IP Έκδοση</target>
             </trans-unit>
             <trans-unit id="rule-source">
-              <source>Source</source>
-              <target>Πηγή</target>
+                <source>Source</source>
+                <target>Πηγή</target>
             </trans-unit>
             <trans-unit id="rule-source-custom">
-              <source>Custom</source>
-              <target>Προσαρμοσμένη</target>
+                <source>Custom</source>
+                <target>Προσαρμοσμένη</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
-              <source>Anywhere-IPv4</source>
-              <target>Anywhere-IPv4</target>
+                <source>Anywhere-IPv4</source>
+                <target>Anywhere-IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
-              <source>Anywhere-IPv6</source>
-              <target>Anywhere-IPv6</target>
+                <source>Anywhere-IPv6</source>
+                <target>Anywhere-IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
-              <source>My IP</source>
-              <target>Η IP μου</target>
+                <source>My IP</source>
+                <target>Η IP μου</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
-              <source>IP or CIDR</source>
-              <target>IP ή CIDR</target>
+                <source>IP or CIDR</source>
+                <target>IP ή CIDR</target>
             </trans-unit>
             <trans-unit id="rule-description">
-              <source>Description</source>
-              <target>Περιγραφή</target>
+                <source>Description</source>
+                <target>Περιγραφή</target>
             </trans-unit>
             <trans-unit id="actions">
-              <source>Actions</source>
-              <target>Ενέργειες</target>
+                <source>Actions</source>
+                <target>Ενέργειες</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
-              <source>Edit Firewall Rule</source>
-              <target>Επεξεργασία κανόνα τείχους προστασίας</target>
+                <source>Edit Firewall Rule</source>
+                <target>Επεξεργασία κανόνα τείχους προστασίας</target>
             </trans-unit>
             <trans-unit id="basic-auth">
-              <source>Basic Auth</source>
-              <target>Βασικός έλεγχος ταυτότητας</target>
+                <source>Basic Auth</source>
+                <target>Βασικός έλεγχος ταυτότητας</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
-              <source>Enable Basic Auth</source>
-              <target>Ενεργοποίηση ελέγχου ταυτότητας</target>
+                <source>Enable Basic Auth</source>
+                <target>Ενεργοποίηση ελέγχου ταυτότητας</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
-              <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-              <target>Ο βασικός έλεγχος ταυτότητας μπροστά από το CloudPanel προσθέτει ένα επιπλέον επίπεδο ασφάλειας.</target>
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>Ο βασικός έλεγχος ταυτότητας μπροστά από το CloudPanel προσθέτει ένα επιπλέον επίπεδο
+                    ασφάλειας.
+                </target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
-              <source>Basic Auth has been enabled.</source>
-              <target>Ο βασικός έλεγχος ταυτότητας έχει ενεργοποιηθεί.</target>
+                <source>Basic Auth has been enabled.</source>
+                <target>Ο βασικός έλεγχος ταυτότητας έχει ενεργοποιηθεί.</target>
             </trans-unit>
             <trans-unit id="running">
-              <source>Running</source>
-              <target>Ενεργή</target>
+                <source>Running</source>
+                <target>Ενεργή</target>
             </trans-unit>
             <trans-unit id="stopped">
-              <source>Stopped</source>
-              <target>Σταματημένη</target>
+                <source>Stopped</source>
+                <target>Σταματημένη</target>
             </trans-unit>
             <trans-unit id="restart">
-              <source>Restart</source>
-              <target>Επανεκκίνηση</target>
+                <source>Restart</source>
+                <target>Επανεκκίνηση</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
-              <source>Service will restart shortly.</source>
-              <target>Η υπηρεσία θα επανεκκινήσει σύντομα.</target>
+                <source>Service will restart shortly.</source>
+                <target>Η υπηρεσία θα επανεκκινήσει σύντομα.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
-              <source>Proftpd Settings</source>
-              <target>Ρυθμίσεις Proftpd</target>
+                <source>Proftpd Settings</source>
+                <target>Ρυθμίσεις Proftpd</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
-              <source>MasqueradeAddress</source>
-              <target>MasqueradeAddress</target>
+                <source>MasqueradeAddress</source>
+                <target>MasqueradeAddress</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
-              <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-              <target>Η MasqueradeAddress αναγκάζει τον διακομιστή να εμφανίσει τις πληροφορίες δικτύου για την καθορισμένη διεύθυνση IP ή το όνομα κεντρικού υπολογιστή DNS στον πελάτη.</target>
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP
+                    address or DNS hostname to the client.
+                </source>
+                <target>Η MasqueradeAddress αναγκάζει τον διακομιστή να εμφανίσει τις πληροφορίες δικτύου για την
+                    καθορισμένη διεύθυνση IP ή το όνομα κεντρικού υπολογιστή DNS στον πελάτη.
+                </target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
-              <source>MasqueradeAddress has been saved.</source>
-              <target>Η MasqueradeAddress έχει αποθηκευτεί.</target>
+                <source>MasqueradeAddress has been saved.</source>
+                <target>Η MasqueradeAddress έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
-              <source>Instance Settings</source>
-              <target>Ρυθμίσεις Διακομιστή</target>
+                <source>Instance Settings</source>
+                <target>Ρυθμίσεις Διακομιστή</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
-              <source>Timezone has been saved.</source>
-              <target>Η ζώνη ώρας έχει αποθηκευτεί.</target>
+                <source>Timezone has been saved.</source>
+                <target>Η ζώνη ώρας έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="reboot">
-              <source>Reboot</source>
-              <target>Επανεκκίνηση</target>
+                <source>Reboot</source>
+                <target>Επανεκκίνηση</target>
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
-              <source>Instance will reboot shortly.</source>
-              <target>Ο διακομιστής θα επανεκκινήσει σύντομα.</target>
+                <source>Instance will reboot shortly.</source>
+                <target>Ο διακομιστής θα επανεκκινήσει σύντομα.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
-              <source>It's recommended to reboot the instance after changing the timezone.</source>
-              <target>Συνιστάται η επανεκκίνηση του διακομιστή μετά την αλλαγή της ζώνης ώρας.</target>
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>Συνιστάται η επανεκκίνηση του διακομιστή μετά την αλλαγή της ζώνης ώρας.</target>
             </trans-unit>
             <trans-unit id="general">
-              <source>General</source>
-              <target>Γενικά</target>
+                <source>General</source>
+                <target>Γενικά</target>
             </trans-unit>
             <trans-unit id="database-servers">
-              <source>Database Servers</source>
-              <target>Διακομιστές βάσεων δεδομένων</target>
+                <source>Database Servers</source>
+                <target>Διακομιστές βάσεων δεδομένων</target>
             </trans-unit>
             <trans-unit id="add-database-server">
-              <source>Add Database Server</source>
-              <target>Προσθήκη διακομιστή βάσης δεδομένων</target>
+                <source>Add Database Server</source>
+                <target>Προσθήκη διακομιστή βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
-              <source>Edit Database Server</source>
-              <target>Επεξεργασία διακομιστή βάσης δεδομένων</target>
+                <source>Edit Database Server</source>
+                <target>Επεξεργασία διακομιστή βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="engine">
-              <source>Engine</source>
-              <target>Μηχανή</target>
+                <source>Engine</source>
+                <target>Μηχανή</target>
             </trans-unit>
             <trans-unit id="host">
-              <source>Host</source>
-              <target>Host</target>
+                <source>Host</source>
+                <target>Host</target>
             </trans-unit>
             <trans-unit id="port">
-              <source>Port</source>
-              <target>Port</target>
+                <source>Port</source>
+                <target>Port</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
-              <source>IP or DNS Name</source>
-              <target>IP ή Όνομα DNS</target>
+                <source>IP or DNS Name</source>
+                <target>IP ή Όνομα DNS</target>
             </trans-unit>
             <trans-unit id="certificate">
-              <source>Certificate</source>
-              <target>Πιστοποιητικό</target>
+                <source>Certificate</source>
+                <target>Πιστοποιητικό</target>
             </trans-unit>
             <trans-unit id="set-active">
-              <source>Set Active</source>
-              <target>Ενεργοποίηση</target>
+                <source>Set Active</source>
+                <target>Ενεργοποίηση</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
-              <source>Database Server has been added.</source>
-              <target>Προστέθηκε ο διακομιστής βάσης δεδομένων.</target>
+                <source>Database Server has been added.</source>
+                <target>Προστέθηκε ο διακομιστής βάσης δεδομένων.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
-              <source>Database Server has been updated.</source>
-              <target>Ο διακομιστής βάσης δεδομένων έχει ενημερωθεί.</target>
+                <source>Database Server has been updated.</source>
+                <target>Ο διακομιστής βάσης δεδομένων έχει ενημερωθεί.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
-              <source>Database Server has been deleted.</source>
-              <target>Ο διακομιστής βάσης δεδομένων έχει διαγραφεί.</target>
+                <source>Database Server has been deleted.</source>
+                <target>Ο διακομιστής βάσης δεδομένων έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
-              <source>Database Server has been changed.</source>
-              <target>Ο διακομιστής βάσης δεδομένων έχει αλλάξει.</target>
+                <source>Database Server has been changed.</source>
+                <target>Ο διακομιστής βάσης δεδομένων έχει αλλάξει.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
-              <source>Custom Domain</source>
-              <target>Προσαρμοσμένος τομέας</target>
+                <source>Custom Domain</source>
+                <target>Προσαρμοσμένος τομέας</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
-              <source>TLS Certificate</source>
-              <target>TLS Πιστοποιητικά</target>
+                <source>TLS Certificate</source>
+                <target>TLS Πιστοποιητικά</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
-              <source>Let's Encrypt HTTP Challenge</source>
-              <target>Let's Encrypt HTTP Challenge</target>
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Let's Encrypt HTTP Challenge</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-dns-challenge">
-              <source>Let's Encrypt DNS Challenge</source>
-              <target>Let's Encrypt DNS Challenge</target>
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Let's Encrypt DNS Challenge</target>
             </trans-unit>
             <trans-unit id="backups">
-              <source>Backups</source>
-              <target>Αντίγραφα ασφαλείας</target>
+                <source>Backups</source>
+                <target>Αντίγραφα ασφαλείας</target>
             </trans-unit>
             <trans-unit id="images">
-              <source>Images</source>
-              <target>Images</target>
+                <source>Images</source>
+                <target>Images</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
-              <source>AWS Credentials</source>
-              <target>AWS Διαπιστευτήρια</target>
+                <source>AWS Credentials</source>
+                <target>AWS Διαπιστευτήρια</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
-              <source>AWS Access Key</source>
-              <target>AWS Κλειδί πρόσβασης</target>
+                <source>AWS Access Key</source>
+                <target>AWS Κλειδί πρόσβασης</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
-              <source>AWS Secret Access Key</source>
-              <target>AWS Μυστικό κλειδί πρόσβασης</target>
+                <source>AWS Secret Access Key</source>
+                <target>AWS Μυστικό κλειδί πρόσβασης</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
-              <source>AWS Access Keys are not valid.</source>
-              <target>Τα κλειδιά πρόσβασης AWS δεν είναι έγκυρα.</target>
+                <source>AWS Access Keys are not valid.</source>
+                <target>Τα κλειδιά πρόσβασης AWS δεν είναι έγκυρα.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
-              <source>AWS Access Keys have been saved.</source>
-              <target>Τα κλειδιά πρόσβασης AWS έχουν αποθηκευτεί.</target>
+                <source>AWS Access Keys have been saved.</source>
+                <target>Τα κλειδιά πρόσβασης AWS έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
-              <source>Images Settings</source>
-              <target>Ρυθμίσεις Images</target>
+                <source>Images Settings</source>
+                <target>Ρυθμίσεις Images</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
-              <source>Enable Automatic Images</source>
-              <target>Ενεργοποίηση Αυτόματων Images</target>
+                <source>Enable Automatic Images</source>
+                <target>Ενεργοποίηση Αυτόματων Images</target>
             </trans-unit>
             <trans-unit id="frequency">
-              <source>Frequency</source>
-              <target>Συχνότητα</target>
+                <source>Frequency</source>
+                <target>Συχνότητα</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
-              <source>Retention Period (Days)</source>
-              <target>Περίοδος διατήρησης (ημέρες)</target>
+                <source>Retention Period (Days)</source>
+                <target>Περίοδος διατήρησης (ημέρες)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
-              <source>Images Settings have been saved.</source>
-              <target>Οι ρυθμίσεις έχουν αποθηκευτεί.</target>
+                <source>Images Settings have been saved.</source>
+                <target>Οι ρυθμίσεις έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="every-hour">
-              <source>Every Hour</source>
-              <target>Κάθε ώρα</target>
+                <source>Every Hour</source>
+                <target>Κάθε ώρα</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
-              <source>Every Three Hours</source>
-              <target>Κάθε τρεις ώρες</target>
+                <source>Every Three Hours</source>
+                <target>Κάθε τρεις ώρες</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
-              <source>Every Six Hours</source>
-              <target>Κάθε έξι ώρες</target>
+                <source>Every Six Hours</source>
+                <target>Κάθε έξι ώρες</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
-              <source>Every Twelve Hours</source>
-              <target>Κάθε δώδεκα ώρες</target>
+                <source>Every Twelve Hours</source>
+                <target>Κάθε δώδεκα ώρες</target>
             </trans-unit>
             <trans-unit id="once-per-day">
-              <source>Once per Day</source>
-              <target>Ένα την ημέρα</target>
+                <source>Once per Day</source>
+                <target>Ένα την ημέρα</target>
             </trans-unit>
             <trans-unit id="create-image">
-              <source>Create Image</source>
-              <target>Δημιουργία Image</target>
+                <source>Create Image</source>
+                <target>Δημιουργία Image</target>
             </trans-unit>
             <trans-unit id="image-name">
-              <source>Image Name</source>
-              <target>Όνομα Image</target>
+                <source>Image Name</source>
+                <target>Όνομα Image</target>
             </trans-unit>
             <trans-unit id="no-images-found">
-              <source>No images found.</source>
-              <target>Δεν βρέθηκαν images.</target>
+                <source>No images found.</source>
+                <target>Δεν βρέθηκαν images.</target>
             </trans-unit>
             <trans-unit id="available">
-              <source>Available</source>
-              <target>Διαθέσιμο</target>
+                <source>Available</source>
+                <target>Διαθέσιμο</target>
             </trans-unit>
             <trans-unit id="pending">
-              <source>Pending</source>
-              <target>Εκκρεμής</target>
+                <source>Pending</source>
+                <target>Εκκρεμής</target>
             </trans-unit>
             <trans-unit id="failed">
-              <source>Failed</source>
-              <target>Απέτυχε</target>
+                <source>Failed</source>
+                <target>Απέτυχε</target>
             </trans-unit>
             <trans-unit id="created-at">
-              <source>Created At</source>
-              <target>Δημιουργήθηκε στις</target>
+                <source>Created At</source>
+                <target>Δημιουργήθηκε στις</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
-              <source>Image is being created.</source>
-              <target>Το Image δημιουργείται.</target>
+                <source>Image is being created.</source>
+                <target>Το Image δημιουργείται.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
-              <source>Image is being deleted.</source>
-              <target>Το Image διαγράφεται.</target>
+                <source>Image is being deleted.</source>
+                <target>Το Image διαγράφεται.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
-              <source>Access Token is not valid.</source>
-              <target>Το Access Token δεν είναι έγκυρο.</target>
+                <source>Access Token is not valid.</source>
+                <target>Το Access Token δεν είναι έγκυρο.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
-              <source>Access Token has been saved.</source>
-              <target>Το Access Token αποθηκεύτηκε.</target>
+                <source>Access Token has been saved.</source>
+                <target>Το Access Token αποθηκεύτηκε.</target>
             </trans-unit>
             <trans-unit id="access-token">
-              <source>Access Token</source>
-              <target>Access Token</target>
+                <source>Access Token</source>
+                <target>Access Token</target>
             </trans-unit>
             <trans-unit id="snapshots">
-              <source>Snapshots</source>
-              <target>Στιγμιότυπα</target>
+                <source>Snapshots</source>
+                <target>Στιγμιότυπα</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
-              <source>Snapshots Settings</source>
-              <target>Ρυθμίσεις Στιγμιοτύπων</target>
+                <source>Snapshots Settings</source>
+                <target>Ρυθμίσεις Στιγμιοτύπων</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
-              <source>Enable Automatic Snapshots</source>
-              <target>Ενεργοποίηση Αυτόματων Στιγμιότυπων</target>
+                <source>Enable Automatic Snapshots</source>
+                <target>Ενεργοποίηση Αυτόματων Στιγμιότυπων</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
-              <source>Create Snapshot</source>
-              <target>Δημιουργία Στιγμιότυπου</target>
+                <source>Create Snapshot</source>
+                <target>Δημιουργία Στιγμιότυπου</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
-              <source>No snapshots found.</source>
-              <target>Δεν βρέθηκαν στιγμιότυπα</target>
+                <source>No snapshots found.</source>
+                <target>Δεν βρέθηκαν στιγμιότυπα</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
-              <source>Snapshot Name</source>
-              <target>Όνομα στιγμιοτύπου</target>
+                <source>Snapshot Name</source>
+                <target>Όνομα στιγμιοτύπου</target>
             </trans-unit>
             <trans-unit id="size">
-              <source>Size</source>
-              <target>Μέγεθος</target>
+                <source>Size</source>
+                <target>Μέγεθος</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
-              <source>Snapshot is being created.</source>
-              <target>Το στιγμιότυπο δημιουργείται.</target>
+                <source>Snapshot is being created.</source>
+                <target>Το στιγμιότυπο δημιουργείται.</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
-              <source>Snapshot is being deleted.</source>
-              <target>Το στιγμιότυπο διαγράφεται.</target>
+                <source>Snapshot is being deleted.</source>
+                <target>Το στιγμιότυπο διαγράφεται.</target>
             </trans-unit>
             <trans-unit id="service-account-keys">
-              <source>Service Account Keys</source>
-              <target>Κλειδιά λογαριασμού υπηρεσίας</target>
+                <source>Service Account Keys</source>
+                <target>Κλειδιά λογαριασμού υπηρεσίας</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
-              <source>Service Account Keys are not valid.</source>
-              <target>Τα κλειδιά λογαριασμού υπηρεσίας δεν είναι έγκυρα.</target>
+                <source>Service Account Keys are not valid.</source>
+                <target>Τα κλειδιά λογαριασμού υπηρεσίας δεν είναι έγκυρα.</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
-              <source>Service Account Keys have been saved.</source>
-              <target>Τα κλειδιά λογαριασμού υπηρεσίας έχουν αποθηκευτεί.</target>
+                <source>Service Account Keys have been saved.</source>
+                <target>Τα κλειδιά λογαριασμού υπηρεσίας έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="api-key">
-              <source>Api Key</source>
-              <target>Api Key</target>
+                <source>Api Key</source>
+                <target>Api Key</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
-              <source>Api Key is not valid.</source>
-              <target>Το Api key δεν είναι έγκυρο.</target>
+                <source>Api Key is not valid.</source>
+                <target>Το Api key δεν είναι έγκυρο.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
-              <source>Api Key has been saved.</source>
-              <target>Το Api Key έχει αποθηκευτεί.</target>
+                <source>Api Key has been saved.</source>
+                <target>Το Api Key έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="api-token">
-              <source>Api Token</source>
-              <target>Api Token</target>
+                <source>Api Token</source>
+                <target>Api Token</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
-              <source>Api Token is not valid.</source>
-              <target>Το Api Token δεν είναι έγκυρο.</target>
+                <source>Api Token is not valid.</source>
+                <target>Το Api Token δεν είναι έγκυρο.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
-              <source>Api Token has been saved.</source>
-              <target>Το Api Token έχει αποθηκευτεί.</target>
+                <source>Api Token has been saved.</source>
+                <target>Το Api Token έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
-              <source>No sites found.</source>
-              <target>Δεν βρέθηκαν ιστοσελίδες.</target>
+                <source>No sites found.</source>
+                <target>Δεν βρέθηκαν ιστοσελίδες.</target>
             </trans-unit>
             <trans-unit id="add-site">
-              <source>+ Add Site</source>
-              <target>+ Νέα Ιστοσελίδα</target>
+                <source>+ Add Site</source>
+                <target>+ Νέα Ιστοσελίδα</target>
             </trans-unit>
             <trans-unit id="domain">
-              <source>Domain</source>
-              <target>Τομέας</target>
+                <source>Domain</source>
+                <target>Τομέας</target>
             </trans-unit>
             <trans-unit id="site-user">
-              <source>Site User</source>
-              <target>Χρήστης ιστότοπου</target>
+                <source>Site User</source>
+                <target>Χρήστης ιστότοπου</target>
             </trans-unit>
             <trans-unit id="app">
-              <source>App</source>
-              <target>Εφαρμογή</target>
+                <source>App</source>
+                <target>Εφαρμογή</target>
             </trans-unit>
             <trans-unit id="manage">
-              <source>Manage</source>
-              <target>Διαχείριση</target>
+                <source>Manage</source>
+                <target>Διαχείριση</target>
             </trans-unit>
             <trans-unit id="ip-address">
-              <source>IP Address</source>
-              <target>IP Διεύθυνση</target>
+                <source>IP Address</source>
+                <target>IP Διεύθυνση</target>
             </trans-unit>
             <trans-unit id="vhost">
-              <source>Vhost</source>
-              <target>Vhost</target>
+                <source>Vhost</source>
+                <target>Vhost</target>
             </trans-unit>
             <trans-unit id="databases">
-              <source>Databases</source>
-              <target>Βάσεις δεδομένων</target>
+                <source>Databases</source>
+                <target>Βάσεις δεδομένων</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
-              <source>SSL/TLS</source>
-              <target>SSL/TLS</target>
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
             </trans-unit>
             <trans-unit id="ssh-ftp">
-              <source>SSH/FTP</source>
-              <target>SSH/FTP</target>
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
             </trans-unit>
             <trans-unit id="file-manager">
-              <source>File Manager</source>
-              <target>Διαχείριση αρχείων</target>
+                <source>File Manager</source>
+                <target>Διαχείριση αρχείων</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
-              <source>Cron Jobs</source>
-              <target>Cron Jobs</target>
+                <source>Cron Jobs</source>
+                <target>Cron Jobs</target>
             </trans-unit>
             <trans-unit id="logs">
-              <source>Logs</source>
-              <target>Logs</target>
+                <source>Logs</source>
+                <target>Logs</target>
             </trans-unit>
             <trans-unit id="domain-settings">
-              <source>Domain Settings</source>
-              <target>Ρυθμίσεις τομέα</target>
+                <source>Domain Settings</source>
+                <target>Ρυθμίσεις τομέα</target>
             </trans-unit>
             <trans-unit id="root-directory">
-              <source>Root Directory</source>
-              <target>Κατάλογος root</target>
+                <source>Root Directory</source>
+                <target>Κατάλογος root</target>
             </trans-unit>
             <trans-unit id="domain-name">
-              <source>Domain Name</source>
-              <target>Ονομα τομέα</target>
+                <source>Domain Name</source>
+                <target>Ονομα τομέα</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
-              <source>Root Directory has been saved.</source>
-              <target>Ο ριζικός κατάλογος έχει αποθηκευτεί.</target>
+                <source>Root Directory has been saved.</source>
+                <target>Ο ριζικός κατάλογος έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="php-settings">
-              <source>PHP Settings</source>
-              <target>Ρυθμίσεις PHP</target>
+                <source>PHP Settings</source>
+                <target>Ρυθμίσεις PHP</target>
             </trans-unit>
             <trans-unit id="php-version">
-              <source>PHP Version</source>
-              <target>Έκδοση PHP</target>
+                <source>PHP Version</source>
+                <target>Έκδοση PHP</target>
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
-              <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-              <target>Ορίζει τη μέγιστη ποσότητα μνήμης που επιτρέπεται να εκχωρεί μια δέσμη ενεργειών.</target>
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>Ορίζει τη μέγιστη ποσότητα μνήμης που επιτρέπεται να εκχωρεί μια δέσμη ενεργειών.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
-              <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-              <target>Ορίζει τον μέγιστο χρόνο που επιτρέπεται να εκτελεστεί ένα σενάριο προτού τερματιστεί από τον αναλυτή.</target>
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>Ορίζει τον μέγιστο χρόνο που επιτρέπεται να εκτελεστεί ένα σενάριο προτού τερματιστεί από τον
+                    αναλυτή.
+                </target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
-              <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-              <target>Ορίζει τον μέγιστο χρόνο που επιτρέπεται σε ένα σενάριο να αναλύει δεδομένα εισόδου, όπως POST και GET.</target>
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>Ορίζει τον μέγιστο χρόνο που επιτρέπεται σε ένα σενάριο να αναλύει δεδομένα εισόδου, όπως POST
+                    και GET.
+                </target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
-              <source>Sets the limit of the number of inputs for posting forms.</source>
-              <target>Ορίζει το όριο του αριθμού των εισροών για την ανάρτηση φορμών.</target>
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>Ορίζει το όριο του αριθμού των εισροών για την ανάρτηση φορμών.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
-              <source>Maximum size of POST data that PHP will accept.</source>
-              <target>Μέγιστο μέγεθος δεδομένων POST που θα δεχτεί η PHP.</target>
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>Μέγιστο μέγεθος δεδομένων POST που θα δεχτεί η PHP.</target>
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
-              <source>The maximum size of an uploaded file.</source>
-              <target>Το μέγιστο μέγεθος ενός μεταφορτωμένου αρχείου.</target>
+                <source>The maximum size of an uploaded file.</source>
+                <target>Το μέγιστο μέγεθος ενός μεταφορτωμένου αρχείου.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
-              <source>You can define any PHP parameters like you would define in the php.ini.</source>
-              <target>Μπορείτε να ορίσετε οποιεσδήποτε παραμέτρους PHP όπως θα ορίζατε στο php.ini.</target>
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>Μπορείτε να ορίσετε οποιεσδήποτε παραμέτρους PHP όπως θα ορίζατε στο php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
-              <source>Additional Configuration Directives</source>
-              <target>Πρόσθετες οδηγίες διαμόρφωσης</target>
+                <source>Additional Configuration Directives</source>
+                <target>Πρόσθετες οδηγίες διαμόρφωσης</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
-              <source>PHP Settings have been saved.</source>
-              <target>Οι ρυθμίσεις PHP έχουν αποθηκευτεί.</target>
+                <source>PHP Settings have been saved.</source>
+                <target>Οι ρυθμίσεις PHP έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="delete-site">
-              <source>Delete Site</source>
-              <target>Διαγραφή Ιστοσελίδας</target>
+                <source>Delete Site</source>
+                <target>Διαγραφή Ιστοσελίδας</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-              <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-              <target>Η διαγραφή ενός ιστότοπου θα καταργήσει οριστικά όλα τα αρχεία του ιστότοπου, τις βάσεις δεδομένων, τους χρήστες και τις ρυθμίσεις παραμέτρων και θα είναι μη ανακτήσιμα.</target>
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they
+                    will be non-recoverable.
+                </source>
+                <target>Η διαγραφή ενός ιστότοπου θα καταργήσει οριστικά όλα τα αρχεία του ιστότοπου, τις βάσεις
+                    δεδομένων, τους χρήστες και τις ρυθμίσεις παραμέτρων και θα είναι μη ανακτήσιμα.
+                </target>
             </trans-unit>
             <trans-unit id="cancel">
-              <source>Cancel</source>
-              <target>Ακύρωση</target>
+                <source>Cancel</source>
+                <target>Ακύρωση</target>
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
-              <source>To confirm deletion, type %domain% into the field.</source>
-              <target>Για να επιβεβαιώσετε τη διαγραφή, πληκτρολογήστε %domain% στο πεδίο.</target>
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>Για να επιβεβαιώσετε τη διαγραφή, πληκτρολογήστε %domain% στο πεδίο.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
-              <source>Site has been deleted.</source>
-              <target>Ο ιστότοπος έχει διαγραφεί.</target>
+                <source>Site has been deleted.</source>
+                <target>Ο ιστότοπος έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
-              <source>Site User Settings</source>
-              <target>Ρυθμίσεις χρήστη ιστότοπου</target>
+                <source>Site User Settings</source>
+                <target>Ρυθμίσεις χρήστη ιστότοπου</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
-              <source>Site User Settings have been saved.</source>
-              <target>Οι ρυθμίσεις χρήστη τοποθεσίας έχουν αποθηκευτεί.</target>
+                <source>Site User Settings have been saved.</source>
+                <target>Οι ρυθμίσεις χρήστη τοποθεσίας έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
-              <source>SSH Keys</source>
-              <target>SSH Keys</target>
+                <source>SSH Keys</source>
+                <target>SSH Keys</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
-              <source>Vhost Editor</source>
-              <target>Επεξεργαστής Vhost</target>
+                <source>Vhost Editor</source>
+                <target>Επεξεργαστής Vhost</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
-              <source>Vhost has been saved.</source>
-              <target>Το Vhost έχει αποθηκευτεί.</target>
+                <source>Vhost has been saved.</source>
+                <target>Το Vhost έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
-              <source>Vhost is not valid, error message: %errorMessage%</source>
-              <target>Το Vhost δεν είναι έγκυρο, μήνυμα σφάλματος: %errorMessage%</target>
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Το Vhost δεν είναι έγκυρο, μήνυμα σφάλματος: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="no-databases-found">
-              <source>No databases found.</source>
-              <target>Δεν βρέθηκαν βάσεις δεδομένων.</target>
+                <source>No databases found.</source>
+                <target>Δεν βρέθηκαν βάσεις δεδομένων.</target>
             </trans-unit>
             <trans-unit id="database">
-              <source>Database</source>
-              <target>Βάση δεδομένων</target>
+                <source>Database</source>
+                <target>Βάση δεδομένων</target>
             </trans-unit>
             <trans-unit id="add-database">
-              <source>Add Database</source>
-              <target>Προσθήκη βάσης δεδομένων</target>
+                <source>Add Database</source>
+                <target>Προσθήκη βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="new-database">
-              <source>New Database</source>
-              <target>Νέα Βάση Δεδομένων</target>
+                <source>New Database</source>
+                <target>Νέα Βάση Δεδομένων</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
-              <source>Database has been added.</source>
-              <target>Προστέθηκε βάση δεδομένων.</target>
+                <source>Database has been added.</source>
+                <target>Προστέθηκε βάση δεδομένων.</target>
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
-              <source>Database has been deleted.</source>
-              <target>Η βάση δεδομένων έχει διαγραφεί.</target>
+                <source>Database has been deleted.</source>
+                <target>Η βάση δεδομένων έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="database-users">
-              <source>Database Users</source>
-              <target>Χρήστες βάσης δεδομένων</target>
+                <source>Database Users</source>
+                <target>Χρήστες βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="add-database-user">
-              <source>Add Database User</source>
-              <target>Προσθήκη χρήστη βάσης δεδομένων</target>
+                <source>Add Database User</source>
+                <target>Προσθήκη χρήστη βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
-              <source>No database users found.</source>
-              <target>Δεν βρέθηκαν χρήστες βάσης δεδομένων.</target>
+                <source>No database users found.</source>
+                <target>Δεν βρέθηκαν χρήστες βάσης δεδομένων.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
-              <source>Read and Write</source>
-              <target>Aνάγνωσης και εγγραφής</target>
+                <source>Read and Write</source>
+                <target>Aνάγνωσης και εγγραφής</target>
             </trans-unit>
             <trans-unit id="read-only">
-              <source>Read Only</source>
-              <target>Μόνο ανάγνωση</target>
+                <source>Read Only</source>
+                <target>Μόνο ανάγνωση</target>
             </trans-unit>
             <trans-unit id="new-database-user">
-              <source>New Database User</source>
-              <target>Νέος χρήστης βάσης δεδομένων</target>
+                <source>New Database User</source>
+                <target>Νέος χρήστης βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="database-name">
-               <source>Database Name</source>
-               <target>Όνομα βάσης δεδομένων</target>
+                <source>Database Name</source>
+                <target>Όνομα βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="database-user-name">
-              <source>Database User Name</source>
-              <target>Όνομα χρήστη βάσης δεδομένων</target>
+                <source>Database User Name</source>
+                <target>Όνομα χρήστη βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="database-user-password">
-              <source>Database User Password</source>
-              <target>Κωδικός χρήστη βάσης δεδομένων</target>
+                <source>Database User Password</source>
+                <target>Κωδικός χρήστη βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="permissions">
-              <source>Permissions</source>
-              <target>Άδειες</target>
+                <source>Permissions</source>
+                <target>Άδειες</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
-              <source>No database found; create a database first.</source>
-              <target>Δεν βρέθηκε βάση δεδομένων. Δημιουργήστε πρώτα μια βάση δεδομένων.</target>
+                <source>No database found; create a database first.</source>
+                <target>Δεν βρέθηκε βάση δεδομένων. Δημιουργήστε πρώτα μια βάση δεδομένων.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
-              <source>Database User has been added.</source>
-              <target>Προστέθηκε χρήστης βάσης δεδομένων.</target>
+                <source>Database User has been added.</source>
+                <target>Προστέθηκε χρήστης βάσης δεδομένων.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
-              <source>Database User has been deleted.</source>
-              <target>Ο χρήστης της βάσης δεδομένων έχει διαγραφεί.</target>
+                <source>Database User has been deleted.</source>
+                <target>Ο χρήστης της βάσης δεδομένων έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
-              <source>Edit Database User</source>
-              <target>Επεξεργασία χρήστη βάσης δεδομένων</target>
+                <source>Edit Database User</source>
+                <target>Επεξεργασία χρήστη βάσης δεδομένων</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
-              <source>Database User has been updated.</source>
-              <target>Ο χρήστης της βάσης δεδομένων έχει ενημερωθεί.</target>
+                <source>Database User has been updated.</source>
+                <target>Ο χρήστης της βάσης δεδομένων έχει ενημερωθεί.</target>
             </trans-unit>
             <trans-unit id="certificates">
-              <source>Certificates</source>
-              <target>Πιστοποιητικά</target>
+                <source>Certificates</source>
+                <target>Πιστοποιητικά</target>
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
-              <source>New Let's Encrypt Certificate</source>
-              <target>Νέο πιστοποιητικό Let's Encrypt</target>
+                <source>New Let's Encrypt Certificate</source>
+                <target>Νέο πιστοποιητικό Let's Encrypt</target>
             </trans-unit>
             <trans-unit id="import-certificate">
-              <source>Import Certificate</source>
-              <target>Εισαγωγή Πιστοποιητικού</target>
+                <source>Import Certificate</source>
+                <target>Εισαγωγή Πιστοποιητικού</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
-              <source>No certificates found.</source>
-              <target>Δεν βρέθηκαν πιστοποιητικά.</target>
+                <source>No certificates found.</source>
+                <target>Δεν βρέθηκαν πιστοποιητικά.</target>
             </trans-unit>
             <trans-unit id="self-signed">
-              <source>Self-Signed</source>
-              <target>Αυτουπογεγραμμένο</target>
+                <source>Self-Signed</source>
+                <target>Αυτουπογεγραμμένο</target>
             </trans-unit>
             <trans-unit id="imported">
-              <source>Imported</source>
-              <target>Εισαγόμενο</target>
+                <source>Imported</source>
+                <target>Εισαγόμενο</target>
             </trans-unit>
             <trans-unit id="domains">
-              <source>Domains</source>
-              <target>Τομείς</target>
+                <source>Domains</source>
+                <target>Τομείς</target>
             </trans-unit>
             <trans-unit id="expiration-date">
-              <source>Expiration Date</source>
-              <target>Ημ. λήξης</target>
+                <source>Expiration Date</source>
+                <target>Ημ. λήξης</target>
             </trans-unit>
             <trans-unit id="installed">
-              <source>Installed</source>
-              <target>Εγκατεστημένο</target>
+                <source>Installed</source>
+                <target>Εγκατεστημένο</target>
             </trans-unit>
             <trans-unit id="private-key">
-              <source>Private Key</source>
-              <target>Ιδιωτικό κλειδί</target>
+                <source>Private Key</source>
+                <target>Ιδιωτικό κλειδί</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
-              <source>Certificate Chain</source>
-              <target>Αλυσίδα Πιστοποιητικών</target>
+                <source>Certificate Chain</source>
+                <target>Αλυσίδα Πιστοποιητικών</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
-              <source>Certificate has been deleted.</source>
-              <target>Το πιστοποιητικό έχει διαγραφεί.</target>
+                <source>Certificate has been deleted.</source>
+                <target>Το πιστοποιητικό έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
-              <source>Certificate has been installed.</source>
-              <target>Το πιστοποιητικό έχει εγκατασταθεί.</target>
+                <source>Certificate has been installed.</source>
+                <target>Το πιστοποιητικό έχει εγκατασταθεί.</target>
             </trans-unit>
             <trans-unit id="install">
-              <source>Install</source>
-              <target>Εγκατάσταση</target>
+                <source>Install</source>
+                <target>Εγκατάσταση</target>
             </trans-unit>
             <trans-unit id="import-and-install">
-              <source>Import and Install</source>
-              <target>Εισαγωγή και εγκατάσταση</target>
+                <source>Import and Install</source>
+                <target>Εισαγωγή και εγκατάσταση</target>
             </trans-unit>
             <trans-unit id="create-and-install">
-              <source>Create and Install</source>
-              <target>Δημιουργία και εγκατάσταση</target>
+                <source>Create and Install</source>
+                <target>Δημιουργία και εγκατάσταση</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
-              <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-              <target>Εισαγάγετε ονόματα τομέα που θέλετε να προστατεύσετε με ένα Let's Encrypt SSL πιστοποιητικό.</target>
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>Εισαγάγετε ονόματα τομέα που θέλετε να προστατεύσετε με ένα Let's Encrypt SSL πιστοποιητικό.
+                </target>
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
-              <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-              <target>Απαιτείται μια εγγραφή DNS (A Record) που να δείχνει σε αυτόν τον διακομιστή για την έκδοση του Let's Encrypt πιστοποιητικού.</target>
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>Απαιτείται μια εγγραφή DNS (A Record) που να δείχνει σε αυτόν τον διακομιστή για την έκδοση του
+                    Let's Encrypt πιστοποιητικού.
+                </target>
             </trans-unit>
             <trans-unit id="domain-names">
-              <source>Domain Names</source>
-              <target>Ονόματα Τομέα</target>
+                <source>Domain Names</source>
+                <target>Ονόματα Τομέα</target>
             </trans-unit>
             <trans-unit id="add-domain">
-              <source>Add Domain</source>
-              <target>Προσθήκη τομέα</target>
+                <source>Add Domain</source>
+                <target>Προσθήκη τομέα</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
-              <source>CloudPanel Custom Domain</source>
-              <target>Προσαρμοσμένος τομέας CloudPanel</target>
+                <source>CloudPanel Custom Domain</source>
+                <target>Προσαρμοσμένος τομέας CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
-              <source>CloudPanel Custom Domain has been saved.</source>
-              <target>Ο προσαρμοσμένος τομέας CloudPanel έχει αποθηκευτεί.</target>
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>Ο προσαρμοσμένος τομέας CloudPanel έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
-              <source>IP Blocking</source>
-              <target>Αποκλεισμός IP</target>
+                <source>IP Blocking</source>
+                <target>Αποκλεισμός IP</target>
             </trans-unit>
             <trans-unit id="add-ip">
-              <source>Add IP</source>
-              <target>Προσθήκη IP</target>
+                <source>Add IP</source>
+                <target>Προσθήκη IP</target>
             </trans-unit>
             <trans-unit id="ip">
-              <source>IP</source>
-              <target>IP</target>
+                <source>IP</source>
+                <target>IP</target>
             </trans-unit>
             <trans-unit id="no-ips-found">
-              <source>No ips found.</source>
-              <target>Δεν βρέθηκαν διευθύνσεις IP.</target>
+                <source>No ips found.</source>
+                <target>Δεν βρέθηκαν διευθύνσεις IP.</target>
             </trans-unit>
             <trans-unit id="examples">
-              <source>Examples</source>
-              <target>Παραδείγματα</target>
+                <source>Examples</source>
+                <target>Παραδείγματα</target>
             </trans-unit>
             <trans-unit id="single-ip">
-              <source>Single IP</source>
-              <target>Ενιαία IP</target>
+                <source>Single IP</source>
+                <target>Ενιαία IP</target>
             </trans-unit>
             <trans-unit id="cidr-format">
-              <source>CIDR Format</source>
-              <target>Μορφή CIDR</target>
+                <source>CIDR Format</source>
+                <target>Μορφή CIDR</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
-              <source>IP has been added.</source>
-              <target>Προστέθηκε η διεύθυνση IP.</target>
+                <source>IP has been added.</source>
+                <target>Προστέθηκε η διεύθυνση IP.</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
-              <source>IP has been deleted.</source>
-              <target>Η IP έχει διαγραφεί.</target>
+                <source>IP has been deleted.</source>
+                <target>Η IP έχει διαγραφεί.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
-              <source>No bots found.</source>
-              <target>Δεν βρέθηκαν bots.</target>
+                <source>No bots found.</source>
+                <target>Δεν βρέθηκαν bots.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
-              <source>Bots Blocking</source>
-              <target>Αποκλεισμός bots</target>
+                <source>Bots Blocking</source>
+                <target>Αποκλεισμός bots</target>
             </trans-unit>
             <trans-unit id="add-bot">
-              <source>Add Bot</source>
-              <target>Προσθήκη Bot</target>
+                <source>Add Bot</source>
+                <target>Προσθήκη Bot</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
-              <source>Bot has been added.</source>
-              <target>Το Bot προστέθηκε.</target>
+                <source>Bot has been added.</source>
+                <target>Το Bot προστέθηκε.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
-              <source>Bot has been deleted.</source>
-              <target>Το Bot διαγράφτηκε.</target>
+                <source>Bot has been deleted.</source>
+                <target>Το Bot διαγράφτηκε.</target>
             </trans-unit>
             <trans-unit id="bot-name">
-              <source>Bot Name</source>
-              <target>Όνομα Bot</target>
+                <source>Bot Name</source>
+                <target>Όνομα Bot</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
-              <source>Basic Authentication</source>
-              <target>Βασικός έλεγχος ταυτότητας</target>
+                <source>Basic Authentication</source>
+                <target>Βασικός έλεγχος ταυτότητας</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
-              <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-              <target>Λίστα IP για παράκαμψη του βασικού ελέγχου ταυτότητας, διαχωρισμένη με κόμμα.</target>
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>Λίστα IP για παράκαμψη του βασικού ελέγχου ταυτότητας, διαχωρισμένη με κόμμα.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
-              <source>Whitelisted IPs</source>
-              <target>IP στo Whitelist</target>
+                <source>Whitelisted IPs</source>
+                <target>IP στo Whitelist</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
-              <source>Allow traffic from Cloudflare only</source>
-              <target>Να επιτρέπεται η κυκλοφορία μόνο από το Cloudflare CDN</target>
+                <source>Allow traffic from Cloudflare only</source>
+                <target>Να επιτρέπεται η κυκλοφορία μόνο από το Cloudflare CDN</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
-              <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-              <target>Οι διακομιστές ονομάτων (nameservers) πρέπει να είναι στην Cloudflare και ο διακομιστής μεσολάβησης πρέπει να είναι ενεργοποιημένος για τις εγγραφές dns σας.</target>
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns
+                    records.
+                </source>
+                <target>Οι διακομιστές ονομάτων (nameservers) πρέπει να είναι στην Cloudflare και ο διακομιστής
+                    μεσολάβησης πρέπει να είναι ενεργοποιημένος για τις εγγραφές dns σας.
+                </target>
             </trans-unit>
             <trans-unit id="ssh-users">
-              <source>SSH Users</source>
-              <target>Χρήστες SSH</target>
+                <source>SSH Users</source>
+                <target>Χρήστες SSH</target>
             </trans-unit>
             <trans-unit id="home-directory">
-              <source>Home Directory</source>
-              <target>Αρχικός Κατάλογος</target>
+                <source>Home Directory</source>
+                <target>Αρχικός Κατάλογος</target>
             </trans-unit>
             <trans-unit id="ssh-user">
-              <source>SSH User</source>
-              <target>Χρήστης SSH</target>
+                <source>SSH User</source>
+                <target>Χρήστης SSH</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
-              <source>New SSH User</source>
-              <target>Νέος SSH Χρήστης</target>
+                <source>New SSH User</source>
+                <target>Νέος SSH Χρήστης</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
-              <source>User has been saved.</source>
-              <target>Ο χρήστης έχει αποθηκευτεί.</target>
+                <source>User has been saved.</source>
+                <target>Ο χρήστης έχει αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="ftp-user">
-              <source>FTP User</source>
-              <target>Χρήστης FTP</target>
+                <source>FTP User</source>
+                <target>Χρήστης FTP</target>
             </trans-unit>
             <trans-unit id="ftp-users">
-              <source>FTP Users</source>
-              <target>FTP Χρήστες</target>
+                <source>FTP Users</source>
+                <target>FTP Χρήστες</target>
             </trans-unit>
             <trans-unit id="new-ftp-user">
-              <source>New FTP User</source>
-              <target>Νέος FTP Χρήστης</target>
+                <source>New FTP User</source>
+                <target>Νέος FTP Χρήστης</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
-              <source>Add Cron Job</source>
-              <target>Προσθήκη Cron Job</target>
+                <source>Add Cron Job</source>
+                <target>Προσθήκη Cron Job</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
-              <source>No cron jobs found.</source>
-              <target>Δεν βρέθηκαν cron jobs.</target>
+                <source>No cron jobs found.</source>
+                <target>Δεν βρέθηκαν cron jobs.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
-              <source>New Cron Job</source>
-              <target>Νέο Cron Job</target>
+                <source>New Cron Job</source>
+                <target>Νέο Cron Job</target>
             </trans-unit>
             <trans-unit id="every-minute">
-              <source>Every minute</source>
-              <target>Κάθε λεπτό</target>
+                <source>Every minute</source>
+                <target>Κάθε λεπτό</target>
             </trans-unit>
             <trans-unit id="every-5-minutes">
-              <source>Every 5 minutes</source>
-              <target>Κάθε 5 λεπτά</target>
+                <source>Every 5 minutes</source>
+                <target>Κάθε 5 λεπτά</target>
             </trans-unit>
             <trans-unit id="once-an-hour">
-              <source>Once an hour</source>
-              <target>Μια φορά την ώρα</target>
+                <source>Once an hour</source>
+                <target>Μια φορά την ώρα</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
-              <source>Every 3 hours</source>
-              <target>Κάθε 3 ώρες</target>
+                <source>Every 3 hours</source>
+                <target>Κάθε 3 ώρες</target>
             </trans-unit>
             <trans-unit id="once-a-day">
-              <source>Once a day (At 00:00)</source>
-              <target>Μια φορά την ημέρα (Στις 00:00)</target>
+                <source>Once a day (At 00:00)</source>
+                <target>Μια φορά την ημέρα (Στις 00:00)</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
-              <source>Every day at 4 a.m.</source>
-              <target>Κάθε φορά στις  4 π.μ.</target>
+                <source>Every day at 4 a.m.</source>
+                <target>Κάθε φορά στις 4 π.μ.</target>
             </trans-unit>
             <trans-unit id="once-a-week">
-              <source>Once a week (At 00:00 on Sunday)</source>
-              <target>Μια φορά την εβδομάδα (Στις 00:00 την Κυριακή)</target>
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>Μια φορά την εβδομάδα (Στις 00:00 την Κυριακή)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
-              <source>Once a month (At 00:00 on day-of-month 1)</source>
-              <target>Μία φορά το μήνα (Στις 00:00 την πρώτη ημέρα του μήνα)</target>
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>Μία φορά το μήνα (Στις 00:00 την πρώτη ημέρα του μήνα)</target>
             </trans-unit>
             <trans-unit id="template">
-              <source>Template</source>
-              <target>Πρότυπο</target>
+                <source>Template</source>
+                <target>Πρότυπο</target>
             </trans-unit>
             <trans-unit id="minute">
-              <source>Minute</source>
-              <target>Λεπτό</target>
+                <source>Minute</source>
+                <target>Λεπτό</target>
             </trans-unit>
             <trans-unit id="hour">
-              <source>Hour</source>
-              <target>Ώρα</target>
+                <source>Hour</source>
+                <target>Ώρα</target>
             </trans-unit>
             <trans-unit id="day">
-              <source>Day</source>
-              <target>Μέρα</target>
+                <source>Day</source>
+                <target>Μέρα</target>
             </trans-unit>
             <trans-unit id="month">
-              <source>Month</source>
-              <target>Μήνα</target>
+                <source>Month</source>
+                <target>Μήνα</target>
             </trans-unit>
             <trans-unit id="weekday">
-              <source>Weekday</source>
-              <target>Μέρα της εβδομάδας</target>
+                <source>Weekday</source>
+                <target>Μέρα της εβδομάδας</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
-              <source>Cron Job has been added.</source>
-              <target>Το Cron Job προστέθηκε.</target>
+                <source>Cron Job has been added.</source>
+                <target>Το Cron Job προστέθηκε.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
-              <source>Cron Job has been deleted.</source>
-              <target>Το Cron Job διαγράφτηκε.</target>
+                <source>Cron Job has been deleted.</source>
+                <target>Το Cron Job διαγράφτηκε.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
-              <source>Cron Job has been saved.</source>
-              <target>Το Cron Job αποθηκεύτηκε.</target>
+                <source>Cron Job has been saved.</source>
+                <target>Το Cron Job αποθηκεύτηκε.</target>
             </trans-unit>
             <trans-unit id="schedule">
-              <source>Schedule</source>
-              <target>Πρόγραμμα</target>
+                <source>Schedule</source>
+                <target>Πρόγραμμα</target>
             </trans-unit>
             <trans-unit id="command">
-              <source>Command</source>
-              <target>Εντολή</target>
+                <source>Command</source>
+                <target>Εντολή</target>
             </trans-unit>
             <trans-unit id="update">
-              <source>Update</source>
-              <target>Ενημέρωση</target>
+                <source>Update</source>
+                <target>Ενημέρωση</target>
             </trans-unit>
             <trans-unit id="page-speed">
-              <source>PageSpeed</source>
-              <target>PageSpeed</target>
+                <source>PageSpeed</source>
+                <target>PageSpeed</target>
             </trans-unit>
             <trans-unit id="purge-cache">
-              <source>Purge Cache</source>
-              <target>Εκκαθάριση Cache</target>
+                <source>Purge Cache</source>
+                <target>Εκκαθάριση Cache</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
-              <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-              <target>Οι ρυθμίσεις PageSpeed δεν είναι έγκυρες, μήνυμα σφάλματος: %errorMessage%</target>
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>Οι ρυθμίσεις PageSpeed δεν είναι έγκυρες, μήνυμα σφάλματος: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
-              <source>Page Speed Settings have been saved.</source>
-              <target>Οι ρυθμίσεις ταχύτητας σελίδας έχουν αποθηκευτεί.</target>
+                <source>Page Speed Settings have been saved.</source>
+                <target>Οι ρυθμίσεις ταχύτητας σελίδας έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
-              <source>Page Speed Cache has been purged.</source>
-              <target>Η προσωρινή μνήμη ταχύτητας σελίδας έχει εκκαθαριστεί.</target>
+                <source>Page Speed Cache has been purged.</source>
+                <target>Η προσωρινή μνήμη ταχύτητας σελίδας έχει εκκαθαριστεί.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
-              <source>What kind of site would you like to create?</source>
-              <target>Τι είδους ιστότοπο θα θέλατε να δημιουργήσετε;</target>
+                <source>What kind of site would you like to create?</source>
+                <target>Τι είδους ιστότοπο θα θέλατε να δημιουργήσετε;</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
-              <source>Create a WordPress Site</source>
-              <target>Δημιουργήστε έναν ιστότοπο WordPress</target>
+                <source>Create a WordPress Site</source>
+                <target>Δημιουργήστε έναν ιστότοπο WordPress</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
-              <source>Create a PHP Site</source>
-              <target>Δημιουργήστε έναν ιστότοπο PHP</target>
+                <source>Create a PHP Site</source>
+                <target>Δημιουργήστε έναν ιστότοπο PHP</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
-              <source>Create a Node.js Site</source>
-              <target>Δημιουργήστε έναν ιστότοπο Node.js</target>
+                <source>Create a Node.js Site</source>
+                <target>Δημιουργήστε έναν ιστότοπο Node.js</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
-              <source>Create a Static HTML Site</source>
-              <target>Δημιουργήστε μια ιστοσελίδα HTML</target>
+                <source>Create a Static HTML Site</source>
+                <target>Δημιουργήστε μια ιστοσελίδα HTML</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
-              <source>Create a Python Site</source>
-              <target>Δημιουργήστε έναν ιστότοπο Python</target>
+                <source>Create a Python Site</source>
+                <target>Δημιουργήστε έναν ιστότοπο Python</target>
             </trans-unit>
             <trans-unit id="new-site">
-              <source>New Site</source>
-              <target>Νέα Ιστοσελίδα</target>
+                <source>New Site</source>
+                <target>Νέα Ιστοσελίδα</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
-              <source>New WordPress Site</source>
-              <target>Νέα Ιστοσελίδα WordPress</target>
+                <source>New WordPress Site</source>
+                <target>Νέα Ιστοσελίδα WordPress</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
-              <source>Pre-Install WordPress</source>
-              <target>Προεγκαταστήστε το WordPress</target>
+                <source>Pre-Install WordPress</source>
+                <target>Προεγκαταστήστε το WordPress</target>
             </trans-unit>
             <trans-unit id="back">
-              <source>Back</source>
-              <target>Επιστοφή</target>
+                <source>Back</source>
+                <target>Επιστοφή</target>
             </trans-unit>
             <trans-unit id="site-title">
-              <source>Site Title</source>
-              <target>Τίτλος Ιστοσελίδας</target>
+                <source>Site Title</source>
+                <target>Τίτλος Ιστοσελίδας</target>
             </trans-unit>
             <trans-unit id="admin-email">
-              <source>Admin E-Mail</source>
-              <target>E-Mail Διαχειριστή</target>
+                <source>Admin E-Mail</source>
+                <target>E-Mail Διαχειριστή</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
-              <source>Admin User Name</source>
-              <target>Όνομα χρήστη διαχειριστή</target>
+                <source>Admin User Name</source>
+                <target>Όνομα χρήστη διαχειριστή</target>
             </trans-unit>
             <trans-unit id="admin-password">
-              <source>Admin Password</source>
-              <target>Κωδικός διαχειριστή</target>
+                <source>Admin Password</source>
+                <target>Κωδικός διαχειριστή</target>
             </trans-unit>
             <trans-unit id="admin-url">
-              <source>Admin Url</source>
-              <target>Διεύθυνση URL</target>
+                <source>Admin Url</source>
+                <target>Διεύθυνση URL</target>
             </trans-unit>
             <trans-unit id="multisite">
-              <source>Multisite</source>
-              <target>Multisite</target>
+                <source>Multisite</source>
+                <target>Multisite</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
-              <source>Vhost Template %vhostTemplate% does not exist.</source>
-              <target>Το πρότυπο Vhost %vhostTemplate% δεν υπάρχει.</target>
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>Το πρότυπο Vhost %vhostTemplate% δεν υπάρχει.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
-              <source>WordPress Site has been created!</source>
-              <target>Ο ιστότοπος WordPress δημιουργήθηκε!</target>
+                <source>WordPress Site has been created!</source>
+                <target>Ο ιστότοπος WordPress δημιουργήθηκε!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
-              <source>Copy the credentials for your created WordPress site.</source>
-              <target>Αντιγράψτε τα διαπιστευτήρια για τον ιστότοπο WordPress που δημιουργήσατε.</target>
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>Αντιγράψτε τα διαπιστευτήρια για τον ιστότοπο WordPress που δημιουργήσατε.</target>
             </trans-unit>
             <trans-unit id="creating">
-              <source>Creating</source>
-              <target>Δημιουργία</target>
+                <source>Creating</source>
+                <target>Δημιουργία</target>
             </trans-unit>
             <trans-unit id="saving">
-              <source>Saving</source>
-              <target>Αποθήκευση</target>
+                <source>Saving</source>
+                <target>Αποθήκευση</target>
             </trans-unit>
             <trans-unit id="new-php-site">
-              <source>New PHP Site</source>
-              <target>Νέα Ιστοσελίδα PHP</target>
+                <source>New PHP Site</source>
+                <target>Νέα Ιστοσελίδα PHP</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
-              <source>The main SSH User for the site.</source>
-              <target>Ο κύριος χρήστης SSH για τον ιστότοπο.</target>
+                <source>The main SSH User for the site.</source>
+                <target>Ο κύριος χρήστης SSH για τον ιστότοπο.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
-              <source>Site has been created.</source>
-              <target>Ο ιστότοπος έχει δημιουργηθεί.</target>
+                <source>Site has been created.</source>
+                <target>Ο ιστότοπος έχει δημιουργηθεί.</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
-              <source>New Static HTML Site</source>
-              <target>Νέα στατική ιστοσελίδα HTML</target>
+                <source>New Static HTML Site</source>
+                <target>Νέα στατική ιστοσελίδα HTML</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
-              <source>New Node.js Site</source>
-              <target>Νέος ιστότοπος Node.js</target>
+                <source>New Node.js Site</source>
+                <target>Νέος ιστότοπος Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
-              <source>Node.js Version</source>
-              <target>Έκδοση Node.js</target>
+                <source>Node.js Version</source>
+                <target>Έκδοση Node.js</target>
             </trans-unit>
             <trans-unit id="app-port">
-              <source>App Port</source>
-              <target>Θύρα εφαρμογής</target>
+                <source>App Port</source>
+                <target>Θύρα εφαρμογής</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
-              <source>Node.js Settings</source>
-              <target>Ρυθμίσεις Node.js</target>
+                <source>Node.js Settings</source>
+                <target>Ρυθμίσεις Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
-              <source>Node.js Settings have been saved.</source>
-              <target>Οι ρυθμίσεις του Node.js έχουν αποθηκευτεί.</target>
+                <source>Node.js Settings have been saved.</source>
+                <target>Οι ρυθμίσεις του Node.js έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="new-python-site">
-              <source>New Python Site</source>
-              <target>Νέος ιστότοπος Python</target>
+                <source>New Python Site</source>
+                <target>Νέος ιστότοπος Python</target>
             </trans-unit>
             <trans-unit id="python-version">
-              <source>Python Version</source>
-              <target>Έκδοση Python</target>
+                <source>Python Version</source>
+                <target>Έκδοση Python</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
-              <source>Is another version needed?</source>
-              <target>Χρειάζεστε άλλη έκδοση;</target>
+                <source>Is another version needed?</source>
+                <target>Χρειάζεστε άλλη έκδοση;</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
-              <source>Check out the docs.</source>
-              <target>Ρίξτε μια ματιά στην τεκμηρίωση</target>
+                <source>Check out the docs.</source>
+                <target>Ρίξτε μια ματιά στην τεκμηρίωση</target>
             </trans-unit>
             <trans-unit id="python-settings">
-              <source>Python Settings</source>
-              <target>Ρυθμίσεις Python</target>
+                <source>Python Settings</source>
+                <target>Ρυθμίσεις Python</target>
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
-              <source>Python Settings have been saved.</source>
-              <target>Οι ρυθμίσεις Python έχουν αποθηκευτεί.</target>
+                <source>Python Settings have been saved.</source>
+                <target>Οι ρυθμίσεις Python έχουν αποθηκευτεί.</target>
             </trans-unit>
             <trans-unit id="operating-system">
-              <source>Operating System</source>
-              <target>Λειτουργικό σύστημα</target>
+                <source>Operating System</source>
+                <target>Λειτουργικό σύστημα</target>
             </trans-unit>
             <trans-unit id="cloud">
-              <source>Cloud</source>
-              <target>Cloud</target>
+                <source>Cloud</source>
+                <target>Cloud</target>
             </trans-unit>
             <trans-unit id="region">
-              <source>Region</source>
-              <target>Περιοχή</target>
+                <source>Region</source>
+                <target>Περιοχή</target>
             </trans-unit>
             <trans-unit id="droplet-id">
-              <source>Droplet ID</source>
-              <target>Droplet ID</target>
+                <source>Droplet ID</source>
+                <target>Droplet ID</target>
             </trans-unit>
             <trans-unit id="instance-id">
-              <source>Instance ID</source>
-              <target>Instance ID</target>
+                <source>Instance ID</source>
+                <target>Instance ID</target>
             </trans-unit>
             <trans-unit id="monitoring">
-              <source>Monitoring</source>
-              <target>Παρακολούθηση</target>
+                <source>Monitoring</source>
+                <target>Παρακολούθηση</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
-              <source>Last 30 Minutes</source>
-              <target>Τελευταία 30 λεπτά</target>
+                <source>Last 30 Minutes</source>
+                <target>Τελευταία 30 λεπτά</target>
             </trans-unit>
             <trans-unit id="last-hour">
-              <source>Last Hour</source>
-              <target>Τελευταία ώρα</target>
+                <source>Last Hour</source>
+                <target>Τελευταία ώρα</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
-              <source>Last 3 Hours</source>
-              <target>Τελευταίες 3 ώρες</target>
+                <source>Last 3 Hours</source>
+                <target>Τελευταίες 3 ώρες</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
-              <source>Last 6 Hours</source>
-              <target>Τελευταίες 6 ώρες</target>
+                <source>Last 6 Hours</source>
+                <target>Τελευταίες 6 ώρες</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
-              <source>Last 12 Hours</source>
-              <target>Τελευταίες 12 ώρες</target>
+                <source>Last 12 Hours</source>
+                <target>Τελευταίες 12 ώρες</target>
             </trans-unit>
             <trans-unit id="1-minute">
-              <source>1 Minute</source>
-              <target>1 λεπτό</target>
+                <source>1 Minute</source>
+                <target>1 λεπτό</target>
             </trans-unit>
             <trans-unit id="5-minutes">
-              <source>5 Minutes</source>
-              <target>5 λεπτά</target>
+                <source>5 Minutes</source>
+                <target>5 λεπτά</target>
             </trans-unit>
             <trans-unit id="15-minutes">
-              <source>15 Minutes</source>
-              <target>15 λεπτά</target>
+                <source>15 Minutes</source>
+                <target>15 λεπτά</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
-              <source>CPU Usage</source>
-              <target>Χρήση επεξεργαστή</target>
+                <source>CPU Usage</source>
+                <target>Χρήση επεξεργαστή</target>
             </trans-unit>
             <trans-unit id="disk-usage">
-              <source>Disk Usage</source>
-              <target>Χρήση δίσκου</target>
+                <source>Disk Usage</source>
+                <target>Χρήση δίσκου</target>
             </trans-unit>
             <trans-unit id="memory-usage">
-              <source>Memory Usage</source>
-              <target>Χρήση μνήμης</target>
+                <source>Memory Usage</source>
+                <target>Χρήση μνήμης</target>
             </trans-unit>
             <trans-unit id="load-average">
-              <source>Load Average</source>
-              <target>Μέσος όρος φορτίου</target>
+                <source>Load Average</source>
+                <target>Μέσος όρος φορτίου</target>
             </trans-unit>
         </body>
     </file>

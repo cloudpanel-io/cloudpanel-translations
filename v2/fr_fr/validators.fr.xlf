@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="fr" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="does-not-exist">
-              <source>Does not exist.</source>
-              <target>N'existe pas.</target>
+                <source>Does not exist.</source>
+                <target>N'existe pas.</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
-              <source>This value already exists.</source>
-              <target>Cette valeur existe déjà.</target>
+                <source>This value already exists.</source>
+                <target>Cette valeur existe déjà.</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
-              <source>This value is not a valid domain name.</source>
-              <target>Cette valeur n'est pas un nom de domaine valide.</target>
+                <source>This value is not a valid domain name.</source>
+                <target>Cette valeur n'est pas un nom de domaine valide.</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
-              <source>Does not match certificate.</source>
-              <target>Ne correspond pas au certificat.</target>
+                <source>Does not match certificate.</source>
+                <target>Ne correspond pas au certificat.</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
-              <source>Database Server credentials are not valid.</source>
-              <target>Identifiants du serveur de base de données erronés.</target>
+                <source>Database Server credentials are not valid.</source>
+                <target>Identifiants du serveur de base de données erronés.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
-              <source>Port is already in use.</source>
-              <target>Port déjà utilisé.</target>
+                <source>Port is already in use.</source>
+                <target>Port déjà utilisé.</target>
             </trans-unit>
         </body>
     </file>
