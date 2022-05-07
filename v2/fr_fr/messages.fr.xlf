@@ -96,7 +96,7 @@
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lituanienne</target>
+                <target>Lithuanien</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
@@ -565,7 +565,6 @@
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
               <source>It's recommended to reboot the instance after changing the timezone.</source>
               <target>Il est conseillé de redémarrer le serveur après avoir changé de fuseau horaire.</target>
-            </trans-unit>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
