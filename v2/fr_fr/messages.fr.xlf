@@ -175,8 +175,8 @@
                 <target>Créer utilisateur</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
-              <source>I agree to the license terms and acknowledge the privacy policy.</source>
-              <target>J'accepte les termes du <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">contrat de licence</a>]]> et ai pris connaissance de la <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">politique de confidentialité</a>]]>.</target>
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>J'accepte les termes du <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">contrat de licence</a>]]> et ai pris connaissance de la <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">politique de confidentialité</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
