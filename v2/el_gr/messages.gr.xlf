@@ -72,23 +72,23 @@
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>γαλλική γλώσσα</target>
+                <target>Γαλλικά</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Ολλανδός</target>
+                <target>Ολλανδικά</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>ιταλικός</target>
+                <target>Ιταλικά</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>Ισπανικά</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Ισπανικά</target>
+                <target>Πορτογαλικά</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
