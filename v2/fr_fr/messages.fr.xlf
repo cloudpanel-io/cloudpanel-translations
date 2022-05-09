@@ -840,11 +840,11 @@
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Utilisateur du site</target>
+                <target>Gestionnaire du site</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Mot de passe utilisateur du site</target>
+                <target>Mot de passe gestionnaire du site</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
@@ -876,7 +876,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>Gestionnaire de fichiers</target>
+                <target>Explorateur de fichiers</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
