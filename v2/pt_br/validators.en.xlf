@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="pt" target-language="pt" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="does-not-exist">
+                <source>Does not exist.</source>
+                <target>Não existe.</target>
+            </trans-unit>
+            <trans-unit id="this-value-adready-exists">
+                <source>This value already exists.</source>
+                <target>Este valor já existe.</target>
+            </trans-unit>
+            <trans-unit id="this-value-is-not-a-valid-domain-name">
+                <source>This value is not a valid domain name.</source>
+                <target>Este valor não é um nome de domínio válido.</target>
+            </trans-unit>
+            <trans-unit id="does-not-match-certificate">
+                <source>Does not match certificate.</source>
+                <target>Não corresponde ao certificado.</target>
+            </trans-unit>
+            <trans-unit id="database-server-credentials-are-not-valid">
+                <source>Database Server credentials are not valid.</source>
+                <target>As credenciais do servidor de banco de dados não são válidas.</target>
+            </trans-unit>
+            <trans-unit id="port-is-already-in-use">
+                <source>Port is already in use.</source>
+                <target>A porta já está em uso.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
