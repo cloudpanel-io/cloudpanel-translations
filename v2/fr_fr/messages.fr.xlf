@@ -116,7 +116,7 @@
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>Processeur</target>
+                <target>Processeur(s)</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
@@ -596,7 +596,7 @@
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP ou nom de DNS</target>
+                <target>IP ou nom de domaine</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
@@ -1152,7 +1152,7 @@
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Un champ DNS pointant vers ce serveur est requis pour émettre un certificat Let's Encrypt.</target>
+                <target>Un enregistrement DNS pointant vers ce serveur est requis pour émettre un certificat Let's Encrypt.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1248,7 +1248,7 @@
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>Les serveurs de nom doivent pointer vers Cloudflare, et le proxy doit être activé dans vos champs DNS.</target>
+                <target>Les enregistrements DNS doivent pointer vers Cloudflare, et le proxy doit être activé dans ceux-ci.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
@@ -1372,7 +1372,7 @@
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>Mise à jour</target>
+                <target>Mettre à jour</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
@@ -1468,7 +1468,7 @@
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Copier les identifiants du nouveau site WordPress.</target>
+                <target>Identifiants du nouveau site WordPress.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
