@@ -1,4 +1,4 @@
-var en = {
+var nl = {
     Save: "Opslaan",
     "Save all": "Alles opslaan",
     Rename: "Hernoemen",
