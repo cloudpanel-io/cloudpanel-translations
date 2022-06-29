@@ -860,7 +860,7 @@
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>IP Address</target>
+                <target>Endereço de IP</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
@@ -868,7 +868,7 @@
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>Databases</target>
+                <target>Bancos de dados</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
@@ -880,7 +880,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>File Manager</target>
+                <target>Gerenciador de arquivos</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
@@ -892,103 +892,103 @@
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
-                <target>Domain Settings</target>
+                <target>Configurações de domínio</target>
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Root Directory</target>
+                <target>Diretório raiz</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>Domain Name</target>
+                <target>Nome do domínio</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
-                <target>Application</target>
+                <target>Inscrição</target>
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target>Generic</target>
+                <target>Genérico</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>Root Directory has been saved.</target>
+                <target>O diretório raiz foi salvo.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
-                <target>PHP Settings</target>
+                <target>Configurações do PHP</target>
             </trans-unit>
             <trans-unit id="php-version">
                 <source>PHP Version</source>
-                <target>PHP Version</target>
+                <target>Versão do PHP</target>
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Sets the maximum amount of memory that a script is allowed to allocate.</target>
+                <target>Define a quantidade máxima de memória que um script pode alocar.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Sets the maximum time a script is allowed to run before it is terminated by the parser.</target>
+                <target>Define o tempo máximo que um script pode ser executado antes de ser finalizado pelo analisador.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Sets the maximum time a script is allowed to parse input data, like POST and GET.</target>
+                <target>Define o tempo máximo que um script tem permissão para analisar dados de entrada, como POST e GET.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>Sets the limit of the number of inputs for posting forms.</target>
+                <target>Define o limite do número de entradas para formulários de lançamento.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
-                <target>Maximum size of POST data that PHP will accept.</target>
+                <target>Tamanho máximo dos dados POST que o PHP aceitará.</target>
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>The maximum size of an uploaded file.</target>
+                <target>O tamanho máximo de um arquivo carregado.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>You can define any PHP parameters like you would define in the php.ini.</target>
+                <target>Você pode definir qualquer parâmetro PHP como você definiria no php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
-                <target>Additional Configuration Directives</target>
+                <target>Diretivas de configuração adicionais</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
                 <source>PHP Settings have been saved.</source>
-                <target>PHP Settings have been saved.</target>
+                <target>As configurações do PHP foram salvas.</target>
             </trans-unit>
             <trans-unit id="delete-site">
                 <source>Delete Site</source>
-                <target>Delete Site</target>
+                <target>Excluir site</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</target>
+                <target>A exclusão de um site removerá permanentemente todos os arquivos, bancos de dados, usuários e configurações do site, e eles serão irrecuperáveis.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
-                <target>Cancel</target>
+                <target>Cancelar</target>
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>To confirm deletion, type %domain% into the field.</target>
+                <target>Para confirmar a exclusão, digite %domain% no campo.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>Site has been deleted.</target>
+                <target>O site foi excluído.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
-                <target>Site User Settings</target>
+                <target>Configurações do usuário do site</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
-                <target>Site User Settings have been saved.</target>
+                <target>As configurações do usuário do site foram salvas.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
-                <target>SSH Keys</target>
+                <target>Chaves SSH</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
