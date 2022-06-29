@@ -1392,71 +1392,71 @@
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>Page Speed Settings have been saved.</target>
+                <target>As configurações de velocidade da página foram salvas.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>Page Speed Cache has been purged.</target>
+                <target>O Page Speed Cache foi limpo.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
-                <target>What kind of site would you like to create?</target>
+                <target>Que tipo de site você gostaria de criar?</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>Create a WordPress Site</target>
+                <target>Criar um site WordPress</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>Create a PHP Site</target>
+                <target>Criar um site PHP</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Create a Node.js Site</target>
+                <target>Criar um site Node.js</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Create a Static HTML Site</target>
+                <target>Criar um site HTML estático</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Create a Python Site</target>
+                <target>Criar um site Python</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>New Site</target>
+                <target>Novo site</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>New WordPress Site</target>
+                <target>Novo site WordPress</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>Pre-Install WordPress</target>
+                <target>Pré-instalar o WordPress</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
-                <target>Back</target>
+                <target>De volta</target>
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
-                <target>Site Title</target>
+                <target>titulo do site</target>
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>Admin E-Mail</target>
+                <target>E-mail do administrador</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>Admin User Name</target>
+                <target>Nome de usuário do administrador</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>Admin Password</target>
+                <target>Senha do administrador</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
-                <target>Admin Url</target>
+                <target>URL do administrador</target>
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
@@ -1464,87 +1464,87 @@
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>Vhost Template %vhostTemplate% does not exist.</target>
+                <target>Modelo Vhost %vhostTemplate% não existe.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>WordPress Site has been created!</target>
+                <target>O site WordPress foi criado!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Copy the credentials for your created WordPress site.</target>
+                <target>Copie as credenciais do seu site WordPress criado.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>Creating</target>
+                <target>Criando</target>
             </trans-unit>
             <trans-unit id="saving">
                 <source>Saving</source>
-                <target>Saving</target>
+                <target>Salvando</target>
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
-                <target>New PHP Site</target>
+                <target>Novo site PHP</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>The main SSH User for the site.</target>
+                <target>O principal usuário SSH do site.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
-                <target>Site has been created.</target>
+                <target>O site foi criado.</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>New Static HTML Site</target>
+                <target>Novo site HTML estático</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>New Node.js Site</target>
+                <target>Novo site Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Node.js Version</target>
+                <target>Versão do Node.js</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>App Port</target>
+                <target>Porta do aplicativo</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
-                <target>Node.js Settings</target>
+                <target>Configurações do Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
-                <target>Node.js Settings have been saved.</target>
+                <target>As configurações do Node.js foram salvas.</target>
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>New Python Site</target>
+                <target>Novo site Python</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
-                <target>Python Version</target>
+                <target>Versão do Python</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>Is another version needed?</target>
+                <target>É necessária outra versão?</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Check out the docs.</target>
+                <target>Confira os documentos.</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
-                <target>Python Settings</target>
+                <target>Configurações do Python</target>
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
                 <source>Python Settings have been saved.</source>
-                <target>Python Settings have been saved.</target>
+                <target>As configurações do Python foram salvas.</target>
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>Operating System</target>
+                <target>Sistema operacional</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
@@ -1552,67 +1552,67 @@
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
-                <target>Region</target>
+                <target>Região</target>
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
-                <target>Droplet ID</target>
+                <target>ID do Droplet</target>
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>Instance ID</target>
+                <target>ID da instância</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>Monitoring</target>
+                <target>Monitoramento</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>Last 30 Minutes</target>
+                <target>Últimos 30 minutos</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Last Hour</target>
+                <target>Última hora</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Last 3 Hours</target>
+                <target>Últimas 3 horas</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>Last 6 Hours</target>
+                <target>Últimas 6 horas</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Last 12 Hours</target>
+                <target>Últimas 12 horas</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 Minute</target>
+                <target>1 minuto</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 Minutes</target>
+                <target>5 minutos</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 Minutes</target>
+                <target>15 minutos</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>CPU Usage</target>
+                <target>Uso da CPU</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Disk Usage</target>
+                <target>Uso de disco</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Memory Usage</target>
+                <target>Uso da Memória</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Load Average</target>
+                <target>Carga média</target>
             </trans-unit>
         </body>
     </file>
