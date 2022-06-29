@@ -688,75 +688,75 @@
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Images Settings have been saved.</target>
+                <target>As configurações de imagens foram salvas.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
-                <target>Every Hour</target>
+                <target>Toda hora</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>Every Three Hours</target>
+                <target>A cada três horas</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Every Six Hours</target>
+                <target>A cada seis horas</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Every Twelve Hours</target>
+                <target>A cada doze horas</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>Once per Day</target>
+                <target>Uma vez por dia</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Create Image</target>
+                <target>Criar imagem</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Image Name</target>
+                <target>Nome da imagem</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>No images found.</target>
+                <target>Nenhuma imagem encontrada.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Available</target>
+                <target>Disponível</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
-                <target>Pending</target>
+                <target>Pendente</target>
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
-                <target>Failed</target>
+                <target>Falhou</target>
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Created At</target>
+                <target>Criado em</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Image is being created.</target>
+                <target>A imagem está sendo criada.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Image is being deleted.</target>
+                <target>A imagem está sendo excluída.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>Access Token is not valid.</target>
+                <target>O token de acesso não é válido.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
                 <source>Access Token has been saved.</source>
-                <target>Access Token has been saved.</target>
+                <target>O token de acesso foi salvo.</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>Access Token</target>
+                <target>Token de acesso</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
@@ -764,15 +764,15 @@
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
-                <target>Snapshots Settings</target>
+                <target>Configurações de Snapshots</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Enable Automatic Snapshots</target>
+                <target>Ativar Snapshots automático</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>Create Snapshot</target>
+                <target>Criar Snapshot</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
