@@ -1168,19 +1168,19 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>CloudPanel Custom Domain</target>
+                <target>Domínio personalizado do CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>CloudPanel Custom Domain has been saved.</target>
+                <target>O domínio personalizado do CloudPanel foi salvo.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
-                <target>IP Blocking</target>
+                <target>Bloqueio de IP</target>
             </trans-unit>
             <trans-unit id="add-ip">
                 <source>Add IP</source>
-                <target>Add IP</target>
+                <target>Adicionar IP</target>
             </trans-unit>
             <trans-unit id="ip">
                 <source>IP</source>
@@ -1188,143 +1188,143 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>No ips found.</target>
+                <target>Nenhum IP encontrado.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
-                <target>Examples</target>
+                <target>Exemplos</target>
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
-                <target>Single IP</target>
+                <target>IP único</target>
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>CIDR Format</target>
+                <target>Formato CIDR</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
-                <target>IP has been added.</target>
+                <target>IP foi adicionado.</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>IP has been deleted.</target>
+                <target>O IP foi excluído.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
-                <target>No bots found.</target>
+                <target>Nenhum bot encontrado.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
-                <target>Bots Blocking</target>
+                <target>Bloqueio de bots</target>
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>Add Bot</target>
+                <target>Adicionar bot</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>Bot has been added.</target>
+                <target>Bot foi adicionado.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
-                <target>Bot has been deleted.</target>
+                <target>O bot foi excluído.</target>
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>Bot Name</target>
+                <target>Nome do bot</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>Basic Authentication</target>
+                <target>Autenticação básica</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>List of IPs to bypassing the basic authentication, comma separated.</target>
+                <target>Lista de IPs para ignorar a autenticação básica, separados por vírgula.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>Whitelisted IPs</target>
+                <target>IPs permitidos</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
-                <target>Allow traffic from Cloudflare only</target>
+                <target>Permitir tráfego apenas da Cloudflare</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</target>
+                <target>Os servidores de nomes devem apontar para a Cloudflare e o proxy precisa estar habilitado para seus registros de DNS.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
-                <target>SSH Users</target>
+                <target>Usuários SSH</target>
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Home Directory</target>
+                <target>Diretório inicial</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
-                <target>SSH User</target>
+                <target>Usuário SSH</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>New SSH User</target>
+                <target>Novo usuário SSH</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
-                <target>User has been saved.</target>
+                <target>O usuário foi salvo.</target>
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
-                <target>FTP User</target>
+                <target>Usuário FTP</target>
             </trans-unit>
             <trans-unit id="ftp-users">
                 <source>FTP Users</source>
-                <target>FTP Users</target>
+                <target>Usuários de FTP</target>
             </trans-unit>
             <trans-unit id="new-ftp-user">
                 <source>New FTP User</source>
-                <target>New FTP User</target>
+                <target>Novo usuário de FTP</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Add Cron Job</target>
+                <target>Adicionar Cron Job</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>No cron jobs found.</target>
+                <target>Nenhum cron jobs encontrado.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>New Cron Job</target>
+                <target>Novo Cron Job</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
-                <target>Every minute</target>
+                <target>Todo minuto</target>
             </trans-unit>
             <trans-unit id="every-5-minutes">
                 <source>Every 5 minutes</source>
-                <target>Every 5 minutes</target>
+                <target>A cada 5 minutos</target>
             </trans-unit>
             <trans-unit id="once-an-hour">
                 <source>Once an hour</source>
-                <target>Once an hour</target>
+                <target>Uma vez por hora</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
                 <source>Every 3 hours</source>
-                <target>Every 3 hours</target>
+                <target>A cada 3 horas</target>
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>Once a day (At 00:00)</target>
+                <target>Uma vez por dia (às 00:00)</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
-                <target>Every day at 4 a.m.</target>
+                <target>Todos os dias às 4 a.m.</target>
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>Once a week (At 00:00 on Sunday)</target>
+                <target>Uma vez por semana (às 00:00 de domingo)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
