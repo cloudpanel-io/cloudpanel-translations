@@ -67,5 +67,5 @@ var en = {
     "Extract directory": "Extrair diretório",
     "Extracting...": "Extraindo...",
     "Compress": "Comprimir",
-    "Compressing...": "Compressão...",
+    "Compressing....": "Compressão....",
 };
