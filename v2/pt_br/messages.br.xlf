@@ -1328,67 +1328,67 @@
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>Once a month (At 00:00 on day-of-month 1)</target>
+                <target>Uma vez por mês (às 00:00 do 1 dia do mês)</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
-                <target>Template</target>
+                <target>Modelo</target>
             </trans-unit>
             <trans-unit id="minute">
                 <source>Minute</source>
-                <target>Minute</target>
+                <target>Minuto</target>
             </trans-unit>
             <trans-unit id="hour">
                 <source>Hour</source>
-                <target>Hour</target>
+                <target>Hora</target>
             </trans-unit>
             <trans-unit id="day">
                 <source>Day</source>
-                <target>Day</target>
+                <target>Dia</target>
             </trans-unit>
             <trans-unit id="month">
                 <source>Month</source>
-                <target>Month</target>
+                <target>Mês</target>
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
-                <target>Weekday</target>
+                <target>Dia da semana</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>Cron Job has been added.</target>
+                <target>Cron Job foi adicionado.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Cron Job has been deleted.</target>
+                <target>O Cron Job foi excluído.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Cron Job has been saved.</target>
+                <target>O Cron Job foi salvo.</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
-                <target>Schedule</target>
+                <target>Cronograma</target>
             </trans-unit>
             <trans-unit id="command">
                 <source>Command</source>
-                <target>Command</target>
+                <target>Comando</target>
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>Update</target>
+                <target>Atualizar</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>PageSpeed</target>
+                <target>Velocidade da página</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Purge Cache</target>
+                <target>Limpar cache</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>PageSpeed Setting are not valid, error message: %errorMessage%</target>
+                <target>A configuração de velocidade de página não é válida, mensagem de erro: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
