@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="br" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>Yes</target>
+                <target>Sim</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
-                <target>No</target>
+                <target>Não</target>
             </trans-unit>
             <trans-unit id="all">
                 <source>All</source>
-                <target>All</target>
+                <target>Tudo</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>Support</source>
-                <target>Support</target>
+                <target>Suporte</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Click to Copy</target>
+                <target>Clique para Copiar</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Copied to Clipboard</target>
+                <target>Copiado para a área de transferência</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>Loading</target>
+                <target>Carregando</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
@@ -36,23 +36,23 @@
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
-                <target>Contact</target>
+                <target>Contato</target>
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Docs</target>
+                <target>Documentos</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Update available</target>
+                <target>Atualização disponível</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Issues</target>
+                <target>Problemas</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Submit</target>
+                <target>Enviar</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
@@ -64,47 +64,51 @@
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>German</target>
+                <target>Alemão</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>English</target>
+                <target>Inglês</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>French</target>
+                <target>Francês</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Dutch</target>
+                <target>Holandês</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italian</target>
+                <target>Italiano</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>Espanhol</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portuguese</target>
+                <target>Portugues</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>Português Brasileiro</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>Grego</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Lituano</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>IPv4 Public IP</target>
+                <target>IPv4 Publico IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IPv6 Public IP</target>
+                <target>IPv6 Publico IP</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
@@ -120,15 +124,15 @@
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores</target>
+                <target>Core</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Memory</target>
+                <target>Memoria</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>User Name</target>
+                <target>Nome de usuário</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
