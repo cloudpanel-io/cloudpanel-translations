@@ -776,79 +776,79 @@
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
-                <target>No snapshots found.</target>
+                <target>Nenhum snapshots encontrado.</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Snapshot Name</target>
+                <target>Nome do Snapshot</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>Size</target>
+                <target>Tamanho</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
-                <target>Snapshot is being created.</target>
+                <target>O Snapshot está sendo criado.</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
                 <source>Snapshot is being deleted.</source>
-                <target>Snapshot is being deleted.</target>
+                <target>O Snapshot está sendo excluído.</target>
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Service Account Keys</target>
+                <target>Chaves de conta de serviço</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
-                <target>Service Account Keys are not valid.</target>
+                <target>As chaves da conta de serviço não são válidas.</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
                 <source>Service Account Keys have been saved.</source>
-                <target>Service Account Keys have been saved.</target>
+                <target>As chaves da conta de serviço foram salvas.</target>
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Api Key</target>
+                <target>Chave API</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target>Api Key is not valid.</target>
+                <target>A chave de API não é válida.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target>Api Key has been saved.</target>
+                <target>A chave de API foi salva.</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Api Token</target>
+                <target>Token de API</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Api Token is not valid.</target>
+                <target>Api Token não é válido.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Api Token has been saved.</target>
+                <target>Api Token foi salvo.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
-                <target>No sites found.</target>
+                <target>Nenhum site encontrado.</target>
             </trans-unit>
             <trans-unit id="add-site">
                 <source>+ Add Site</source>
-                <target>+ Add Site</target>
+                <target>+ Adicionar site</target>
             </trans-unit>
             <trans-unit id="domain">
                 <source>Domain</source>
-                <target>Domain</target>
+                <target>Domínio</target>
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Site User</target>
+                <target>Usuário do site</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Site User Password</target>
+                <target>Senha do usuário do site</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
@@ -856,7 +856,7 @@
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
-                <target>Manage</target>
+                <target>Gerenciar</target>
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
