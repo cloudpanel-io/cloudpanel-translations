@@ -136,31 +136,31 @@
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Password</target>
+                <target>Senha</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Log In</target>
+                <target>Conecte-se</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>Settings</target>
+                <target>Definições</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Logout</target>
+                <target>Sair</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Language</target>
+                <target>Linguagem</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>First Name</target>
+                <target>Primeiro nome</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Last Name</target>
+                <target>Sobrenome</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
@@ -168,43 +168,43 @@
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>Timezone</target>
+                <target>Fuso horário</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Generate new password</target>
+                <target>Gerar nova senha</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Create User</target>
+                <target>Criar usuário</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>I agree to the <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> and acknowledge the <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
+                <target>eu concordo com o <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> e reconhecer o <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>An error has occurred, error message: %errorMessage%</target>
+                <target>Ocorreu um erro, mensagem de erro: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>Admin User Creation</target>
+                <target>Criação de usuário administrador</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Admin Area</target>
+                <target>Área administrativa</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Dashboard</target>
+                <target>Painel de Controle</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>Account</target>
+                <target>Conta</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Security</target>
+                <target>Segurança</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
