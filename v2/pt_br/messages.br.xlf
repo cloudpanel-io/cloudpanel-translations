@@ -992,179 +992,179 @@
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Vhost Editor</target>
+                <target>Editor Vhost</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>Vhost has been saved.</target>
+                <target>Vhost foi salvo.</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
-                <target>Vhost is not valid, error message: %errorMessage%</target>
+                <target>Mensagem de erro, Vhost não é válido: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
-                <target>No databases found.</target>
+                <target>Nenhum banco de dados encontrado.</target>
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
-                <target>Database</target>
+                <target>Base de dados</target>
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>Add Database</target>
+                <target>Adicionar banco de dados</target>
             </trans-unit>
             <trans-unit id="new-database">
                 <source>New Database</source>
-                <target>New Database</target>
+                <target>Novo banco de dados</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
                 <source>Database has been added.</source>
-                <target>Database has been added.</target>
+                <target>O banco de dados foi adicionado.</target>
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
                 <source>Database has been deleted.</source>
-                <target>Database has been deleted.</target>
+                <target>O banco de dados foi excluído.</target>
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Database Users</target>
+                <target>Usuários de banco de dados</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>Add Database User</target>
+                <target>Adicionar usuário do banco de dados</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
-                <target>No database users found.</target>
+                <target>Nenhum usuário do banco de dados encontrado.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
-                <target>Read and Write</target>
+                <target>Leitura e escrita</target>
             </trans-unit>
             <trans-unit id="read-only">
                 <source>Read Only</source>
-                <target>Read Only</target>
+                <target>Somente leitura</target>
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>New Database User</target>
+                <target>Novo usuário do banco de dados</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Database Name</target>
+                <target>Nome do banco de dados</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>Database User Name</target>
+                <target>Nome de usuário do banco de dados</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>Database User Password</target>
+                <target>Senha do usuário do banco de dados</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
-                <target>Permissions</target>
+                <target>Permissões</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>No database found; create a database first.</target>
+                <target>Nenhum banco de dados encontrado; crie um banco de dados primeiro.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>Database User has been added.</target>
+                <target>O usuário do banco de dados foi adicionado.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>Database User has been deleted.</target>
+                <target>O usuário do banco de dados foi excluído.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
-                <target>Edit Database User</target>
+                <target>Editar usuário do banco de dados</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>Database User has been updated.</target>
+                <target>O usuário do banco de dados foi atualizado.</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
-                <target>Certificates</target>
+                <target>Certificados</target>
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>New Let's Encrypt Certificate</target>
+                <target>Novo certificado Let's Encrypt</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>Import Certificate</target>
+                <target>Importar certificado</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
-                <target>No certificates found.</target>
+                <target>Nenhum certificado encontrado.</target>
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
-                <target>Self-Signed</target>
+                <target>Autoassinado</target>
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
-                <target>Imported</target>
+                <target>Importado</target>
             </trans-unit>
             <trans-unit id="domains">
                 <source>Domains</source>
-                <target>Domains</target>
+                <target>Domínios</target>
             </trans-unit>
             <trans-unit id="expiration-date">
                 <source>Expiration Date</source>
-                <target>Expiration Date</target>
+                <target>Data de validade</target>
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>Installed</target>
+                <target>Instalado</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>Private Key</target>
+                <target>Chave privada</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
-                <target>Certificate Chain</target>
+                <target>Cadeia de certificados</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
                 <source>Certificate has been deleted.</source>
-                <target>Certificate has been deleted.</target>
+                <target>O certificado foi excluído.</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>Certificate has been installed.</target>
+                <target>O certificado foi instalado.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
-                <target>Install</target>
+                <target>Instalar</target>
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>Import and Install</target>
+                <target>Importar e instalar</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>Create and Install</target>
+                <target>Criar e instalar</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</target>
+                <target>Insira os nomes de domínio que você deseja proteger com um Certificado SSL Let's Encrypt.</target>
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</target>
+                <target>Um registro DNS apontando para este servidor é necessário para emitir um Certificado Let's Encrypt.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
-                <target>Domain Names</target>
+                <target>Nomes de domínio</target>
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
-                <target>Add Domain</target>
+                <target>Adicionar domínio</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
