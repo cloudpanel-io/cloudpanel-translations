@@ -1,7 +1,7 @@
 var en = {
-    Save: "Save",
-    "Save all": "Save all",
-    Rename: "Rename",
+    Save: "Salvar",
+    "Save all": "Salvar tudo",
+    Rename: "Renomear",
     Open: "Open",
     Edit: "Edit",
     Delete: "Delete",
