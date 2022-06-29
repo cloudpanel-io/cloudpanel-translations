@@ -468,11 +468,11 @@
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
-                <target>Source</target>
+                <target>Fonte</target>
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>Custom</target>
+                <target>Personalizado</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
@@ -484,111 +484,111 @@
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>My IP</target>
+                <target>Meu IP</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
-                <target>IP or CIDR</target>
+                <target>IP ou CIDR</target>
             </trans-unit>
             <trans-unit id="rule-description">
                 <source>Description</source>
-                <target>Description</target>
+                <target>Descrição</target>
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>Actions</target>
+                <target>Ações</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Edit Firewall Rule</target>
+                <target>Editar regra de firewall</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Basic Auth</target>
+                <target>Autenticação básica</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Enable Basic Auth</target>
+                <target>Ativar autenticação básica</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Basic Auth in front of CloudPanel adds an extra layer of security.</target>
+                <target>A autenticação básica na frente do CloudPanel adiciona uma camada extra de segurança.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Basic Auth has been enabled.</target>
+                <target>A autenticação básica foi habilitada.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Running</target>
+                <target>Corrida</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>Stopped</target>
+                <target>Parou</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
-                <target>Restart</target>
+                <target>Reiniciar</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>Service will restart shortly.</target>
+                <target>O serviço será reiniciado em breve.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
-                <target>Proftpd Settings</target>
+                <target>Configurações Proftpd</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>MasqueradeAddress</target>
+                <target>IP Mascarado</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</target>
+                <target>IP Mascarado faz com que o servidor exiba as informações de rede para o endereço IP ou nome de host DNS especificado para o cliente.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>MasqueradeAddress has been saved.</target>
+                <target>IP Mascarado Foi salvo.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Instance Settings</target>
+                <target>Configurações da instância</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
-                <target>Timezone has been saved.</target>
+                <target>O fuso horário foi salvo.</target>
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
-                <target>Reboot</target>
+                <target>Reiniciar</target>
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Instance will reboot shortly.</target>
+                <target>A instância será reinicializada em breve.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>It's recommended to reboot the instance after changing the timezone.</target>
+                <target>É recomendável reinicializar a instância após alterar o fuso horário.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
-                <target>General</target>
+                <target>Em geral</target>
             </trans-unit>
             <trans-unit id="database-servers">
                 <source>Database Servers</source>
-                <target>Database Servers</target>
+                <target>Servidores de banco de dados</target>
             </trans-unit>
             <trans-unit id="add-database-server">
                 <source>Add Database Server</source>
-                <target>Add Database Server</target>
+                <target>Adicionar servidor de banco de dados</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
                 <source>Edit Database Server</source>
-                <target>Edit Database Server</target>
+                <target>Editar servidor de banco de dados</target>
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
-                <target>Engine</target>
+                <target>Motor</target>
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
@@ -596,51 +596,51 @@
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>Port</target>
+                <target>Porta</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP or DNS Name</target>
+                <target>Nome IP ou DNS</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
-                <target>Certificate</target>
+                <target>Certificado</target>
             </trans-unit>
             <trans-unit id="set-active">
                 <source>Set Active</source>
-                <target>Set Active</target>
+                <target>Ativar</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>Database Server has been added.</target>
+                <target>Servidor de banco de dados foi adicionado.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
-                <target>Database Server has been updated.</target>
+                <target>O servidor de banco de dados foi atualizado.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>Database Server has been deleted.</target>
+                <target>O servidor de banco de dados foi excluído.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>Database Server has been changed.</target>
+                <target>O servidor de banco de dados foi alterado.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Custom Domain</target>
+                <target>Domínio personalizado</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
-                <target>TLS Certificate</target>
+                <target>Certificado TLS</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
-                <target>Let's Encrypt HTTP Challenge</target>
+                <target>Desafio Let's Encrypt HTTP</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-dns-challenge">
                 <source>Let's Encrypt DNS Challenge</source>
-                <target>Let's Encrypt DNS Challenge</target>
+                <target>Desafio Let's Encrypt DNS</target>
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
@@ -648,43 +648,43 @@
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Images</target>
+                <target>Imagens</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>AWS Credentials</target>
+                <target>Credenciais da AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>AWS Access Key</target>
+                <target>Chave de acesso da AWS</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>AWS Secret Access Key</target>
+                <target>Chave de acesso secreta da AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>AWS Access Keys are not valid.</target>
+                <target>As chaves de acesso da AWS não são válidas.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>AWS Access Keys have been saved.</target>
+                <target>As chaves de acesso da AWS foram salvas.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Images Settings</target>
+                <target>Configurações de imagens</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Enable Automatic Images</target>
+                <target>Ativar imagens automáticas</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>Frequency</target>
+                <target>Frequência</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Retention Period (Days)</target>
+                <target>Período de retenção (Dias)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
