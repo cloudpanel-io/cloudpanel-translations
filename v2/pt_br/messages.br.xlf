@@ -352,19 +352,19 @@
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>View</target>
+                <target>Visão</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
-                <target>Notifications</target>
+                <target>Notificações</target>
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
-                <target>No notifications found.</target>
+                <target>Nenhuma notificação encontrada.</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>Notification has been deleted.</target>
+                <target>A notificação foi excluída.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
