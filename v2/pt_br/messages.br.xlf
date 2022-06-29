@@ -368,51 +368,51 @@
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>Show Message</target>
+                <target>Mostrar mensagem</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>Severity</target>
+                <target>Gravidade</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>Date</target>
+                <target>Encontro</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>Message</target>
+                <target>Mensagem</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>Action</target>
+                <target>Ação</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
-                <target>Info</target>
+                <target>Informações</target>
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
-                <target>Warning</target>
+                <target>Aviso</target>
             </trans-unit>
             <trans-unit id="critical">
                 <source>Critical</source>
-                <target>Critical</target>
+                <target>Crítico</target>
             </trans-unit>
             <trans-unit id="more-information">
                 <source>More Information</source>
-                <target>More Information</target>
+                <target>Mais Informações</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>Mark as Read</target>
+                <target>Marcar como Lido</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>Mark as Unread</target>
+                <target>Marcar como não lido</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Instance</target>
+                <target>Instância</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
@@ -420,51 +420,51 @@
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
-                <target>Service</target>
+                <target>Serviço</target>
             </trans-unit>
             <trans-unit id="services">
                 <source>Services</source>
-                <target>Services</target>
+                <target>Serviços</target>
             </trans-unit>
             <trans-unit id="rules">
                 <source>Rules</source>
-                <target>Rules</target>
+                <target>Regras</target>
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>Add Rule</target>
+                <target>Adicionar regra</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target>No rules found.</target>
+                <target>Nenhuma regra encontrada.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>Add Firewall Rule</target>
+                <target>Adicionar regra de firewall</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>Rule has been added.</target>
+                <target>A regra foi adicionada.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>Rule has been deleted.</target>
+                <target>A regra foi excluída.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>Type</target>
+                <target>Modelo</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>Custom TCP</target>
+                <target>TCP personalizado</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Port Range</target>
+                <target>Faixa de portas</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
-                <target>IP Version</target>
+                <target>Versão do IP</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
