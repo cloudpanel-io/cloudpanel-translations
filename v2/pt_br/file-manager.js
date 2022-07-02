@@ -1,4 +1,4 @@
-var pt = {
+var pt_BR = {
     Save: "Salvar",
     "Save all": "Salvar tudo",
     Rename: "Renomear",
