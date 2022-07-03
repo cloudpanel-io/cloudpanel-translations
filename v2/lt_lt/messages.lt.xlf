@@ -90,6 +90,10 @@
                 <source>Portuguese</source>
                 <target>Portugalų</target>
             </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>Portugalų (Brazilijos)</target>
+            </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
                 <target>Graikų</target>

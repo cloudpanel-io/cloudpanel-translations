@@ -90,6 +90,10 @@
                 <source>Portuguese</source>
                 <target>Portuguese</target>
             </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>Portuguese (Brasil)</target>
+            </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
                 <target>Greek</target>

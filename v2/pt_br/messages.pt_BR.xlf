@@ -88,7 +88,11 @@
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portugues</target>
+                <target>Português</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>Português (Brasil)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
