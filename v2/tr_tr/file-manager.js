@@ -1,4 +1,4 @@
-var en = {
+var tr = {
     Save: "Kaydet",
     "Save all": "Hepsini Kaydet",
     Rename: "Yeniden isimlendir",
@@ -48,7 +48,7 @@ var en = {
     video: "video",
     code: "kod",
     document: "döküman",
-    of: "of",
+    of: "dan",
     used: "kullanılan",
     "Open item location": "Öğe konumunu aç",
     "Are you sure you want to delete": "Silmek istediğine emin misin",
