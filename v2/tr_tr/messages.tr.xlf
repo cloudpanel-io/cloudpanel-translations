@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="tr" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>Yes</target>
+                <target>Evet</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
-                <target>No</target>
+                <target>Hayır</target>
             </trans-unit>
             <trans-unit id="all">
                 <source>All</source>
-                <target>All</target>
+                <target>Hepsi</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>Support</source>
-                <target>Support</target>
+                <target>Destek</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Click to Copy</target>
+                <target>Kopyalamak için tıkla</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Copied to Clipboard</target>
+                <target>Kopyalandı</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>Loading</target>
+                <target>Yükleniyor</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
@@ -36,23 +36,23 @@
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
-                <target>Contact</target>
+                <target>İletişim</target>
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Docs</target>
+                <target>Döküman</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Update available</target>
+                <target>Güncelleme mevcut</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Issues</target>
+                <target>Hatalar</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Submit</target>
+                <target>Gönder</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
@@ -60,107 +60,107 @@
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Sites</target>
+                <target>Siteler</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>German</target>
+                <target>Almanca</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>English</target>
+                <target>İngilizce</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>French</target>
+                <target>Fransızca</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Dutch</target>
+                <target>Flemenkçe</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italian</target>
+                <target>İtalyanca</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>İspanyolca</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portuguese</target>
+                <target>Portekizce</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Portuguese (Brasil)</target>
+                <target>Portekizce (Brezilya Aksanı)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>Yunanca</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Litvanyaca</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>IPv4 Public IP</target>
+                <target>IPv4 Herkese Açık IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IPv6 Public IP</target>
+                <target>IPv6 Herkese Açık IP</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>İşletim Sistemi</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Hostname</target>
+                <target>Sunucu Adı</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>CPU</target>
+                <target>İşlemci</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores</target>
+                <target>Çekirdekli</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Memory</target>
+                <target>Hafıza</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>User Name</target>
+                <target>Kullanıcı Adı</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Password</target>
+                <target>Şifre</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Log In</target>
+                <target>Giriş Yap</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>Settings</target>
+                <target>Ayarlar</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Logout</target>
+                <target>Çıkış</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Language</target>
+                <target>Dil</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>First Name</target>
+                <target>Adınız</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Last Name</target>
+                <target>Soy adınız</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
@@ -168,431 +168,431 @@
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>Timezone</target>
+                <target>Saat Dilimi</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Generate new password</target>
+                <target>Yeni bir şifre oluştur</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Create User</target>
+                <target>Kullanıcı Oluştur</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>I agree to the <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> and acknowledge the <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
+                <target>Lisans koşullarını <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> ve gizlilik politikasını <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]> kabul ediyorum.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>An error has occurred, error message: %errorMessage%</target>
+                <target>Bir hata oluştur, hata mesajı: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>Admin User Creation</target>
+                <target>Admin Kullanıcısı Oluştur</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Admin Area</target>
+                <target>Yönetici Alanı</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Dashboard</target>
+                <target>Kontrol Paneli</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>Account</target>
+                <target>Hesap</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Security</target>
+                <target>Güvenlik</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
-                <target>The account information has been saved.</target>
+                <target>Hesap bilgileri kaydedildi.</target>
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
-                <target>Save</target>
+                <target>Kaydet</target>
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>Create</target>
+                <target>Oluştur</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>Two-Factor Authentication</target>
+                <target>İki adımlı doğrulama</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</target>
+                <target>İki Faktörlü kimlik doğrulama, hesabınıza ekstra bir güvenlik katmanı ekler. Her oturum açtığınızda, hem şifrenizi hem de güvenlik kodunu girmeniz gerekir.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>Enable Two-Factor Authentication</target>
+                <target>İki adımlı doğrulamayı etkinleştir</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
-                <target>Connect your app</target>
+                <target>Uygulamana bağlan</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
                 <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</target>
+                <target>%googleAuthenticatorLink% veya %duoLink% gibi bir kimlik doğrulama uygulaması kullanarak QR kodunu tarayın. Ekranda 6 haneli kod göründüğünde aşağıdaki alana girmelisiniz.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
-                <target>Having trouble scanning the code?</target>
+                <target>Kodu taramada sorun mu yaşıyorsunuz?</target>
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Try this instead</target>
+                <target>Onun yerine bunu deneyin</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
-                <target>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</target>
+                <target>Uygulamanıza elle giriş yapın ve kullanıcı adınızı: %userName% ve kodu: %secret% giriniz.</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>Two-Factor Authentication has been enabled.</target>
+                <target>İki adımlı doğrulama aktif hale getirildi.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>Disable Two-Factor Authentication</target>
+                <target>İki adımlı doğrulamayı kapat</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>Two-Factor Authentication has been disabled.</target>
+                <target>İki adımlı doğrulama pasif hale getirildi.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
-                <target>Enter authentication code</target>
+                <target>Doğrulama kodunu girin</target>
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Back to Sites</target>
+                <target>Sitelere geri dön</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>Users</target>
+                <target>Kullanıcılar</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Add User</target>
+                <target>Kullanıcı Ekle</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>New User</target>
+                <target>Yeni Kullanıcı</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>Active</target>
+                <target>Aktif</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Not Active</target>
+                <target>Aktif değil</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
-                <target>Admin</target>
+                <target>Yönetici</target>
             </trans-unit>
             <trans-unit id="role-user">
                 <source>User</source>
-                <target>User</target>
+                <target>Kullanıcı</target>
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Site Manager</target>
+                <target>Site Yöneticisi</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>User has been added.</target>
+                <target>Kullanıcı eklendi.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>User has been updated.</target>
+                <target>Kullanıcı güncellendi.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>No users found.</target>
+                <target>Kullanıcı bulunamadı.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
-                <target>Role</target>
+                <target>Rol</target>
             </trans-unit>
             <trans-unit id="status">
                 <source>Status</source>
-                <target>Status</target>
+                <target>Durum</target>
             </trans-unit>
             <trans-unit id="delete">
                 <source>Delete</source>
-                <target>Delete</target>
+                <target>Sil</target>
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>Are you sure?</target>
+                <target>Emin misin?</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
-                <target>User has been deleted.</target>
+                <target>Kullanıcı silindi.</target>
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
-                <target>Events</target>
+                <target>Olaylar</target>
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>No events found.</target>
+                <target>Herhangi bir olay bulunamadı.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Event Time</target>
+                <target>Olay Zamanı</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target>Event</target>
+                <target>Olay</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>View</target>
+                <target>Görüntüle</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
-                <target>Notifications</target>
+                <target>Bildirimler</target>
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
-                <target>No notifications found.</target>
+                <target>Bildirim bulunamadı.</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>Notification has been deleted.</target>
+                <target>Bildirim silindi.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>Show Message</target>
+                <target>Mesajı Göster</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>Severity</target>
+                <target>Önem</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>Date</target>
+                <target>Tarih</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>Message</target>
+                <target>Mesaj</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>Action</target>
+                <target>Aksiyon</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
-                <target>Info</target>
+                <target>Bilgi</target>
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
-                <target>Warning</target>
+                <target>Uyarı</target>
             </trans-unit>
             <trans-unit id="critical">
                 <source>Critical</source>
-                <target>Critical</target>
+                <target>Kritik</target>
             </trans-unit>
             <trans-unit id="more-information">
                 <source>More Information</source>
-                <target>More Information</target>
+                <target>Daha fazla bilgi</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>Mark as Read</target>
+                <target>Okundu olarak işaretle</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>Mark as Unread</target>
+                <target>Okunmadı olarak işaretle</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Instance</target>
+                <target>Uzak makina</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
-                <target>Firewall</target>
+                <target>Güvenlik Duvarı</target>
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
-                <target>Service</target>
+                <target>Servis</target>
             </trans-unit>
             <trans-unit id="services">
                 <source>Services</source>
-                <target>Services</target>
+                <target>Servisler</target>
             </trans-unit>
             <trans-unit id="rules">
                 <source>Rules</source>
-                <target>Rules</target>
+                <target>Kurallar</target>
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>Add Rule</target>
+                <target>Kural Ekle</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target>No rules found.</target>
+                <target>Kural bulunamadı.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>Add Firewall Rule</target>
+                <target>Güvenlik Duvarı için kural Ekle</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>Rule has been added.</target>
+                <target>Kural eklendi.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>Rule has been deleted.</target>
+                <target>Kural silindi.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>Type</target>
+                <target>Tip</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>Custom TCP</target>
+                <target>Özel TCP</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Port Range</target>
+                <target>Port Aralığı</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
-                <target>IP Version</target>
+                <target>IP Versiyonu</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
-                <target>Source</target>
+                <target>Kaynak</target>
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>Custom</target>
+                <target>Özel</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>Anywhere-IPv4</target>
+                <target>Herhangi bir yer-IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>Anywhere-IPv6</target>
+                <target>Herhangi bir yer-IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>My IP</target>
+                <target>Benim IP</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
-                <target>IP or CIDR</target>
+                <target>IP veya CIDR</target>
             </trans-unit>
             <trans-unit id="rule-description">
                 <source>Description</source>
-                <target>Description</target>
+                <target>Açıklama</target>
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>Actions</target>
+                <target>Aksiyonlar</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Edit Firewall Rule</target>
+                <target>Güvenlik Duvarını düzenle</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Basic Auth</target>
+                <target>Basit Yetkinlendirme</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Enable Basic Auth</target>
+                <target>Temel Yetkinlendirmeyi Aç</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Basic Auth in front of CloudPanel adds an extra layer of security.</target>
+                <target>Temel Yetkinlendirme, CloudPanel için ekstra bir güvenlik katmanı ekler.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Basic Auth has been enabled.</target>
+                <target>Temel Yetkinlendirme aktif hale getirildi.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Running</target>
+                <target>Çalışıyor</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>Stopped</target>
+                <target>Durdu</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
-                <target>Restart</target>
+                <target>Yeniden Başlat</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>Service will restart shortly.</target>
+                <target>Hizmetler kısa süre içerisinde yeniden başlatılacaktır.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
-                <target>Proftpd Settings</target>
+                <target>Proftpd Ayarları</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>MasqueradeAddress</target>
+                <target>Masquerade Adresi</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</target>
+                <target>Masquerade Adresi sunucunun belirtilen IP adresi veya DNS ana bilgisayar adı için ağ bilgilerini istemciye görüntülemesine neden olur.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>MasqueradeAddress has been saved.</target>
+                <target>Masquerade Adresi kaydedildi.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Instance Settings</target>
+                <target>Uzak Sunucu Ayarları</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
-                <target>Timezone has been saved.</target>
+                <target>Zaman dilimi kaydedildi.</target>
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
-                <target>Reboot</target>
+                <target>Yeniden Başlat</target>
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Instance will reboot shortly.</target>
+                <target>Uzak sunucu kısa süre içerisinde yeniden başlatılacak.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>It's recommended to reboot the instance after changing the timezone.</target>
+                <target>Zaman dilimini değiştirdikten sonra sunucuyu yeniden başlatmanız önerilir.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
-                <target>General</target>
+                <target>Genel</target>
             </trans-unit>
             <trans-unit id="database-servers">
                 <source>Database Servers</source>
-                <target>Database Servers</target>
+                <target>Veritabanı Sunucuları</target>
             </trans-unit>
             <trans-unit id="add-database-server">
                 <source>Add Database Server</source>
-                <target>Add Database Server</target>
+                <target>Veritabanı Sunucusu Ekle</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
                 <source>Edit Database Server</source>
-                <target>Edit Database Server</target>
+                <target>Veritabanı sunucusunu düzenle</target>
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
-                <target>Engine</target>
+                <target></target>
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
-                <target>Host</target>
+                <target>Sunucu</target>
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
@@ -600,191 +600,191 @@
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP or DNS Name</target>
+                <target>IP veya DNS Adı</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
-                <target>Certificate</target>
+                <target>SSL Sertifikası</target>
             </trans-unit>
             <trans-unit id="set-active">
                 <source>Set Active</source>
-                <target>Set Active</target>
+                <target>Aktif olarak ayarla</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>Database Server has been added.</target>
+                <target>Veritabanı Sunucusu eklendi.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
-                <target>Database Server has been updated.</target>
+                <target>Veritabanı Sunucusu güncellendi.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>Database Server has been deleted.</target>
+                <target>Veritabanı sunucusu silindi.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>Database Server has been changed.</target>
+                <target>Veritabanı sunucusu değiştirildi.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Custom Domain</target>
+                <target>Özel Alan Adı</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
-                <target>TLS Certificate</target>
+                <target>TLS Sertifikası</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
-                <target>Let's Encrypt HTTP Challenge</target>
+                <target>Let's Encrypt HTTP Sertifikası</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-dns-challenge">
                 <source>Let's Encrypt DNS Challenge</source>
-                <target>Let's Encrypt DNS Challenge</target>
+                <target>Let's Encrypt DNS Sertifikası</target>
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Backups</target>
+                <target>Yedekler</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Images</target>
+                <target>ISO Görüntüsü</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>AWS Credentials</target>
+                <target>AWS Bilgileriniz</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>AWS Access Key</target>
+                <target>AWS Erişim Anahtarı</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>AWS Secret Access Key</target>
+                <target>AWS Gizli Erişim Anahtarı</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>AWS Access Keys are not valid.</target>
+                <target>AWS Erişim anahtarı geçersiz.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>AWS Access Keys have been saved.</target>
+                <target>AWS Erişim Anahtarı kaydedildi.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Images Settings</target>
+                <target>AWS Image Ayarları</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Enable Automatic Images</target>
+                <target>Otomatik İmajları etkinleştir</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>Frequency</target>
+                <target>Sıklık</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Retention Period (Days)</target>
+                <target>Saklama Süresi (Gün)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Images Settings have been saved.</target>
+                <target>İmaj ayarları kaydedildi.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
-                <target>Every Hour</target>
+                <target>Her Saat</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>Every Three Hours</target>
+                <target>Her 3 Saatte Bir</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Every Six Hours</target>
+                <target>Her 6 Saatte Bir</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Every Twelve Hours</target>
+                <target>Her 12 Saatte Bir</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>Once per Day</target>
+                <target>Günde Bir defa</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Create Image</target>
+                <target>İmaj Oluştur</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Image Name</target>
+                <target>İmaj Adı</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>No images found.</target>
+                <target>İmaj bulunamadı.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Available</target>
+                <target>Uygun</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
-                <target>Pending</target>
+                <target>Bekliyor</target>
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
-                <target>Failed</target>
+                <target>Sorunlu</target>
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Created At</target>
+                <target>Oluşturulduğu Zaman</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Image is being created.</target>
+                <target>İmaj oluşturuluyor.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Image is being deleted.</target>
+                <target>İmaj siliniyor.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>Access Token is not valid.</target>
+                <target>Token geçersiz.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
                 <source>Access Token has been saved.</source>
-                <target>Access Token has been saved.</target>
+                <target>Token kaydedildi.</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>Access Token</target>
+                <target>Erişim Tokeni</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
-                <target>Snapshots</target>
+                <target>Anlık Görüntüler</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
-                <target>Snapshots Settings</target>
+                <target>Anlık Görüntü Ayarları</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Enable Automatic Snapshots</target>
+                <target>Anlık Görüntü otomatik olarak ekle</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>Create Snapshot</target>
+                <target>Anlık Görüntü oluştur.</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
-                <target>No snapshots found.</target>
+                <target>Anlık görüntü bulunamadı.</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Snapshot Name</target>
+                <target>Anlık Görüntü adı</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>Size</target>
+                <target>Boyutu</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
