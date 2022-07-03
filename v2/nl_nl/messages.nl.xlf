@@ -102,6 +102,10 @@
                 <source>Lithuanian</source>
                 <target>Litouws</target>
             </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>Turks</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>IPv4 openbaar IP</target>
