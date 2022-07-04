@@ -292,7 +292,7 @@
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Aktif değil</target>
+                <target>Pasif</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
@@ -416,7 +416,7 @@
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Uzak makina</target>
+                <target>Uzak Sunucu</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
@@ -856,7 +856,7 @@
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
-                <target>Uygulamala</target>
+                <target>Uygulamalar</target>
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
@@ -900,7 +900,7 @@
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Ana dizin</target>
+                <target>Kök dizin</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
@@ -968,7 +968,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Siteyi silmek kalıcı olarak tüm dosyaların kaldırılması, veritabanları, kullanıcılar, ve ayarlarınız, tamamen silinir ve geri alınamaz.</target>
+                <target>Siteyi silmek, tüm dosyalarınızı, veritabanlarınızı, kullanıcılarınızı ve tüm kayıtlı ayarları tamamen kaldırır ve bu işlem geri alınamaz.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1096,7 +1096,7 @@
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>Yeni Let's Encrypt Sertifikası</target>
+                <target>Yeni Let's Encrypt SSL Sertifikası</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
@@ -1356,7 +1356,7 @@
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
-                <target>Hafta içi</target>
+                <target>Haftanın Günü</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
@@ -1380,11 +1380,11 @@
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>Güncelleme</target>
+                <target>Güncelle</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>PageSpeed</target>
+                <target>PageSpeed'i Etkinleştir</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
@@ -1552,7 +1552,7 @@
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>Bulut</target>
+                <target>Bulut Sunucu</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
@@ -1568,7 +1568,7 @@
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>İzleme</target>
+                <target>Monitoring</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>

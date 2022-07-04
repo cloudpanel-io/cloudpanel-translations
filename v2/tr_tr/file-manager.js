@@ -59,7 +59,7 @@ var tr = {
     "more file(s)": "daha fazla dosya(lar)",
     "Close the editor": "Editörü kapat",
     "Close this file": "Bu dosyayı kapat",
-    "Owner": "Sahip",
+    "Owner": "Yetki Sahibi",
     "Permissions": "Yetkiler",
     "Change Permissions": "Yetkileri değiştir",
     "Set": "Ata",
