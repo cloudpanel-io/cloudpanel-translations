@@ -25,7 +25,7 @@ var id = {
     "Download file": "Unduh file",
     Preview: "Pratinjau",
     Refresh: "Segarkan",
-    "Are you sure you want to exit without saving?": "Apakah Anda yakin ingin keluar tanpa menyimpannya?"
+    "Are you sure you want to exit without saving?": "Apakah Anda yakin ingin keluar tanpa menyimpannya?",
     "Save before closing?": "Simpan sebelum ditutup?",
     Copy: "Salin",
     Cut: "Potong",
