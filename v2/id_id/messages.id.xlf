@@ -144,7 +144,7 @@
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Kata sandi</target>
+                <target>Kata Sandi</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
@@ -308,7 +308,7 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Keloka situs</target>
+                <target>Pengelola Situs</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
@@ -324,7 +324,7 @@
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
-                <target>Wewenang</target>
+                <target>Peran</target>
             </trans-unit>
             <trans-unit id="status">
                 <source>Status</source>
@@ -420,7 +420,7 @@
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Instans</target>
+                <target>Instance</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
@@ -468,7 +468,7 @@
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Range Port</target>
+                <target>Rentang Port</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
@@ -560,7 +560,7 @@
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Pengaturan Instans</target>
+                <target>Pengaturan Instance</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
@@ -572,11 +572,11 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Instans akan segera dimulai ulang.</target>
+                <target>Instance akan segera dimulai ulang.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>Disarankan untuk memulai ulang instans setelah mengubah zona waktu.</target>
+                <target>Disarankan untuk memulai ulang instance setelah mengubah zona waktu.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -860,7 +860,7 @@
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
-                <target>Apl</target>
+                <target>Aplikasi</target>
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
@@ -888,7 +888,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>Manajer File</target>
+                <target>Pengelola File</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
@@ -896,7 +896,7 @@
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Log</target>
+                <target>Catatan</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -1068,11 +1068,11 @@
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>KAta Sandi Pengguna Database</target>
+                <target>Kata Sandi Pengguna Database</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
-                <target>Perizinan</target>
+                <target>Izin</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
@@ -1340,7 +1340,7 @@
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
-                <target>Template</target>
+                <target>Templat</target>
             </trans-unit>
             <trans-unit id="minute">
                 <source>Minute</source>
@@ -1472,7 +1472,7 @@
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>Template Vhost %vhostTemplate% tidak ditemukan.</target>
+                <target>Templat Vhost %vhostTemplate% tidak ditemukan.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
@@ -1496,7 +1496,7 @@
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>Pengguna SSH utama untuk situs ini.</target>
+                <target>Pengguna utama SSH untuk situs ini.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
@@ -1516,7 +1516,7 @@
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>Port Apl</target>
+                <target>Port Aplikasi</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
@@ -1568,11 +1568,11 @@
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>ID Instans</target>
+                <target>ID Instance</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>Pemantauan</target>
+                <target>Pantauan</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
