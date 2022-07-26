@@ -86,6 +86,10 @@
                 <source>Spanish</source>
                 <target>Spanisch</target>
             </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>Polnisch</target>
+            </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
                 <target>Portugiesisch</target>
@@ -1627,6 +1631,96 @@
                 <source>Load Average</source>
                 <target>Durchschnittslast</target>
             </trans-unit>
+            <!-- Remote Backup Start -->
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>Remote-Sicherung</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>Speicheranbieter</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>Speicheranbieter auswählen</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone config</source>
+                <target>Benutzerdefinierte Rclone-Konfiguration</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>Weiter</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>Remote-Sicherung aktivieren</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>Täglich</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>Zeit</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>Bucket</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>Name des Buckets</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>Speicherverzeichnis</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>Speicherort von Sicherungen relativ zum Stammverzeichnis.</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>Lassen Sie das Feld leer, um den vorhandenen geheimen Zugriffsschlüssel weiter zu verwenden.</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>Ausschließungen</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>Remote-Sicherungs-Einstellungen wurden gespeichert.</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>Remote-Sicherungs-Einstellungen wurden gelöscht.</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>Access Key</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>Secret Access Key</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>Deine Google Drive E-Mail Adresse.</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>Service Account</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>Lassen Sie das Feld leer, um den vorhandenen Service Account weiter zu verwenden.</target>
+            </trans-unit>
+            <!-- Remote Backup End -->
         </body>
     </file>
 </xliff>

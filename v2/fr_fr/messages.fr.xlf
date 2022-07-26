@@ -86,6 +86,10 @@
                 <source>Spanish</source>
                 <target>Espagnol</target>
             </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>Polonais</target>
+            </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
                 <target>Portugais</target>

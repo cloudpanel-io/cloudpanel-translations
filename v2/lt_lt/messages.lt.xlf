@@ -86,6 +86,10 @@
                 <source>Spanish</source>
                 <target>Ispanų</target>
             </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>Lenkų</target>
+            </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
                 <target>Portugalų</target>
@@ -101,6 +105,10 @@
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Lithuanian</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>Indoneziečių</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
