@@ -694,6 +694,10 @@
                 <source>Frequency</source>
                 <target>Częstotliwość</target>
             </trans-unit>
+	    <trans-unit id="start-up-time">
+                <source>Time</source>
+                <target>Czas uruchomienia</target>
+            </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
                 <target>Okres retencji (dni)</target>
@@ -701,6 +705,10 @@
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
                 <target>Ustawienia obrazów zostały zapisane.</target>
+            </trans-unit>
+	    <trans-unit id="every-day">
+                <source>Daily</source>
+                <target>Raz na dobę</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
@@ -896,11 +904,11 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron Jobs</target>
+                <target>Tablica Cron</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Logs</target>
+                <target>Logi</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -912,7 +920,7 @@
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>Nazwa Domeny</target>
+                <target>Domena</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
@@ -940,7 +948,7 @@
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Ustaw maksymalny czas wykonywania skryptu, zanim proces zostanie zakońćzony przez parser.</target>
+                <target>Ustaw maksymalny czas wykonywania skryptu, zanim proces zostanie zakończony przez parser.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
@@ -1084,7 +1092,7 @@
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>Użytkownika bazy danych został dodany.</target>
+                <target>Użytkownik bazy danych został dodany.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
@@ -1388,7 +1396,7 @@
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>Aktualizacja</target>
+                <target>Aktualizuj</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
@@ -1484,7 +1492,7 @@
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Skopiuj dane autoryzacyjne, witryny Wordpress którą właśnie stowrzyłeś/aś.</target>
+                <target>Skopiuj dane autoryzacyjne witryny Wordpress którą właśnie stowrzyłeś/aś.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
@@ -1616,11 +1624,11 @@
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>WYkorzystanie Dysku</target>
+                <target>Wykorzystanie Dysku</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>WYkorzystanie Pamięci</target>
+                <target>Wykorzystanie Pamięci</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>

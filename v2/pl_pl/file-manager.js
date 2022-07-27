@@ -62,10 +62,10 @@ var pl = {
     "Owner": "Właściciel",
     "Permissions": "Uprawnienia",
     "Change Permissions": "Zmień Uprawnienia",
-    "Set": "Zbiór",
+    "Set": "Ustaw",
     "Extract": "Wyodrębnij",
     "Extract directory": "Wyodrębnij katalog",
     "Extracting...": "Wyodrębnianie...",
     "Compress": "Kompresuj",
-    "Compressing...": "Kompresja...",
+    "Compressing...": "Kompresja...",w
 };
