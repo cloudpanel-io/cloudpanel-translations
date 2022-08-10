@@ -110,6 +110,10 @@
                 <source>Lithuanian</source>
                 <target>Lithuanian</target>
             </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>Rumania</target>
+            </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>Turkish</target>

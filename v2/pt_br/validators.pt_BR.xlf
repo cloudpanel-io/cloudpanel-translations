@@ -26,6 +26,10 @@
                 <source>Port is already in use.</source>
                 <target>A porta já está em uso.</target>
             </trans-unit>
+            <trans-unit id="the-credentials-are-not-valid">
+                <source>The credentials are not valid.</source>
+                <target>As credenciais não são válidas.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

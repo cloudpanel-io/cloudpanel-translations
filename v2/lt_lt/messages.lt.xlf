@@ -110,6 +110,10 @@
                 <source>Indonesian</source>
                 <target>Indoneziečių</target>
             </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>Rumunų</target>
+            </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>Turkų</target>

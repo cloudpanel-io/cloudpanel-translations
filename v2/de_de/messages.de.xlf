@@ -110,6 +110,10 @@
                 <source>Indonesian</source>
                 <target>Indonesisch</target>
             </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>Rumänisch</target>
+            </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>Türkisch</target>
@@ -1719,6 +1723,26 @@
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
                 <target>Lassen Sie das Feld leer, um den vorhandenen Service Account weiter zu verwenden.</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>Zugangscode Anfordern</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>Zugangscode</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>Klicke auf den Button und füge den Zugangscode in das nächste Feld ein.</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>Backup erstellen</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>Die Sicherung wird in Kürze im Hintergrund gestartet.</target>
             </trans-unit>
             <!-- Remote Backup End -->
         </body>

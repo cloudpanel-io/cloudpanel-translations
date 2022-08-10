@@ -1,4 +1,4 @@
-var en = {
+var ro = {
     Save: "Salvează",
     "Save all": "Salează toate",
     Rename: "Redenumește",

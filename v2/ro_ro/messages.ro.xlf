@@ -110,6 +110,10 @@
                 <source>Indonesian</source>
                 <target>Indoneziană</target>
             </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>Română</target>
+            </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>Turcă</target>
