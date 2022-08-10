@@ -236,7 +236,7 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>La autenticación en dos pasos añade una capa extra de seguridad a tu cuenta. Siempre que inicie sesión necesitará introducir los dos, su contrseña y también un código de seguridad.</target>
+                <target>La autenticación en dos pasos añade una capa extra de seguridad a tu cuenta. Siempre que inicie sesión necesitará introducir ambas, su contraseña y también un código de seguridad.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
@@ -364,7 +364,7 @@
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>Vista</target>
+                <target>Ver</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
@@ -936,7 +936,7 @@
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Sets the maximum amount of memory that a script is allowed to allocate.</target>
+                <target>Establece la cantidad máxima de memoria que un script puede asignar.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
@@ -960,7 +960,7 @@
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>Puede definir cualquiera de los parámetros PHP como le gustaría en el php.ini.</target>
+                <target>Puede definir cualquier parámetro PHP con el que te gustaría definir en php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
@@ -1180,7 +1180,7 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>Dominio personalizado Cloudflare Custom Domain</target>
+                <target>Dominio personalizado Cloudflare</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
