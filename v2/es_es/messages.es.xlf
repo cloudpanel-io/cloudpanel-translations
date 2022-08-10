@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="es" target-language="es" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="es" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
@@ -1488,7 +1488,7 @@
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>Creando/target>
+                <target>Creando</target>
             </trans-unit>
             <trans-unit id="saving">
                 <source>Saving</source>
