@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ro" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>Da</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>Nu</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>Toate</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>Suport</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>Click pentru copiere</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>Copiat în Clipboard</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>Încărcare</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>Blog</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>Contact</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>Documente</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>Actualizare disponibilă</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>Problemă</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>Trimite</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>Site</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>Site-uri</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>Germană</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>Engleză</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>Frenceză</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>Daneză</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>Italiană</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>Spaniolă</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>Poloneză</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>Portugheză</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>Portugheză (Brasilia)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>Greacă</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>Lituaniană</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>Indoneziană</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>Turcă</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>IPv4 IP Public</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>IPv6 IP Public</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>Sistem Operare</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>Nume gazdă</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>Procesor</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>Nuclee</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                <target>Memorie</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                <target>Nume utilizator</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                <target>Parolă</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                <target>Conectează-te</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                <target>Setări</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                <target>Deconectare</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                <target>Limba</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                <target>Primul Nume</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                <target>Al doi-lea nume</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                <target>E-Mail</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                <target>Fus orar</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                <target>Generează o nouă parolă</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                <target>Crează Utlizator</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>Sunt de acord cu <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> și confirm acordul cu <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>S-a produs o eroare, mesajul erorii: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>Creare User Administrativ</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>Zona Administrativă</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>Panou Informativ</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>Cont</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>Securitate</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>Informațiile contului au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>Salvează</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>Crează</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>Autentificare cu factori multiplii</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>Autentificarea cu factori multiplii adaugă un strat extra de protecție contului tău. De fiecare dată când te conectezi, vei fii nevoit să introduci atât parola cât și codul de securitate.</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>Activează Autentificarea cu factori multipli</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>Conectează-ți aplicația</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>Folosește o aplicație de autentificare precum %googleAuthenticatorLink% sau %duoLink%, scanează codul QR. Se va afișa in cod de 6 numere, cod care va trebuii introdus mai jos.</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>Ai probleme cu scanarea codului?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>Încearcă aceasta în schimb</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>Selectează intrare manuală in aplicația ta, și introdu-ți numele utilizator: "%userName%" și codul: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>Autentificarea cu factori multiplii a fost activată cu succes.</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>Dezactivează Autentificarea cu Factori Multipli</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>Autentificarea cu Factori Multiplii a fost dezactivată cu succes.</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>Introdu codul de autentificare</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>Înapoi la Site-uri</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>Utilizatori</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>Adaugă Utilizator</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>Utilizator nou</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>Activ</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>Inactiv</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>Administrator</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>Utilizator</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>Manager-ul Site-ului</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>Utilizatorul a fost adăugat cu succes.</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>Utilizatorul a fost actualizat cu succes.</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>Nici un utilizator nu a fost găsit.</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>Rol</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>Șterge</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>Ești sigur?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>Utilizatorul a fost șters cu succes.</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>Evenimente</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>Nu a fost găsit nici un eveniment.</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>Ora Evenimentului</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>Eveniment</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>Vezi</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>Notificări</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>Nu a fost găsită nici o notificare.</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>Notificarea a fost ștearsă cu succes.</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>Afișează Mesaj</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>Severitate</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>Data</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>Mesaj</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>Acțiune</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>Informație</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>Avertisment</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                <target>Critic</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>Mai multe informații</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>Marchează ca citit</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>Marchează ca necitit</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>Instanță</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>Zid de Foc</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>Serviciu</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>Servicii</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>Reguli</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>Adaugă Regulă</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>Nu s-a găsit nici o regulă.</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>Adaugă Regulă pentru Zidul de Foc</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>Regula a fost adăugată.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>Regula a fost ștearsă.</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>Tip</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>TCP personalizat</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>Interval Port</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>Versiunea IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>Sursă</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>Personalizat</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>Oriunde-IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>Oriunde-IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>IP-ul meu</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP sau CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>Descriere</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>Acțiuni</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>Editează Regula pentru Zidul de Foc</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>Autentificare Simplă</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>Activează Autentificare Simplă</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>Autentificarea Simplă înaintea lui ControlPanel adaugă un strat de protecție adițional.</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>Autentificarea Simplă a fost activată.</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>Funcțional</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>Oprit</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>Re-pornește</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>Serviciul se va re-porni in scurt timp.</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>Setări Proftpd</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>Adresa de mascaradă</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>Adresa de mascaradă va face ca server-ul să afișeze informații de rețea pentru adresa IP specificată sau numele DNS la client.</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>Adresa de mascaradă a fost salvată.</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>Setările instanței</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>Informațiile de Fus Orar au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>Re-pornește</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>Instanța va re-porni în cel mai scurt timp.</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>Este recomandat sa re-porniți instața după schimbarea informatiilor de Fus Orar.</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>General</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>Servere de Baze de Date</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>Adaugă server de Baze de Date</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>Editează server de Baze de Date</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>Motor</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>Gazdă</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>Port</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP sau Nume DNS</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>Certificat</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>Setează ca Activ</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>Server-ul de Baze de Date a fost adăuagat.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>Server-ul de Baze de Date a fost actualizat.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>Serverul de Baze de Date a fost șters.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>Server-ul de Baze de Date a fost modificat.</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>Domeniu Personalizat</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>Certificat TLS</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Provocarea HTTP Let's Encrypt</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Provocarea DNS Let's Encrypt</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>Copii de siguranță</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>Imagini</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>Credențiale AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>Cheie de Acces AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>Secret Cheie de Acces AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>Cheile de Acces AWS nu sunt valide.</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>Cheile de Acces AWS au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>Setări Imagini</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>Activeză Imagini Automate</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>Frecvență</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>Perioadă de Retenție (Zile)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>Setarile Imaginilor au fost salvate</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>În Fiecare Oră</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>O dată la trei ore</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>O dată la șase ore</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>O dată la doisprezece ore</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>O data pe zii</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>Crează Imagine</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>Nume Imagine</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>Nici o imagine nu a fost găsită</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>Disponibil(ă)</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>În Așteptare</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>Eșuat</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>Creat în</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>Imaginea este în curs de creare.</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>Imaginea este în curs de ștergere.</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>Token-ul de acces nu este valid</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>Token-ul de Acces a fost salvat.</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>Token de Acces</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>Captură</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>Setări Capturi</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>Activează Capturi Automate</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>Crează Captură</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>Nici o Captură nu a fost găsită</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>Nume Captură</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>Mărime</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>Captura este în curs de creare.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>Captura este în curs de ștergere.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>Cheile pentru Contul de Serviciu</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>Cheile pentru Contul de Serviciu nu sunt valide.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>Cheile pentru Contul de Serviciu au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>Cheia pentru Api</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>Cheia pentru Api nu este validă.</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>Cheia pentru Api a fost salvată.</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>Toke Api</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>Token-ul Api nu este valid.</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>Token-ul Api a fost salvat.</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>Nici un site nu a fost găsit.</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ Adaugă Site</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>Domeniu</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                <target>Utilizator Site</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>Parolă pentru Utilizator Site</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>Aplicație</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>Gestionează</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>Adresă IP</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Gazdă Virtuală</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>Bază de Date</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>Manager de Fișiere</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>Operațiuni Recurente</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>Log-uri</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>Setările Domeniului</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>Directorul Principal</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>Nume de Domeniu</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>Aplicație</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>Generic</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>Directorul Principal a fost salvat</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>Setările pentru PHP</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>Versiunea PHP</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>Setează blocul maxim de memorie permis scriptului să îl aloce.</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>Seteză timpul maxim în care un script poate rula înainte ca acesta să fie oprit de interpretor.</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>Setează timpul maxim alocat pentru ca un script sa poată interpreta datele de intrare, precum POST și GET.</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>Setează numărul limită de intrări din formulare.</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>Mărimea maximă alocată pentru datele venite din apeluri POST acceptate de PHP.</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>Mărimea maximă a unui fișier încărcat.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>Poți definii orice parametrii, la fel cum ai definii in fișierul php.ini</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>Directive de Configurarea Adiționale</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>Setările PHP au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>Șterge Site</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>Ștergerea unui site atrage după sine ștergerea tuturor fișierelor, bazelor de date, utilizatorilor si fișierelor de configurare, fără ca acestea să poată fii recuperate.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>Renunță</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>Pentru a confirma ștergerea, scrie  %domain% în acest câmp.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>Site-ul a fost șters.</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>Setări Utilizator Site</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>Setările pentu Utilizator Site au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>Chei SSH</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>Editor pentru GazaVirtuală</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>GazdaVirtuală a fost salvată.</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>GazdaVirtuală este invalidă, mesajul de eroare: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>Nu a fost găsită nici o bază de date.</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>Bază de Date</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>Adaugă Bază de Date</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>Bază de Date Nouă</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>Baza de date a fost adăugată.</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>Baza de date a fost ștearsă.</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>Utiliztori pentru Baza de Date</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>Adaugă Utilizator pentru Baza de Date</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>Nici un Utilizator pentru Baza de Date nu a fost găsit.</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>Citire si Scriere</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>Doar Citire</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>Utilizator nou pentru Baza de Date</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>Nume Bază de Date</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>Nume Utilizator pentru Baza de Date</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>Parolă Utilizator pentru Baza de Date</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>Permisii</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>Nu a fost găsită nici o Bază de Date; crează o Bază de Date prima dată.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>Utilizatorul pentru Baza de Date a fost adăugat.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>Utilizatorul pentru Baza de Date a fost șters.</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>Editeaza Utilizatorul pentru Baza de Date</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>Utilizatorul pentru Baza de Date a fost actualizat.</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>Certificate</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>Certificat Let's Encrypt nou</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>Importă Certificat</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>Nici un certificat nu a fost găsit.</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>Auto-Semnat</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>Importat</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>Domenii</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>Data Expirării</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>Instalat</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>Cheie Privată</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>Lanțul Certificatului</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>Certificatul a fost șters.</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>Certificatul a fost instalat.</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>Instalează</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>Importă și Instalează</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>Crează și Instalează</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>Introdu numele de domeniu pentru care dorești să generezi un certificat SSL cu Let's Encrypt.</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>O înregistrare de tip A către acest server este necesară pentru a putea genera certificatul SSL cu Let's Encrypt.</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>Nume Domeniu</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>Adaugă Domeniu</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>Nume Domeniu personalizat pentru CloudPanel</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>Numele Domeniu personalizat pentru CloudPanel a fost salvat.</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>Blocare Adresă(e) IP</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>Adaugă adresă IP</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>IP</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>Nici o adresa IP nu a fost găsită</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>Exemple</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>O singură adresă IP</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>Format CIDR</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>Adresa IP a fost adăugată.</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>Adresa IP a fost ștearsă.</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>Nici un robot nu a fost găsit.</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>Blocare RoBoți</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>Adaugă RoBot</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>RoBot-ul a fost adăugat.</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>RoBot-ul a fost șters.</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>Nume RoBot</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>Autentificare Simplă</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>Listă adrese IP care pot ocoli autentificarea simplă, separate prin virgulă</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>Adrese IP Permise</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>Permite traficul doar dinspre Cloudflare</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>NS-urile trebuie sa arate către Cloudflare, și proxy-ul trebuie sa fie activat in setările tale DNS.</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>Utilizatori SSH</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>Directorul Utilizatorului</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>Utilizator SSH</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>Utilizator SSH nou</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>Utilizatorul a fost salvat.</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>Utilizator FTP</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>Utilizatori FTP</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>Utilizator FTP Nou</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>Adaugă Operațiuni Recurente</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>Nici o operațiune recurentă nu a fost găsită.</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>Operațiune Recurentă Nouă</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>În fiecare minut</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>La fiecare 5 minute</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>O dată pe oră</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>O dată la 3 ore</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>O data pe zi (La 00:00)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>În fiecare zi la 4 a.m.</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>O dată pe săptămână (Duminică la 00:00)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>O dată pe lună (în prima zii a lunii la 00:00)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>Șablon</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>Minut</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>Oră</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>Zi</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>Lună</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>Ziua săptămânii</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>Operațiunea Recurentă a fost adăugată.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>Operațiunea Recurentă a fost ștearsă.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>Operațiunea Recurentă a fost salvată</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>Programare</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>Comandă</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>Actualizează</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>PageSpeed</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>Curăță memoria cache</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>Setările PageSpeed nu sunt valide, mesajul de eroare: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>Setările Page Speed au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>Memoria cache pentru Page Speed a fost curățată.</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>Ce fel de site dorești să creezi?</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>Crează un site WordPress</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>Crează un site PHP</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>Crează un site Node.js</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>Crează un site static în HTML</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>Crează un site Python</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>Site Nou</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>Site WordPress </target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>WordPress Pre-Instalat</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>Înapoi</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>Titlu Site</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>Adresa E-mail a contului Admin</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>Nume Utilizator a contului Admin</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>Parola contului Admin</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>Adresa URL pentru contul Admin</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>Multi-site</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>Șablon-ul pentru GazdăVirtuală %vhostTemplate% nu există.</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>Site-ul WordPress a fost creat!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>Copiază credențialele pentru site-ul WordPress creat.</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>Creare</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>Salvare</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>Site PHP nou</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>Utilizatorul SSH principal al site-ului.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>Site-ul a fost creat.</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>Site static HTML nou</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>Site Node.js nou</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>Versiunea Node.js</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>Port Aplicație</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>Setări Node.js</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>Setările pentru Node.js au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>Site Python Nou</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>Versiunea Python</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>Este necesară o altă versiune?</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>Consultă documentația.</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>Setări Python</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>Setările pentru Python au fost salvate..</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>Sistemul de Operare</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>Cloud</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>Regiune</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>ID-ul Droplet-ului</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>ID-ul Instanței</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>Monitorizare</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>Ultimele 30 de minute</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>Ultima Oră</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>Ultimele 3 Ore</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>Ultimele 6 ore</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>Ultimele 12 Ore</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>1 Minut</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>5 Minute</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>15 Minute</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>Utlizare Procesor</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>Utilizare Disc</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>Utilizare Memorie</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>Încărcare Medie</target>
+            </trans-unit>
+            <!-- Remote Backup Start -->
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>Copie de siguranță la distanță</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>Distribuitor Stocare</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>Selectează Distribuitorul pentru Stocare</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone config</source>
+                <target>Configurare Rclone personalizată</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>Continuă</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>Activează Copia de Sigurantă la Distanță</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>În fiecare zi</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>Timp</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>Găleată</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>Nume Găleată</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>Directorul pentru Stocare</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>Unde se vor stoca aceste copii de siguranță relativ la directorul / (root).</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>Lasă necompletat pentru a folosii în continuare cheia secretă de acces existentă.</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>Excluziuni</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>Setările pentru Copie de Siguranță la Distanță au fost salvate.</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>Setările pentru Copie de Siguranță la Distanță au fost șterse.</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>Cheie Acces</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>Secretul pentru Cheie Acces</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>Adresa de e-mail pentru contul de Google Drive.</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>Contul de Mentenanță</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>Lasă necompletat pentru a continua să folosești contul de mentenanță existent.</target>
+            </trans-unit>
+            <!-- Remote Backup End -->
+        </body>
+    </file>
+</xliff>
