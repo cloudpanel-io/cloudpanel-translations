@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Documente</target>
+                <target>Documentație</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -48,7 +48,7 @@
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Problemă</target>
+                <target>Raportează o Problemă</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
@@ -172,11 +172,11 @@
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>Primul Nume</target>
+                <target>Prenume</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Al doi-lea nume</target>
+                <target>Nume</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
@@ -528,7 +528,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Autentificarea Simplă înaintea lui ControlPanel adaugă un strat de protecție adițional.</target>
+                <target>Autentificarea Simplă pentru ControlPanel adaugă un strat de protecție adițional.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
@@ -560,7 +560,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>Adresa de mascaradă va face ca server-ul să afișeze informații de rețea pentru adresa IP specificată sau numele DNS la client.</target>
+                <target>Adresa de mascaradă va face ca server-ul să afișeze informații de rețea pentru adresa IP specificată sau numele DNS icătre clientul care a făcut cererea.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -584,7 +584,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>Este recomandat sa re-porniți instața după schimbarea informatiilor de Fus Orar.</target>
+                <target>Este recomandat să re-porniți instața după schimbarea informațiilor de Fus Orar.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -836,7 +836,7 @@
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Toke Api</target>
+                <target>Token Api</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
@@ -1008,7 +1008,7 @@
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Editor pentru GazaVirtuală</target>
+                <target>Editor pentru GazdaVirtuală</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
@@ -1633,15 +1633,15 @@
             <!-- Remote Backup Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Copie de siguranță la distanță</target>
+                <target>Copie de siguranță Externă</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Distribuitor Stocare</target>
+                <target>Furnizorul Stocare</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Selectează Distribuitorul pentru Stocare</target>
+                <target>Selectează Furnizorul pentru Stocare</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1657,7 +1657,7 @@
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Activează Copia de Sigurantă la Distanță</target>
+                <target>Activează Copia de Sigurantă Externă</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
@@ -1693,11 +1693,11 @@
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Setările pentru Copie de Siguranță la Distanță au fost salvate.</target>
+                <target>Setările pentru Copie de Siguranță Externă au fost salvate.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Setările pentru Copie de Siguranță la Distanță au fost șterse.</target>
+                <target>Setările pentru Copie de Siguranță Externă au fost șterse.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
