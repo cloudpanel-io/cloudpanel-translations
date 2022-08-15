@@ -9,7 +9,7 @@ var en = {
     "Add New": "Thêm mới",
     Size: "Kích thước",
     Date: "Ngày",
-    "back to parent folder": "quay lại thư mục cha",
+    "back to parent folder": "quay về thư mục cha",
     Download: "Tải về",
     Type: "Loại",
     Information: "Thông tin",
