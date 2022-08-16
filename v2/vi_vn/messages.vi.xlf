@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="vi" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
@@ -117,6 +117,10 @@
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>Thổ Nhĩ Kỳ</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>Tiếng Việt</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
@@ -1604,7 +1608,7 @@
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 Phút/target>
+                <target>1 Phút</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>

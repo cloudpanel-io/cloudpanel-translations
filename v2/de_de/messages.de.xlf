@@ -118,6 +118,10 @@
                 <source>Turkish</source>
                 <target>Türkisch</target>
             </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>Vietnamesisch</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>IPv4 Öffentliche IP</target>
@@ -1743,6 +1747,22 @@
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
                 <target>Die Sicherung wird in Kürze im Hintergrund gestartet.</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>Authentifizierungsmethode</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>Schlüssel</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>Remote-Server-Pfad</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>Privater Schlüsselpfad</target>
             </trans-unit>
             <!-- Remote Backup End -->
         </body>

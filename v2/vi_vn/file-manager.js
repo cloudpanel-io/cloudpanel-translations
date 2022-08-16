@@ -1,4 +1,4 @@
-var en = {
+var vi = {
     Save: "Lưu",
     "Save all": "Lưu tất cả",
     Rename: "Đổi tên",

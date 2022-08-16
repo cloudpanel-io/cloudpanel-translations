@@ -118,6 +118,10 @@
                 <source>Turkish</source>
                 <target>Turkų</target>
             </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>Vietnamiečių</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>IPv4 Viešas IP adresas</target>
