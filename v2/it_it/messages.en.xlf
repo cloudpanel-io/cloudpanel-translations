@@ -188,7 +188,7 @@
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>Timezone</target>
+                <target>Fuso orario</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
@@ -204,15 +204,15 @@
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>An error has occurred, error message: %errorMessage%</target>
+                <target>Si è verificato un errore, messaggio di errore: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>Admin User Creation</target>
+                <target>Creazione Utente Amministratore</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Admin Area</target>
+                <target>Area Admin</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
@@ -224,35 +224,35 @@
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Security</target>
+                <target>Sicurezza</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
-                <target>The account information has been saved.</target>
+                <target>Le informazioni sull'account sono state salvate.</target>
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
-                <target>Save</target>
+                <target>Salva</target>
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>Create</target>
+                <target>Crea</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>Two-Factor Authentication</target>
+                <target>Autenticazione a due fattori</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</target>
+                <target>L'autenticazione a due fattori aggiunge un ulteriore livello di sicurezza al tuo account. Ogni volta che accedi, dovrai inserire sia la tua password che un codice di sicurezza.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>Enable Two-Factor Authentication</target>
+                <target>Abilita l'autenticazione a due fattori</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
-                <target>Connect your app</target>
+                <target>Collega la tua app</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
                 <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
@@ -260,11 +260,11 @@
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
-                <target>Having trouble scanning the code?</target>
+                <target>Hai problemi con la scansione del codice?</target>
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Try this instead</target>
+                <target>Prova questo invece</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
@@ -272,43 +272,43 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>Two-Factor Authentication has been enabled.</target>
+                <target>L'autenticazione a due fattori è stata abilitata.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>Disable Two-Factor Authentication</target>
+                <target>Disabilita l'autenticazione a due fattori</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>Two-Factor Authentication has been disabled.</target>
+                <target>L'autenticazione a due fattori è stata disabilitata.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
-                <target>Enter authentication code</target>
+                <target>Inserisci il codice di autenticazione</target>
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Back to Sites</target>
+                <target>Torna ai Siti</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>Users</target>
+                <target>Utenti</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Add User</target>
+                <target>Aggiungi Utente</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>New User</target>
+                <target>Nuovo Utente</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>Active</target>
+                <target>Attivo</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Not Active</target>
+                <target>Non Attivo</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
@@ -316,59 +316,59 @@
             </trans-unit>
             <trans-unit id="role-user">
                 <source>User</source>
-                <target>User</target>
+                <target>Utente</target>
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Site Manager</target>
+                <target>Gestore del Sito</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>User has been added.</target>
+                <target>L'utente è stato aggiunto.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>User has been updated.</target>
+                <target>L'utente è stato aggiornato.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>No users found.</target>
+                <target>Nessun utente trovato.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
-                <target>Role</target>
+                <target>Ruolo</target>
             </trans-unit>
             <trans-unit id="status">
                 <source>Status</source>
-                <target>Status</target>
+                <target>Stato</target>
             </trans-unit>
             <trans-unit id="delete">
                 <source>Delete</source>
-                <target>Delete</target>
+                <target>Elimina</target>
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>Are you sure?</target>
+                <target>Sei sicuro?</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
-                <target>User has been deleted.</target>
+                <target>L'utente è stato eliminato.</target>
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
-                <target>Events</target>
+                <target>Eventi</target>
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>No events found.</target>
+                <target>Nessun evento trovato.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Event Time</target>
+                <target>Orario dell'evento</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target>Event</target>
+                <target>Evento</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
@@ -376,35 +376,35 @@
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
-                <target>Notifications</target>
+                <target>Notifiche</target>
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
-                <target>No notifications found.</target>
+                <target>Nessuna notifica trovata.</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>Notification has been deleted.</target>
+                <target>La notifica è stata eliminata.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>Show Message</target>
+                <target>Mostra Messaggio</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>Severity</target>
+                <target>Gravità</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>Date</target>
+                <target>Data</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>Message</target>
+                <target>Messaggio</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>Action</target>
+                <target>Azione</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
@@ -412,27 +412,27 @@
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
-                <target>Warning</target>
+                <target>Allarme</target>
             </trans-unit>
             <trans-unit id="critical">
                 <source>Critical</source>
-                <target>Critical</target>
+                <target>Critico</target>
             </trans-unit>
             <trans-unit id="more-information">
                 <source>More Information</source>
-                <target>More Information</target>
+                <target>Maggiori Informazioni</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>Mark as Read</target>
+                <target>Segna come Letto</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>Mark as Unread</target>
+                <target>Segna come Non letto</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Instance</target>
+                <target>Istanza</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
@@ -440,123 +440,123 @@
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
-                <target>Service</target>
+                <target>Servizio</target>
             </trans-unit>
             <trans-unit id="services">
                 <source>Services</source>
-                <target>Services</target>
+                <target>Servizi</target>
             </trans-unit>
             <trans-unit id="rules">
                 <source>Rules</source>
-                <target>Rules</target>
+                <target>Regole</target>
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>Add Rule</target>
+                <target>Aggiungi Regola</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target>No rules found.</target>
+                <target>Nessuna regola trovata.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>Add Firewall Rule</target>
+                <target>Aggiungi Regola Firewall</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>Rule has been added.</target>
+                <target>Regola aggiunta.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>Rule has been deleted.</target>
+                <target>Regola eliminata.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>Type</target>
+                <target>Tipo</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>Custom TCP</target>
+                <target>TCP Personalizzato</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Port Range</target>
+                <target>Intervallo Porte</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
-                <target>IP Version</target>
+                <target>Versione IP</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
-                <target>Source</target>
+                <target>Fonte</target>
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>Custom</target>
+                <target>Personalizzato</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>Anywhere-IPv4</target>
+                <target>Ovunque-IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>Anywhere-IPv6</target>
+                <target>Ovunque-IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>My IP</target>
+                <target>Il mio IP</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
-                <target>IP or CIDR</target>
+                <target>IP o CIDR</target>
             </trans-unit>
             <trans-unit id="rule-description">
                 <source>Description</source>
-                <target>Description</target>
+                <target>Descrizione</target>
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>Actions</target>
+                <target>Azioni</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Edit Firewall Rule</target>
+                <target>Modifica Regola Firewall</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Basic Auth</target>
+                <target>Autenticazione Base</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Enable Basic Auth</target>
+                <target>Abilita Autenticazione Base</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Basic Auth in front of CloudPanel adds an extra layer of security.</target>
+                <target>L'Autenticazione Base davanti a CloudPanel aggiunge un ulteriore livello di sicurezza.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Basic Auth has been enabled.</target>
+                <target>Autenticazione Base abilitata.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Running</target>
+                <target>In esecuzione</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>Stopped</target>
+                <target>Fermato</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
-                <target>Restart</target>
+                <target>Riavvia</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>Service will restart shortly.</target>
+                <target>Il Servizio verrà riavviato a breve.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
-                <target>Proftpd Settings</target>
+                <target>Impostazioni Proftpd</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
@@ -568,15 +568,15 @@
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>MasqueradeAddress has been saved.</target>
+                <target>MasqueradeAddress salvato.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Instance Settings</target>
+                <target>Impostazioni Istanza</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
-                <target>Timezone has been saved.</target>
+                <target>Il fuso orario è stato salvato.</target>
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
@@ -588,27 +588,27 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>It's recommended to reboot the instance after changing the timezone.</target>
+                <target>Si consiglia di riavviare l'istanza dopo aver modificato il fuso orario.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
-                <target>General</target>
+                <target>Generale</target>
             </trans-unit>
             <trans-unit id="database-servers">
                 <source>Database Servers</source>
-                <target>Database Servers</target>
+                <target>Server Database</target>
             </trans-unit>
             <trans-unit id="add-database-server">
                 <source>Add Database Server</source>
-                <target>Add Database Server</target>
+                <target>Aggiungi Server Database</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
                 <source>Edit Database Server</source>
-                <target>Edit Database Server</target>
+                <target>Modifica Server Database</target>
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
-                <target>Engine</target>
+                <target>Motore</target>
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
@@ -616,43 +616,43 @@
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>Port</target>
+                <target>Porta</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP or DNS Name</target>
+                <target>IP o Nome DNS</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
-                <target>Certificate</target>
+                <target>Certificato</target>
             </trans-unit>
             <trans-unit id="set-active">
                 <source>Set Active</source>
-                <target>Set Active</target>
+                <target>Imposta Attivo</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>Database Server has been added.</target>
+                <target>Server Database aggiunto.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
-                <target>Database Server has been updated.</target>
+                <target>Server Database aggiornato.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>Database Server has been deleted.</target>
+                <target>Server Database eliminato.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>Database Server has been changed.</target>
+                <target>Server Database modificato.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Custom Domain</target>
+                <target>Dominio personalizzato</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
-                <target>TLS Certificate</target>
+                <target>Certificato TLS</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
@@ -664,211 +664,211 @@
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Backups</target>
+                <target>Backup</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Images</target>
+                <target>Immagini</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>AWS Credentials</target>
+                <target>Credenziali AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>AWS Access Key</target>
+                <target>Chiave di accesso AWS</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>AWS Secret Access Key</target>
+                <target>Chiave di accesso segreta AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>AWS Access Keys are not valid.</target>
+                <target>Chiavi di accesso AWS non valide.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>AWS Access Keys have been saved.</target>
+                <target>Chiavi di accesso AWS salvate.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Images Settings</target>
+                <target>Impostazioni Immagini</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Enable Automatic Images</target>
+                <target>Abilita Immagini Automatiche</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>Frequency</target>
+                <target>Frequenza</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Retention Period (Days)</target>
+                <target>Periodo di conservazione (Giorni)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Images Settings have been saved.</target>
+                <target>Impostazioni Immagini salvate.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
-                <target>Every Hour</target>
+                <target>Ogni Ora</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>Every Three Hours</target>
+                <target>Ogni Tre Ore</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Every Six Hours</target>
+                <target>Ogni Sei Ore</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Every Twelve Hours</target>
+                <target>Ogni Dodici ore</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>Once per Day</target>
+                <target>Una volta al Giorno</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Create Image</target>
+                <target>Crea Immagine</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Image Name</target>
+                <target>Nome Immagine</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>No images found.</target>
+                <target>Nessuna immagine trovata.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Available</target>
+                <target>Disponibile</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
-                <target>Pending</target>
+                <target>Attesa</target>
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
-                <target>Failed</target>
+                <target>Fallito</target>
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Created At</target>
+                <target>Creato alle</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Image is being created.</target>
+                <target>Immagine in fase di creazione.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Image is being deleted.</target>
+                <target>L'immagine è in corso di eliminazione.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>Access Token is not valid.</target>
+                <target>Il Token di Accesso non è valido.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
                 <source>Access Token has been saved.</source>
-                <target>Access Token has been saved.</target>
+                <target>Token di Accesso salvato.</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>Access Token</target>
+                <target>Token di Accesso</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
-                <target>Snapshots</target>
+                <target>Snapshot</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
-                <target>Snapshots Settings</target>
+                <target>Impostazioni Snapshot</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Enable Automatic Snapshots</target>
+                <target>Abilita Snapshot Automatici</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>Create Snapshot</target>
+                <target>Crea Snapshot</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
-                <target>No snapshots found.</target>
+                <target>Nessun snapshot trovato.</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Snapshot Name</target>
+                <target>Nome Snapshot</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>Size</target>
+                <target>Dimensione</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
-                <target>Snapshot is being created.</target>
+                <target>Creazione Snapshot in corso.</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
                 <source>Snapshot is being deleted.</source>
-                <target>Snapshot is being deleted.</target>
+                <target>Eliminazione Snapshot in corso.</target>
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Service Account Keys</target>
+                <target>Chiavi dell'Account di Servizio</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
-                <target>Service Account Keys are not valid.</target>
+                <target>Chiavi dell'Account di Servizio non valide.</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
                 <source>Service Account Keys have been saved.</source>
-                <target>Service Account Keys have been saved.</target>
+                <target>Chiavi dell'Account di Servizio salvate.</target>
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Api Key</target>
+                <target>Chiave API</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target>Api Key is not valid.</target>
+                <target>Chiave API non valida.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target>Api Key has been saved.</target>
+                <target>Chiave API salvata.</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Api Token</target>
+                <target>Token Api</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Api Token is not valid.</target>
+                <target>Token Api non è valido.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Api Token has been saved.</target>
+                <target>Token Api salvato.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
-                <target>No sites found.</target>
+                <target>Nessun sito trovato.</target>
             </trans-unit>
             <trans-unit id="add-site">
                 <source>+ Add Site</source>
-                <target>+ Add Site</target>
+                <target>+ Aggiungi Sito</target>
             </trans-unit>
             <trans-unit id="domain">
                 <source>Domain</source>
-                <target>Domain</target>
+                <target>Dominio</target>
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Site User</target>
+                <target>Utente del Sito</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Site User Password</target>
+                <target>Password Utente del Sito</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
@@ -876,11 +876,11 @@
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
-                <target>Manage</target>
+                <target>Gestisci</target>
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>IP Address</target>
+                <target>Indirizzo IP</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
@@ -888,7 +888,7 @@
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>Databases</target>
+                <target>Database</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
@@ -912,119 +912,119 @@
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
-                <target>Domain Settings</target>
+                <target>Impostazioni Dominio</target>
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Root Directory</target>
+                <target>Cartella principale</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>Domain Name</target>
+                <target>Nome Dominio</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
-                <target>Application</target>
+                <target>Applicazione</target>
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target>Generic</target>
+                <target>Generica</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>Root Directory has been saved.</target>
+                <target>Cartella principale salvata.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
-                <target>PHP Settings</target>
+                <target>Impostazioni PHP</target>
             </trans-unit>
             <trans-unit id="php-version">
                 <source>PHP Version</source>
-                <target>PHP Version</target>
+                <target>Versione PHP</target>
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Sets the maximum amount of memory that a script is allowed to allocate.</target>
+                <target>Imposta la quantità massima di memoria che uno script può allocare.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Sets the maximum time a script is allowed to run before it is terminated by the parser.</target>
+                <target>Imposta il tempo massimo per l'esecuzione di uno script prima che venga terminato dal parser.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Sets the maximum time a script is allowed to parse input data, like POST and GET.</target>
+                <target>Imposta il tempo massimo consentito a uno script per analizzare i dati di input, come POST e GET.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>Sets the limit of the number of inputs for posting forms.</target>
+                <target>Imposta il limite del numero di input per l'invio dei form.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
-                <target>Maximum size of POST data that PHP will accept.</target>
+                <target>Dimensione massima dei dati POST che PHP accetterà.</target>
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>The maximum size of an uploaded file.</target>
+                <target>La dimensione massima di un file caricato.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>You can define any PHP parameters like you would define in the php.ini.</target>
+                <target>Puoi definire qualsiasi parametro PHP come lo definiresti in php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
-                <target>Additional Configuration Directives</target>
+                <target>Direttive di Configurazione aggiuntive</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
                 <source>PHP Settings have been saved.</source>
-                <target>PHP Settings have been saved.</target>
+                <target>Impostazioni PHP salvate.</target>
             </trans-unit>
             <trans-unit id="delete-site">
                 <source>Delete Site</source>
-                <target>Delete Site</target>
+                <target>Elimina Sito</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</target>
+                <target>L'eliminazione di un sito rimuoverà permanentemente tutti i file del sito, i database, gli utenti e le configurazioni, e non saranno ripristinabili.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
-                <target>Cancel</target>
+                <target>Annulla</target>
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>To confirm deletion, type %domain% into the field.</target>
+                <target>Per confermare l'eliminazione, digita %domain% nel campo.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>Site has been deleted.</target>
+                <target>Sito eliminato.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
-                <target>Site User Settings</target>
+                <target>Impostazioni Utente del Sito</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
-                <target>Site User Settings have been saved.</target>
+                <target>Impostazioni Utente del Sito salvate.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
-                <target>SSH Keys</target>
+                <target>Chiavi SSH</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Vhost Editor</target>
+                <target>Editor di Vhost</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>Vhost has been saved.</target>
+                <target>Vhost salvato.</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
-                <target>Vhost is not valid, error message: %errorMessage%</target>
+                <target>Vhost non è valido, messaggio di errore:: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
-                <target>No databases found.</target>
+                <target>Nessun database trovato.</target>
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
@@ -1032,95 +1032,95 @@
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>Add Database</target>
+                <target>Aggiungi Database</target>
             </trans-unit>
             <trans-unit id="new-database">
                 <source>New Database</source>
-                <target>New Database</target>
+                <target>Nuovo Database</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
                 <source>Database has been added.</source>
-                <target>Database has been added.</target>
+                <target>Database aggiunto.</target>
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
                 <source>Database has been deleted.</source>
-                <target>Database has been deleted.</target>
+                <target>Database eliminato.</target>
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Database Users</target>
+                <target>Utenti Database</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>Add Database User</target>
+                <target>Aggiungi Utente Database</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
-                <target>No database users found.</target>
+                <target>Nessun utente del database trovato.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
-                <target>Read and Write</target>
+                <target>Leggere e Scrivere</target>
             </trans-unit>
             <trans-unit id="read-only">
                 <source>Read Only</source>
-                <target>Read Only</target>
+                <target>Sola lettura</target>
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>New Database User</target>
+                <target>Nuovo Utente del Database</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Database Name</target>
+                <target>Nome Database</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>Database User Name</target>
+                <target>Nome Utente del Database</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>Database User Password</target>
+                <target>Password Utente del Database</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
-                <target>Permissions</target>
+                <target>Permessi</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>No database found; create a database first.</target>
+                <target>Nessun database trovato; creare prima un database.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>Database User has been added.</target>
+                <target>Utente del Database aggiunto.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>Database User has been deleted.</target>
+                <target>Utente del Database eliminato.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
-                <target>Edit Database User</target>
+                <target>Modifica Utente del Database</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>Database User has been updated.</target>
+                <target>Utente del Database aggiornato.</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
-                <target>Certificates</target>
+                <target>Certificati</target>
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>New Let's Encrypt Certificate</target>
+                <target>Nuovo certificato "Let's Encrypt"</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>Import Certificate</target>
+                <target>Importa Certificato</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
-                <target>No certificates found.</target>
+                <target>Nessun certificato trovato.</target>
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
@@ -1128,23 +1128,23 @@
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
-                <target>Imported</target>
+                <target>Importato</target>
             </trans-unit>
             <trans-unit id="domains">
                 <source>Domains</source>
-                <target>Domains</target>
+                <target>Domini</target>
             </trans-unit>
             <trans-unit id="expiration-date">
                 <source>Expiration Date</source>
-                <target>Expiration Date</target>
+                <target>Data di scadenza</target>
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>Installed</target>
+                <target>Installato</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>Private Key</target>
+                <target>Chiave privata</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
@@ -1152,55 +1152,55 @@
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
                 <source>Certificate has been deleted.</source>
-                <target>Certificate has been deleted.</target>
+                <target>Certificato eliminato.</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>Certificate has been installed.</target>
+                <target>Certificato installato.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
-                <target>Install</target>
+                <target>Installa</target>
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>Import and Install</target>
+                <target>Importa e Installa</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>Create and Install</target>
+                <target>Crea e Installa</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</target>
+                <target>Inserisci i nomi di dominio che desideri proteggere con un certificato SSL Let's Encrypt.</target>
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</target>
+                <target>Per emettere un certificato Let's Encrypt è necessario un record DNS che punta a questo server.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
-                <target>Domain Names</target>
+                <target>Nomi di Dominio</target>
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
-                <target>Add Domain</target>
+                <target>Aggiungi Dominio</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>CloudPanel Custom Domain</target>
+                <target>Dominio CloudPanel Personalizzato</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>CloudPanel Custom Domain has been saved.</target>
+                <target>Dominio CloudPanel Personalizzato salvato.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
-                <target>IP Blocking</target>
+                <target>Blocco IP</target>
             </trans-unit>
             <trans-unit id="add-ip">
                 <source>Add IP</source>
-                <target>Add IP</target>
+                <target>Aggiungi IP</target>
             </trans-unit>
             <trans-unit id="ip">
                 <source>IP</source>
@@ -1208,183 +1208,183 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>No ips found.</target>
+                <target>Nessun IP trovato.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
-                <target>Examples</target>
+                <target>Esempi</target>
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
-                <target>Single IP</target>
+                <target>Singolo IP</target>
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>CIDR Format</target>
+                <target>Formato CIDR</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
-                <target>IP has been added.</target>
+                <target>IP aggiunto.</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>IP has been deleted.</target>
+                <target>IP eliminato.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
-                <target>No bots found.</target>
+                <target>Nessun bot trovato.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
-                <target>Bots Blocking</target>
+                <target>Blocco dei Bot</target>
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>Add Bot</target>
+                <target>Aggiungi Bot</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>Bot has been added.</target>
+                <target>Bot aggiunto.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
-                <target>Bot has been deleted.</target>
+                <target>Bot eliminato.</target>
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>Bot Name</target>
+                <target>Nome Bot</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>Basic Authentication</target>
+                <target>Autenticazione Base</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>List of IPs to bypassing the basic authentication, comma separated.</target>
+                <target>Elenco di IP per bypassare l'autenticazione base, separati da virgole.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>Whitelisted IPs</target>
+                <target>IP in Whitelist</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
-                <target>Allow traffic from Cloudflare only</target>
+                <target>Consenti traffico solo da Cloudflare</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</target>
+                <target>I name server devono puntare a Cloudflare e il proxy deve essere abilitato per i tuoi record DNS.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
-                <target>SSH Users</target>
+                <target>Utenti SSH</target>
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Home Directory</target>
+                <target>Directory principale</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
-                <target>SSH User</target>
+                <target>Utente SSH</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>New SSH User</target>
+                <target>Nuovo Utente SSH</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
-                <target>User has been saved.</target>
+                <target>Utente salvato.</target>
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
-                <target>FTP User</target>
+                <target>Utente FTP</target>
             </trans-unit>
             <trans-unit id="ftp-users">
                 <source>FTP Users</source>
-                <target>FTP Users</target>
+                <target>Utenti FTP</target>
             </trans-unit>
             <trans-unit id="new-ftp-user">
                 <source>New FTP User</source>
-                <target>New FTP User</target>
+                <target>Nuovo Utente FTP</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Add Cron Job</target>
+                <target>Aggiungi Cron Job</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>No cron jobs found.</target>
+                <target>Nessun cron job trovato.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>New Cron Job</target>
+                <target>Nuovo Cron Job</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
-                <target>Every minute</target>
+                <target>Ogni minute</target>
             </trans-unit>
             <trans-unit id="every-5-minutes">
                 <source>Every 5 minutes</source>
-                <target>Every 5 minutes</target>
+                <target>Ogni 5 minuti</target>
             </trans-unit>
             <trans-unit id="once-an-hour">
                 <source>Once an hour</source>
-                <target>Once an hour</target>
+                <target>Una volta all'ora</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
                 <source>Every 3 hours</source>
-                <target>Every 3 hours</target>
+                <target>Ogni 3 ore</target>
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>Once a day (At 00:00)</target>
+                <target>Una volta al giorno (Alle 00:00)</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
-                <target>Every day at 4 a.m.</target>
+                <target>Ogni giorno alle 4</target>
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>Once a week (At 00:00 on Sunday)</target>
+                <target>Una volta a settimana (Alle 00:00 di Domenica)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>Once a month (At 00:00 on day-of-month 1)</target>
+                <target>Una volta al mese (Alle 00:00 il primo giorno del mese)</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
-                <target>Template</target>
+                <target>Modello</target>
             </trans-unit>
             <trans-unit id="minute">
                 <source>Minute</source>
-                <target>Minute</target>
+                <target>Minuto</target>
             </trans-unit>
             <trans-unit id="hour">
                 <source>Hour</source>
-                <target>Hour</target>
+                <target>Ora</target>
             </trans-unit>
             <trans-unit id="day">
                 <source>Day</source>
-                <target>Day</target>
+                <target>Giorno</target>
             </trans-unit>
             <trans-unit id="month">
                 <source>Month</source>
-                <target>Month</target>
+                <target>Mese</target>
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
-                <target>Weekday</target>
+                <target>Giorno della settimana</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>Cron Job has been added.</target>
+                <target>Cron Job aggiunto.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Cron Job has been deleted.</target>
+                <target>Cron Job eliminato.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Cron Job has been saved.</target>
+                <target>Cron Job salvato.</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
@@ -1392,11 +1392,11 @@
             </trans-unit>
             <trans-unit id="command">
                 <source>Command</source>
-                <target>Command</target>
+                <target>Comando</target>
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>Update</target>
+                <target>Aggiorna</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
@@ -1404,167 +1404,167 @@
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Purge Cache</target>
+                <target>Svuota la Cache</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>PageSpeed Setting are not valid, error message: %errorMessage%</target>
+                <target>Impostazioni PageSpeed non valide, messaggio di errore: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>Page Speed Settings have been saved.</target>
+                <target>Impostazioni PageSpeed salvate.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>Page Speed Cache has been purged.</target>
+                <target>Cache di PageSpeed svuotata.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
-                <target>What kind of site would you like to create?</target>
+                <target>Che tipo di sito vorresti creare?</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>Create a WordPress Site</target>
+                <target>Crea un Sito WordPress</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>Create a PHP Site</target>
+                <target>Crea un Sito PHP</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Create a Node.js Site</target>
+                <target>Crea un Sito Node.js</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Create a Static HTML Site</target>
+                <target>Crea un Sito HTML Statico</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Create a Python Site</target>
+                <target>Crea un Sito Python</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>New Site</target>
+                <target>Nuovo Sito</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>New WordPress Site</target>
+                <target>Nuovo Sito WordPress</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>Pre-Install WordPress</target>
+                <target>Preinstalla WordPress</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
-                <target>Back</target>
+                <target>Indietro</target>
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
-                <target>Site Title</target>
+                <target>Titolo Sito</target>
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>Admin E-Mail</target>
+                <target>E-Mail Admin</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>Admin User Name</target>
+                <target>Nome Utente Admin</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>Admin Password</target>
+                <target>Password Admin</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
-                <target>Admin Url</target>
+                <target>Url Admin</target>
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>Multisite</target>
+                <target>Multisito</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>Vhost Template %vhostTemplate% does not exist.</target>
+                <target>Modello Vhost %vhostTemplate% non esiste.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>WordPress Site has been created!</target>
+                <target>Sito WordPress creato!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Copy the credentials for your created WordPress site.</target>
+                <target>Copia le credenziali per il sito WordPress creato.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>Creating</target>
+                <target>Creazione</target>
             </trans-unit>
             <trans-unit id="saving">
                 <source>Saving</source>
-                <target>Saving</target>
+                <target>Salvataggio</target>
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
-                <target>New PHP Site</target>
+                <target>Nuovo Sito PHP</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>The main SSH User for the site.</target>
+                <target>L'Utente SSH principale per il sito.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
-                <target>Site has been created.</target>
+                <target>Sito creato.</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>New Static HTML Site</target>
+                <target>Nuovo Sito HTML Statico</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>New Node.js Site</target>
+                <target>Nuovo Sito Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Node.js Version</target>
+                <target>Versione Node.js</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>App Port</target>
+                <target>Porta App</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
-                <target>Node.js Settings</target>
+                <target>Impostazioni Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
-                <target>Node.js Settings have been saved.</target>
+                <target>Impostazioni Node.js salvate.</target>
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>New Python Site</target>
+                <target>Nuovo Sito Python</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
-                <target>Python Version</target>
+                <target>Versione Python</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>Is another version needed?</target>
+                <target>Serve un'altra versione?</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Check out the docs.</target>
+                <target>Dai un'occhiata alla documentazione.</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
-                <target>Python Settings</target>
+                <target>Impostazioni Python</target>
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
                 <source>Python Settings have been saved.</source>
-                <target>Python Settings have been saved.</target>
+                <target>Impostazioni Python salvate.</target>
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>Operating System</target>
+                <target>Sistema Operativo</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
@@ -1572,80 +1572,80 @@
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
-                <target>Region</target>
+                <target>Regione</target>
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
-                <target>Droplet ID</target>
+                <target>ID Droplet</target>
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>Instance ID</target>
+                <target>ID Istanza</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>Monitoring</target>
+                <target>Monitoraggio</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>Last 30 Minutes</target>
+                <target>Ultimi 30 Minuti</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Last Hour</target>
+                <target>Ultima ora</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Last 3 Hours</target>
+                <target>Ultime 3 ore</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>Last 6 Hours</target>
+                <target>Ultime 6 ore</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Last 12 Hours</target>
+                <target>Ultime 12 ore</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 Minute</target>
+                <target>1 Minuto</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 Minutes</target>
+                <target>5 Minuti</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 Minutes</target>
+                <target>15 Minuti</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>CPU Usage</target>
+                <target>Utilizzo CPU</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Disk Usage</target>
+                <target>Utilizzo Disco</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Memory Usage</target>
+                <target>Utilizzo Memoria</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Load Average</target>
+                <target>Carico Medio</target>
             </trans-unit>
             <!-- Remote Backup Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Remote Backup</target>
+                <target>Backup Remoto</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Storage Provider</target>
+                <target>Fornitore di Archiviazione</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Select Storage Provider</target>
+                <target>Seleziona il Fornitore di Archiviazione</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1653,23 +1653,23 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone config</source>
-                <target>Custom Rclone config</target>
+                <target>Configurazione Rclone personalizzata</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>Continue</target>
+                <target>Continua</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Enable Remote Backup</target>
+                <target>Abilita Backup Remoto</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>Daily</target>
+                <target>Quotidiano</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
-                <target>Time</target>
+                <target>Volta</target>
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
@@ -1677,87 +1677,87 @@
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Bucket Name</target>
+                <target>Nome Bucket</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Storage Directory</target>
+                <target>Directory di archiviazione</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Where to store backups relative to the root.</target>
+                <target>Dove archiviare i backup rispetto alla radice.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>Leave blank to continue using the existing secret access key.</target>
+                <target>Lascia vuoto per continuare a utilizzare la chiave di accesso segreta esistente.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Excludes</target>
+                <target>Esclusioni</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Remote Backup Settings have been saved.</target>
+                <target>Impostazioni Backup remoto salvate.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Remote Backup Settings have been deleted.</target>
+                <target>Impostazioni Backup remoto eliminate.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
-                <target>Access Key</target>
+                <target>Chiave di Accesso</target>
             </trans-unit>
             <trans-unit id="secret-access-key">
                 <source>Secret Access Key</source>
-                <target>Secret Access Key</target>
+                <target>Chiave di Accesso Segreta</target>
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>Your google drive account email address.</target>
+                <target>Indirizzo email del tuo account Google Drive.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>Service Account</target>
+                <target>Account di servizio</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
-                <target>Leave blank to continue using the existing service account.</target>
+                <target>Lascia vuoto per continuare a utilizzare l'account di servizio esistente.</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Request Access Code</target>
+                <target>Richiedi il Codice di Accesso</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Access Code</target>
+                <target>Codice di Accesso</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Click on the button and paste the access code into the next field.</target>
+                <target>Fare clic sul pulsante e incollare il codice di accesso nel campo successivo.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Create Backup</target>
+                <target>Crea Backup</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>The backup will be started in the background shortly.</target>
+                <target>Il backup verrà avviato in background a breve.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Authentication Method</target>
+                <target>Metodo di autenticazione</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Key</target>
+                <target>Chiave</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Remote Server Path</target>
+                <target>Percorso del Server Remoto</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Private Key Path</target>
+                <target>Percorso Chiave Privata</target>
             </trans-unit>
             <!-- Remote Backup End -->
         </body>
