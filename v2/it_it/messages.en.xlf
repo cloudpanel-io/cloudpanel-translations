@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Click per copiare</target>
+                <target>Clic per copiare</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
@@ -564,7 +564,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</target>
+                <target>MasqueradeAddress fa sì che il server visualizzi le informazioni di rete per l'indirizzo IP o il nome host DNS specificato al client.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -580,11 +580,11 @@
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
-                <target>Reboot</target>
+                <target>Riavvia</target>
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Instance will reboot shortly.</target>
+                <target>L'istanza si riavvierà a breve.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
@@ -676,19 +676,19 @@
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>Chiave di accesso AWS</target>
+                <target>Chiave di Accesso AWS</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>Chiave di accesso segreta AWS</target>
+                <target>Chiave di Accesso segreta AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>Chiavi di accesso AWS non valide.</target>
+                <target>Chiavi di Accesso AWS non valide.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>Chiavi di accesso AWS salvate.</target>
+                <target>Chiavi di Accesso AWS salvate.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
@@ -1681,7 +1681,7 @@
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Directory di archiviazione</target>
+                <target>Directory di Archiviazione</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
