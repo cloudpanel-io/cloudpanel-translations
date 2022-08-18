@@ -7,7 +7,7 @@ How can you provide a translation for **CloudPanel**?
 
 1. Fork this repository.
 
-2. Copy **v2/en_en** to your locale e.g. **v2/es_es**.
+2. Copy **v2/en_us** to your locale e.g. **v2/es_es**.
 
 3. Translate the files **messages.xlf** and **validators.xlf** and **file-manager.js**.
 
