@@ -27,7 +27,7 @@ var tr = {
     Refresh: "Yenile",
     "Are you sure you want to exit without saving?": "Kaydetmeden çıkmak istediğine emin misin?",
     "Save before closing?": "Kapatmadan önce kaydet?",
-    Copy: "Kopya",
+    Copy: "Kopyala",
     Cut: "Kes",
     Paste: "Yapıştır",
     "Deleting...": "Siliyor...",
@@ -66,6 +66,6 @@ var tr = {
     "Extract": "Dışa aktar",
     "Extract directory": "Klasörü dışarıya aktar",
     "Extracting...": "Dışarı aktarılıyor...",
-    "Compress": "Sıkıştırma",
+    "Compress": "Sıkıştır",
     "Compressing...": "Sıkıştırılıyor...",
 };
