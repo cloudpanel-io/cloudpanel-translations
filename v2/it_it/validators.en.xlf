@@ -4,27 +4,27 @@
         <body>
             <trans-unit id="does-not-exist">
                 <source>Does not exist.</source>
-                <target>Does not exist.</target>
+                <target>Non esiste.</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
                 <source>This value already exists.</source>
-                <target>This value already exists.</target>
+                <target>Questo valore esiste già.</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
                 <source>This value is not a valid domain name.</source>
-                <target>This value is not a valid domain name.</target>
+                <target>Questo valore non è un nome di dominio valido.</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
                 <source>Does not match certificate.</source>
-                <target>Does not match certificate.</target>
+                <target>Non corrisponde al certificato.</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
                 <source>Database Server credentials are not valid.</source>
-                <target>Database Server credentials are not valid.</target>
+                <target>Le credenziali del server database non sono valide.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>Port is already in use.</target>
+                <target>La porta è già in uso.</target>
             </trans-unit>
         </body>
     </file>
