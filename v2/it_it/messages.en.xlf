@@ -4,7 +4,7 @@
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>Yes</target>
+                <target>Si</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
@@ -12,23 +12,23 @@
             </trans-unit>
             <trans-unit id="all">
                 <source>All</source>
-                <target>All</target>
+                <target>Tutto</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>Support</source>
-                <target>Support</target>
+                <target>Supporto</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Click to Copy</target>
+                <target>Click per copiare</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Copied to Clipboard</target>
+                <target>Copiato negli Appunti</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>Loading</target>
+                <target>Caricamento in corso</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
@@ -36,91 +36,91 @@
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
-                <target>Contact</target>
+                <target>Contatto</target>
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Docs</target>
+                <target>Documentazione</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Update available</target>
+                <target>Aggiornamento disponibile</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Issues</target>
+                <target>Problemi?</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Submit</target>
+                <target>Invia</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>Site</target>
+                <target>Sito</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Sites</target>
+                <target>Siti</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>German</target>
+                <target>Tedesco</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>English</target>
+                <target>Inglese</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>French</target>
+                <target>Francese</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Dutch</target>
+                <target>Olandese</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italian</target>
+                <target>Italiano</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>Spagnolo</target>
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
-                <target>Polish</target>
+                <target>Polacco</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portuguese</target>
+                <target>Portoghese</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Portuguese (Brasil)</target>
+                <target>Portoghese (Brasile)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>Greco</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Lituano</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>Indonesian</target>
+                <target>Indonesiano</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Romanian</target>
+                <target>Rumeno</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>Turkish</target>
+                <target>Turco</target>
             </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
-                <target>Vietnamese</target>
+                <target>Vietnamita</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
@@ -132,7 +132,7 @@
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>SO</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
@@ -160,27 +160,27 @@
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Log In</target>
+                <target>Accedi</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>Settings</target>
+                <target>Impostazioni</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Logout</target>
+                <target>Disconnetti</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Language</target>
+                <target>Lingua</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>First Name</target>
+                <target>Nome</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Last Name</target>
+                <target>Cognome</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
@@ -192,11 +192,11 @@
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Generate new password</target>
+                <target>Genera nuova password</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Create User</target>
+                <target>Crea Utente</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
