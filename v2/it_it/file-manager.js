@@ -1,4 +1,4 @@
-var en = {
+var it = {
     Save: "Salva",
     "Save all": "Salva tutto",
     Rename: "Rinomina",
