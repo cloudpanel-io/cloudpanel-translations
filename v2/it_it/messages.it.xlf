@@ -1634,7 +1634,6 @@
                 <source>Load Average</source>
                 <target>Carico Medio</target>
             </trans-unit>
-            <!-- Remote Backup Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Backup Remoto</target>
@@ -1759,7 +1758,18 @@
                 <source>Private Key Path</source>
                 <target>Percorso Chiave Privata</target>
             </trans-unit>
-            <!-- Remote Backup End -->
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Nome spazio</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Endpoint spaziale</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>Formato per endpoint compatibili con S3</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

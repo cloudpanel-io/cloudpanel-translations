@@ -1639,7 +1639,6 @@
                 <source>Load Average</source>
                 <target>Durchschnittslast</target>
             </trans-unit>
-            <!-- Remote Backup Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Remote-Sicherung</target>
@@ -1657,7 +1656,7 @@
                 <target>SFTP</target>
             </trans-unit>
             <trans-unit id="custom-rclone-config">
-                <source>Custom Rclone config</source>
+                <source>Custom Rclone Config</source>
                 <target>Benutzerdefinierte Rclone-Konfiguration</target>
             </trans-unit>
             <trans-unit id="continue">
@@ -1764,7 +1763,18 @@
                 <source>Private Key Path</source>
                 <target>Privater Schlüsselpfad</target>
             </trans-unit>
-            <!-- Remote Backup End -->
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Space Name</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Space Endpoint</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>Format für S3-kompatible Endpunkte</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

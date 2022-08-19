@@ -1634,7 +1634,6 @@
                 <source>Load Average</source>
                 <target>Tải trung bình</target>
             </trans-unit>
-            <!-- Remote Backup Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Sao lưu từ xa</target>
@@ -1743,7 +1742,36 @@
                 <source>The backup will be started in the background shortly.</source>
                 <target>Quá trình sao lưu sẽ sớm được bắt đầu trong chế độ nền.</target>
             </trans-unit>
-            <!-- Remote Backup End -->
+            <!-- Translate Me Start -->
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>Authentication Method</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>Key</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>Remote Server Path</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>Private Key Path</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Space Name</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Space Endpoint</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>Format for S3 compatible endpoints</target>
+            </trans-unit>
+            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>

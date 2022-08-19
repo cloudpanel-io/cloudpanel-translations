@@ -1634,7 +1634,6 @@
                 <source>Load Average</source>
                 <target>Încărcare Medie</target>
             </trans-unit>
-            <!-- Remote Backup Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Copie de siguranță Externă</target>
@@ -1723,7 +1722,56 @@
                 <source>Leave blank to continue using the existing service account.</source>
                 <target>Lasă necompletat pentru a continua să folosești contul de mentenanță existent.</target>
             </trans-unit>
-            <!-- Remote Backup End -->
+            <!-- Translate Me Start -->
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>Request Access Code</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>Access Code</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>Click on the button and paste the access code into the next field.</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>Create Backup</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>The backup will be started in the background shortly.</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>Authentication Method</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>Key</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>Remote Server Path</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>Private Key Path</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Space Name</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Space Endpoint</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>Format for S3 compatible endpoints</target>
+            </trans-unit>
+            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
