@@ -1722,7 +1722,6 @@
                 <source>Leave blank to continue using the existing service account.</source>
                 <target>Lasă necompletat pentru a continua să folosești contul de mentenanță existent.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
                 <target>Cere Cod de Acces</target>
@@ -1733,7 +1732,7 @@
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-								<target>Fă click pe buton și lipește codul de acces în câmpul următor.</target>
+                <target>Fă click pe buton și lipește codul de acces în câmpul următor.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
@@ -1771,7 +1770,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Formatul pentru endpoint-uri compatibile cu S3</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
