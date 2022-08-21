@@ -1633,15 +1633,15 @@
             <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Remote Backup</target>
+                <target>Uzaktan Yedekleme</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Storage Provider</target>
+                <target>Depolama Sağlayıcı</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Select Storage Provider</target>
+                <target>Depolama Sağlayıcı seç</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1649,123 +1649,123 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone Config</source>
-                <target>Custom Rclone Config</target>
+                <target>Özel Rclone Yapılandırması</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>Continue</target>
+                <target>Devam et</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Enable Remote Backup</target>
+                <target>Uzaktan Yedeklemeyi Etkinleştir</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>Daily</target>
+                <target>Günlük</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
-                <target>Time</target>
+                <target>Zaman</target>
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
-                <target>Bucket</target>
+                <target>Paket</target>
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Bucket Name</target>
+                <target>Paket ismi</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Storage Directory</target>
+                <target>Depolama Dizini</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Where to store backups relative to the root.</target>
+                <target>Kök'te yedeklerin saklanacağı yer</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>Leave blank to continue using the existing secret access key.</target>
+                <target>Mevcut gizli erişim anahtarını kullanmaya devam etmek için boş bırakın.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Excludes</target>
+                <target>Hariç tutulan</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Remote Backup Settings have been saved.</target>
+                <target>Uzak Yedekleme Ayarları kaydedildi.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Remote Backup Settings have been deleted.</target>
+                <target>Uzak Yedekleme Ayarları silindi.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
-                <target>Access Key</target>
+                <target>Erişim anahtarı</target>
             </trans-unit>
             <trans-unit id="secret-access-key">
                 <source>Secret Access Key</source>
-                <target>Secret Access Key</target>
+                <target>Gizli Erişim Anahtarı</target>
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>Your google drive account email address.</target>
+                <target>Google Drive hesabı e-posta adresiniz.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>Service Account</target>
+                <target>Hizmet Hesabı</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
-                <target>Leave blank to continue using the existing service account.</target>
+                <target>Mevcut hizmet hesabını kullanmaya devam etmek için boş bırakın.</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Request Access Code</target>
+                <target>Erişim Kodu İste</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Access Code</target>
+                <target>Erişim kodu</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Click on the button and paste the access code into the next field.</target>
+                <target>Düğmeye tıklayın ve erişim kodunu sonraki alana yapıştırın.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Create Backup</target>
+                <target>Yedek Oluştur</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>The backup will be started in the background shortly.</target>
+                <target>Yedekleme kısa süre içinde arka planda başlayacak.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Authentication Method</target>
+                <target>Kimlik Doğrulama Yöntemi</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Key</target>
+                <target>Key ile</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Remote Server Path</target>
+                <target>Uzak Sunucu Yolu</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Private Key Path</target>
+                <target>Özel Anahtar Yolu</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Space Name</target>
+                <target>Alan Adı</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>Space Endpoint</target>
+                <target>Uç nokta</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Format for S3 compatible endpoints</target>
+                <target>S3 uyumlu uç noktalar için biçim</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
