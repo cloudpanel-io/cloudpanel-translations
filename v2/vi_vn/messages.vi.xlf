@@ -432,7 +432,7 @@
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Thực thể</target>
+                <target>Dịch vụ</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
@@ -908,7 +908,7 @@
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Logs</target>
+                <target>Nhật ký</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -1628,7 +1628,7 @@
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Sự dụng RAM Memory</target>
+                <target>Sử dụng RAM Memory</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
