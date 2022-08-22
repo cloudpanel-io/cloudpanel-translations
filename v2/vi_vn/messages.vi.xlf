@@ -1745,23 +1745,23 @@
             <!-- Translate Me Start -->
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Authentication Method</target>
+                <target>Phương thức xác thực</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Key</target>
+                <target>Khóa</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Remote Server Path</target>
+                <target>Đường dẫn máy chủ từ xa</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Private Key Path</target>
+                <target>Đường dẫn khóa cá nhân</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Space Name</target>
+                <target>Tên space</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
@@ -1769,7 +1769,7 @@
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Format for S3 compatible endpoints</target>
+                <target>Định dạng cho các endpoints tương thích S3</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
