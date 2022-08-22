@@ -1630,7 +1630,6 @@
                 <source>Load Average</source>
                 <target>Ortalama Yük</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Uzaktan Yedekleme</target>
@@ -1767,7 +1766,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>S3 uyumlu uç noktalar için biçim</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
