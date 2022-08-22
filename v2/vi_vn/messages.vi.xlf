@@ -1742,7 +1742,6 @@
                 <source>The backup will be started in the background shortly.</source>
                 <target>Quá trình sao lưu sẽ sớm được bắt đầu trong chế độ nền.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
                 <target>Phương thức xác thực</target>
@@ -1771,7 +1770,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Định dạng cho các endpoints tương thích S3</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
