@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ru" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>Да</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>Нет</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>Все</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>Поддержка</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>Нажмите, чтобы скопировать</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>Скопировано в буфер обмена</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>Загрузка</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>Блог</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>Контакты</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>Документация</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>Доступно обновление</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>Проблемы</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>Отправить</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>Сайт</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>Сайты</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>Немецкий</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>Английский</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>Французский</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>Голландский</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>Итальянский</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>Испанский</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>Польский</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>Португальский</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>Португальский (Бразилия)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>Греческий</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>Литовский</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>Индонезийский</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>Румынский</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>Турецкий</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>Вьетнамский</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>Публичный IPv4 адрес</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>Публичный IPv6 адрес</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>ОС</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>Имя Хоста</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>ЦП</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>Ядер</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                <target>Объем Памяти</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                <target>Пользователь</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                <target>Пароль</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                <target>Войти</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                <target>Настройки</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                <target>Выйти</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                <target>Язык</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                <target>Имя</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                <target>Фамилия</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                <target>Эл. адрес</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                <target>Часовой пояс</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                <target>Сгенерировать новый пароль</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                <target>Создать Пользователя</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>Я согласен с <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">условиями лицензии</a>]]> и принимаю <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">политику конфиденциальности</a>]]>.</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>Произошла ошибка, сообщение: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>Создание Администратора</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>Зона Администратора</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>Дашборд</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>Учетная Запись</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>Безопасность</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>Информация об учетной записи сохранена.</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>Сохранить</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>Создать</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>Двухфакторная Аутентификация</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>Двухфакторная аутентификация добавляет дополнительный уровень безопасности вашей учетной записи. Всякий раз, когда вы входите в систему, вам нужно будет вводить как пароль, так и защитный код.</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>Включить Двухфакторную Аутентификацию</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>Подключите ваше приложение</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>Используя приложение-аутентификатор, например %googleAuthenticatorLink% или %duoLink%, отсканируйте QR-код. На экране появится 6-значный код, который нужно ввести ниже.</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>Возникли проблемы со сканированием кода?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>Попробуйте вместо этого</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>Выберите ручной ввод в приложении и введите имя пользователя: "%userName%" и код: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>Двухфакторная аутентификация включена.</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>Отключить двухфакторную аутентификацию</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>Двухфакторная аутентификация отключена.</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>Введите код аутентификации</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>Вернуться к Сайтам</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>Пользователи</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>Добавить Пользователя</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>Новый Пользователь</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>Активный</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>Не Активный</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>Администратор</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>Пользователь</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>Менеджер Сайта</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>Пользователь добавлен.</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>Пользователь обновлен.</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>Пользователи не найдены.</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>Роль</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>Статус</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>Удалить</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>Вы уверены?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>Пользователь удален.</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>События</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>Событий не найдено.</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>Время События</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>Событие</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>Вид</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>Уведомления</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>Уведомления не найдены.</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>Уведомление удалено.</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>Показать Сообщение</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>Строгость</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>Дата</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>Сообщение</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>Действие</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>Информация</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>Предупреждение</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                <target>Критическое</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>Больше Информации</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>Пометить как прочитанное</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>Пометить как непрочитанное</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>Экземпляр</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>Фаервол</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>Служба</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>Службы</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>Правила</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>Добавить Правило</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>Правила не найдены.</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>Добавить правило фаервола</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>Правило добавлено.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>Правило удалено.</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>Тип</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>Пользовательский TCP</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>Диапазон Портов</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>Версия IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>Источник</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>Пользовательский</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>Куда-угодно-IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>Куда-угодно-IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>Мой IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP или CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>Описание</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>Действия</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>Изменить правило фаервола</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>Базовая аутентификация</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>Включить обычную аутентификацию</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>Базовая аутентификация перед CloudPanel добавляет дополнительный уровень безопасности.</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>Базовая аутентификация включена.</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>Работает</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>Остановлено</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>Перезапуск</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>Служба скоро перезапустится.</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>Настройки Proftpd</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>Адрес Masquerade</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>Адрес Masquerade заставляет сервер передавать клиенту сетевую информацию для указанного IP-адреса или DNS-имени хоста.</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>Адрес Masquerade был сохранен.</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>Настройки Экземпляра</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>Часовой пояс сохранен.</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>Перезагрузить</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>Экземпляр скоро перезагрузится.</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>После изменения часового пояса рекомендуется перезагрузить экземпляр.</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>Общие</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>Серверы Баз Данных</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>Добавить Сервер Базы Данных</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>Изменить Сервер Базы Данных</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>Движок</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>Хост</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>Порт</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP или DNS Имя</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>Сертификат</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>Активировать</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>Сервер базы данных добавлен.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>Сервер базы данных обновлен.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>Сервер баз данных удален.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>Сервер базы данных изменен.</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>Пользовательский Домен</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>TLS Сертификат</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Подтверждение домена для Let's Encrypt через HTTP</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Подтверждение домена для Let's Encrypt через DNS</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>Бэкапы</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>Образы</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>Учетные Данные AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>Ключ Доступа AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>Секретный Ключ Доступа AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>Ключи Доступа AWS недействительны.</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>Ключи Доступа AWS сохранены.</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>Настройки Образов</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>Включить автоматические образы</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>Периодичность</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>Срок Хранения (Дней)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>Настройки Образов сохранены.</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>Каждый Час</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>Каждые Три Часа</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>Каждые Шесть Часов</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>Каждые Двенадцать Часов</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>Один раз в день</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>Создать Снимок</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>Имя Снимка</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>Образы не найдены.</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>Доступный</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>В ожидании</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>Неуспешный</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>Создан в</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>Образ создается.</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>Образ удаляется.</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>Токен доступа недействителен.</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>Токен доступа сохранен.</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>Токен доступа</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>Снапшоты</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>Настройки Снапшотов</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>Включить Автоматические Снапшоты</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>Создать Снапшот</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>Снапшоты не найдены.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>Имя Снапшота</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>Размер</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>Снапшот создается.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>Снапшот удаляется.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>Ключи сервисной учетной записи</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>Ключи сервисной учетной записи недействительны.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>Ключи сервисной учетной записи сохранены.</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>Ключ Api</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>Недействительный ключ Api.</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>Ключ Api сохранен.</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>Api Токен</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>Токен Api недействителен.</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>Токен Api сохранен.</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>Сайты не найдены.</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ Добавить сайт</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>Домен</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                <target>Пользователь Сайта</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>Пароль Пользователя Сайта</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>Приложение</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>Управлять</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>IP Адрес</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Вхост</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>Базы Данных</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>Файловый Менеджер</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>Задания Cron</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>Логи</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>Параметры Домена</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>Корневой Каталог</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>Имя Домена</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>Приложение</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>Общий</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>Корневой каталог сохранен.</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>Настройки PHP</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>Версия PHP</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>Устанавливает максимальный объем памяти, который разрешено использовать скрипту.</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>Устанавливает максимальное время выполнения скрипта до того, как он будет прерван обработчиком.</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>Устанавливает максимальное время, в течение которого скрипту разрешено анализировать входные данные, такие как POST и GET.</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>Устанавливает ограничение на количество вводимых переменных для отправляемых форм.</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>Максимальный размер данных POST, которые будет принимать PHP.</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>Максимальный размер загружаемого файла.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>Вы можете определить любые параметры PHP так же, как в файле php.ini.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>Дополнительные Директивы Конфигурации</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>Настройки PHP сохранены.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>Удалить Сайт</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>При удалении сайта все файлы сайта, базы данных, пользователи и конфигурации будут удалены навсегда, и их невозможно будет восстановить.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>Отмена</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>Чтобы подтвердить удаление, введите в поле %domain%.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>Сайт удален.</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>Настройки Пользователя Сайта</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>Настройки пользователя сайта сохранены.</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>SSH Ключи</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>Вхост Редактор</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>Вхост сохранён.</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Вхост недействителен, сообщение об ошибке: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>Базы данных не найдены.</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>База Данных</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>Добавить Базу Данных</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>Новая База Данных</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>База данных добавлена.</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>База данных удалена.</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>Пользователи Базы Данных</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>Добавить Пользователя БД</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>Пользователи БД не найдены.</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>Чтение и Запись</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>Только Чтение</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>Новый Пользователь БД</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>Имя Базы Данных</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>Имя Пользователя БД</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>Пароль Пользователя БД</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>Права Доступа</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>База данных не найдена; сначала создайте базу данных.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>Пользователь базы данных добавлен.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>Пользователь базы данных удален.</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>Редактировать Пользователя БД</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>Пользователь базы данных обновлен.</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>Сертификаты</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>Новый сертификат Let’s Encrypt</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>Импортировать Сертификат</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>Сертификаты не найдены.</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>Самоподписанный</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>Импортирован</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>Домены</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>Срок Годности</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>Установлен</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>Приватный Ключ</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>Цепочка Сертификатов</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>Сертификат удален.</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>Сертификат установлен.</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>Установить</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>Импортировать и Установить</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>Создать и Установить</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>Введите доменные имена, которые вы хотите защитить с помощью SSL-сертификата Let's Encrypt.</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>Для выпуска сертификата Let's Encrypt требуется запись DNS, указывающая на этот сервер.</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>Доменные Имена</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>Добавить Домен</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>Пользовательский Домен CloudPanel</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>Пользовательский домен CloudPanel сохранен.</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>Блокировка IP</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>Добавить IP</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>IP</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>IP адреса не найдены.</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>Примеры</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>Одиночный IP</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>CIDR Формат</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>IP адрес добавлен.</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>IP адрес удалён.</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>Боты не найдены.</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>Блокировка Ботов</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>Добавить Бота</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>Бот добавлен.</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>Бот удалён.</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>Имя Бота</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>Базовая Аутентификация</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>Список IP-адресов для обхода базовой аутентификации, через запятую.</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>Белый Список IP</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>Разрешить трафик только из Cloudflare</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>Серверы имен должны указывать на Cloudflare, и прокси должен быть включен для ваших записей dns.</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>SSH Пользователи</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>Домашний Каталог</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>SSH Пользователь</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>Новый SSH Пользователь</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>Пользователь сохранен.</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>FTP Пользователь</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>FTP Пользователи</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>Новый FTP Пользователь</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>Добавить Задание Cron</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>Задания cron не найдены.</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>Новое Задание Cron</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>Каждую минуту</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>Каждые 5 минут</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>Раз в час</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>Каждые 3 часа</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>Раз в день (в 00:00)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>Каждый день в 4 утра.</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>Раз в неделю (в 00:00 в Воскресенье)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>Один раз в месяц (в 00:00 в первый день месяца)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>Шаблон</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>Минута</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>Час</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>День</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>Месяц</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>Будни</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>Задание Cron добавлено.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>Задание Cron удалено.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>Задание Cron сохранено.</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>Расписание</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>Команда</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>Обновить</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>PageSpeed</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>Очистить кэш</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>Недопустимые настройки PageSpeed, сообщение об ошибке: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>Настройки PageSpeed сохранены.</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>Кэш PageSpeed очищен.</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>Какой сайт вы хотели бы создать?</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>Создать сайт на WordPress</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>Создать PHP Сайт</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>Создать Node.js Сайт</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>Создать Статический HTML Сайт</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>Создать Python Сайт</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>Новый Сайт</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>Новый Сайт WordPress</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>Предустановить WordPress</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>Назад</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>Название Сайта</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>E-mail Администратора</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>Имя Пользователя Администратора</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>Пароль Администратора</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>Сайт Администратора</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>Мультисайт</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>Шаблон Вхоста %vhostTemplate% не существует.</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>Сайт на WordPress создан!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>Скопируйте учетные данные для созданного вами сайта WordPress.</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>Создаётся</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>Сохраняется</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>Новый PHP Сайт</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>Основной SSH-пользователь сайта.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>Сайт создан.</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>Новый Статический HTML Сайт</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>Новый Node.js Сайт</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>Версия Node.js</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>Порт Приложения</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>Настройки Node.js</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>Настройки Node.js сохранены.</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>Новый Python Сайт</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>Версия Python</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>Нужна ли другая версия?</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>Ознакомьтесь с документацией.</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>Настройки Python</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>Настройки Python сохранены.</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>Операционная Система</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>Облако</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>Регион</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>ID Дроплета</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>ID Экземпляра</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>Мониторинг</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>Последние 30 Минут</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>Последний Час</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>Последние 3 Часа</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>Последние 6 Часов</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>Последние 12 Часов</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>1 Минута</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>5 Минут</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>15 Минут</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>Использование CPU</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>Использование Диска</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>Использование Памяти</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>Средняя нагрузка</target>
+            </trans-unit>
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>Удалённый Бекап</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>Поставщик Хранилища</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>Выберите Поставщика Хранилища</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone Config</source>
+                <target>Кастомная Конфигурация Rclone</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>Продолжить</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>Включить Удалённый Бекап</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>Ежедневно</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>Время</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>Бакет</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>Имя Бакета</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>Каталог Хранения</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>Где хранить бэкапы относительно корня.</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>Оставьте пустым, чтобы продолжить использование существующего секретного ключа доступа.</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>Исключения</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>Настройки удаленного бекапа сохранены.</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>Настройки удаленного бекапа удалены.</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>Ключ Доступа</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>Секретный Ключ Доступа</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>Адрес электронной почты вашего аккаунта Google Диска.</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>Сервисный Аккаунт</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>Оставьте пустым, чтобы продолжить использование существующей учетной записи.</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>Запросить Код Доступа</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>Код Доступа</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>Нажмите на кнопку и вставьте код доступа в следующее поле.</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>Создать Бекап</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>Создание бекапа будет запущено в фоновом режиме в ближайшее время.</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>Метод Аутентификации</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>Ключ</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>Путь к Удаленному Серверу</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>Путь к Закрытому Ключу</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Имя Пространства</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Конечная Точка Пространства</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>Формат для конечных точек, совместимых с S3</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
