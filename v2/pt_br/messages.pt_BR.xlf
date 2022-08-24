@@ -1649,7 +1649,7 @@
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Selecione o provedor de armazenamento</target>
+                <target>Selecione o Provedor de Armazenamento</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1697,7 +1697,7 @@
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Excludes</target>
+                <target>Exclui</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
@@ -1721,7 +1721,7 @@
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>Service Account</target>
+                <target>Conta de Serviço</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
@@ -1753,11 +1753,11 @@
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Key</target>
+                <target>Chave</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Caminho do servidor remoto</target>
+                <target>Caminho do Servidor Remoto</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
