@@ -1638,7 +1638,6 @@
                 <source>Load Average</source>
                 <target>Carga média</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Backup Remoto</target>
@@ -1775,7 +1774,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Formato para endpoints compatíveis com S3</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
