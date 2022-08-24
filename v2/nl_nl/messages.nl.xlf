@@ -1638,10 +1638,9 @@
                 <source>Load Average</source>
                 <target>Gemiddelde laadtijd</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Remote Backup</target>
+                <target>Externe Backup</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
@@ -1649,7 +1648,7 @@
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Select Storage Provider</target>
+                <target>Selecteer Storage Provider</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1657,23 +1656,23 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone Config</source>
-                <target>Custom Rclone Config</target>
+                <target>Aangepaste Rclone configuratie</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>Continue</target>
+                <target>Doorgaan</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Enable Remote Backup</target>
+                <target>Externe Backups Inschakelen</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>Daily</target>
+                <target>Dagelijks</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
-                <target>Time</target>
+                <target>Tijd</target>
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
@@ -1681,31 +1680,31 @@
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Bucket Name</target>
+                <target>Bucket Naam</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Storage Directory</target>
+                <target>Storage Folder</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Where to store backups relative to the root.</target>
+                <target>Waar backups opslaan ten opzichte van de root folder.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>Leave blank to continue using the existing secret access key.</target>
+                <target>Laat leeg om de bestaande secret access key te blijven gebruiken.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Excludes</target>
+                <target>Uitsluiten</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Remote Backup Settings have been saved.</target>
+                <target>Instellingen voor externe back-up zijn opgeslagen.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Remote Backup Settings have been deleted.</target>
+                <target>Instellingen voor externe backups zijn verwijderd.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
@@ -1717,7 +1716,7 @@
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>Your google drive account email address.</target>
+                <target>Het e-mailadres van uw Google Drive-account.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
@@ -1725,11 +1724,11 @@
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
-                <target>Leave blank to continue using the existing service account.</target>
+                <target>Laat leeg om het bestaande serviceaccount te blijven gebruiken.</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Request Access Code</target>
+                <target>Access Code Aanvragen</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
@@ -1737,19 +1736,19 @@
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Click on the button and paste the access code into the next field.</target>
+                <target>Klik op de knop en plak de access code in het volgende veld.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Create Backup</target>
+                <target>Maak Backup</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>The backup will be started in the background shortly.</target>
+                <target>De backup wordt binnenkort op de achtergrond gestart.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Authentication Method</target>
+                <target>Authenticatie Methode</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
@@ -1757,15 +1756,15 @@
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Remote Server Path</target>
+                <target>Extern Server Pad</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Private Key Path</target>
+                <target>Private Key Pad</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Space Name</target>
+                <target>Space Naam</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
@@ -1773,9 +1772,8 @@
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Format for S3 compatible endpoints</target>
+                <target>Formaat voor S3-compatibele endpoints</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
