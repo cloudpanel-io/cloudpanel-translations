@@ -1655,7 +1655,7 @@
                 <target>SFTP</target>
             </trans-unit>
             <trans-unit id="custom-rclone-config">
-                <source>Custom Rclone config</source>
+                <source>Custom Rclone Config</source>
                 <target>Configuración personalizada Rclone</target>
             </trans-unit>
             <trans-unit id="continue">
