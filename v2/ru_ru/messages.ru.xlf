@@ -188,7 +188,7 @@
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>Эл. адрес</target>
+                <target>E-Mail</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
@@ -268,7 +268,7 @@
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Попробуйте вместо этого</target>
+                <target>Попробуйте этот вариант</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
@@ -376,7 +376,7 @@
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>Вид</target>
+                <target>Просмотреть</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
@@ -396,7 +396,7 @@
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>Строгость</target>
+                <target>Cерьёзность</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
@@ -436,11 +436,11 @@
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Экземпляр</target>
+                <target>Сервер</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
-                <target>Фаервол</target>
+                <target>Файрвол</target>
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
@@ -464,7 +464,7 @@
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>Добавить правило фаервола</target>
+                <target>Добавить правило файрвола</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
@@ -524,15 +524,15 @@
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Изменить правило фаервола</target>
+                <target>Изменить правило файрвола</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Базовая аутентификация</target>
+                <target>Базовая Аутентификация</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Включить обычную аутентификацию</target>
+                <target>Включить базовую HTTP аутентификацию</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
@@ -576,7 +576,7 @@
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Настройки Экземпляра</target>
+                <target>Настройки Сервера</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
@@ -588,11 +588,11 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Экземпляр скоро перезагрузится.</target>
+                <target>Сервер скоро перезагрузится.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>После изменения часового пояса рекомендуется перезагрузить экземпляр.</target>
+                <target>После изменения часового пояса рекомендуется перезагрузить сервер.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -880,7 +880,7 @@
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
-                <target>Управлять</target>
+                <target>Управление</target>
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
@@ -888,7 +888,7 @@
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
-                <target>Вхост</target>
+                <target>Вирт. Хост</target>
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
@@ -908,7 +908,7 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Задания Cron</target>
+                <target>Cron</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
@@ -932,7 +932,7 @@
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target>Общий</target>
+                <target>Общий шаблон</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
@@ -972,11 +972,11 @@
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>Вы можете определить любые параметры PHP так же, как в файле php.ini.</target>
+                <target>Вы можете определить любые параметры PHP, так же, как в файле php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
-                <target>Дополнительные Директивы Конфигурации</target>
+                <target>Дополнительные конфигурационные директивы</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
                 <source>PHP Settings have been saved.</source>
@@ -988,7 +988,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>При удалении сайта все файлы сайта, базы данных, пользователи и конфигурации будут удалены навсегда, и их невозможно будет восстановить.</target>
+                <target>При удалении сайта, все файлы сайта, базы данных, пользователи и конфигурации будут удалены навсегда, и их невозможно будет восстановить.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1016,15 +1016,15 @@
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Вхост Редактор</target>
+                <target>Редактор Виртуального Хоста</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>Вхост сохранён.</target>
+                <target>Виртуальный хост сохранён.</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
-                <target>Вхост недействителен, сообщение об ошибке: %errorMessage%</target>
+                <target>Виртуальный хост недействителен, сообщение об ошибке: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
@@ -1260,11 +1260,11 @@
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>Базовая Аутентификация</target>
+                <target>Базовая HTTP Аутентификация</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>Список IP-адресов для обхода базовой аутентификации, через запятую.</target>
+                <target>Список IP-адресов для обхода базовой HTTP аутентификации (через запятую).</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
@@ -1376,7 +1376,7 @@
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
-                <target>Будни</target>
+                <target>День недели</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
@@ -1488,7 +1488,7 @@
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>Шаблон Вхоста %vhostTemplate% не существует.</target>
+                <target>Шаблон виртуального хоста %vhostTemplate% не существует.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
@@ -1552,11 +1552,11 @@
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>Нужна ли другая версия?</target>
+                <target>Нужна другая версия?</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Ознакомьтесь с документацией.</target>
+                <target>Изучите документацию.</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
@@ -1624,7 +1624,7 @@
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>Использование CPU</target>
+                <target>Использование ЦП</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
@@ -1640,7 +1640,7 @@
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Удалённый Бекап</target>
+                <target>Удалённый Бэкап</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
@@ -1756,7 +1756,7 @@
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Путь к Удаленному Серверу</target>
+                <target>Путь на Удалённом Сервере</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
