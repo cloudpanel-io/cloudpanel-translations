@@ -1676,11 +1676,11 @@
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
-                <target>Seat</target>
+                <target>Compartiment</target>
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Nom du seau</target>
+                <target>Nom du compartiment</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
@@ -1688,7 +1688,7 @@
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Où stocker les sauvegardes relatives à la racine.</target>
+                <target>Emplacement de stockage des sauvegardes relatives à la racine.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
@@ -1744,7 +1744,7 @@
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>La sauvegarde sera lancée en arrière-plan sous peu.</target>
+                <target>La sauvegarde sera bientôt lancée en arrière-plan.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
@@ -1764,15 +1764,15 @@
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Nom de l'espace</target>
+                <target>Nom du stockage</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>Point de terminaison de l'espace</target>
+                <target>Emplacement distant</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Format pour les points terminaux compatibles S3</target>
+                <target>Répertoire pour les stockages compatible S3</target>
             </trans-unit>
         </body>
     </file>
