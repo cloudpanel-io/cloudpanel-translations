@@ -126,6 +126,10 @@
                 <source>Ukrainian</source>
                 <target>Ukrayna dili</target>
             </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>Arapça</target>
+            </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
                 <target>Vietnam dili</target>

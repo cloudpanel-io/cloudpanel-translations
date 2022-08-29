@@ -118,6 +118,14 @@
                 <source>Turkish</source>
                 <target>التركية</target>
             </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                <target>الأوكرانية</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>العربية</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>الآي بي العام IPv4</target>
@@ -1630,7 +1638,6 @@
                 <source>Load Average</source>
                 <target>متوسط ​​الحمل</target>
             </trans-unit>
-            <!-- Remote Backup Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>النسخ الاحتياطي عن بعد</target>
@@ -1739,7 +1746,34 @@
                 <source>The backup will be started in the background shortly.</source>
                 <target>سيبدأ النسخ الاحتياطي في الخلفية قريباً.</target>
             </trans-unit>
-            <!-- Remote Backup End -->
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>طريقة التحقق</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>مفتاح</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>مسار الخادم</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>مسار المفتاح الخاص</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>إسم المساحة</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>نقطة نهاية المساحة</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>تنسيق نقاط النهاية المتوافقة مع S3</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

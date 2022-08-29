@@ -126,6 +126,10 @@
                 <source>Ukrainian</source>
                 <target>Ουκρανικά</target>
             </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>Αραβικά</target>
+            </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
                 <target>Βιετναμικά</target>

@@ -126,6 +126,10 @@
                 <source>Ukrainian</source>
                 <target>Українська</target>
             </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>Арабська</target>
+            </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
                 <target>В'єтнамська</target>
