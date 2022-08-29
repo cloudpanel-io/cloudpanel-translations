@@ -1,4 +1,4 @@
-var en = {
+var ar = {
     Save: "حفظ",
     "Save all": "حفظ الكل",
     Rename: "اعادة تسمية",
