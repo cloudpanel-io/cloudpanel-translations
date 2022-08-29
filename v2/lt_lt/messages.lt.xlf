@@ -122,6 +122,10 @@
                 <source>Turkish</source>
                 <target>Turkų</target>
             </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                <target>Ukrainiečių</target>
+            </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
                 <target>Vietnamiečių</target>
