@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ar" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>نعم</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>لا</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>الكل</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>الدعم</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>اضغط للنسخ</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>تم النسخ للحافضة</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>جار التحميل</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>المدونة</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>اتصل بنا</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>الشروحات</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>اصدار متوفر للتحديث</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>مشكلة</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>إرسل</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>الموقع</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>المواقع</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>الألمانية</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>الانجليزية</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>الغرنسية</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>الهولندية</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>الإيطالية</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>الإسبانية</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>البولندية</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>البرتغالية</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>البرتغالية (البرازيل)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>اليونانية</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>الليتوانية</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>الأندونيسية</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>روماني</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>التركية</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>الآي بي العام IPv4</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>الآي بي العام IPv6</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>نظام التشغيل</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>اسم الخادم</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>المعالج</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>Cores النوى</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                <target>الذاكرة</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                <target>إسم المستخدم</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                <target>كلمة المرور</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                <target>تسجيل الدخول</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                <target>الإعدادات</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                <target>الخروج</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                <target>اللغة</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                <target>الإسم الاول</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                <target>الإسم الاخير</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                <target>البريد الإلكتروني</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                <target>المنطقة الزمنية</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                <target>توليد كلمة مرور</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                <target>إنشاء مستخدم جديد</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>أوافق على شروط الترخيص وأقر بسياسة الخصوصية.</source>
+                <target>أنا أوافق على <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">شروط الترخيص</a>]]> واقر <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">بسياسة الخصوصية</a>]]>.</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>حدث خطأ ، رسالة الخطأ: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>إنشاء مستخدم إداري</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>منطقة المدير</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>لوحة التحكم</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>الحساب</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>الأمن</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>تم حفظ معلومات الحساب.</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>حفظ</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>إنشاء</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>التحقق بخطوتين</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>اضف طبقة أمان اضافية من خلال تفعيل عملية التحقق بخطوتين، سيتطلب منك إدخال كلمة المرور ورمز التحقق عند تسجيل الدخول.</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>تفعيل خاصية التحقق بخطوتين</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>اربط تطبيق</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>باستخدام تطبيق مصدق مثل %googleAuthenticatorLink% او %duoLink%, امسح رمز الـ QR . سيعرض رمز من 6 أرقام تحتاج إلى إدخاله أدناه.</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>مشكلة في رمز الـ QR ?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>جّرب هذا بديلاً</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" والرمز السري: %secret%</source>
+                <target>اختر الإدخال في التطبيق الذي تستخدمه او ادخل اسم المستخدم "%userName%" and the code: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>تم تفعيل عمليةالتحقق بخطوتين.</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>إلغاء تفعيل التحقق بخطوتين</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>تم إلغاء تفعيل التحقق بخطوتين.</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>ادخل رمز التحقق</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>العودة إلى المواقع</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>المستخدمين</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>اضف مستخدم جديد</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>مستخدم جديد</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>نشط</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>معطل</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>المدير</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>المستخدم</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>مدير الموقع</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>تمت اضافة المستخدم.</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>تم تحديث المستخدم.</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>لم يتم العثور على مستخدمين.</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>الدور (الرتبة)</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>الحالة</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>حذف</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>هل انت متأكد?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>تم حذف المستخدم بنجاح.</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>المناسبات</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>لا توجد مناسبات.</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>وقت المناسبة</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>المناسبة</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>عرض</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>الإشعارات</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>لا يوجد إشعارات</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>تم حذف الإشعارات.</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>عرض الرسالة</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>بالغ الاهمية</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>التاريخ</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>الرسالة</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>تطبيق</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>المعلومات</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>تحذير</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>انتقاد</source>
+                <target>حرج</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>المزيد من المعلومات</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>ضع إشارة مقروء</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>وضع علامة كغير مقروءة</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>السيرفر المتحكم</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>الجدار الناري</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>الخدمة</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>الخدمات</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>القواعد</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>اضف قاعدة</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>لا توجد قواعد.</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>اضف قاعدة جدار ناري</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>تمت اضافة القواعد.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>تم حذف القواعد.</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>النوع</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>TCP مخصص</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>Port نطاق</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>اصدار IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>المصدر</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>مخصص</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>IPv4-في أي مكان</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>IPv6-في أي مكان</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>عنوان الـ IP الخاص بي</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP او CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>الوصف</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>الأجراءات</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>تحرير قاعدة الجدار الناري</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>المصادقة الأساسية</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>تفعيل المصادقة الأساسية</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>يضيف تفعيل المصادقة الأساسية طبقة أمان اضافية لـ CloudPanel.</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>تم تفعيل المصادفة الأساسية.</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>يعمل</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>متوقف</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>إعادة تشغيل</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>سيتم إعادة تشغيل السيرفر قريباً.</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>إعدادات Proftpd</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>MasqueradeAddress</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress يؤدي الى قيام الخادم بعرض معلومات الشبكة الخاصة بعنوان IP المحدد أو اسم مضيف DNS للعميل.</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>MasqueradeAddress تم حفظ الـ.</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>إعدادات المثيل</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>تم حفظ المنطقة الزمنية.</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>اعادة التشغيل</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>سيتم إعادة تشغيل المثيل بعد قليل.</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>يوصى بإعادة تشغيل المثيل بعد تغيير المنطقة الزمنية.</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>عام</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>خوادم قواعد البيانات</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>اضف حادم قاعدة بيانات</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>تعديل خادم قاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>المحرك</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>المضيف</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>المنفذ</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP او DNS اسم</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>الشهادة</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>تعيين مفعل</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>تمت اضافة خادم قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>تم تحديث خادم قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>تم حذف خادم قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>تم تغيير خادم قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>اسم نطاق (دومين) مخصص</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>شهادة TLS</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>تحدي Let's Encrypt HTTP</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>تحدي Let's Encrypt DNS</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>النسخ الاحتياطية</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>الصور</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>اوراق الاعتماد AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>مفاتيح الوصول AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>رمز الوصول السري AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>مفاتيح الوصول AWS ليست صحيحة.</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>تم حفظ AWS Access Keys.</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>اعدادات الصور</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>تمكين الصور التلقائية</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>تكرار</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>فترة الاحتفاظ (بالأيام)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>تم حفظ إعدادات الصور.</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>كل ساعة</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>كل 3 ساعات</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>كل 6 ساعات</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>كل 12 ساعة</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>مرة باليوم</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>انشاء صورة</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>اسم الصورة</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>لا يوجد صور.</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>متاح</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>قيد الانتظار</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>فشل</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>تم الانشاء في</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>تم انشاء الصورة.</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>تم حذف الصورة.</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>رمز الوصول غير صالح.</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>تم حفظ رمز الوصول.</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>رمز وصول</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>لقطات</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>إعدادات اللقطات</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>تفعيل اللقطات التلقائية</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>إنشاء لقطة</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>لم يتم العثور على لقطات.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>اسم اللقطة</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>الحجم</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>تم انشاء اللقطة.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>تم حذف اللقطة.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>مفاتيح حساب الخدمة</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>مفاتيح حساب الخدمة غير صالحة.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>تم حفظ مفاتيح حساب الخدمة.</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>Api رمز</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>مفتاح الـ Api غير صحيح.</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>تم حفظ مفتاح الـ Api.</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>علامة Api</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>علامة الـ Api غير صحيحة.</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>تم حفظ علامة الـ Api.</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>لا يوجد مواقع.</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ انشاء موقع</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>اسم النطاق (الدومين)</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>اسم المستخدم</source>
+                <target>Site User</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>كلمة المرور</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>التطبيق (السكربت)</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>إدارة</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>عنوان الـ IP</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>قواعد البيانات</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>مدير الملفات</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>Cron Jobs</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>السجلات Logs</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>إعدادات النطاق (الدومين)</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>دليل الجذر</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>اسم النطاق</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>التطبيق</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>نوعي</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>تم حفظ دليل الجذر.</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>إعدادات PHP</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>إصدار PHP</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>يضبط الحد الأقصى لمقدار الذاكرة الذي يُسمح للبرنامج النصي بتخصيصه.</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>يضبط الحد الأقصى للوقت الذي يُسمح فيه بتشغيل البرنامج النصي قبل أن يتم إنهاؤه بواسطة المحلل اللغوي.</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>يضبط الحد الأقصى للوقت الذي يُسمح فيه للبرنامج النصي بتحليل بيانات الإدخال ، مثل POST و GET.</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>يضبط حد عدد المدخلات لترحيل النماذج.</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>الحجم الأقصى لبيانات POST التي تقبلها PHP.</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>الحجم الأقصى للملف الذي تم تحميله.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>يمكنك تحديد معلمات PHP  كما تريد في ملف php.ini.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>توجيهات التكوين الإضافية</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>تم حفظ إعدادات PHP.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>حذف الموقع</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>سيؤدي حذف الموقع إلى إزالة جميع ملفات الموقع وقواعد البيانات والمستخدمين والتكوينات بشكل دائم ، وستكون غير قابلة للاسترداد.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>إلغاء</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>لتأكيد الحذف ، اكتب٪ domain٪ في الحقل.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>تم حذف الموقع.</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>إعدادات مستخدم الموقع</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>تم حفظ إعدادات مستخدم الموقع.</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>مفاتيح SSH</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>محرر Vhost</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>تم حفظ Vhost بنجاح.</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Vhost غير صالح، رسالة الخطأ: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>لا يوجد قواعد بيانات.</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>قاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>اضافة قاعدة بيانات</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>قاعدة بيانات جديدة</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>تمت اضافة قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>تم حذف قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>مستخدمين قاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>اضافة مستخدم قاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>لا يوجد مستخدمين لقاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>قراءة وكتابة</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>قراءة فقط</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>مستخدم قاعدة بيانات جديد</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>اسم قاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>اسم المستخدم لقاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>كلمة المرور لقاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>التصاريح</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>لم يتم العثور على قاعدة بيانات، انشأ قاعدة بيانات اولاً.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>تمت إضافة مستخدم قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>تم حذف مستخدم قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>تعديل مستخدم قاعدة البيانات</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>تم تحديث مستخدم قاعدة البيانات.</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>الشهادات</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>انشاء شهادة Let's Encrypt جديدة</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>استيراد شهادة</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>لا يوجد شهادات.</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>موقعة ذاتياً Self-Signed</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>مستوردة</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>النطاقات (الدومينات)</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>تاريخ الانتهاء</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>منصبة</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>مفتاح خاص</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>سلسلة الشهادة</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>تم حذف الشهادة.</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>تم تنصيب الشهادة.</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>تنصيب</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>استيراد وتنصيب</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>انشاء وتنصيب</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>أدخل أسماء النطاقات التي تريد تأمينها باستخدام شهادة Let's Encrypt SSL.</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>مطلوب سجل DNS يشير إلى هذا الخادم من أجل إنشاء شهادة Let's Encrypt.</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>اسماء النطاقات</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>اضافة اسم نطاق</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>اسم نطاق خاص بـ CloudPanel</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>تم حفظ اسم النطاق الخاص بـ CloudPanel</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>حظر عنوان IP</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>اضافة عنوان IP</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>عنوان IP</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>لا يوجد عناوين IPs.</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>أمثلة</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>عنوان IP وحيد</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>شكل CIDR</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>تم اضافة عنوان IP.</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>تم حذف عنوان الـ IP.</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>لا يوجد روبوتات.</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>حظر الروبوتات</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>اضافة روبوت</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>تمت اضافة الروبوت.</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>تم حذف الروبوت.</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>اسم الروبوت</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>المصادقة الأساسية</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>قائمة عناوين IP لتجاوز المصادقة الأساسية، مفصولة بفواصل (,).</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>عناوين IP المدرجة في القائمة البيضاء</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>السماح بحركة المرور من Cloudflare فقط</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>يجب أن تشير خوادم الأسماء إلى Cloudflare ، ويجب تفعيل الـ Proxy لسجلات نظام أسماء النطاقات.</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>مستخدمين SSH</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>الدليل الرئيسي</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>مستخدمين SSH</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>اضافة مستحدم SSH جديد</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>تم حفظ المستخدم.</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>مستخدم FTP</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>مستخدمين FTP</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>مستخدم FTP جديد</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>اضافة Cron Job</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>لا يوجد وضائف Cron Job مضافة.</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>Cron Job جديد</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>كل دقيقة</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>كل 5 دقائق</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>مرة بالساعة</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>كل 3 ساعاتs</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>مرة باليوم في (00:00)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>كل يوم الساعة 4 a.m.</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>مرة بالاسبوع، يوم الاحد، الساعة (00:00)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>اليوم الاول من كل شهر (مرة بالشهر) الساعة (00:00)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>القالب</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>دقيقة</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>ساعة</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>يوم</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>شهر</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>يوم من أيام الأسبوع</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>تمت اضافة Cron Job بنجاح.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>تم حذف Cron Job.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>تم حفظ Cron Job.</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>جدولة</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>الأمر</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>تحديث</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>PageSpeed</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>تطهير الـ Cache</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>إعداد PageSpeed غير صالح ، رسالة الخطأ: ٪errorMessage٪</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>تم حفظ إعدادات الـ PageSpeed.</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>تم حذف ذاكرة التخزين المؤقت لـ PageSpeed.</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>ما نوع الموقع الذي ترغب في إنشائه؟</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>انشاء موقع ووردبريس</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>انشاء موقع PHP</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>انشاء موقع Node.js</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>انشاء موقع صفحات HTML</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>انشاء موقع Python (بايثون)</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>موقع جديد</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>موقع ووردبريس جديد</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>ووردبريس منصب مسبقاً</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>رجوع</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>اسم الموقع</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>البريد الإلكتروني</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>اسم المستخدم</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>كلمة المرور</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>صفحة الادارة</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>مُتعدّد المواقع</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>قالب الـ Vhost %vhostTemplate% غير موجود.</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>تم انشاء موقع ووردبريس جديد!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>انسخ بيانات اعتماد موقع WordPress الذي أنشأته.</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>جار الانشاء</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>جار الحفظ</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>موقع PHP جديد</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>مستخدم SSH الرئيسي لهذا الموقع.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>تم انشاء الموقع.</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>موقع HTML ثابت جديد</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>موقع Node.js الجديد</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>إصدار Node.js</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>منفذ التطبيقات (Port)</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>إعدادات Node.js</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>تم حفظ إعدادات Node.js بنجاح.</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>موقع Python جديد</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>إصدار Python</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>هل تحتاج اصدار آخر؟</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>تحقق من الشروحات</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>إعدادات Python</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>تم حفظ إعدادات Python بنجاح.</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>نظام التشغيل</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>السحابة</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>المنطقة</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>معرف الـ Droplet</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>معرف الـ Instance</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>المراقبة</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>آخر 30 دقيقة</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>آخر ساعة</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>آخر 3 ساعات</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>اخر 6 ساعات</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>آخر 12 ساعة</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>1 دقيقة</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>5 دقائق</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>15 دقيقة</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>إستهلاك المعالج CPU</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>إستهلاك المساحة Disk</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>إستهلاك ذاكرة التخزين المؤقت</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>متوسط ​​الحمل</target>
+            </trans-unit>
+            <!-- Remote Backup Start -->
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>النسخ الاحتياطي عن بعد</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>مزود التخزين</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>حدد مزود التخزين</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone config</source>
+                <target>تكوين Rclone المخصص</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>مواصلة</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>تمكين النسخ الاحتياطي عن بعد</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>يومي</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>الوقت</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>Bucket</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>اسم الـ Bucket</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>دليل التخزين</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>مكان تخزين النسخ الاحتياطية بالنسبة إلى الجذر.</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>اتركه فارغًا لمواصلة استخدام مفتاح الوصول السري الحالي.</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>استبعاد</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>تم حفظ إعدادات النسخ الاحتياطي عن بعد.</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>تم حذف إعدادات النسخ الاحتياطي عن بعد.</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>مفتاح الوصول</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>مفتاح الوصول السري</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>عنوان البريد الإلكتروني لحساب Google Drive الخاص بك.</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>حساب الخدمة</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>اتركه فارغًا لمتابعة استخدام حساب الخدمة الحالي.</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>طلب رمز الوصول</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>رمز الدخول</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>انقر فوق الزر والصق رمز الوصول في الحقل التالي.</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>انشئ نسخة احتياطية</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>سيبدأ النسخ الاحتياطي في الخلفية قريباً.</target>
+            </trans-unit>
+            <!-- Remote Backup End -->
+        </body>
+    </file>
+</xliff>
