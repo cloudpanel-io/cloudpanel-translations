@@ -1756,7 +1756,7 @@
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>مسار الخادم</target>
+                <target>مسار الخادم عن بعد</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
