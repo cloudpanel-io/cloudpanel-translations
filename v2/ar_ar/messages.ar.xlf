@@ -48,7 +48,7 @@
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>مشاكل</target>
+                <target>المشاكل</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
@@ -216,7 +216,7 @@
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>منطقة المدير</target>
+                <target>لوحة الإدارة</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
@@ -316,15 +316,15 @@
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
-                <target>المدير</target>
+                <target>مدير</target>
             </trans-unit>
             <trans-unit id="role-user">
                 <source>User</source>
-                <target>المستخدم</target>
+                <target>مستخدم</target>
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>إدارة الموقع</target>
+                <target>مدير الموقع</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
@@ -384,7 +384,7 @@
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
-                <target>لا يوجد إشعارات</target>
+                <target>لا توجد إشعارات</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
@@ -408,7 +408,7 @@
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>تطبيق</target>
+                <target>إجراء</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
@@ -520,7 +520,7 @@
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>الأجراءات</target>
+                <target>الإجراءات</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
@@ -604,7 +604,7 @@
             </trans-unit>
             <trans-unit id="add-database-server">
                 <source>Add Database Server</source>
-                <target>اضف حادم قاعدة بيانات</target>
+                <target>إضافة خادم قاعدة البيانات</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
                 <source>Edit Database Server</source>
@@ -668,7 +668,7 @@
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>النسخ الاحتياطية</target>
+                <target>النسخ الإحتياطي</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
@@ -832,27 +832,27 @@
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Api رمز</target>
+                <target>API رمز</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
-                <source>Api Key is not valid.</source>
-                <target>مفتاح الـ Api غير صحيح.</target>
+                <source>API Key is not valid.</source>
+                <target>مفتاح الـ API غير صحيح.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
-                <source>Api Key has been saved.</source>
-                <target>تم حفظ مفتاح الـ Api.</target>
+                <source>API Key has been saved.</source>
+                <target>تم حفظ مفتاح الـ API.</target>
             </trans-unit>
             <trans-unit id="api-token">
-                <source>Api Token</source>
-                <target>علامة Api</target>
+                <source>API Token</source>
+                <target>علامة API</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
-                <source>Api Token is not valid.</source>
-                <target>علامة الـ Api غير صحيحة.</target>
+                <source>API Token is not valid.</source>
+                <target>علامة الـ API غير صحيحة.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
-                <source>Api Token has been saved.</source>
-                <target>تم حفظ علامة الـ Api.</target>
+                <source>API Token has been saved.</source>
+                <target>تم حفظ علامة الـ API.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
@@ -867,8 +867,8 @@
                 <target>اسم النطاق (الدومين)</target>
             </trans-unit>
             <trans-unit id="site-user">
-                <source>اسم المستخدم</source>
-                <target>Site User</target>
+                <source>Site User</source>
+                <target>إسم المستخدم</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
@@ -896,11 +896,11 @@
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
-                <target>SSL/TLS شهادة</target>
+                <target>شهادة SSL/TLS</target>
             </trans-unit>
             <trans-unit id="ssh-ftp">
                 <source>SSH/FTP</source>
-                <target>SSH/FTP إتصال</target>
+                <target>إتصال SSH/FTP</target>
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
@@ -908,7 +908,7 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron مشغل الـ</target>
+                <target>مشغل الـ Cron</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
@@ -920,7 +920,7 @@
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>دليل الـ Root</target>
+                <target>مسار الـ Root</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
@@ -968,7 +968,7 @@
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>الحجم الأقصى للملف الذي تم تحميله.</target>
+                <target>الحجم الأقصى للملف الذي يتم رفعه.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
@@ -1028,7 +1028,7 @@
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
-                <target>لا يوجد قواعد بيانات.</target>
+                <target>لا توجد قواعد بيانات.</target>
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
@@ -1036,7 +1036,7 @@
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>اضافة قاعدة بيانات</target>
+                <target>إضافة قاعدة بيانات</target>
             </trans-unit>
             <trans-unit id="new-database">
                 <source>New Database</source>
@@ -1056,7 +1056,7 @@
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>اضافة مستخدم قاعدة البيانات</target>
+                <target>إضافة مستخدم لقاعدة البيانات</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
@@ -1116,11 +1116,11 @@
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>انشاء شهادة Let's Encrypt جديدة</target>
+                <target>إنشاء شهادة Let's Encrypt جديدة</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>استيراد شهادة</target>
+                <target>إستيراد شهادة</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
@@ -1128,7 +1128,7 @@
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
-                <target>موقعة ذاتياً Self-Signed</target>
+                <target>توقيع ذاتي</target>
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
@@ -1140,11 +1140,11 @@
             </trans-unit>
             <trans-unit id="expiration-date">
                 <source>Expiration Date</source>
-                <target>تاريخ الانتهاء</target>
+                <target>تاريخ الإنتهاء</target>
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>منصبة</target>
+                <target>مثبتة</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
@@ -1164,15 +1164,15 @@
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
-                <target>تنصيب</target>
+                <target>تثبيت</target>
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>استيراد وتنصيب</target>
+                <target>استيراد وتثبيت</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>انشاء وتنصيب</target>
+                <target>انشاء وتثبيت</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
@@ -1188,7 +1188,7 @@
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
-                <target>اضافة اسم نطاق</target>
+                <target>إضافة نطاق</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
@@ -1204,11 +1204,11 @@
             </trans-unit>
             <trans-unit id="add-ip">
                 <source>Add IP</source>
-                <target>اضافة عنوان IP</target>
+                <target>إضافة عنوان IP</target>
             </trans-unit>
             <trans-unit id="ip">
                 <source>IP</source>
-                <target>عنوان IP</target>
+                <target>عنوان الـ IP</target>
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
@@ -1244,11 +1244,11 @@
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>اضافة روبوت</target>
+                <target>إضافة روبوت</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>تمت اضافة الروبوت.</target>
+                <target>تمت إضافة الروبوت.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
@@ -1256,7 +1256,7 @@
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>اسم الروبوت</target>
+                <target>إسم الروبوت</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
@@ -1292,7 +1292,7 @@
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>اضافة مستحدم SSH جديد</target>
+                <target>إضافة مستخدم SSH جديد</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
@@ -1312,15 +1312,15 @@
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>اضافة Cron Job</target>
+                <target>إضافة عامل Cron</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>لا يوجد وضائف Cron Job مضافة.</target>
+                <target>لا توجد وظائف عمل Cron مضافة.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>Cron Job جديد</target>
+                <target>وظيفة عمل Cron جديدة</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
@@ -1332,11 +1332,11 @@
             </trans-unit>
             <trans-unit id="once-an-hour">
                 <source>Once an hour</source>
-                <target>مرة بالساعة</target>
+                <target>مرة في الساعة</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
                 <source>Every 3 hours</source>
-                <target>كل 3 ساعاتs</target>
+                <target>كل 3 ساعات</target>
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
@@ -1380,7 +1380,7 @@
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>تمت اضافة Cron Job بنجاح.</target>
+                <target>تم إضافة عمل Cron</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
