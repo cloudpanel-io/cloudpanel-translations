@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>تم النسخ للحافضة</target>
+                <target>تم النسخ للحافظة</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
@@ -44,15 +44,15 @@
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>اصدار متوفر للتحديث</target>
+                <target>تحديث جديد متوفر</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>مشكلة</target>
+                <target>مشاكل</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>إرسل</target>
+                <target>أرسل</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
@@ -68,11 +68,11 @@
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>الانجليزية</target>
+                <target>الإنجليزية</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>الغرنسية</target>
+                <target>الفرنسية</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
@@ -112,7 +112,7 @@
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>روماني</target>
+                <target>الرومانية</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
@@ -128,7 +128,7 @@
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>الآي بي العام IPv4</target>
+                <target>IPv4 العام</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
@@ -148,7 +148,7 @@
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores النوى</target>
+                <target>انوية</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
@@ -172,7 +172,7 @@
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>الخروج</target>
+                <target>تسجيل الخروج</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
@@ -203,12 +203,12 @@
                 <target>إنشاء مستخدم جديد</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
-                <source>أوافق على شروط الترخيص وأقر بسياسة الخصوصية.</source>
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
                 <target>أنا أوافق على <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">شروط الترخيص</a>]]> واقر <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">بسياسة الخصوصية</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>حدث خطأ ، رسالة الخطأ: %errorMessage%</target>
+                <target>حدث خطأ ما، رسالة الخطأ: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
@@ -228,7 +228,7 @@
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>الأمن</target>
+                <target>الحماية</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
@@ -256,7 +256,7 @@
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
-                <target>اربط تطبيق</target>
+                <target>قم بربط تطبيقك</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
                 <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
@@ -264,11 +264,11 @@
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
-                <target>مشكلة في رمز الـ QR ?</target>
+                <target>لديك مشكلة في مسح الرمز؟</target>
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>جّرب هذا بديلاً</target>
+                <target>جرب هذا البديل</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" والرمز السري: %secret%</source>
@@ -280,11 +280,11 @@
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>إلغاء تفعيل التحقق بخطوتين</target>
+                <target>تعطيل المصادقة الثنائية</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>تم إلغاء تفعيل التحقق بخطوتين.</target>
+                <target>تم تعطيل المصادقة الثنائية</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
@@ -300,7 +300,7 @@
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>اضف مستخدم جديد</target>
+                <target>إضافة مستخدم</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
@@ -308,11 +308,11 @@
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>نشط</target>
+                <target>فعال</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>معطل</target>
+                <target>غير فعال</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
@@ -324,7 +324,7 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>مدير الموقع</target>
+                <target>إدارة الموقع</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
@@ -419,7 +419,7 @@
                 <target>تحذير</target>
             </trans-unit>
             <trans-unit id="critical">
-                <source>انتقاد</source>
+                <source>Critical</source>
                 <target>حرج</target>
             </trans-unit>
             <trans-unit id="more-information">
@@ -428,11 +428,11 @@
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>ضع إشارة مقروء</target>
+                <target>تحديد كمقروء</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>وضع علامة كغير مقروءة</target>
+                <target>تحديد كغير مقروء</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
@@ -484,7 +484,7 @@
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Port نطاق</target>
+                <target>نطاق المنفذ</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
@@ -556,7 +556,7 @@
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>سيتم إعادة تشغيل السيرفر قريباً.</target>
+                <target>سيتم إعادة تشغيل الخدمة قريبًا.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
@@ -576,7 +576,7 @@
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>إعدادات المثيل</target>
+                <target>إعدادات Instance</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
@@ -588,11 +588,11 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>سيتم إعادة تشغيل المثيل بعد قليل.</target>
+                <target>سيتم إعادة تشغيل الـ Instance قريبًا.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>يوصى بإعادة تشغيل المثيل بعد تغيير المنطقة الزمنية.</target>
+                <target>يوصى بإعادة تشغيل الـ Instance بعد تغيير المنطقة الزمنية.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -632,7 +632,7 @@
             </trans-unit>
             <trans-unit id="set-active">
                 <source>Set Active</source>
-                <target>تعيين مفعل</target>
+                <target>تعيين كـ مفعل</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
@@ -676,23 +676,23 @@
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>اوراق الاعتماد AWS</target>
+                <target>بيانات AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>مفاتيح الوصول AWS</target>
+                <target>مفاتيح دخول AWS</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>رمز الوصول السري AWS</target>
+                <target>رمز الدخول السري لـ AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>مفاتيح الوصول AWS ليست صحيحة.</target>
+                <target>مفاتيح دخول AWS غير صحيحة.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>تم حفظ AWS Access Keys.</target>
+                <target>تم حفظ مفاتيح دخول AWS.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
@@ -720,35 +720,35 @@
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>كل 3 ساعات</target>
+                <target>كل ثلاث ساعات</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>كل 6 ساعات</target>
+                <target>كل ست ساعات</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>كل 12 ساعة</target>
+                <target>كل إثنا عشر ساعة</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>مرة باليوم</target>
+                <target>مرة في اليوم</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>انشاء صورة</target>
+                <target>إنشاء صورة</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>اسم الصورة</target>
+                <target>إسم الصورة</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>لا يوجد صور.</target>
+                <target>لم يتم العثور على الصور.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>متاح</target>
+                <target>متوفر</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
@@ -780,11 +780,11 @@
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>رمز وصول</target>
+                <target>رمز الوصول</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
-                <target>لقطات</target>
+                <target>اللقطات</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
@@ -856,11 +856,11 @@
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
-                <target>لا يوجد مواقع.</target>
+                <target>لم يتم العثور على مواقع.</target>
             </trans-unit>
             <trans-unit id="add-site">
                 <source>+ Add Site</source>
-                <target>+ انشاء موقع</target>
+                <target>+ إضافة موقع</target>
             </trans-unit>
             <trans-unit id="domain">
                 <source>Domain</source>
@@ -896,11 +896,11 @@
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
-                <target>SSL/TLS</target>
+                <target>SSL/TLS شهادة</target>
             </trans-unit>
             <trans-unit id="ssh-ftp">
                 <source>SSH/FTP</source>
-                <target>SSH/FTP</target>
+                <target>SSH/FTP إتصال</target>
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
@@ -908,11 +908,11 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron Jobs</target>
+                <target>Cron مشغل الـ</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>السجلات Logs</target>
+                <target>السجلات</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -920,11 +920,11 @@
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>دليل الجذر</target>
+                <target>دليل الـ Root</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>اسم النطاق</target>
+                <target>اسم النطاق (الدومين)</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
@@ -936,7 +936,7 @@
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>تم حفظ دليل الجذر.</target>
+                <target>تم حفظ دليل الـ Root.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
@@ -948,19 +948,19 @@
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>يضبط الحد الأقصى لمقدار الذاكرة الذي يُسمح للبرنامج النصي بتخصيصه.</target>
+                <target>حدد أقصى كمية من الذاكرة التي يُسمح للسكربت بإستخدامها.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>يضبط الحد الأقصى للوقت الذي يُسمح فيه بتشغيل البرنامج النصي قبل أن يتم إنهاؤه بواسطة المحلل اللغوي.</target>
+                <target>حدد أقصى وقت مسموح للسكربت للبقاء فعال قبل ان يتم إنهاءه من قبل محلل البيانات.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>يضبط الحد الأقصى للوقت الذي يُسمح فيه للبرنامج النصي بتحليل بيانات الإدخال ، مثل POST و GET.</target>
+                <target>حدد أقصى وقت مسموح للسكربت لتحليل البيانات، مثل POST و GET.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>يضبط حد عدد المدخلات لترحيل النماذج.</target>
+                <target>حدد عدد المدخلات لترحيل النماذج.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
@@ -1408,7 +1408,7 @@
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>تطهير الـ Cache</target>
+                <target>حذف الـ Cache</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
@@ -1424,7 +1424,7 @@
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
-                <target>ما نوع الموقع الذي ترغب في إنشائه؟</target>
+                <target>ما نوع الموقع الذي ترغب في إنشاءه؟</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
@@ -1456,7 +1456,7 @@
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>ووردبريس منصب مسبقاً</target>
+                <target>ووردبريس مثبت مسبقًا</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
@@ -1624,19 +1624,19 @@
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>إستهلاك المعالج CPU</target>
+                <target>إستهلاك المعالج</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>إستهلاك المساحة Disk</target>
+                <target>مساحة التخزين المستخدمة</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>إستهلاك ذاكرة التخزين المؤقت</target>
+                <target>الذاكرة العشوائية المستخدمة</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>متوسط ​​الحمل</target>
+                <target>متوسط الحمل</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
@@ -1668,7 +1668,7 @@
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>يومي</target>
+                <target>يوميًا</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
@@ -1740,11 +1740,11 @@
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>انشئ نسخة احتياطية</target>
+                <target>إنشاء نسخة إحتياطية</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>سيبدأ النسخ الاحتياطي في الخلفية قريباً.</target>
+                <target>سيبدأ النسخ الاحتياطي بالعمل في الخلفية قريبًا.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
