@@ -1651,7 +1651,6 @@
                 <source>Load Average</source>
                 <target>Μέσος όρος φορτίου</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Αντίγραφα Ασφαλείας</target>
@@ -1788,7 +1787,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Μορφή για τερματικά σημεία συμβατά με S3</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
