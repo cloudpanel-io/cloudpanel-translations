@@ -368,23 +368,23 @@
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
-                <target>Ocorrência</target>
+                <target>Eventos</target>
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>Nenhuma Ocorrência encontrada.</target>
+                <target>Nenhum Eventos encontrada.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Hora da Ocorrência</target>
+                <target>Hora do Evento</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target>Ocorrência</target>
+                <target>Evento</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>Visão</target>
+                <target>Ver</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
@@ -552,7 +552,7 @@
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Corrida</target>
+                <target>Operando</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
