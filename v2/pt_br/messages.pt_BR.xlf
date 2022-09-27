@@ -912,7 +912,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>Gerenciador de arquivos</target>
+                <target>Arquivos</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
@@ -1468,7 +1468,7 @@
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
-                <target>De volta</target>
+                <target>Voltar</target>
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
