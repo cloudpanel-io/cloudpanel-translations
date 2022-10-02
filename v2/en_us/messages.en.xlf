@@ -116,7 +116,7 @@
             </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
-                <target>Russisch</target>
+                <target>Russian</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
