@@ -1737,99 +1737,99 @@
             <!-- Translate Me Start -->
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Request Access Code</target>
+                <target>Solicitar Código de Acceso</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Access Code</target>
+                <target>Código de Acceso/target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Click on the button and paste the access code into the next field.</target>
+                <target>Haga clic en el botón y pegue el código de acceso en el siguiente campo.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Create Backup</target>
+                <target>Crear Copia de Seguridad</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>The backup will be started in the background shortly.</target>
+                <target>La copia de seguridad se iniciará en segund plano en breve. </target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Authentication Method</target>
+                <target>Método de autenticación</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Key</target>
+                <target>Clave</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Remote Server Path</target>
+                <target>Ruta Servidor Remoto</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Private Key Path</target>
+                <target>Ruta Clave Privada</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Space Name</target>
+                <target>Nombre del Espacio</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>Space Endpoint</target>
+                <target>Espacio del Dispositivo</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Format for S3 compatible endpoints</target>
+                <target>Formato para dispositivos compatibles con S3</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
-                <target>Varnish Cache</target>
+                <target>Caché Varnish</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
-                <target>Varnish Server</target>
+                <target>Servidor Varnish</target>
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Cache Lifetime</target>
+                <target>Duración de la Caché</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Cache Lifetime in seconds before being refreshed.</target>
+                <target>Duración de la Caché en segundos antes de actualizarse.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Cache Tag Prefix</target>
+                <target>Prefijo de la Etiqueta de la Caché</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Excluded Params</target>
+                <target>Parámetros Excluidos</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>List of GET parameters, separated by a comma, to disable caching.</target>
+                <target>Lista de parámetros GET, separados por una coma, para deshabilitar la caché.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Urls and files that Varnish Cache shouldn't cache.</target>
+                <target>Urls y ficheros que la Caché Varnish Cache no debería cachear.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnish Cache Settings have been saved.</target>
+                <target>Se han guardado los ajustes de la Caché Varnish</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Purge Entire Cache</target>
+                <target>Purgar Toda la Caché</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>You can purge single urls or tags separated by comma.</target>
+                <target>Puede purgar urls individuales o etiquetas separadas por comas.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish Cache has been purged.</target>
+                <target>La Caché Varnish ha sido purgada</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
