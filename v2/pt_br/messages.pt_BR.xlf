@@ -1793,43 +1793,43 @@
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Cache Lifetime</target>
+                <target>Tempo de vida</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Cache Lifetime in seconds before being refreshed.</target>
+                <target>Temp de vida até atualizar (em segundos).</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Cache Tag Prefix</target>
+                <target>Tag prefixo do cache</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Excluded Params</target>
+                <target>Parametros de exclusão</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>List of GET parameters, separated by a comma, to disable caching.</target>
+                <target>Lista de parametros GET para desabilitar o cache (separados por virgula).</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Urls and files that Varnish Cache shouldn't cache.</target>
+                <target>URLs e arquivos que o Varnish Cache não deve armazenar.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnish Cache Settings have been saved.</target>
+                <target>As definições para Varnish Cache foram salvas.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Purge Entire Cache</target>
+                <target>Limpar todo o cache</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>You can purge single urls or tags separated by comma.</target>
+                <target>Você pode limpar URLs (ou tags) especificas separando por virgula.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish Cache has been purged.</target>
+                <target>Limpeza de cache realizada.</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
