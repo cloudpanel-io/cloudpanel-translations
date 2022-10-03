@@ -1782,7 +1782,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Formaat voor S3-compatibele endpoints</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
                 <target>Varnish Cache</target>
@@ -1831,7 +1830,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Varnish Cache is leeggemaakt.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>

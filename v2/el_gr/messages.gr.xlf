@@ -1787,7 +1787,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Μορφή για τερματικά σημεία συμβατά με S3</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
                 <target>Varnish Cache</target>
@@ -1836,7 +1835,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Η κρυφή μνήμη Varnish έχει εκκαθαριστεί.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>

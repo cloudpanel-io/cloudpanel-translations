@@ -1782,7 +1782,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>S3 uyumlu uç noktalar için biçim</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
                 <target>Varnish Önbelleği</target>
@@ -1831,7 +1830,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Varnish ön belleği temizlendi.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>

@@ -1782,7 +1782,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Formatul pentru endpoint-uri compatibile cu S3</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
                 <target>Memorie Cache Varnish</target>
@@ -1831,7 +1830,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Memoria Varnish Cache a fost golită.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>

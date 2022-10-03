@@ -1734,14 +1734,13 @@
                 <source>Leave blank to continue using the existing service account.</source>
                 <target>Deje en blanco para continuar usando la cuenta existente del servicio.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
                 <target>Solicitar Código de Acceso</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Código de Acceso/target>
+                <target>Código de Acceso</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
@@ -1831,7 +1830,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>La Caché Varnish ha sido purgada</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
