@@ -1792,23 +1792,23 @@
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
-                <target>Pamięć podręczna Varnish</target>
+                <target>Varnish Cache</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
-                <target>Server Varnish</target>
+                <target>Varnish Serwer</target>
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Żywotność pamięci podręcznej</target>
+                <target>Żywotność Cache</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Żywotność pamięci podręcznej w sekundach przed odświeżeniem.</target>
+                <target>Żywotność Cache w sekundach przed odświeżeniem.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Prefiks tagu pamięci podręcznej</target>
+                <target>Prefiks tagu Cache</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
@@ -1824,11 +1824,11 @@
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Ustawienia pamięci podręcznej Varnish zostały zapisane.</target>
+                <target>Ustawienia Varnish Cache zostały zapisane.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Wyczyść całą pamięć podręczną</target>
+                <target>Wyczyść Cache</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
@@ -1836,7 +1836,7 @@
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Pamięć podręczna Varnish została wyczyszczona.</target>
+                <target>Varnish Cache został wyczyszczony.</target>
             </trans-unit>
         </body>
     </file>
