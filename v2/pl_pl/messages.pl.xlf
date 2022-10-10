@@ -1654,7 +1654,6 @@
                 <source>Load Average</source>
                 <target>Średnie obciążenie</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
                 <target>Zdalna Kopia Zapasowa</target>
@@ -1839,7 +1838,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Pamięć podręczna Varnish została wyczyszczona.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
