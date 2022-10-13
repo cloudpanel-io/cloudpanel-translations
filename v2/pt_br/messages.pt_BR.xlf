@@ -136,19 +136,19 @@
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>IPv4 Publico IP</target>
+                <target>IP Publico IPv4</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IPv6 Publico IP</target>
+                <target>IP Publico IPv6</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>SO</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Hostname</target>
+                <target>Servidor</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
@@ -160,7 +160,7 @@
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Memoria</target>
+                <target>Memória</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
@@ -172,7 +172,7 @@
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Conecte-se</target>
+                <target>Entrar</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
@@ -184,7 +184,7 @@
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Linguagem</target>
+                <target>Idioma</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
@@ -196,7 +196,7 @@
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-Mail</target>
+                <target>Email</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
@@ -212,7 +212,7 @@
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>eu concordo com o <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> e reconhecer o <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
+                <target>eu concordo com os <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">termos da licença</a>]]> e reconheço a <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">polítiva de privacidade</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
@@ -300,7 +300,7 @@
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Voltar aos sites</target>
+                <target>Voltar</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
@@ -320,7 +320,7 @@
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Não Ativo</target>
+                <target>Inativo</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
@@ -336,11 +336,11 @@
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>O usuário foi adicionado.</target>
+                <target>Usuário adicionado.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>O usuário foi atualizado.</target>
+                <target>Usuário atualizado.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
@@ -364,7 +364,7 @@
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
-                <target>O usuário foi excluído.</target>
+                <target>Usuário excluído.</target>
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
@@ -372,11 +372,11 @@
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>Nenhum Eventos encontrada.</target>
+                <target>Nenhum Eventos encontrado.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Hora do Evento</target>
+                <target>Hora</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
@@ -396,7 +396,7 @@
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>A notificação foi excluída.</target>
+                <target>notificação excluída.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
@@ -556,7 +556,7 @@
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>Parou</target>
+                <target>Parado</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
@@ -572,15 +572,15 @@
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>IP Mascarado</target>
+                <target>Máscara de IP</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>IP Mascarado faz com que o servidor exiba as informações de rede para o endereço IP ou nome de host DNS especificado para o cliente.</target>
+                <target>A máscara de IP faz com que o servidor exiba as informações de rede para o endereço IP ou nome de host DNS especificado para o cliente.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>IP Mascarado Foi salvo.</target>
+                <target>Máscara de IP salva.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
@@ -604,7 +604,7 @@
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
-                <target>Em geral</target>
+                <target>Geral</target>
             </trans-unit>
             <trans-unit id="database-servers">
                 <source>Database Servers</source>
@@ -624,7 +624,7 @@
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
-                <target>Host</target>
+                <target>Servidor</target>
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
@@ -632,7 +632,7 @@
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>Nome IP ou DNS</target>
+                <target>IP ou nome DNS</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
@@ -1188,7 +1188,7 @@
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Um registro DNS apontando para este servidor é necessário para emitir um Certificado Let's Encrypt.</target>
+                <target>É obrigatório ter um registro DNS apontado para este servidor para emitir certificados Let's Encrypt.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1476,7 +1476,7 @@
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>E-mail do administrador</target>
+                <target>Email do administrador</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
@@ -1680,7 +1680,7 @@
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
-                <target>Tempo</target>
+                <target>Horário</target>
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
@@ -1704,7 +1704,7 @@
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Exclui</target>
+                <target>Ignorar</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
@@ -1724,7 +1724,7 @@
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>O endereço de e-mail da sua conta do Google Drive.</target>
+                <target>O endereço de email da sua conta do Google Drive.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
