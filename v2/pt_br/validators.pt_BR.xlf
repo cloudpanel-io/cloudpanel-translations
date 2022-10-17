@@ -12,7 +12,7 @@
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
                 <source>This value is not a valid domain name.</source>
-                <target>Este valor não é um nome de domínio válido.</target>
+                <target>Este não é um nome de domínio válido.</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
                 <source>Does not match certificate.</source>
@@ -24,11 +24,11 @@
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>A porta já está em uso.</target>
+                <target>Esta porta está em uso.</target>
             </trans-unit>
             <trans-unit id="the-credentials-are-not-valid">
                 <source>The credentials are not valid.</source>
-                <target>As credenciais não são válidas.</target>
+                <target>Credenciais inválidas.</target>
             </trans-unit>
         </body>
     </file>
