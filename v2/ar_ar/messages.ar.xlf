@@ -1774,7 +1774,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>تنسيق نقاط النهاية المتوافقة مع S3</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
                 <target>الورنيش مخبأ</target>
@@ -1823,7 +1822,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>تم تطهير ذاكرة التخزين المؤقت الورنيش.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
