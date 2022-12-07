@@ -1200,11 +1200,11 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>Domain Kustom CloudPanel</target>
+                <target>Kustom Domain CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>Domain Kustom CloudPanel telah disimpan.</target>
+                <target>Kustom Domain CloudPanel telah disimpan.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
@@ -1664,7 +1664,7 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone Config</source>
-                <target>Konfigurasi Rclone Kustom</target>
+                <target>Kustom Konfigurasi Rclone</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
@@ -1792,11 +1792,11 @@
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Cache Selamanya</target>
+                <target>Cache Kedaluwarsa</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Cache Selamanya dalam beberapa detik sebelum disegarkan.</target>
+                <target>Cache Kedaluwarsa dalam detik sebelum disegarkan.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
