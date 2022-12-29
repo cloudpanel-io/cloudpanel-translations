@@ -17,7 +17,7 @@ var zh = {
     Table: "表格",
     Cards: "卡片",
     Total: "總和",
-    "Are you sure ?": 您確定嗎 ?",
+    "Are you sure ?": "您確定嗎 ?",
     Details: "細節",
     "Enter a new name": "輸入新名稱",
     Add: "增加",
