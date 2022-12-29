@@ -134,6 +134,10 @@
                 <source>Vietnamese</source>
                 <target>Βιετναμικά</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>Κινεζικά (Ταϊβάν)</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>Δημόσια IPv4 IP</target>

@@ -126,6 +126,14 @@
                 <source>Arabic</source>
                 <target>العربية</target>
             </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>الفيتنامية</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>الصينية (تايوان)</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>IPv4 العام</target>

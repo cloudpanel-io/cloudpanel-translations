@@ -134,6 +134,10 @@
                 <source>Vietnamese</source>
                 <target>Vietnamien</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>Chinois (Taïwan)</target>
+            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
                 <target>IP publique IPv4</target>
