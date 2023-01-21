@@ -232,7 +232,7 @@
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Dashboard</target>
+                <target>Pulpit</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
