@@ -11,7 +11,7 @@ var ja = {
     Date: "データ",
     "back to parent folder": "親フォルダーへ戻る",
     Download: "ダウンロード",
-    Type: "Type",
+    Type: "タイプ",
     Information: "情報",
     Files: "ファイル",
     Table: "テーブル",
