@@ -1837,27 +1837,27 @@
             <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Create a Reverse Proxy</target>
+                <target>Crear un Proxy Inverso</target>
             </trans-unit>
-            <trans-unit id="new-reverse-proxy">
+                <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>New Reverse Proxy</target>
+            <target>Nuevo Proxy Inverso</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Reverse Proxy Url</target>
+                <target>Url del Proxy Inverso</target>
             </trans-unit>
-            <trans-unit id="reverse-proxy-has-been-created">
+                <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Reverse Proxy has been created.</target>
+            <target>El Proxy Inverso ha sido creado.</target>
             </trans-unit>
-            <trans-unit id="reverse-proxy-settings">
+                <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Reverse Proxy Settings</target>
+            <target>Configuración del Proxy Inverso</target>
             </trans-unit>
-            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Reverse Proxy Settings have been saved.</target>
+                <target>La configuración del Proxy Inverso ha sido guardada.</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
