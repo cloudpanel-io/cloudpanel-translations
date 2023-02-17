@@ -1440,7 +1440,7 @@
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target state="translated">創建一個WordPress網站</target>
+                <target state="translated">創建一個 WordPress網站</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
@@ -1448,7 +1448,7 @@
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target state="translated">創建節點.js網站</target>
+                <target state="translated">創建 Node.js網站</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
@@ -1748,7 +1748,7 @@
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Click on the button and paste the access code into the next field.</target>
+                <target>點擊按鈕並將訪問代碼黏貼到下一個字段中</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
@@ -1837,27 +1837,27 @@
             <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Create a Reverse Proxy</target>
+                <target>創建反向代理</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>New Reverse Proxy</target>
+                <target>新的反向代理</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Reverse Proxy Url</target>
+                <target>反向代理網址</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Reverse Proxy has been created.</target>
+                <target>反向代理已創建.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Reverse Proxy Settings</target>
+                <target>設定反向代理</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Reverse Proxy Settings have been saved.</target>
+                <target>反向代理設定已保存.</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
