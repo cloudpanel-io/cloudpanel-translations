@@ -1834,7 +1834,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target state="translated">網站快取已被清除.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
                 <target>創建反向代理</target>
@@ -1859,7 +1858,6 @@
                 <source>Reverse Proxy Settings have been saved.</source>
                 <target>反向代理設定已保存.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
