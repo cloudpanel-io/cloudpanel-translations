@@ -1839,7 +1839,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Η κρυφή μνήμη Varnish έχει εκκαθαριστεί.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
                 <target>Δημιουργία Reverse Proxy</target>
@@ -1864,7 +1863,6 @@
                 <source>Reverse Proxy Settings have been saved.</source>
                 <target>Οι ρυθμίσεις του Reverse Proxy έχουν αποθηκευτεί.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
