@@ -1837,7 +1837,7 @@
             <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Membuat Reverse Proxy</target>
+                <target>Buat Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
