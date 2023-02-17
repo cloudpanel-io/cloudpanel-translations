@@ -1834,7 +1834,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Limpeza de cache realizada.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
                 <target>Crie um proxy reverso</target>
@@ -1859,7 +1858,6 @@
                 <source>Reverse Proxy Settings have been saved.</source>
                 <target>As configurações de proxy reverso foram salvas.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
