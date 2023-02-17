@@ -1834,32 +1834,30 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Кэш Varnish очищен.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Create a Reverse Proxy</target>
+                <target>Создать Обратный Прокси</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>New Reverse Proxy</target>
+                <target>Новый Обратный Прокси</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Reverse Proxy Url</target>
+                <target>Проксируемый Url</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Reverse Proxy has been created.</target>
+                <target>Обратный Прокси создан.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Reverse Proxy Settings</target>
+                <target>Настройки Обратного Прокси</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Reverse Proxy Settings have been saved.</target>
+                <target>Настройки Обратного Прокси сохранены.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
