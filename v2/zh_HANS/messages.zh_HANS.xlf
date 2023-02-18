@@ -138,9 +138,9 @@
                 <source>Chinese (Simplified)</source>
                 <target>简体中文</target>
             </trans-unit>
-            <trans-unit id="locale-chinese-traditional-taiwan">
-                <source>Chinese (Taiwan)</source>
-                <target>正体中文</target>
+            <trans-unit id="locale-chinese-traditional">
+                <source>Chinese (Traditional)</source>
+                <target>繁体中文</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
