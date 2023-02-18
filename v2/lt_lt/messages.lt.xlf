@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Nukopijuota į iškarpinę</target>
+                <target>Nukopijuota į atmintį</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
@@ -32,7 +32,7 @@
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
-                <target>Tinklaraštis</target>
+                <target>Blogas</target>
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Dokumentai</target>
+                <target>Dokumentacija</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -104,7 +104,7 @@
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Lietuvių</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
@@ -152,7 +152,7 @@
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Pagrindinis kompiuterio vardas</target>
+                <target>Hostname</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
@@ -220,7 +220,7 @@
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>Klaida, klaidos žinutė: %errorMessage%</target>
+                <target>Įvyko klaida, klaidos žinutė: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
@@ -264,7 +264,7 @@
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>Įgalinti dviejų veiksnių autentifikavimą</target>
+                <target>Įjungti dviejų veiksnių autentifikavimą</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
@@ -272,7 +272,7 @@
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
                 <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>Naudojant autentifikatoriaus programėlę kaip %googleAuthenticatorLink% ar %duoLink%, nuskenuokite QR kodą. Ji parodys 6 skaitmenų kodą kurį reikia įvesti apačioje.</target>
+                <target>Naudojant autentifikatoriaus programėlę kaip %googleAuthenticatorLink% ar %duoLink%, nuskenuokite QR kodą. Bus rodomas 6 skaitmenų kodas, kurį turėsite įvesti žemiau.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
@@ -280,7 +280,7 @@
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Bandykite tai</target>
+                <target>Išbandykite tai</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
@@ -364,7 +364,7 @@
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>Ar jūs tikras?</target>
+                <target>Ar tu tuo tikras?</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
@@ -408,7 +408,7 @@
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>Griežtumas</target>
+                <target>Laipsnis</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
@@ -456,11 +456,11 @@
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
-                <target>Tarnyba</target>
+                <target>Paslauga</target>
             </trans-unit>
             <trans-unit id="services">
                 <source>Services</source>
-                <target>Tarnybos</target>
+                <target>Paslaugos</target>
             </trans-unit>
             <trans-unit id="rules">
                 <source>Rules</source>
@@ -492,11 +492,11 @@
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>Pasirinktinis TCP</target>
+                <target>Individualus TCP</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Prievadų diapazonas</target>
+                <target>Portų diapazonas</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
@@ -508,7 +508,7 @@
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>Pasirinktinis</target>
+                <target>Individualus</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
@@ -520,7 +520,7 @@
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>Mano IP adreas</target>
+                <target>Mano IP adresas</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
@@ -540,19 +540,19 @@
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Pagrindinis autentifikavimas</target>
+                <target>Paprastas autentifikavimas</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Įgalinti pagrindinį autentifikavimą</target>
+                <target>Įgalinti paprastą autentifikavimą</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Pagrindinis autentifikavimas prieš „CloudPanel“ suteikia papildomą apsaugos sluoksnį.</target>
+                <target>Paprastas autentifikavimas prieš „CloudPanel“ suteikia papildomą apsaugos sluoksnį.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Pagrindinis autentifikavimas įjungtas.</target>
+                <target>Paprastas autentifikavimas įjungtas.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
@@ -568,7 +568,7 @@
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>Tarnyba persikraus greitai.</target>
+                <target>Paslaugos persikraus greitai.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
@@ -576,11 +576,11 @@
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>Maskaradinis adresas</target>
+                <target>MaskaradinisAdresas</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>Dėl maskaradinio adreso klientui rodo tinklo informaciją pagal nurodytą IP adresą arba DNS pagrindinio kompiuterio pavadinimą.</target>
+                <target>Dėl MaskaradinioAdreso klientui rodo tinklo informaciją pagal nurodytą IP adresą arba DNS pagrindinio kompiuterio pavadinimą.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -600,7 +600,7 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Instancija persikraus greitai.</target>
+                <target>Instancija netrukus persikraus.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
@@ -628,11 +628,11 @@
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
-                <target>Pagrindinis kompiuteris</target>
+                <target>Host</target>
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>Prievadas</target>
+                <target>Portas</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
@@ -644,7 +644,7 @@
             </trans-unit>
             <trans-unit id="set-active">
                 <source>Set Active</source>
-                <target>Nustatyti aktyviu</target>
+                <target>Nustatyti kaip aktyvų</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
@@ -664,7 +664,7 @@
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Pasirinktinis domenas</target>
+                <target>Individualus domenas</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
@@ -684,15 +684,15 @@
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Vaizdai</target>
+                <target>Atsarginės kopijos</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>AWS Kredencialai</target>
+                <target>AWS Įgaliojimų sąrašas</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>AWS Priegos raktas</target>
+                <target>AWS Prieigos raktas</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
@@ -708,11 +708,11 @@
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Vaizdų nustatymai</target>
+                <target>Atsarginės kopijos nustatymai</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Įgalinti automatines nuotraukas</target>
+                <target>Įjungti automatines atsargines kopijas</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
@@ -720,11 +720,11 @@
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Susilaikymo periodas (Dienos)</target>
+                <target>Išsaugojimo laikotarpis (Dienos)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Vaizdų nustatymai išsaugoti.</target>
+                <target>Atsarginės kopijos nustatymai išsaugoti.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
@@ -748,19 +748,19 @@
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Sukurti paveikslėlį</target>
+                <target>Sukurti atsarginė kopija</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Paveikslėlio vardas</target>
+                <target>Atsarginės kopijos pavadinimas</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>Paveikslėlis nerastas.</target>
+                <target>Atsarginių kopijų nerasta.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Laisvas</target>
+                <target>Prieinamas</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
@@ -776,11 +776,11 @@
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Vaizdas kuriamas.</target>
+                <target>Kuriama atsarginė kopija.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Vaizdas įštrinamas.</target>
+                <target>Ištrinama atsarginė kopija.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
@@ -804,7 +804,7 @@
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Įgalinti automatines sistemos kopijas</target>
+                <target>Įjungti automatines sistemos kopijas</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
@@ -816,7 +816,7 @@
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Sistemų kopijos vardas</target>
+                <target>Sistemų kopijos pavadinimas</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
@@ -832,15 +832,15 @@
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Tarnybos paskyros raktai</target>
+                <target>Paslaugos paskyros raktai</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
-                <target>Tarnybos paskyros raktai neteisingi.</target>
+                <target>Paslaugos paskyros raktai neteisingi.</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
                 <source>Service Account Keys have been saved.</source>
-                <target>Tarnybos paskyros raktai išsaugoti.</target>
+                <target>Paslaugos paskyros raktai išsaugoti.</target>
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
@@ -888,7 +888,7 @@
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
-                <target>Programėlė</target>
+                <target>App</target>
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
@@ -924,7 +924,7 @@
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Registras</target>
+                <target>Registrai</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -940,7 +940,7 @@
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
-                <target>Taikymas</target>
+                <target>Programa</target>
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
@@ -960,7 +960,7 @@
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Nustato didžiausią atminties kiekį, kurį leidžiama skirti scenarijui.</target>
+                <target>Nustato didžiausią atminties kiekį, kurį leidžiama skirti skriptui.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
@@ -968,11 +968,11 @@
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Nustato maksimalų laiką, kurį scenarijus gali analizuoti įvesties duomenis, kaip POST ir GET.</target>
+                <target>Nustato maksimalų laiką, kurį skriptas gali analizuoti įvesties duomenis, kaip POST ir GET.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>Nustato registravimo formų įvesties ribą.</target>
+                <target>Nustato registravimo formų laukelių įvedimo ribą.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
@@ -980,11 +980,11 @@
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>Didžiausias įkelto failo dydis.</target>
+                <target>Maksimalus įkelto failo dydis.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>Galite apibrėžti bet kokius PHP parametrus, kaip apibrėžtumėte php.ini.</target>
+                <target>Galite apibūdinti bet kokius PHP parametrus, kaip jūs apibūdintumėte php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
@@ -1156,7 +1156,7 @@
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>Instaliuota</target>
+                <target>Įdiegta</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
@@ -1172,19 +1172,19 @@
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>Sertifikatas instaliuotas.</target>
+                <target>Sertifikatas įdiegtas.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
-                <target>Instaliuoti</target>
+                <target>Įdiegti</target>
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>Importuoti ir instaliuoti</target>
+                <target>Importuoti ir įdiegti</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>Sukurti ir instaliuoti</target>
+                <target>Sukurti ir įdiegti</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
@@ -1192,7 +1192,7 @@
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Norint išduoti Let's Encrypt SSL sertifikatą, reikalingas DNS įrašas, nukreipiantis į šį serverį.</target>
+                <target>Norint sukurti Let's Encrypt SSL sertifikatą, reikalingas DNS įrašas, nukreipiantis į šį serverį.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1272,7 +1272,7 @@
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>Pagrindinis autentifikavimas</target>
+                <target>Paprastas autentifikavimas</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
@@ -1296,7 +1296,7 @@
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Namų direktorija</target>
+                <target>Home direktorija</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
@@ -1368,7 +1368,7 @@
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
-                <target>Ruošinys</target>
+                <target>Šablonas</target>
             </trans-unit>
             <trans-unit id="minute">
                 <source>Minute</source>
@@ -1404,11 +1404,11 @@
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
-                <target>Tvarkaraštis</target>
+                <target>Grafikas</target>
             </trans-unit>
             <trans-unit id="command">
                 <source>Command</source>
-                <target>Komanda</target>
+                <target>Nurodymas</target>
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
@@ -1420,11 +1420,11 @@
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Išvalyti talpyklą</target>
+                <target>Išvalyti Cache talpyklą</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>PageSpeed nustatymai neteisingi, klaidos žinutė: %errorMessage%</target>
+                <target>PageSpeed nustatymai neteisingi, klaida: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
@@ -1432,7 +1432,7 @@
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>PageSpeed talpykla išvalyta.</target>
+                <target>PageSpeed Cache talpykla išvalyta.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
@@ -1468,7 +1468,7 @@
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>Iš anksto įdiegtas WordPress</target>
+                <target>Iš anksto įdiegti WordPress</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
@@ -1480,7 +1480,7 @@
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>Administratoriaus el. paštas</target>
+                <target>Administratoriaus el.paštas</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
@@ -1508,7 +1508,7 @@
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Nukopijuokite sukurtos „WordPress“ svetainės kredencialus.</target>
+                <target>Nukopijuokite sukurtos WordPress svetainės įgaliojimus.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
@@ -1544,7 +1544,7 @@
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>Pridėti prievadą</target>
+                <target>Pridėti Portą</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
@@ -1580,11 +1580,11 @@
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>Operacinė sistema</target>
+                <target>Operacinė Sistema</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>Debesis</target>
+                <target>Cloud</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
@@ -1596,7 +1596,7 @@
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>Instancijos ID</target>
+                <target>Instance ID</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
@@ -1676,7 +1676,7 @@
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Įgalinti nuotolinę atsarginę kopiją</target>
+                <target>Įjungti nuotolinę atsarginę kopiją</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
@@ -1696,11 +1696,11 @@
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Saugyklos direktorija</target>
+                <target>Saugyklos vieta</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Kur laikyti atsargines kopijas, palyginti su šaknimis.</target>
+                <target>Kur laikyti atsargines kopijas, palyginti su root.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
@@ -1732,7 +1732,7 @@
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>Tarnybos Paskyra</target>
+                <target>Paslaugos Paskyra</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
@@ -1748,7 +1748,7 @@
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Spustelėkite mygtuką ir įklijuokite prieigos kodą į kitą lauką.</target>
+                <target>Spustelėkite mygtuką ir įklijuokite prieigos kodą į kitą laukelį.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
@@ -1756,7 +1756,7 @@
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>Atsarginė kopija netrukus bus pradėta kurti fone.</target>
+                <target>Atsarginė kopija netrukus bus pradėta kurti viduje.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
@@ -1768,19 +1768,19 @@
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Nuotolinio Serverio Kelias</target>
+                <target>Nuotolinio Serverio Nuoroda</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Privataus Rakto Kelias</target>
+                <target>Privataus Rakto Nuoroda</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Erdvės pavadinimas</target>
+                <target>Space pavadinimas</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>Erdvės galutinis taškas</target>
+                <target>Space galutinis taškas</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
@@ -1793,71 +1793,71 @@
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
-                <target>Varnish Server</target>
+                <target>Varnish Serveris</target>
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Cache Lifetime</target>
+                <target>Cache Talpyklos veikimo laikas</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Cache Lifetime in seconds before being refreshed.</target>
+                <target>Cache Talpyklos veikimo laikas (sekundėmis) prieš atnaujinant.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Cache Tag Prefix</target>
+                <target>Cache Talpyklos tagų priešdėlis</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Excluded Params</target>
+                <target>Neįtraukti Parametrai</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>List of GET parameters, separated by a comma, to disable caching.</target>
+                <target>GET parametrų sąrašas, atskirti kableliu, kad išjungtų Cache talpinimą.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Urls and files that Varnish Cache shouldn't cache.</target>
+                <target>URL ir failai, kurių Varnish Cache neturėtų laikyti Cache talpykloje.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnish Cache Settings have been saved.</target>
+                <target>Varnish Cache nustatymai išsaugoti.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Purge Entire Cache</target>
+                <target>Išvalyti visą Cache talpyklą</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>You can purge single urls or tags separated by comma.</target>
+                <target>Galite išvalyti atskirus URL arba tagus, atskyrus kableliais.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish Cache has been purged.</target>
+                <target>Varnish Cache talpykla išvalyta.</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Create a Reverse Proxy</target>
+                <target>Sukurti naują atvirkštinį Proxy</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>New Reverse Proxy</target>
+                <target>Naujas atvirkštinis Proxy</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Reverse Proxy Url</target>
+                <target>Atvirkštinio Proxy Url</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Reverse Proxy has been created.</target>
+                <target>Atvirkštinis Proxy išsaugotas.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Reverse Proxy Settings</target>
+                <target>Atvirkštinio Proxy serverio nustatymai</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Reverse Proxy Settings have been saved.</target>
+                <target>Atvirkštinio Proxy serverio nustatymai buvo išsaugoti.</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
