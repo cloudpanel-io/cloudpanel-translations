@@ -1,4 +1,4 @@
-var en = {
+var hans = {
     Save: "保存",
     "Save all": "全部保存",
     Rename: "重命名",

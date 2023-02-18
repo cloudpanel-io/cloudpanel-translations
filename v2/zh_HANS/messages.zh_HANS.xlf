@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="hans" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
@@ -71,8 +71,10 @@
                 <target>英语</target>
             </trans-unit>
             <trans-unit id="locale-french">
-                <source>French</source>
-                <target>法语</target>
+                <source>
+                    French</source>
+                <target>
+                    法语</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
@@ -143,7 +145,8 @@
                 <target>繁体中文</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
-                <source>IPv4 Public IP</source>
+                <source>IPv4
+                    Public IP</source>
                 <target>IPv4 公共 IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
@@ -215,7 +218,8 @@
                 <target>生成新密码</target>
             </trans-unit>
             <trans-unit id="create-user-button">
-                <source>Create User</source>
+                <source>Create
+                    User</source>
                 <target>新增用户</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
@@ -265,7 +269,8 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>双因素身份验证为您的帐户增加了一层额外的安全保护。每次登录时，您都需要输入密码和安全码。</target>
+                <target>
+                    双因素身份验证为您的帐户增加了一层额外的安全保护。每次登录时，您都需要输入密码和安全码。</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
@@ -297,7 +302,8 @@
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>停用双因素身份验证</target>
+                <target>
+                    停用双因素身份验证</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor
@@ -369,7 +375,8 @@
                 <target>删除</target>
             </trans-unit>
             <trans-unit id="are-you-sure">
-                <source>Are you sure?</source>
+                <source>Are
+                    you sure?</source>
                 <target>你确定吗？</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
@@ -437,7 +444,8 @@
                 <target>警告</target>
             </trans-unit>
             <trans-unit id="critical">
-                <source>Critical</source>
+                <source>
+                    Critical</source>
                 <target>严重</target>
             </trans-unit>
             <trans-unit id="more-information">
@@ -505,7 +513,8 @@
                 <target>端口范围</target>
             </trans-unit>
             <trans-unit id="ip-version">
-                <source>IP Version</source>
+                <source>IP
+                    Version</source>
                 <target>IP 版本</target>
             </trans-unit>
             <trans-unit id="rule-source">
@@ -565,7 +574,8 @@
                 <target>运行中</target>
             </trans-unit>
             <trans-unit id="stopped">
-                <source>Stopped</source>
+                <source>
+                    Stopped</source>
                 <target>已停止</target>
             </trans-unit>
             <trans-unit id="restart">
@@ -613,7 +623,8 @@
                 <target>建议在更改时区后重启实例。</target>
             </trans-unit>
             <trans-unit id="general">
-                <source>General</source>
+                <source>
+                    General</source>
                 <target>综合</target>
             </trans-unit>
             <trans-unit id="database-servers">
@@ -673,7 +684,8 @@
                 <target>自定义域名</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
-                <source>TLS Certificate</source>
+                <source>TLS
+                    Certificate</source>
                 <target>TLS 证书</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
@@ -729,7 +741,8 @@
                 <target>保留期 (天)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
-                <source>Images Settings have been saved.</source>
+                <source>Images
+                    Settings have been saved.</source>
                 <target>映像设置已保存。</target>
             </trans-unit>
             <trans-unit id="every-hour">
@@ -793,7 +806,8 @@
                 <target>访问令牌无效。</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
-                <source>Access Token has been saved.</source>
+                <source>Access
+                    Token has been saved.</source>
                 <target>访问令牌已保存。</target>
             </trans-unit>
             <trans-unit id="access-token">
@@ -850,7 +864,8 @@
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Api 密钥</target>
+                <target>Api
+                    密钥</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
@@ -914,7 +929,8 @@
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
-                <target>SSL/TLS</target>
+                <target>
+                    SSL/TLS</target>
             </trans-unit>
             <trans-unit id="ssh-ftp">
                 <source>SSH/FTP</source>
@@ -970,7 +986,8 @@
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>设置脚本在被解析器终止之前允许运行的最长时间。</target>
+                <target>
+                    设置脚本在被解析器终止之前允许运行的最长时间。</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
@@ -1005,7 +1022,8 @@
                 <target>删除网站</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <source>Deleting a site will permanently remove all site files, databases, users, and
+                    configs, and they will be non-recoverable.</source>
                 <target>删除网站将永久删除所有网站文件、数据库、用户和配置，并且它们将不可恢复。</target>
             </trans-unit>
             <trans-unit id="cancel">
@@ -1057,7 +1075,8 @@
                 <target>添加数据库</target>
             </trans-unit>
             <trans-unit id="new-database">
-                <source>New Database</source>
+                <source>New
+                    Database</source>
                 <target>新增数据库</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
@@ -1114,7 +1133,8 @@
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>已添加数据库用户。</target>
+                <target>
+                    已添加数据库用户。</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
@@ -1173,7 +1193,8 @@
                 <target>证书链</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
-                <source>Certificate has been deleted.</source>
+                <source>Certificate has been
+                    deleted.</source>
                 <target>证书已被删除。</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
@@ -1221,7 +1242,8 @@
                 <target>IP 封锁</target>
             </trans-unit>
             <trans-unit id="add-ip">
-                <source>Add IP</source>
+                <source>Add
+                    IP</source>
                 <target>新增 IP</target>
             </trans-unit>
             <trans-unit id="ip">
@@ -1281,7 +1303,8 @@
                 <target>基本身份验证</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
-                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <source>List of IPs to bypassing the basic authentication, comma
+                    separated.</source>
                 <target>绕过基本身份验证的 IP 列表，以逗号分隔。</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
@@ -1333,7 +1356,8 @@
                 <target>新增定时任务</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
-                <source>No cron jobs found.</source>
+                <source>No cron jobs
+                    found.</source>
                 <target>未找到任何定时任务.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
@@ -1397,7 +1421,8 @@
                 <target>工作日</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
-                <source>Cron Job has been added.</source>
+                <source>Cron
+                    Job has been added.</source>
                 <target>已添加定时任务。</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
@@ -1449,7 +1474,8 @@
                 <target>创建 WordPress 网站</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
-                <source>Create a PHP Site</source>
+                <source>Create
+                    a PHP Site</source>
                 <target>创建 PHP 网站</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
@@ -1506,7 +1532,8 @@
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>虚拟主机模板 %vhostTemplate% 不存在。</target>
+                <target>虚拟主机模板
+                    %vhostTemplate% 不存在。</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
@@ -1558,7 +1585,8 @@
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
-                <target>Node.js 设置已保存。</target>
+                <target>Node.js
+                    设置已保存。</target>
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
@@ -1621,7 +1649,8 @@
                 <target>最近3小时</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
-                <source>Last 6 Hours</source>
+                <source>Last
+                    6 Hours</source>
                 <target>最近6小时</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
@@ -1686,7 +1715,8 @@
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>每日</target>
+                <target>
+                    每日</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
@@ -1741,7 +1771,8 @@
                 <target>服务帐号</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
-                <source>Leave blank to continue using the existing service account.</source>
+                <source>Leave
+                    blank to continue using the existing service account.</source>
                 <target>留空以继续使用现有服务帐户。</target>
             </trans-unit>
             <trans-unit id="request-access-code">
@@ -1793,7 +1824,8 @@
                 <target>S3 兼容端点的格式</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
-                <source>Varnish Cache</source>
+                <source>Varnish
+                    Cache</source>
                 <target>Varnish 缓存</target>
             </trans-unit>
             <trans-unit id="varnish-server">
@@ -1838,7 +1870,8 @@
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish 缓存已被清除。</target>
+                <target>Varnish
+                    缓存已被清除。</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
