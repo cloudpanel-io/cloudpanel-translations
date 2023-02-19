@@ -1830,7 +1830,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>تم تطهير ذاكرة التخزين المؤقت الورنيش.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
                 <target>قم بإنشاء وكيل عكسي</target>
@@ -1855,7 +1854,6 @@
                 <source>Reverse Proxy Settings have been saved.</source>
                 <target>تم حفظ إعدادات الوكيل العكسي.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
