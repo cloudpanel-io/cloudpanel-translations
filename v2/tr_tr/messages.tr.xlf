@@ -134,6 +134,10 @@
                 <source>Vietnamese</source>
                 <target>Vietnam dili</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>Çince (Basitleştirilmiş)</target>
+            </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
                 <target>Çince (Tayvan)</target>

@@ -134,6 +134,10 @@
                 <source>Vietnamese</source>
                 <target>Vietnamees</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>Chinees (Vereenvoudigd)</target>
+            </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
                 <target>Chinees (Taiwan)</target>

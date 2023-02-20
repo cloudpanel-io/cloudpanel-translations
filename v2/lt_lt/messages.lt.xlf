@@ -134,6 +134,10 @@
                 <source>Vietnamese</source>
                 <target>Vietnamiečių</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>Kinų (Supaprastinta)</target>
+            </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
                 <target>Kinų (Taivanas)</target>
@@ -1859,7 +1863,6 @@
                 <source>Reverse Proxy Settings have been saved.</source>
                 <target>Atvirkštinio Proxy serverio nustatymai buvo išsaugoti.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>

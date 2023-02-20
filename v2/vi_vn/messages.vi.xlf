@@ -126,6 +126,10 @@
                 <source>Vietnamese</source>
                 <target>Tiếng Việt</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>Tiếng Trung (Giản thể)</target>
+            </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
                 <target>Tiếng Trung (Đài Loan)</target>
