@@ -228,7 +228,7 @@
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Beheer omgeving</target>
+                <target>Beheerders omgeving</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
@@ -448,7 +448,7 @@
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Instance</target>
+                <target>Instantie</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
@@ -540,19 +540,19 @@
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Basic Auth</target>
+                <target>Basis Autorisatie</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Basic Auth inschakelen</target>
+                <target>Basis Autorisatie inschakelen</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Basic Auth voor CloudPanel voegt een extra laag veiligheid toe.</target>
+                <target>Basis Autorisatie voor CloudPanel voegt een extra laag veiligheid toe.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Basic Auth is ingeschakeld.</target>
+                <target>Basis Autorisatie is ingeschakeld.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
@@ -576,19 +576,19 @@
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>MasqueradeAddress</target>
+                <target>Netwerk Adres Vertaling</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress zorgt ervoor dat de server de netwerkinformatie voor het opgegeven IP-adres of de DNS-hostnaam aan de client toont.</target>
+                <target>Netwerk Adres Vertaling zorgt ervoor dat de server de netwerkinformatie voor het opgegeven IP-adres of de DNS-hostnaam aan de client toont.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>MasqueradeAddress is opgeslagen.</target>
+                <target>Netwerk Adres Vertaling is opgeslagen.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Instance instellingen</target>
+                <target>Instantie instellingen</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
