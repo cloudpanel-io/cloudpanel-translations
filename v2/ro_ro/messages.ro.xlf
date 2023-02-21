@@ -1838,7 +1838,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Memoria Varnish Cache a fost golită.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
                 <target>Crează un nou Reverse Proxy</target>
@@ -1863,7 +1862,6 @@
                 <source>Reverse Proxy Settings have been saved.</source>
                 <target>Setările pentru Reverse Proxy au fost salvate.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
