@@ -1816,7 +1816,7 @@
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>Liste séparée par une vérigule des paramètres GET, afin de désactiver le cache.</target>
+                <target>Liste séparée par une virgule des paramètres GET, afin de désactiver le cache.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
