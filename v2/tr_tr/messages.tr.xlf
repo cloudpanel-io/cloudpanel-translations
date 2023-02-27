@@ -1838,7 +1838,6 @@
                 <source>Varnish Cache has been purged.</source>
                 <target>Varnish ön belleği temizlendi.</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
                 <target>Bir Ters Proxy Oluşturun</target>
@@ -1863,7 +1862,6 @@
                 <source>Reverse Proxy Settings have been saved.</source>
                 <target>Ters Proxy Ayarları kaydedildi.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
