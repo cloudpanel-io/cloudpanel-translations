@@ -1840,7 +1840,7 @@
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Creër een Reverse Proxy</target>
+                <target>Maak een Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
