@@ -1,918 +1,936 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="fr" datatype="plaintext" original="file.ext">
+    <file source-language="en" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>Oui</target>
+                <target>是</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
-                <target>Non</target>
+                <target>否</target>
             </trans-unit>
             <trans-unit id="all">
                 <source>All</source>
-                <target>Tout</target>
+                <target>全部</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>Support</source>
-                <target>Support</target>
+                <target>支持</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Cliquer pour copier</target>
+                <target>点击复制</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Copié dans le presse-papier</target>
+                <target>已复制至剪贴板</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>Chargement</target>
+                <target>加载中</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
-                <target>Blog</target>
+                <target>博客</target>
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
-                <target>Contact</target>
+                <target>联系</target>
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Documents</target>
+                <target>文档</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Mise à jour disponible</target>
+                <target>可用更新</target>
             </trans-unit>
             <trans-unit id="issues">
-              <source>Issues</source>
-              <target>Remonter un bug</target>
+                <source>Issues</source>
+                <target>问题</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Soumettre</target>
+                <target>提交</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>Site</target>
+                <target>网站</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Sites</target>
+                <target>网站群</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>Allemand</target>
+                <target>德语</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>Anglais</target>
+                <target>英语</target>
             </trans-unit>
             <trans-unit id="locale-french">
-                <source>French</source>
-                <target>Français</target>
+                <source>
+                    French</source>
+                <target>
+                    法语</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Néerlandais</target>
+                <target>荷兰语</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italien</target>
+                <target>意大利语</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Espagnol</target>
+                <target>西班牙语</target>
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
-                <target>Polonais</target>
+                <target>波兰语</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portugais</target>
+                <target>葡萄牙语</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Portugais (Brésil)</target>
+                <target>葡萄牙语（巴西）</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Grec</target>
+                <target>希腊语</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanien</target>
+                <target>立陶宛语</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>Indonésien</target>
+                <target>印尼语</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Roumain</target>
+                <target>罗马尼亚语</target>
             </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
-                <target>Russe</target>
+                <target>俄语</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>Turc</target>
+                <target>土耳其语</target>
             </trans-unit>
             <trans-unit id="locale-ukrainian">
                 <source>Ukrainian</source>
-                <target>Ukrainien</target>
+                <target>乌克兰语</target>
             </trans-unit>
             <trans-unit id="locale-arabic">
                 <source>Arabic</source>
-                <target>Arabe</target>
+                <target>阿拉伯语</target>
             </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
-                <target>Vietnamien</target>
+                <target>越南语</target>
             </trans-unit>
             <trans-unit id="locale-chinese-simplified">
                 <source>Chinese (Simplified)</source>
-                <target>Chinois (Simplifié)</target>
+                <target>简体中文</target>
             </trans-unit>
-            <trans-unit id="locale-chinese-taiwan">
-                <source>Chinese (Taiwan)</source>
-                <target>Chinois (Taïwan)</target>
+            <trans-unit id="locale-chinese-traditional">
+                <source>Chinese (Traditional)</source>
+                <target>繁体中文</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
-                <source>IPv4 Public IP</source>
-                <target>IP publique IPv4</target>
+                <source>IPv4
+                    Public IP</source>
+                <target>IPv4 公共 IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IP publique IPv6</target>
+                <target>IPv6 公共 IP</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>系统</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Nom du serveur</target>
+                <target>主机名</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>Processeur(s)</target>
+                <target>CPU</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cœurs</target>
+                <target>核</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Mémoire</target>
+                <target>内存</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>Identifiant</target>
+                <target>用户名</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Mot de passe</target>
+                <target>密码</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Se connecter</target>
+                <target>登录</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>Paramètres</target>
+                <target>设置</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Se déconnecter</target>
+                <target>登出</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Langue</target>
+                <target>语言</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>Prénom</target>
+                <target>名</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Nom</target>
+                <target>姓</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-Mail</target>
+                <target>电子邮件</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>Fuseau horaire</target>
+                <target>时区</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Générer un nouveau mot de passe</target>
+                <target>生成新密码</target>
             </trans-unit>
             <trans-unit id="create-user-button">
-                <source>Create User</source>
-                <target>Créer utilisateur</target>
+                <source>Create
+                    User</source>
+                <target>新增用户</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
-                <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>J'accepte les termes du <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">contrat de licence</a>]]> et ai pris connaissance de la <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">politique de confidentialité</a>]]>.</target>
+                <source>I agree to
+                    the license terms and acknowledge the privacy policy.</source>
+                <target>我同意<![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">许可条款</a>]]>并承认<![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">隐私政策</a>]]>。</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>Une erreur s'est produite, message d'erreur: %errorMessage%</target>
+                <target>发生错误，错误信息：%errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>Créer compte d'administration</target>
+                <target>管理员用户创建</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Zone admin</target>
+                <target>管理区</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Tableau de bord</target>
+                <target>仪表板</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>Compte</target>
+                <target>账户</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Sécurité</target>
+                <target>安全</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
-                <target>Informations du compte sauvegardées.</target>
+                <target>帐户信息已保存。</target>
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
-                <target>Appliquer</target>
+                <target>保存</target>
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>Créer</target>
+                <target>创建</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>Authentification à deux facteurs</target>
+                <target>双因素身份验证</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>L'authentification à deux facteurs augmente la sécurité de votre compte. Lorsque vous vous connectez, vous devrez saisir votre mot de passe ainsi qu'un code de sécurité unique.</target>
+                <target>
+                    双因素身份验证为您的帐户增加了一层额外的安全保护。每次登录时，您都需要输入密码和安全码。</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>Activer l'authentification à deux facteurs</target>
+                <target>启用双因素身份验证</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
-                <target>Connecter votre application</target>
+                <target>连接您的应用</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
                 <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>Scanner le code QR avec une application telle %googleAuthenticatorLink% ou %duoLink%. Entrer ensuite le code à 6 chiffres généré par celle-ci ci-dessous.</target>
+                <target>使用 %googleAuthenticatorLink% 或 %duoLink% 等身份验证器应用，扫描二维码。 它将显示一个 6 位代码，您需要在下面输入该代码。</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
-                <target>Des problèmes avec le scan du code?</target>
+                <target>扫码时遇到问题？</target>
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Essayez ceci à la place</target>
+                <target>试试这个</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
-                <target>Dans l'application, sélectionnez entrée manuelle et introduisez votre identifiant: "%userName%" et le code: %secret%</target>
+                <target>在您的应用程序上选择手动输入，然后输入您的用户名：“%userName%” 和代码：%secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>Authentification à deux facteurs activée.</target>
+                <target>双因素身份验证已启用。</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>Désactiver l'authentification à deux facteurs</target>
+                <target>
+                    停用双因素身份验证</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
-                <source>Two-Factor Authentication has been disabled.</source>
-                <target>Authentification à deux facteurs désactivée.</target>
+                <source>Two-Factor
+                    Authentication has been disabled.</source>
+                <target>双因素身份验证已被禁用。</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
-                <target>Entrer le code d'authentification</target>
+                <target>输入验证码</target>
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Retour vers les sites</target>
+                <target>回到网站</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>Utilisateurs</target>
+                <target>用户</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Ajouter utilisateur</target>
+                <target>添加用户</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>Nouvel utilisateur</target>
+                <target>新用户</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>Actif</target>
+                <target>启用</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Désactivé</target>
+                <target>未启用</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
-                <target>Administrateur</target>
+                <target>管理员</target>
             </trans-unit>
             <trans-unit id="role-user">
                 <source>User</source>
-                <target>Utilisateur</target>
+                <target>用户</target>
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Gestionnaire de site</target>
+                <target>网站管理员</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>Utilisateur ajouté.</target>
+                <target>已添加用户。</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>Utilisateur mis à jour.</target>
+                <target>用户已更新。</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>Pas d'utilisateurs trouvés.</target>
+                <target>未找到相应的用户。</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
-                <target>Rôle</target>
+                <target>角色</target>
             </trans-unit>
             <trans-unit id="status">
                 <source>Status</source>
-                <target>Statut</target>
+                <target>状态</target>
             </trans-unit>
             <trans-unit id="delete">
                 <source>Delete</source>
-                <target>Supprimer</target>
+                <target>删除</target>
             </trans-unit>
             <trans-unit id="are-you-sure">
-                <source>Are you sure?</source>
-                <target>Êtes-vous sûr(e)?</target>
+                <source>Are
+                    you sure?</source>
+                <target>你确定吗？</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
-                <target>Utilisateur supprimé.</target>
+                <target>用户已被删除。</target>
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
-                <target>Événements</target>
+                <target>事件</target>
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>Pas d'événements trouvés.</target>
+                <target>找不到事件。</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Heure de l'événement</target>
+                <target>事件时间</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target>Événement</target>
+                <target>事件</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>Vue</target>
+                <target>查看</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
-                <target>Notifications</target>
+                <target>通知</target>
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
-                <target>Pas de notifications trouvées.</target>
+                <target>未找到通知。</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>Notification supprimée.</target>
+                <target>通知已删除。</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>Afficher message</target>
+                <target>显示信息</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>Sévérité</target>
+                <target>严重性</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>Date</target>
+                <target>时期</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>Message</target>
+                <target>信息</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>Action</target>
+                <target>操作</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
-                <target>Info</target>
+                <target>信息</target>
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
-                <target>Alerte</target>
+                <target>警告</target>
             </trans-unit>
             <trans-unit id="critical">
-                <source>Critical</source>
-                <target>Critique</target>
+                <source>
+                    Critical</source>
+                <target>严重</target>
             </trans-unit>
             <trans-unit id="more-information">
                 <source>More Information</source>
-                <target>Plus d'informations</target>
+                <target>更多信息</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>Marquer comme lu</target>
+                <target>标记为已读</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>Marquer comme non-lu</target>
+                <target>标记为未读</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Serveur</target>
+                <target>实例</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
-                <target>Pare-feu</target>
+                <target>防火墙</target>
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
-                <target>Service</target>
+                <target>服务</target>
             </trans-unit>
             <trans-unit id="services">
                 <source>Services</source>
-                <target>Services</target>
+                <target>服务项目</target>
             </trans-unit>
             <trans-unit id="rules">
                 <source>Rules</source>
-                <target>Règles</target>
+                <target>规则</target>
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>Ajouter une règle</target>
+                <target>添加规则</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target>Pas de règles trouvées.</target>
+                <target>未找到规则。</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>Ajouter une régle au pare-feu</target>
+                <target>添加防火墙规则</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>Régle ajoutée.</target>
+                <target>已添加规则。</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>Régle supprimée.</target>
+                <target>规则已被删除。</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>Type</target>
+                <target>类型</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>TCP personnalisé</target>
+                <target>自定义 TCP</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Plage de ports</target>
+                <target>端口范围</target>
             </trans-unit>
             <trans-unit id="ip-version">
-                <source>IP Version</source>
-                <target>Version d'IP</target>
+                <source>IP
+                    Version</source>
+                <target>IP 版本</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
-                <target>Source</target>
+                <target>来源</target>
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>Personnalisé</target>
+                <target>自定义</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>Partout-IPv4</target>
+                <target>Anywhere-IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>Partout-IPv6</target>
+                <target>Anywhere-IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>Mon IP</target>
+                <target>我的 IP</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
-                <target>IP ou CIDR</target>
+                <target>IP 或 无类别域间路由</target>
             </trans-unit>
             <trans-unit id="rule-description">
                 <source>Description</source>
-                <target>Description</target>
+                <target>描述</target>
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>Actions</target>
+                <target>操作</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Éditer régle de pare-feu</target>
+                <target>编辑防火墙规则</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Authentification de base</target>
+                <target>基本身份验证</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Activer l'authentification de base</target>
+                <target>启用基本身份验证</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>L'authentification de base en amont de CloudPanel ajoute un degré de sécurité complémentaire.</target>
+                <target>基本身份验证在 CloudPanel 前增加了一层额外的安全性。</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>L'authentification de base est activée.</target>
+                <target>已启用基本身份验证。</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>En cours d'exécution</target>
+                <target>运行中</target>
             </trans-unit>
             <trans-unit id="stopped">
-                <source>Stopped</source>
-                <target>Arrêté</target>
+                <source>
+                    Stopped</source>
+                <target>已停止</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
-                <target>Redémarrer</target>
+                <target>重启</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>Le service redémarrera sous peu.</target>
+                <target>服务即将重启。</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
-                <target>Paramètres de Proftpd</target>
+                <target>Proftpd 设置</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>MasqueradeAddress</target>
+                <target>伪装地址</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>Le serveur fourni au client les informations réseau correspondant à la MasqueradeAddress (IP ou nom d'hôte).</target>
+                <target>伪装地址使服务器显示指定 IP 地址或 DNS 主机名的网络信息给客户端。</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>MasqueradeAddress sauvegardée.</target>
+                <target>伪装地址已保存。</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Paramètres du serveur</target>
+                <target>实例设置</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
-                <target>Fuseau horaire sauvegardé.</target>
+                <target>时区已保存。</target>
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
-                <target>Redémarrer</target>
+                <target>重启</target>
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
-              <source>Instance will reboot shortly.</source>
-              <target>Le serveur redémarrera sous peu.</target>
+                <source>Instance will reboot shortly.</source>
+                <target>实例即将重启。</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
-              <source>It's recommended to reboot the instance after changing the timezone.</source>
-              <target>Il est conseillé de redémarrer le serveur après avoir changé de fuseau horaire.</target>
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>建议在更改时区后重启实例。</target>
             </trans-unit>
             <trans-unit id="general">
-                <source>General</source>
-                <target>Général</target>
+                <source>
+                    General</source>
+                <target>综合</target>
             </trans-unit>
             <trans-unit id="database-servers">
                 <source>Database Servers</source>
-                <target>Serveurs de base de données</target>
+                <target>数据库服务器</target>
             </trans-unit>
             <trans-unit id="add-database-server">
                 <source>Add Database Server</source>
-                <target>Ajouter serveur de base de données</target>
+                <target>添加数据库服务器</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
                 <source>Edit Database Server</source>
-                <target>Éditer serveur de base de données</target>
+                <target>编辑数据库服务器</target>
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
-                <target>Moteur</target>
+                <target>引擎</target>
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
-                <target>Hôte</target>
+                <target>主机</target>
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>Port</target>
+                <target>端口</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP ou nom de domaine</target>
+                <target>IP 或 DNS 名称</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
-                <target>Certificat</target>
+                <target>证书</target>
             </trans-unit>
             <trans-unit id="set-active">
                 <source>Set Active</source>
-                <target>Activer</target>
+                <target>激活</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>Serveur de base de donnée ajouté.</target>
+                <target>已添加数据库服务器。</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
-                <target>Serveur de base de donnée mis à jour.</target>
+                <target>数据库服务器已更新。</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>Serveur de base de donnée supprimé.</target>
+                <target>数据库服务器已被删除。</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>Serveur de base de donnée modifié.</target>
+                <target>数据库服务器已更改。</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Domaine personnalisé</target>
+                <target>自定义域名</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
-                <source>TLS Certificate</source>
-                <target>Certificat TLS</target>
+                <source>TLS
+                    Certificate</source>
+                <target>TLS 证书</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
-                <target>Challenge HTTP Let's Encrypt</target>
+                <target>Let's Encrypt HTTP 挑战</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-dns-challenge">
                 <source>Let's Encrypt DNS Challenge</source>
-                <target>Challenge DNS Let's Encrypt</target>
+                <target>Let's Encrypt DNS 挑战</target>
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Backups</target>
+                <target>备份</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Images</target>
+                <target>图片</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>Identifiants AWS</target>
+                <target>AWS 凭据</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>Clé d'accès AWS</target>
+                <target>AWS 访问密钥</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>Clé d'accès secrète AWS</target>
+                <target>AWS 秘密访问密钥</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>Clés d'accès AWS non valides.</target>
+                <target>AWS 访问密钥无效。</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>Clés d'accès AWS sauvegardées.</target>
+                <target>AWS 访问密钥已保存。</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Paramètres des images</target>
+                <target>映像设置</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Activer les images automatiques</target>
+                <target>启用自动映像</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>Fréquence</target>
+                <target>频率</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Période de rétention (jours)</target>
+                <target>保留期 (天)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
-                <source>Images Settings have been saved.</source>
-                <target>Paramètres des images sauvegardés.</target>
+                <source>Images
+                    Settings have been saved.</source>
+                <target>映像设置已保存。</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
-                <target>Toutes les heures</target>
+                <target>每小时</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>Toutes les trois heures</target>
+                <target>每3小时</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Toutes les six heures</target>
+                <target>每6小时</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Toutes les douzes heures</target>
+                <target>每12小时</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>Une fois par jour</target>
+                <target>每天一次</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Créer une image</target>
+                <target>创建映像</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Nom de l'image</target>
+                <target>映像名称</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>Pas d'images trouvées.</target>
+                <target>未找到映像。</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Disponible</target>
+                <target>可用</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
-                <target>En attente</target>
+                <target>待处理</target>
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
-                <target>Échec</target>
+                <target>失败</target>
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Créé a</target>
+                <target>创建于</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Image en cours de création.</target>
+                <target>正在创建映像。</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Image en cours de suppression.</target>
+                <target>正在删除映像。</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>Jeton d'accès non valide.</target>
+                <target>访问令牌无效。</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
-                <source>Access Token has been saved.</source>
-                <target>Jeton d'accès sauvegardé.</target>
+                <source>Access
+                    Token has been saved.</source>
+                <target>访问令牌已保存。</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>Jeton d'accès</target>
+                <target>访问令牌</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
-                <target>Snapshots</target>
+                <target>快照</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
-                <target>Paramètres des snapshots</target>
+                <target>快照设置</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Activer les snapshots automatique</target>
+                <target>启用自动快照</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>Créer snapshot</target>
+                <target>创建快照</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
-                <target>Pas de snapshots trouvés.</target>
+                <target>未找到快照。</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Nom du snapshot</target>
+                <target>快照名称</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>Configuration</target>
+                <target>大小</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
-                <target>Snapshot en cours de création.</target>
+                <target>正在创建快照。</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
                 <source>Snapshot is being deleted.</source>
-                <target>Snapshot en cours de suppression.</target>
+                <target>正在删除快照。</target>
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Clés de compte de service</target>
+                <target>服务帐户密钥</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
-                <target>Clés de compte de service non valides.</target>
+                <target>服务帐户密钥无效。</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
                 <source>Service Account Keys have been saved.</source>
-                <target>Clés de compte de service sauvegardées.</target>
+                <target>服务帐户密钥已保存。</target>
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Clé API</target>
+                <target>Api
+                    密钥</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target>Clé API non valide.</target>
+                <target>Api 密钥无效。</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target>Clé API sauvegardée.</target>
+                <target>Api 密钥已保存。</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Jeton API</target>
+                <target>Api 令牌</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Jeton API non valide.</target>
+                <target>Api 令牌无效。</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Jeton API sauvegardé.</target>
+                <target>Api 令牌已保存。</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
-                <target>Pas de sites trouvés.</target>
+                <target>未找到任何网站。</target>
             </trans-unit>
             <trans-unit id="add-site">
                 <source>+ Add Site</source>
-                <target>+ Ajouter site</target>
+                <target>+ 新增网站</target>
             </trans-unit>
             <trans-unit id="domain">
                 <source>Domain</source>
-                <target>Domaine</target>
+                <target>域名</target>
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Gestionnaire du site</target>
+                <target>网站用户</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Mot de passe gestionnaire du site</target>
+                <target>网站用户密码</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
-                <target>Application</target>
+                <target>应用</target>
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
-                <target>Gérer</target>
+                <target>管理</target>
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>Adresse IP</target>
+                <target>IP 地址</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
-                <target>Vhost</target>
+                <target>虚拟主机</target>
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>Base de données</target>
+                <target>数据库</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
-                <target>SSL/TLS</target>
+                <target>
+                    SSL/TLS</target>
             </trans-unit>
             <trans-unit id="ssh-ftp">
                 <source>SSH/FTP</source>
@@ -920,307 +938,313 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>Explorateur de fichiers</target>
+                <target>文件管理器</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Tâches cron</target>
+                <target>定时任务</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Journaux</target>
+                <target>日志</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
-                <target>Paramètres du domaine</target>
+                <target>域名设置</target>
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Répertoire racine</target>
+                <target>根目录</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>Nom de domaine</target>
+                <target>域名</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
-                <target>Application</target>
+                <target>应用</target>
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target>Générique</target>
+                <target>通用</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>Répertoire racine sauvegardé.</target>
+                <target>根目录已保存。</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
-                <target>Paramètres PHP</target>
+                <target>PHP 设置</target>
             </trans-unit>
             <trans-unit id="php-version">
                 <source>PHP Version</source>
-                <target>Version de PHP</target>
+                <target>PHP 版本</target>
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Quantité de mémoire maximale allouée à un script.</target>
+                <target>设置允许脚本分配的最大内存量。</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Durée maximale d'exécution d'un script avant que celui-ci ne soit interrompu par le système.</target>
+                <target>
+                    设置脚本在被解析器终止之前允许运行的最长时间。</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Durée maximale allouée à un script pour analyser les entrées reçues via POST ou GET.</target>
+                <target>设置允许脚本解析输入数据（如 POST 和 GET）的最长时间。</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>Nombre de champs maximum d'un formulaire.</target>
+                <target>设置发布表单的输入数量限制。</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
-                <target>Taille maximale d'une requête POST acceptée par PHP.</target>
+                <target>PHP 将接受的 POST 数据的最大大小。</target>
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>Taille maximale autorisée pour le chargement d'un fichier.</target>
+                <target>上传文件的最大大小。</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>Vous pouvez définir d'autres paramètres PHP dans le fichier php.ini.</target>
+                <target>您可以像在 php.ini 中那样定义任何 PHP 参数。</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
-                <target>Instructions de configuration additionnelles</target>
+                <target>附加配置指令</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
                 <source>PHP Settings have been saved.</source>
-                <target>Paramètres PHP sauvegardés.</target>
+                <target>PHP 设置已保存。</target>
             </trans-unit>
             <trans-unit id="delete-site">
                 <source>Delete Site</source>
-                <target>Supprimer le site</target>
+                <target>删除网站</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Tous les fichiers, bases de données, utilisateurs et configurations seront effacés définitivement lors de la suppression d'un site.</target>
+                <source>Deleting a site will permanently remove all site files, databases, users, and
+                    configs, and they will be non-recoverable.</source>
+                <target>删除网站将永久删除所有网站文件、数据库、用户和配置，并且它们将不可恢复。</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
-                <target>Annuler</target>
+                <target>取消</target>
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>Pour confirmer la suppression, entrer %domain% dans le champ.</target>
+                <target>要确认删除，请在字段中键入 %domain%。</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>Site supprimé.</target>
+                <target>网站已被删除。</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
-              <source>Site User Settings</source>
-              <target>Gestionnaire du site</target>
+                <source>Site User Settings</source>
+                <target>网站用户设置</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
-              <source>Site User Settings have been saved.</source>
-              <target>Identifiants du gestionnaire du site sauvegardés.</target>
+                <source>Site User Settings have been saved.</source>
+                <target>网站用户设置已保存。</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
-                <target>Clés SSH</target>
+                <target>SSH 密钥</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Éditeur de Vhost</target>
+                <target>虚拟主机编辑器</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>Vhost sauvegardé.</target>
+                <target>虚拟主机已保存。</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
-                <target>Vhost non valide, message d'erreur: %errorMessage%</target>
+                <target>虚拟主机无效，错误消息：%errorMessage%</target>
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
-                <target>Pas de base de données trouvées.</target>
+                <target>未找到数据库。</target>
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
-                <target>Base de données</target>
+                <target>数据库</target>
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>Ajouter base de données</target>
+                <target>添加数据库</target>
             </trans-unit>
             <trans-unit id="new-database">
-                <source>New Database</source>
-                <target>Nouvelle base de données</target>
+                <source>New
+                    Database</source>
+                <target>新增数据库</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
                 <source>Database has been added.</source>
-                <target>Base de donnée ajoutée.</target>
+                <target>已添加数据库。</target>
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
                 <source>Database has been deleted.</source>
-                <target>Base de donnée supprimée.</target>
+                <target>已删除数据库。</target>
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Utilisateurs de base de données</target>
+                <target>数据库用户</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>Ajouter utilisateur de base de données</target>
+                <target>添加数据库用户</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
-              <source>No database users found.</source>
-              <target>Pas d'utilisateur de base de données trouvés.</target>
+                <source>No database users found.</source>
+                <target>未找到数据库用户。</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
-                <target>Lecture et écriture</target>
+                <target>读写</target>
             </trans-unit>
             <trans-unit id="read-only">
                 <source>Read Only</source>
-                <target>Lecture seule</target>
+                <target>只读</target>
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>Nouvel utilisateur de base de données</target>
+                <target>新数据库用户</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Nom de la base de données</target>
+                <target>数据库名称</target>
             </trans-unit>
             <trans-unit id="database-user-name">
-              <source>Database User Name</source>
-              <target>Identifiant utilisateur de base de données</target>
+                <source>Database User Name</source>
+                <target>数据库用户名</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>Mot de passe d'utilisateur de base de données</target>
+                <target>数据库用户密码</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
-                <target>Permissions</target>
+                <target>权限</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>Pas de base de données trouvées; en créer une.</target>
+                <target>未找到数据库； 首先创建一个数据库。</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>Utilisateur de base de donnée ajouté.</target>
+                <target>
+                    已添加数据库用户。</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>Utilisateur de base de donnée supprimé.</target>
+                <target>已删除数据库用户。</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
-                <target>Modifier utilisateur de base de données</target>
+                <target>编辑数据库用户</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>Utilisateur de base de données mis à jour.</target>
+                <target>已更新数据库用户。</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
-                <target>Certificats</target>
+                <target>证书</target>
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>Nouveau certificat Let's Encrypt</target>
+                <target>新 Let's Encrypt 证书</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>Importer certificat</target>
+                <target>导入证书</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
-                <target>Pas de certificats trouvés.</target>
+                <target>未找到证书。</target>
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
-                <target>Autosigné</target>
+                <target>自签名</target>
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
-                <target>Importé</target>
+                <target>已导入</target>
             </trans-unit>
             <trans-unit id="domains">
                 <source>Domains</source>
-                <target>Domaines</target>
+                <target>域名</target>
             </trans-unit>
             <trans-unit id="expiration-date">
                 <source>Expiration Date</source>
-                <target>Date d'expiration</target>
+                <target>截止日期</target>
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>Installé</target>
+                <target>已安装</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>Clé privée</target>
+                <target>私钥</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
-                <target>Chaîne de certificats</target>
+                <target>证书链</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
-                <source>Certificate has been deleted.</source>
-                <target>Certificat supprimé.</target>
+                <source>Certificate has been
+                    deleted.</source>
+                <target>证书已被删除。</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>Certificat installé.</target>
+                <target>证书已安装。</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
-                <target>Installer</target>
+                <target>安装</target>
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>Importer et installer</target>
+                <target>导入并安装</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>Créer et installer</target>
+                <target>创建并安装</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>Entrer les noms de domaines que vous voulez sécuriser avec un certificat SSL Let's Encrypt.</target>
+                <target>输入要使用 Let's Encrypt SSL 证书保护的域名</target>
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Un enregistrement DNS pointant vers ce serveur est requis pour émettre un certificat Let's Encrypt.</target>
+                <target>DNS记录需指向此服务器才能颁发 Let's Encrypt 证书。</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
-                <target>Noms de domaine</target>
+                <target>域名</target>
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
-                <target>Ajouter domaine</target>
+                <target>新增域名</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>Domaine personnalisé CloudPanel</target>
+                <target>CloudPanel 自定义域名</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>Domaine personnalisé CloudPanel sauvegardé.</target>
+                <target>CloudPanel 自定义域已保存。</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
-                <target>Blocage IP</target>
+                <target>IP 封锁</target>
             </trans-unit>
             <trans-unit id="add-ip">
-                <source>Add IP</source>
-                <target>Ajouter IP</target>
+                <source>Add
+                    IP</source>
+                <target>新增 IP</target>
             </trans-unit>
             <trans-unit id="ip">
                 <source>IP</source>
@@ -1228,371 +1252,377 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>Pas d'IP trouvées.</target>
+                <target>未找到任何IP。</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
-                <target>Exemples</target>
+                <target>示例</target>
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
-                <target>IP unique</target>
+                <target>单个 IP</target>
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>Format CIDR</target>
+                <target>无类别域间路由格式</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
-                <target>IP ajoutée.</target>
+                <target>已添加 IP。</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>IP supprimée.</target>
+                <target>已删除 IP。</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
-                <target>Pas de robots trouvés.</target>
+                <target>未找到机器人。</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
-                <target>Blocage de robots</target>
+                <target>机器人拦截</target>
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>Ajouter robot</target>
+                <target>新增机器人</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>Robot ajouté.</target>
+                <target>已添加机器人。</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
-                <target>Robot supprimé.</target>
+                <target>已删除机器人。</target>
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>Nom de robot</target>
+                <target>机器人名称</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>Authentification de base</target>
+                <target>基本身份验证</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
-                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>Liste d'IP ne nécessitant pas d'authentification de base, séparées par des virgules.</target>
+                <source>List of IPs to bypassing the basic authentication, comma
+                    separated.</source>
+                <target>绕过基本身份验证的 IP 列表，以逗号分隔。</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>IP de confiance</target>
+                <target>列入白名单的 IP</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
-                <target>N'autoriser que le traffic provenant de Cloudflare</target>
+                <target>仅允许来自 Cloudflare 的流量</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>Les enregistrements DNS doivent pointer vers Cloudflare, et le proxy doit être activé dans ceux-ci.</target>
+                <target>名称服务器须指向 Cloudflare，并需为您的 dns 记录启用代理。</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
-                <target>Utilisateurs SSH</target>
+                <target>SSH 用户</target>
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Répertoire de base</target>
+                <target>主目录</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
-                <target>Utilisateur SSH</target>
+                <target>SSH 用户</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>Nouvel utilisateur SSH</target>
+                <target>新 SSH 用户</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
-                <target>Utilisateur sauvegardé.</target>
+                <target>用户已保存。</target>
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
-                <target>Utilisateur FTP</target>
+                <target>FTP 用户</target>
             </trans-unit>
             <trans-unit id="ftp-users">
                 <source>FTP Users</source>
-                <target>Utilisateurs FTP</target>
+                <target>FTP 用户</target>
             </trans-unit>
             <trans-unit id="new-ftp-user">
                 <source>New FTP User</source>
-                <target>Nouvel utilisateur FTP</target>
+                <target>新 FTP 用户</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Ajouter tâche cron</target>
+                <target>新增定时任务</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
-                <source>No cron jobs found.</source>
-                <target>Pas de tâches cron trouvées.</target>
+                <source>No cron jobs
+                    found.</source>
+                <target>未找到任何定时任务.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>Nouvelle tâche cron</target>
+                <target>新定时任务</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
-                <target>Toutes les minutes</target>
+                <target>每分钟</target>
             </trans-unit>
             <trans-unit id="every-5-minutes">
                 <source>Every 5 minutes</source>
-                <target>Toutes les 5 minutes</target>
+                <target>每5分钟</target>
             </trans-unit>
             <trans-unit id="once-an-hour">
                 <source>Once an hour</source>
-                <target>Toutes les heures</target>
+                <target>每小时一次</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
                 <source>Every 3 hours</source>
-                <target>Toutes les 3 heures</target>
+                <target>每3小时</target>
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>Une fois par jour (à minuit)</target>
+                <target>每天一次（于 00:00）</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
-                <target>Tous les jours à 04:00</target>
+                <target>每天凌晨 4 点</target>
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>Toute les semaines (dimanche à 00:00)</target>
+                <target>每周一次（于周日 00:00）</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>Tous les mois (à 00:00 le premier jour du mois)</target>
+                <target>每月一次（于每月第1天的 00:00）</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
-                <target>Modèle crontab</target>
+                <target>模板</target>
             </trans-unit>
             <trans-unit id="minute">
                 <source>Minute</source>
-                <target>Minute</target>
+                <target>分钟</target>
             </trans-unit>
             <trans-unit id="hour">
                 <source>Hour</source>
-                <target>Heure</target>
+                <target>小时</target>
             </trans-unit>
             <trans-unit id="day">
                 <source>Day</source>
-                <target>Jour</target>
+                <target>天</target>
             </trans-unit>
             <trans-unit id="month">
                 <source>Month</source>
-                <target>Mois</target>
+                <target>月</target>
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
-                <target>Jour de la semaine</target>
+                <target>工作日</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
-                <source>Cron Job has been added.</source>
-                <target>Tâche cron ajoutée.</target>
+                <source>Cron
+                    Job has been added.</source>
+                <target>已添加定时任务。</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Tâche cron supprimée.</target>
+                <target>已删除定时任务。</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Tâche cron sauvegardée.</target>
+                <target>已保存定时任务。</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
-                <target>Calendrier</target>
+                <target>安排</target>
             </trans-unit>
             <trans-unit id="command">
                 <source>Command</source>
-                <target>Commande à exécuter</target>
+                <target>指令</target>
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>Mettre à jour</target>
+                <target>更新</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>PageSpeed</target>
+                <target>页面速度</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Purger le cache</target>
+                <target>清除缓存</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>Paramètres PageSpeed non valides, message d'erreur: %errorMessage%</target>
+                <target>页面速度设置无效，错误消息：%errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>Paramètres PageSpeed sauvegardés.</target>
+                <target>页面速度设置已保存。</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>Mémoire tampon PageSpeed purgée.</target>
+                <target>页面速度缓存已被清除。</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
-                <target>Quel type de site voudriez-vous créer ?</target>
+                <target>您要创建哪种类型的网站？</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>Créer un site WordPress</target>
+                <target>创建 WordPress 网站</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
-                <source>Create a PHP Site</source>
-                <target>Créer un site PHP</target>
+                <source>Create
+                    a PHP Site</source>
+                <target>创建 PHP 网站</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Créer un site Node.js</target>
+                <target>创建 Node.js 网站</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Créer un site HTML statique</target>
+                <target>创建静态 HTML 站点</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Créer un site Python</target>
+                <target>创建 Python 站点</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>Nouveau site</target>
+                <target>新网站</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>Nouveau site WordPress</target>
+                <target>新 WordPress 网站</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>Préinstaller WordPress</target>
+                <target>预安装 WordPress</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
-                <target>Retour</target>
+                <target>返回</target>
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
-                <target>Titre du site</target>
+                <target>网站标题</target>
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>E-Mail d'administration</target>
+                <target>管理员电子邮件</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>Identifiant d'administration</target>
+                <target>管理员用户名</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>Mot de passe</target>
+                <target>管理员密码</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
-                <target>URL d'administration</target>
+                <target>管理员网址</target>
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>Multisite</target>
+                <target>多网站</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>Le modèle Vhost %vhostTemplate% n'existe pas.</target>
+                <target>虚拟主机模板
+                    %vhostTemplate% 不存在。</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>Site WordPress créé !</target>
+                <target>WordPress 网站已经创建！</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Identifiants du nouveau site WordPress.</target>
+                <target>复制您创建的 WordPress 网站的凭证。</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>Création en cours</target>
+                <target>正在创建</target>
             </trans-unit>
             <trans-unit id="saving">
                 <source>Saving</source>
-                <target>Sauvegarde en cours</target>
+                <target>正在保存</target>
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
-                <target>Nouveau site PHP</target>
+                <target>新 PHP 网站</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>Utilisateur SSH principal pour ce site.</target>
+                <target>该网站的主要 SSH 用户。</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
-                <target>Site créé.</target>
+                <target>网站已经创建。</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>Nouveau site HTML statique</target>
+                <target>新 静态HTML 网站</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>Nouveau site Node.js</target>
+                <target>新 Node.js 网站</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Version de Node.js</target>
+                <target>Node.js 版本</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>Port de l'application</target>
+                <target>应用端口</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
-                <target>Paramètres Node.js</target>
+                <target>Node.js 设置</target>
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
-                <target>Paramètres Node.js sauvegardés.</target>
+                <target>Node.js
+                    设置已保存。</target>
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>Nouveau site Python</target>
+                <target>新的 Python 网站</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
-                <target>Version de Python</target>
+                <target>Python 版本</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>Une autre version de python est nécessaire?</target>
+                <target>是否需要其它版本？</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Vérifiez la documentation.</target>
+                <target>查看文档。</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
-                <target>Paramètres Python</target>
+                <target>Python 设置</target>
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
                 <source>Python Settings have been saved.</source>
-                <target>Paramètres Python sauvegardés.</target>
+                <target>Python 设置已保存。</target>
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>Système d'exploitation</target>
+                <target>操作系统</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>Cloud</target>
+                <target>云端</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
-                <target>Région</target>
+                <target>地区</target>
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
@@ -1600,71 +1630,72 @@
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>ID du serveur</target>
+                <target>Instance ID</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>Supervision</target>
+                <target>监控</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>Dernières 30 minutes</target>
+                <target>最近30分钟</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Dernière heure</target>
+                <target>最近1小时</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Dernières 3 heures</target>
+                <target>最近3小时</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
-                <source>Last 6 Hours</source>
-                <target>Dernières 6 heures</target>
+                <source>Last
+                    6 Hours</source>
+                <target>最近6小时</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Dernières 12 heures</target>
+                <target>最近12小时</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 minute</target>
+                <target>1分钟</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 minutes</target>
+                <target>5分钟</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 minutes</target>
+                <target>15分钟</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
-              <source>CPU Usage</source>
-              <target>Charge processeur</target>
+                <source>CPU Usage</source>
+                <target>CPU 使用率</target>
             </trans-unit>
             <trans-unit id="disk-usage">
-              <source>Disk Usage</source>
-              <target>Utilisation du disque</target>
+                <source>Disk Usage</source>
+                <target>磁盘使用率</target>
             </trans-unit>
             <trans-unit id="memory-usage">
-              <source>Memory Usage</source>
-              <target>Utilisation de la mémoire</target>
+                <source>Memory Usage</source>
+                <target>内存使用率</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Charge moyenne</target>
+                <target>平均负载</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Sauvegarde à distance</target>
+                <target>远程备份</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Fournisseur de stockage</target>
+                <target>存储供应商</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Sélectionnez un fournisseur de stockage</target>
+                <target>选择存储供应商</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1672,195 +1703,199 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone Config</source>
-                <target>Configuration Rclone personnalisée</target>
+                <target>自定义 Rclone 配置</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>Continuer</target>
+                <target>继续</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Activer la sauvegarde à distance</target>
+                <target>启用远程备份</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>Journalier</target>
+                <target>
+                    每日</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
-                <target>Heure</target>
+                <target>时间</target>
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
-                <target>Compartiment</target>
+                <target>桶</target>
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Nom du compartiment</target>
+                <target>桶名</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Répertoire de stockage</target>
+                <target>存储目录</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Emplacement de stockage des sauvegardes relatives à la racine.</target>
+                <target>相对于根目录存储备份的位置。</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>Laissez vide pour continuer à utiliser la clé d'accès secrète existante.</target>
+                <target>留空以继续使用现有的秘密访问密钥。</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Exclusions</target>
+                <target>排除</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Les paramètres de sauvegarde à distance ont été enregistrés.</target>
+                <target>已保存远程备份设置。</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Les paramètres de sauvegarde à distance ont été supprimés.</target>
+                <target>已删除远程备份设置。</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
-                <target>Clé d'accès</target>
+                <target>访问密钥</target>
             </trans-unit>
             <trans-unit id="secret-access-key">
                 <source>Secret Access Key</source>
-                <target>Clé d'accès secrète</target>
+                <target>秘密访问密钥</target>
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>L'adresse e-mail de votre compte Google Drive.</target>
+                <target>您的 Google云端 硬盘帐户电子邮件地址。</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>Compte de service</target>
+                <target>服务帐号</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
-                <source>Leave blank to continue using the existing service account.</source>
-                <target>Laissez ce champ vide pour continuer à utiliser le compte de service existant.</target>
+                <source>Leave
+                    blank to continue using the existing service account.</source>
+                <target>留空以继续使用现有服务帐户。</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Demander un code d'accès</target>
+                <target>请求访问码</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Code d'accès</target>
+                <target>访问码</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Cliquez sur le bouton et collez le code d'accès dans le champ suivant.</target>
+                <target>单击按钮并将访问码粘贴到下一个字段中。</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Créer une sauvegarde</target>
+                <target>创建备份</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>La sauvegarde sera bientôt lancée en arrière-plan.</target>
+                <target>备份即将在后台启动.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Méthode d'authentification</target>
+                <target>身份验证方式</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Clé</target>
+                <target>钥匙</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Chemin du serveur distant</target>
+                <target>远程服务器路径</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Chemin de la clé privée</target>
+                <target>私钥路径</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Nom du stockage</target>
+                <target>空间名称</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>Emplacement distant</target>
+                <target>空间端点</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Répertoire pour les stockages compatible S3</target>
+                <target>S3 兼容端点的格式</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
-                <source>Varnish Cache</source>
-                <target>Varnish Cache</target>
+                <source>Varnish
+                    Cache</source>
+                <target>Varnish 缓存</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
-                <target>Serveur Varnish</target>
+                <target>Varnish 服务器</target>
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Durée de vie du cache</target>
+                <target>缓存周期</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Durée de vie en secondes avant rafraîchissement du cache.</target>
+                <target>刷新前的缓存周期（以秒为单位）。</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Tag de préfixe du cache</target>
+                <target>缓存标记前缀</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Paramètres exclus</target>
+                <target>被排除的参数</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>Liste séparée par une virgule des paramètres GET, afin de désactiver le cache.</target>
+                <target>GET参数列表，以逗号分隔，用于禁用缓存。</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Fichiers et URL que Varnish Cache ne devrait pas enregistrer.</target>
+                <target>Varnish 缓存不应该缓存的URL和文件。</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Préférences du cache Varnish enregistrées.</target>
+                <target>Varnish 缓存设置已保存。</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Purger tout le cache</target>
+                <target>清除整个缓存</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>Vous pouvez purger des URLs individuelles ou tags séparés par une virgule.</target>
+                <target>您可以清除以逗号分隔的单个URL或标签。</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Le cache Varnish a été purgé.</target>
+                <target>Varnish
+                    缓存已被清除。</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Créer un Reverse Proxy</target>
+                <target>创建反向代理</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>Nouveau Reverse Proxy</target>
+                <target>新的反向代理</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>URL du Reverse Proxy</target>
+                <target>反向代理Url</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Le Reverse Proxy a été créé.</target>
+                <target>反向代理已创建。</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Paramètres du Reverse Proxy</target>
+                <target>反向代理设置</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Les paramètres du Reverse Proxy ont été enregistrés.</target>
+                <target>反向代理设置已保存。</target>
             </trans-unit>
         </body>
     </file>

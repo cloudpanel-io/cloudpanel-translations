@@ -134,6 +134,10 @@
                 <source>Vietnamese</source>
                 <target>Vietnamita</target>
             </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>Cinese (Semplificato)</target>
+            </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
                 <target>Cinese (Taiwan)</target>
@@ -1834,6 +1838,30 @@
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
                 <target>Varnish Cache has been purged.</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>Create a Reverse Proxy</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>New Reverse Proxy</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                <target>Reverse Proxy Url</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                <target>Reverse Proxy has been created.</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>Reverse Proxy Settings</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>Reverse Proxy Settings have been saved.</target>
             </trans-unit>
             <!-- Translate Me End -->
         </body>
