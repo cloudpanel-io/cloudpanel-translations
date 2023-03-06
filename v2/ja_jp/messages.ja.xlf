@@ -259,7 +259,9 @@
                 <target>2段階認証</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
-                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <source>Two-Factor authentication adds an extra layer of security to your account.
+                    Whenever you sign in, you’ll need to enter both your password and also a
+                    security code.</source>
                 <target>セキュリティを強化する2段階認証が利用できます。ログインにはパスワードと2段階認証コードが必要になります。</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
@@ -271,8 +273,10 @@
                 <target>アプリに接続</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
-                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>%googleAuthenticatorLink% または %duoLink% などの認証アプリを使用して、QRコードをスキャンしてください。6桁のコードが表示されたら、以下のフォームに入力してください。</target>
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan
+                    the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>%googleAuthenticatorLink% または %duoLink%
+                    などの認証アプリを使用して、QRコードをスキャンしてください。6桁のコードが表示されたら、以下のフォームに入力してください。</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
@@ -283,7 +287,8 @@
                 <target>こちらを参照してください。</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
-                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and
+                    the code: %secret%</source>
                 <target>アプリで手動入力してください。ユーザー名: "%userName%" キー: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
@@ -579,7 +584,8 @@
                 <target>マスカレードアドレス</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
-                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <source>MasqueradeAddress causes the server to display the network information for
+                    the specified IP address or DNS hostname to the client.</source>
                 <target>マスカレードアドレスを指定すると、指定されたIPアドレス、またはDNSホスト名のネットワーク情報をクライアントに表示します。</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
@@ -963,11 +969,13 @@
                 <target>スクリプトが使用できるメモリの最大容量を設定します。</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
-                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <source>Sets the maximum time a script is allowed to run before it is terminated by
+                    the parser.</source>
                 <target>サーバーによって強制終了されるまでの、スクリプトの最大実行時間を設定します。</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
-                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and
+                    GET.</source>
                 <target>スクリプトが、POSTやGETなどのデータを解析する際の、許容時間を設定します。</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
@@ -999,7 +1007,8 @@
                 <target>サイトを削除</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <source>Deleting a site will permanently remove all site files, databases, users,
+                    and configs, and they will be non-recoverable.</source>
                 <target>サイトを削除すると、すべてのファイル(設定、データベース、ユーザー)が削除され、復元することができなくなります。</target>
             </trans-unit>
             <trans-unit id="cancel">
@@ -1190,8 +1199,10 @@
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
                 <target>Let's Encrypt SSL証明書で保護するドメイン名を入力します。</target>
             </trans-unit>
-            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
-                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+            <trans-unit
+                id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt
+                    Certificate.</source>
                 <target>Let's Encrypt 証明書を発行するには、DNSレコードを適切に設定する必要があります。</target>
             </trans-unit>
             <trans-unit id="domain-names">
@@ -1287,7 +1298,8 @@
                 <target>Cloudflareからのトラフィックのみを許可する</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
-                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled
+                    for your dns records.</source>
                 <target>ネームサーバーをCloudflareに向ける必要があり、DNSレコードのプロキシを有効にする必要があります。</target>
             </trans-unit>
             <trans-unit id="ssh-users">
@@ -1833,6 +1845,30 @@
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
                 <target>Varnishキャッシュが解放されました。</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>リバースプロキシを作成</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>新しいリバースプロキシ</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>リバースプロキシURL</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                <target>リバースプロキシが作成されました。</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>リバースプロキシの設定</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>リバースプロキシの設定が保存されました。</target>
             </trans-unit>
         </body>
     </file>
