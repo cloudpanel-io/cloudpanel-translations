@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="ja" datatype="plaintext" original="file.ext">
+    <file source-language="en" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>はい</target>
+                <target state="translated">是</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
-                <target>いいえ</target>
+                <target state="translated">否</target>
             </trans-unit>
             <trans-unit id="all">
                 <source>All</source>
-                <target>すべて</target>
+                <target state="translated">全部</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>Support</source>
-                <target>サポート</target>
+                <target state="translated">支援</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>クリックしてコピー</target>
+                <target state="translated">點擊複製</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>クリップボードにコピーされました</target>
+                <target state="translated">複製到剪貼板</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>読み込み中</target>
+                <target state="translated">讀取中</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
-                <target>Blog</target>
+                <target state="translated">網誌</target>
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
-                <target>連絡先</target>
+                <target state="translated">聯絡</target>
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>ドキュメント</target>
+                <target state="translated">文件</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>アップデートが利用可能</target>
+                <target state="translated">有可用的更新</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>問題</target>
+                <target state="translated">議題</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>送信</target>
+                <target state="translated">提交</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>サイト</target>
+                <target state="translated">網站</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>サイト</target>
+                <target state="translated">網站群</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
@@ -81,6 +81,10 @@
             <trans-unit id="locale-italian">
                 <source>Italian</source>
                 <target>Italian</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>日文</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
@@ -134,25 +138,29 @@
                 <source>Vietnamese</source>
                 <target>Vietnamese</target>
             </trans-unit>
-            <trans-unit id="locale-chinese-taiwan">
-                <source>Chinese (Taiwan)</source>
-                <target>中国語 (繁体字)</target>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>中文（简体</target>
             </trans-unit>
+            <trans-unit id="locale-Traditional-Chinese">
+                <source>Chinese (Taiwan)</source>
+                <target>正體中文</target>
+            </trans-unit>			
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>IPv4 Public IP</target>
+                <target>IPv4 公共 IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IPv6 Public IP</target>
+                <target>IPv6 公共 IP</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target state="translated">作業系統</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Hostname</target>
+                <target state="translated">主機名稱</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
@@ -160,757 +168,751 @@
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores</target>
+                <target state="translated">核心數</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Memory</target>
+                <target state="translated">記憶體</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>ユーザーネーム</target>
+                <target state="translated">使用者名稱</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>パスワード</target>
+                <target state="translated">密碼</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>ログイン</target>
+                <target state="translated">登入</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>設定</target>
+                <target state="translated">設定</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>ログアウト</target>
+                <target state="translated">登出</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>言語</target>
+                <target state="translated">Lang 語言</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>名</target>
+                <target state="translated">名字</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>姓</target>
+                <target state="translated">姓氏</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>メールアドレス</target>
+                <target state="translated">電子郵件</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>タイムゾーン</target>
+                <target state="translated">時區</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>新しいパスワードを生成</target>
+                <target state="translated">生成新密碼</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>ユーザーを作成</target>
+                <target state="translated">新增用戶</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>ライセンス規約<![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> と プライバシーポリシー<![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>に同意します</target>
+                <target state="translated">我同意許可條款並承認隱私政策.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>エラーが発生しました。エラーメッセージ: %errorMessage%</target>
+                <target state="translated">發生錯誤，錯誤訊息：%errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>管理者ユーザーの追加</target>
+                <target state="translated">管理員用戶創建</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>管理者パネル</target>
+                <target state="translated">管理區</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>ダッシュボード</target>
+                <target state="translated">控制台</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>アカウント</target>
+                <target state="translated">帳戶</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>セキュリティ</target>
+                <target state="translated">安全性</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
-                <target>アカウント情報が保存されました。</target>
+                <target state="translated">帳戶資訊已保存.</target>
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
-                <target>保存</target>
+                <target state="translated">儲存</target>
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>追加</target>
+                <target state="translated">建立</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>2段階認証</target>
+                <target state="translated">二階段身份驗證</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
-                <source>Two-Factor authentication adds an extra layer of security to your account.
-                    Whenever you sign in, you’ll need to enter both your password and also a
-                    security code.</source>
-                <target>セキュリティを強化する2段階認証が利用できます。ログインにはパスワードと2段階認証コードが必要になります。</target>
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target state="translated">二階段身份驗證為您的帳戶增加了額外的安全層每當您登入時，您都需要輸入密碼和安全代碼.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>2段階認証を有効化</target>
+                <target state="translated">啟用二階段身份驗證</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
-                <target>アプリに接続</target>
+                <target state="translated">連結至您的應用</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
-                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan
-                    the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>%googleAuthenticatorLink% または %duoLink%
-                    などの認証アプリを使用して、QRコードをスキャンしてください。6桁のコードが表示されたら、以下のフォームに入力してください。</target>
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target state="translated">使用%googleAuthenticatorLink%或%duoLink%等身份驗證器應用程式，掃描二維碼它將顯示您需要在下面輸入的 6 位代碼.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
-                <target>QRコードがスキャンできませんか？</target>
+                <target state="translated">掃描代碼時遇到問題？</target>
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>こちらを参照してください。</target>
+                <target state="translated">試試這個</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
-                <source>Select manual entry on your app, and enter your user name: "%userName%" and
-                    the code: %secret%</source>
-                <target>アプリで手動入力してください。ユーザー名: "%userName%" キー: %secret%</target>
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target state="translated">在應用上選擇手動輸入，然後輸入使用者名：「%userName%」和代碼：%secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>2段階認証が有効化されました。</target>
+                <target state="translated">已啟用二階段身份驗證.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>2段階認証を無効化する</target>
+                <target state="translated">停用二階段身份驗證</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>2段階認証が無効化されました。</target>
+                <target state="translated">二階段身份驗證已被停用.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
-                <target>認証コードを入力</target>
+                <target state="translated">輸入驗證碼</target>
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>サイトに戻る</target>
+                <target state="translated">返回網站</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>ユーザー</target>
+                <target state="translated">使用者</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>ユーザーを追加</target>
+                <target state="translated">新增使用者</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>新規ユーザー</target>
+                <target state="translated">新增使用者</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>有効</target>
+                <target state="translated">啟用</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>無効</target>
+                <target state="translated">未啟用</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
-                <target>管理者ユーザー</target>
+                <target state="translated">管理員</target>
             </trans-unit>
             <trans-unit id="role-user">
                 <source>User</source>
-                <target>一般ユーザー</target>
+                <target state="translated">使用者</target>
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>サイトマネージャー</target>
+                <target state="translated">網站管理員</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>ユーザーが追加されました。</target>
+                <target state="translated">已新增使用者.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>ユーザー情報が更新されました。</target>
+                <target state="translated">用戶已更新.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>ユーザーが見つかりません。</target>
+                <target state="translated">未找到相應的用戶.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
-                <target>ロール</target>
+                <target state="translated">角色權限</target>
             </trans-unit>
             <trans-unit id="status">
                 <source>Status</source>
-                <target>ステータス</target>
+                <target state="translated">狀態</target>
             </trans-unit>
             <trans-unit id="delete">
                 <source>Delete</source>
-                <target>削除</target>
+                <target state="translated">刪除</target>
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>本当によろしいですか？</target>
+                <target state="translated">您確定嗎？</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
-                <target>ユーザーが削除されました。</target>
+                <target state="translated">使用者已被刪除.</target>
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
-                <target>履歴</target>
+                <target state="translated">事件</target>
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>履歴はありません。</target>
+                <target state="translated">找不到事件.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>日付</target>
+                <target state="translated">事件時間</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target>履歴</target>
+                <target state="translated">事件</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>閲覧</target>
+                <target state="translated">檢視</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
-                <target>通知</target>
+                <target state="translated">通知</target>
             </trans-unit>
             <trans-unit id="no-notifications-found">
                 <source>No notifications found.</source>
-                <target>通知はありません。</target>
+                <target state="translated">未找到通知.</target>
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>通知は削除されました。</target>
+                <target state="translated">通知已刪除.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>メッセージを見る</target>
+                <target state="translated">顯示訊息</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
-                <target>深刻度</target>
+                <target state="translated">重要性</target>
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>日付</target>
+                <target state="translated">日期</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>メッセージ</target>
+                <target state="translated">訊息</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>アクション</target>
+                <target state="translated">操作</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
-                <target>情報</target>
+                <target state="translated">資訊</target>
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
-                <target>警告</target>
+                <target state="translated">警告</target>
             </trans-unit>
             <trans-unit id="critical">
                 <source>Critical</source>
-                <target>致命的</target>
+                <target state="translated">嚴重</target>
             </trans-unit>
             <trans-unit id="more-information">
                 <source>More Information</source>
-                <target>詳細はこちら</target>
+                <target state="translated">更多資訊</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>既読にする</target>
+                <target state="translated">標記為已讀</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>未読にする</target>
+                <target state="translated">標記為未讀</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>インスタンス</target>
+                <target state="translated">建議</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
-                <target>ファイアーウォール</target>
+                <target state="translated">防火牆</target>
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
-                <target>サービス</target>
+                <target state="translated">服務</target>
             </trans-unit>
             <trans-unit id="services">
                 <source>Services</source>
-                <target>サービス</target>
+                <target state="translated">服務項目</target>
             </trans-unit>
             <trans-unit id="rules">
                 <source>Rules</source>
-                <target>ルール</target>
+                <target state="translated">規則</target>
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>ルールを追加</target>
+                <target state="translated">新增規則</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target>ルールが見つかりません。</target>
+                <target state="translated">沒有找到規則.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>ファイアーウォールルールを追加</target>
+                <target state="translated">新增防火牆規則</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>ルールが追加されました。</target>
+                <target state="translated">已新增規則.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>ルールが削除されました。</target>
+                <target state="translated">規則已刪除.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>タイプ</target>
+                <target state="translated">類型</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>カスタム TCP</target>
+                <target state="translated">自定義 TCP</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>ポート範囲</target>
+                <target state="translated">埠範圍</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
-                <target>IPバージョン</target>
+                <target state="translated">IP 版本</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
-                <target>ソース</target>
+                <target state="translated">來源</target>
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>カスタム</target>
+                <target state="translated">自訂</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>任意のIPv4</target>
+                <target>Anywhere-IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>任意のIPv6</target>
+                <target>Anywhere-IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>自分のIP</target>
+                <target state="translated">我的 IP</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
-                <target>IP or CIDR</target>
+                <target>IP 或 網段</target>
             </trans-unit>
             <trans-unit id="rule-description">
                 <source>Description</source>
-                <target>概要</target>
+                <target state="translated">描述</target>
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>Actions</target>
+                <target state="translated">操作</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>ファイアーウォールルールを編集</target>
+                <target state="translated">編輯防火牆規則</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>標準認証</target>
+                <target state="translated">基本身份驗證</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>標準認証が有効</target>
+                <target state="translated">啟用基本身份驗證</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>CloudPanelにベーシック認証を追加し、セキュリティを強化</target>
+                <target state="translated">CloudPanel前面的基本身份驗證增加了一層額外的安全性.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>ベーシック認証が有効化されました。</target>
+                <target state="translated">已啟用基本身份驗證.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>動作中</target>
+                <target state="translated">運行中</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>停止</target>
+                <target state="translated">已停止</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
-                <target>再起動</target>
+                <target state="translated">重新啟動</target>
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>まもなくサービスを再開します。</target>
+                <target state="translated">服務將很快重新啟動.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
-                <target>Proftpdの設定</target>
+                <target state="translated">專業設定</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>マスカレードアドレス</target>
+                <target state="translated">偽裝位址</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
-                <source>MasqueradeAddress causes the server to display the network information for
-                    the specified IP address or DNS hostname to the client.</source>
-                <target>マスカレードアドレスを指定すると、指定されたIPアドレス、またはDNSホスト名のネットワーク情報をクライアントに表示します。</target>
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target state="translated">偽裝位址使伺服器向客戶端顯示指定IP位址或 DNS 主機名的網路資訊.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>マスカレードアドレスが保存されました。</target>
+                <target state="translated">偽裝位址已保存.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>インスタンスの設定</target>
+                <target state="translated">建議設定</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
-                <target>タイムゾーンが保存されました。</target>
+                <target state="translated">時區已保存.</target>
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
-                <target>再起動</target>
+                <target state="translated">重新開機</target>
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>インスタンスはまもなく再起動します。</target>
+                <target state="translated">建議重新開機.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>タイムゾーンを変更したときは、インスタンスの再起動が推奨です。</target>
+                <target state="translated">建議在更改時區後立即重啟.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
-                <target>全般</target>
+                <target state="translated">一般</target>
             </trans-unit>
             <trans-unit id="database-servers">
                 <source>Database Servers</source>
-                <target>データベースサーバー</target>
+                <target state="translated">資料庫伺服器</target>
             </trans-unit>
             <trans-unit id="add-database-server">
                 <source>Add Database Server</source>
-                <target>データベースサーバーを追加</target>
+                <target state="translated">新增資料庫伺服器</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
                 <source>Edit Database Server</source>
-                <target>データベースサーバーを編集</target>
+                <target state="translated">編輯資料庫伺服器</target>
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
-                <target>Engine</target>
+                <target state="translated">引擎</target>
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
-                <target>ホスト</target>
+                <target state="translated">主機</target>
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>Port</target>
+                <target state="translated">連接埠</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP or DNS名</target>
+                <target state="translated">IP 或 DNS 名稱</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
-                <target>証明書</target>
+                <target state="translated">證書</target>
             </trans-unit>
             <trans-unit id="set-active">
                 <source>Set Active</source>
-                <target>Set Active</target>
+                <target state="translated">設定啟動</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>データベースサーバーを追加しました。</target>
+                <target state="translated">已新增資料庫伺服器.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
-                <target>データベースサーバーを更新しました。</target>
+                <target state="translated">資料庫伺服器已更新.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>データベースサーバーを削除しました。</target>
+                <target state="translated">已刪除資料庫伺服器.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>データベースサーバーを変更しました。</target>
+                <target state="translated">資料庫伺服器已更改.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>カスタムドメイン</target>
+                <target state="translated">自訂網域</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
-                <target>TLS証明書</target>
+                <target state="translated">TLS 證書</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
-                <target>Let's Encrypt HTTP チャレンジ</target>
+                <target>Let's Encrypt HTTP Challenge</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-dns-challenge">
                 <source>Let's Encrypt DNS Challenge</source>
-                <target>Let's Encrypt DNS チャレンジ</target>
+                <target>Let's Encrypt DNS Challenge</target>
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>バックアップ</target>
+                <target state="translated">備份</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>画像</target>
+                <target state="translated">映像</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>AWS Credentials</target>
+                <target state="translated">AWS 憑證</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>AWS Access Key</target>
+                <target state="translated">AWS 存取金鑰</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>AWS Secret Access Key</target>
+                <target state="translated">AWS 秘密訪問金鑰</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>AWS Access Keys は無効です。</target>
+                <target state="translated">AWS 存取金鑰無效.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>AWS Access Keys が保存されました。</target>
+                <target state="translated">AWS 存取金鑰已儲存.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>画像設定</target>
+                <target state="translated">映像設定</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Automatic Images を有効</target>
+                <target state="translated">啟用自動鏡像</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>周波数</target>
+                <target state="translated">頻率</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>保存期間(日)</target>
+                <target state="translated">保留期（天）</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>画像設定が保存されました。</target>
+                <target state="translated">映像設定已保存.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
-                <target>1時間ごと</target>
+                <target state="translated">每小時</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>3時間ごと</target>
+                <target state="translated">每三小時</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>6時間ごと</target>
+                <target state="translated">每6小時</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>12時間ごと</target>
+                <target state="translated">每十二小時</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>24時間ごと</target>
+                <target state="translated">每天一次</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>画像を作成</target>
+                <target state="translated">創建映像</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>画像名</target>
+                <target state="translated">映像名稱</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>画像が見つかりません。</target>
+                <target state="translated">找不到鏡像.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>利用可能</target>
+                <target state="translated">可用</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
-                <target>保留</target>
+                <target state="translated">待處理</target>
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
-                <target>失敗</target>
+                <target state="translated">失敗</target>
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>で作成されました。</target>
+                <target state="translated">已建立在</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>画像を作成中です。</target>
+                <target state="translated">正在創建映像.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>画像を削除しています。</target>
+                <target state="translated">正在刪除映像.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>アクセストークンが間違っています。</target>
+                <target state="translated">訪問令牌無效.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
                 <source>Access Token has been saved.</source>
-                <target>アクセストークンが保存されました。</target>
+                <target state="translated">訪問令牌已保存.</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>アクセストークン</target>
+                <target state="translated">訪問令牌</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
-                <target>スナップショット</target>
+                <target state="translated">快照</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
-                <target>スナップショットの設定</target>
+                <target state="translated">快照設定</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>自動スナップショットが有効</target>
+                <target state="translated">啟用自動快照</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>スナップショットを作成</target>
+                <target state="translated">創建快照</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
-                <target>スナップショットがありません。</target>
+                <target state="translated">未找到快照.</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>スナップショット名</target>
+                <target state="translated">快照名稱</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>大きさ</target>
+                <target state="translated">大小</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
-                <target>スナップショットを作成中です。</target>
+                <target state="translated">正在創建快照.</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
                 <source>Snapshot is being deleted.</source>
-                <target>スナップショットを削除しています。</target>
+                <target state="translated">正在刪除快照.</target>
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Service Account Keys</target>
+                <target state="translated">服務帳戶金鑰</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
-                <target>Service Account Keys は無効です。</target>
+                <target state="translated">服務帳戶金鑰無效.</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
                 <source>Service Account Keys have been saved.</source>
-                <target>Service Account Keys は保存されました。</target>
+                <target state="translated">服務帳戶金鑰已保存.</target>
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Api Key</target>
+                <target state="translated">API 金鑰</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target>Api Key は無効です。</target>
+                <target state="translated">API 金鑰無效.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target>Api Key は保存されました。</target>
+                <target state="translated">API 金鑰已儲存.</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Api Token</target>
+                <target state="translated">API 令牌</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Api Token は無効です。</target>
+                <target state="translated">API 令牌無效.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Api Token は保存されました。</target>
+                <target state="translated">API 令牌已保存.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
-                <target>サイトが見つかりません。</target>
+                <target state="translated">沒有符合條件的網站.</target>
             </trans-unit>
             <trans-unit id="add-site">
                 <source>+ Add Site</source>
-                <target>+ サイトを追加</target>
+                <target state="translated">+ 新增網站</target>
             </trans-unit>
             <trans-unit id="domain">
                 <source>Domain</source>
-                <target>ドメイン</target>
+                <target state="translated">網域</target>
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>サイトユーザー</target>
+                <target state="translated">網站使用者</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>サイトユーザーパスワード</target>
+                <target state="translated">網站用戶密碼</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
-                <target>アプリ</target>
+                <target state="translated">應用程式</target>
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
-                <target>設定</target>
+                <target state="translated">管理</target>
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>IPアドレス</target>
+                <target state="translated">IP 地址</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
-                <target>バーチャルホスト</target>
+                <target state="translated">虛擬主機</target>
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>データベース</target>
+                <target state="translated">資料庫</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
@@ -922,114 +924,111 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>ファイルマネージャー</target>
+                <target state="translated">檔案管理</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron Jobs</target>
+                <target state="translated">定時任務</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>ログ</target>
+                <target state="translated">日誌</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
-                <target>ドメインの設定</target>
+                <target state="translated">網域設定</target>
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Rootディレクトリ</target>
+                <target state="translated">根目錄</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>ドメイン名</target>
+                <target state="translated">網域名稱</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
-                <target>アプリケーション</target>
+                <target state="translated">應用程式</target>
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target>Generic</target>
+                <target state="translated">一般</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>Rootディレクトリが保存されました。</target>
+                <target state="translated">根目錄已保存.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
-                <target>PHPの設定</target>
+                <target state="translated">PHP 設定</target>
             </trans-unit>
             <trans-unit id="php-version">
                 <source>PHP Version</source>
-                <target>PHPバージョン</target>
+                <target state="translated">PHP版本</target>
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>スクリプトが使用できるメモリの最大容量を設定します。</target>
+                <target state="translated">設定允許腳本分配的最大記憶體.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
-                <source>Sets the maximum time a script is allowed to run before it is terminated by
-                    the parser.</source>
-                <target>サーバーによって強制終了されるまでの、スクリプトの最大実行時間を設定します。</target>
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target state="translated">設定腳本在被分析器終止之前允許運行的最長時間.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
-                <source>Sets the maximum time a script is allowed to parse input data, like POST and
-                    GET.</source>
-                <target>スクリプトが、POSTやGETなどのデータを解析する際の、許容時間を設定します。</target>
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target state="translated">設定允許腳本分析輸入數據（如 POST 和 GET）的最長時間.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>投稿フォームの最大文字数を設定します。</target>
+                <target state="translated">設定表單的輸入字數限制.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
-                <target>PHPが受け入れられる、POSTデータの最大容量を設定します。</target>
+                <target state="translated">PHP 將接受的 POST 數據的最大尺寸.</target>
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>アップロードできるファイルの最大容量を設定します。</target>
+                <target state="translated">上傳檔的最大尺寸.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>PHP.ini と同じように、任意のPHPパラメータを設定することができます。</target>
+                <target state="translated">您可以定義任何PHP參數，就像在php.ini中定義的那樣.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
-                <target>オプションのPHPパラメーター</target>
+                <target state="translated">其它設定指令</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
                 <source>PHP Settings have been saved.</source>
-                <target>PHPの設定が保存されました。</target>
+                <target state="translated">PHP 設定已保存.</target>
             </trans-unit>
             <trans-unit id="delete-site">
                 <source>Delete Site</source>
-                <target>サイトを削除</target>
+                <target state="translated">刪除網站</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users,
-                    and configs, and they will be non-recoverable.</source>
-                <target>サイトを削除すると、すべてのファイル(設定、データベース、ユーザー)が削除され、復元することができなくなります。</target>
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target state="translated">刪除網站將永久刪除所有網站檔、資料庫、使用者和設定，並且它們將無法恢復.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
-                <target>キャンセル</target>
+                <target state="translated">取消</target>
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>削除するには、フォームにドメイン名 %domain% を入力してください。</target>
+                <target state="translated">要確認刪除，請在欄位中鍵入%domain%.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>サイトは削除されました。</target>
+                <target state="translated">網站已被刪除.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
-                <target>サイトユーザーの設定</target>
+                <target state="translated">網站用戶設定</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
-                <target>サイトユーザーの設定は保存されました。</target>
+                <target state="translated">網站用戶設定已保存.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
@@ -1037,197 +1036,195 @@
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>バーチャルホストエディター</target>
+                <target state="translated">虛擬主機編輯器</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>バーチャルホストは保存されました。</target>
+                <target state="translated">虛擬主機已被保存.</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
-                <target>バーチャルホストは無効です。 エラーメッセージ: %errorMessage%</target>
+                <target state="translated">虛擬主機無效，錯誤消息：%errorMessage%</target>
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
-                <target>データベースが見つかりません。</target>
+                <target state="translated">未找到資料庫.</target>
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
-                <target>データベース</target>
+                <target state="translated">資料庫</target>
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>データベースを追加</target>
+                <target state="translated">新增資料庫</target>
             </trans-unit>
             <trans-unit id="new-database">
                 <source>New Database</source>
-                <target>新規データベース</target>
+                <target state="translated">新資料庫</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
                 <source>Database has been added.</source>
-                <target>データベースが追加されました。</target>
+                <target state="translated">已新增資料庫.</target>
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
                 <source>Database has been deleted.</source>
-                <target>データベースが削除されました。</target>
+                <target state="translated">已刪除資料庫.</target>
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>データベースユーザー</target>
+                <target state="translated">資料庫使用者</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>データベースユーザーを追加</target>
+                <target state="translated">新增資料庫使用者</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
-                <target>データベースユーザーが見つかりません。</target>
+                <target state="translated">未找到資料庫使用者.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
-                <target>読み込みと書き込み</target>
+                <target state="translated">可讀寫</target>
             </trans-unit>
             <trans-unit id="read-only">
                 <source>Read Only</source>
-                <target>"読み込み"のみ</target>
+                <target state="translated">唯讀</target>
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>新規データベースユーザー</target>
+                <target state="translated">新建資料庫使用者</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>データベース名</target>
+                <target state="translated">資料庫名稱</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>データベースユーザー名</target>
+                <target state="translated">資料庫使用者名</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>データベースユーザーパスワード</target>
+                <target state="translated">資料庫用戶密碼</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
-                <target>権限</target>
+                <target state="translated">權限</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>データベースが見つかりません。まずデータベースを作成してください。</target>
+                <target state="translated">未找到資料庫;首先創建一個資料庫.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>データベースユーザーが追加されました。</target>
+                <target state="translated">已新增資料庫使用者.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>データベースユーザーが削除されました。</target>
+                <target state="translated">已刪除資料庫使用者.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
-                <target>データベースユーザーを編集</target>
+                <target state="translated">編輯資料庫使用者</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>データーベースユーザーを更新しました。</target>
+                <target state="translated">資料庫使用者已更新.</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
-                <target>証明書</target>
+                <target state="translated">證書</target>
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>新しい Let's Encrypt 証明書</target>
+                <target>New Let's Encrypt Certificate</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>証明書をインポート</target>
+                <target state="translated">匯入證書</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
-                <target>証明書が見つかりません。</target>
+                <target state="translated">未找到證書.</target>
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
-                <target>自己署名</target>
+                <target state="translated">自簽名</target>
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
-                <target>インポート</target>
+                <target state="translated">已匯入</target>
             </trans-unit>
             <trans-unit id="domains">
                 <source>Domains</source>
-                <target>ドメイン</target>
+                <target state="translated">網域</target>
             </trans-unit>
             <trans-unit id="expiration-date">
                 <source>Expiration Date</source>
-                <target>有効期限</target>
+                <target state="translated">有效日期</target>
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>インストール</target>
+                <target state="translated">已安裝</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>プライベートキー</target>
+                <target state="translated">私密金鑰</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
-                <target>証明書ストア</target>
+                <target state="translated">憑證鏈</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
                 <source>Certificate has been deleted.</source>
-                <target>証明書が削除されました。</target>
+                <target state="translated">證書已刪除.</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>証明書がインストールされました。</target>
+                <target state="translated">證書已安裝.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
-                <target>インストール</target>
+                <target state="translated">安裝</target>
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>インポートし、インストール</target>
+                <target state="translated">匯入和安裝</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>作成し、インストール</target>
+                <target state="translated">創建和安裝</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>Let's Encrypt SSL証明書で保護するドメイン名を入力します。</target>
+                <target state="translated">輸入要使用「加密 SSL 證書」保護的網域名稱.</target>
             </trans-unit>
-            <trans-unit
-                id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
-                <source>A DNS record pointing to this server is required to issue a Let's Encrypt
-                    Certificate.</source>
-                <target>Let's Encrypt 証明書を発行するには、DNSレコードを適切に設定する必要があります。</target>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target state="translated">需要指向此伺服器的 DNS 記錄才能頒發「Let's Encrypt」證書.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
-                <target>ドメイン名</target>
+                <target state="translated">網域名稱</target>
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
-                <target>ドメインを追加</target>
+                <target state="translated">新增網域</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>CloudPanel カスタムドメイン</target>
+                <target state="translated">CloudPanel自定義網域</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>CloudPanel カスタムドメインが保存されました。</target>
+                <target state="translated">CloudPanel自定義網域已保存.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
-                <target>IPブロック</target>
+                <target state="translated">IP 封鎖</target>
             </trans-unit>
             <trans-unit id="add-ip">
                 <source>Add IP</source>
-                <target>IPを追加</target>
+                <target state="translated">新增IP</target>
             </trans-unit>
             <trans-unit id="ip">
                 <source>IP</source>
@@ -1235,372 +1232,371 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>IPが見つかりません。</target>
+                <target state="translated">未找到IP.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
-                <target>例</target>
+                <target state="translated">範例</target>
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
-                <target>1つのIP</target>
+                <target state="translated">單個IP</target>
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>CIDRフォーマット</target>
+                <target state="translated">網段格式</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
-                <target>IPが追加されました。</target>
+                <target state="translated">已新增IP.</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>IPが削除されました。</target>
+                <target state="translated">IP 已被刪除.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
-                <target>Botが見つかりません。</target>
+                <target state="translated">未找到機器人.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
-                <target>Botをブロック</target>
+                <target state="translated">阻止機器人</target>
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>Botを追加</target>
+                <target state="translated">新增機器人</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>Botが追加されました。</target>
+                <target state="translated">已新增機器人.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
-                <target>Botが削除されました。</target>
+                <target state="translated">機器人已被刪除.</target>
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>Bot名</target>
+                <target state="translated">機器人名稱</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>基本認証</target>
+                <target state="translated">基本身份驗證</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>基本認証をバイパスするIPリスト(,区切り)</target>
+                <target state="translated">要繞過基本身份驗證的IP清單，逗號分隔.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>ホワイトリストIP</target>
+                <target state="translated">列入白名單的IP</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
-                <target>Cloudflareからのトラフィックのみを許可する</target>
+                <target state="translated">僅允許來自 Cloudflare 的流量</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
-                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled
-                    for your dns records.</source>
-                <target>ネームサーバーをCloudflareに向ける必要があり、DNSレコードのプロキシを有効にする必要があります。</target>
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target state="translated">名稱伺服器必須指向 Cloudflare，並且需要為您的 dns 記錄啟用代理.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
-                <target>SSHユーザー</target>
+                <target state="translated">SSH 使用者</target>
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Home Directory</target>
+                <target state="translated">主目錄</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
-                <target>SSHユーザー</target>
+                <target state="translated">SSH使用者</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>新規SSHユーザー</target>
+                <target state="translated">新 SSH 使用者</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
-                <target>ユーザーが保存されました。</target>
+                <target state="translated">使用者已保存.</target>
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
-                <target>FTPユーザー</target>
+                <target state="translated">FTP 使用者</target>
             </trans-unit>
             <trans-unit id="ftp-users">
                 <source>FTP Users</source>
-                <target>FTPユーザー</target>
+                <target state="translated">FTP 使用者</target>
             </trans-unit>
             <trans-unit id="new-ftp-user">
                 <source>New FTP User</source>
-                <target>新規FTPユーザー</target>
+                <target state="translated">新的 FTP 使用者</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Cron Jobを追加</target>
+                <target state="translated">新增排程作業</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>Cron Job が見つかりません。</target>
+                <target state="translated">未找到排程作業.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>新規Cron Job</target>
+                <target state="translated">新增排程作業</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
-                <target>1分おき</target>
+                <target state="translated">每一分鐘</target>
             </trans-unit>
             <trans-unit id="every-5-minutes">
                 <source>Every 5 minutes</source>
-                <target>5分おき</target>
+                <target state="translated">每 5 分鐘</target>
             </trans-unit>
             <trans-unit id="once-an-hour">
                 <source>Once an hour</source>
-                <target>1時間おき</target>
+                <target state="translated">每小時一次</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
                 <source>Every 3 hours</source>
-                <target>3時間おき</target>
+                <target state="translated">每3小時</target>
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>1日おき(0時0分)</target>
+                <target state="translated">每天一次（00：00）</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
-                <target>1日おき(午前4時)</target>
+                <target state="translated">每天淩晨4點.</target>
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>1週間おき(日曜0時0分)(</target>
+                <target state="translated">每週一次（周日00：00）</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>1ヶ月おき(1日0時0分)</target>
+                <target state="translated">每月一次（每月第1天00：00）</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
-                <target>テンプレート</target>
+                <target state="translated">範本</target>
             </trans-unit>
             <trans-unit id="minute">
                 <source>Minute</source>
-                <target>分</target>
+                <target state="translated">分鐘</target>
             </trans-unit>
             <trans-unit id="hour">
                 <source>Hour</source>
-                <target>時</target>
+                <target state="translated">小時</target>
             </trans-unit>
             <trans-unit id="day">
                 <source>Day</source>
-                <target>日</target>
+                <target state="translated">天</target>
             </trans-unit>
             <trans-unit id="month">
                 <source>Month</source>
-                <target>月</target>
+                <target state="translated">月</target>
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
-                <target>平日</target>
+                <target state="translated">工作日</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>Cron Jobが追加されました。</target>
+                <target state="translated">已新增排程作業.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Cron Jobが削除されました。</target>
+                <target state="translated">排程作業已被刪除.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Cron Jobが保存されました。</target>
+                <target state="translated">排程作業已被保存.</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
-                <target>スケジュール</target>
+                <target state="translated">計劃表</target>
             </trans-unit>
             <trans-unit id="command">
                 <source>Command</source>
-                <target>コマンド</target>
+                <target state="translated">指令</target>
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>アップデート</target>
+                <target state="translated">更新</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>ページスピード</target>
+                <target state="translated">運行頁面速度</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>キャッシュを解放</target>
+                <target state="translated">清除快取</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>ページスピードの設定が無効です。 エラーメッセージ: %errorMessage%</target>
+                <target state="translated">頁面速度設定無效，錯誤消息：%errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>ページスピード設定が保存されました。</target>
+                <target state="translated">頁面速度設定已保存.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>ページスピードキャッシュ解放されました。</target>
+                <target state="translated">頁面速度快取已被清除.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
-                <target>どのようなサイトを作りたいですか？</target>
+                <target state="translated">您要建立哪種類型的網站？</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>WordPressサイトを作成</target>
+                <target state="translated">創建一個 WordPress網站</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>PHPサイトを作成</target>
+                <target state="translated">創建一個 PHP 網站</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Node.jsサイトを作成</target>
+                <target state="translated">創建 Node.js網站</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>静的HTMLサイトを作成</target>
+                <target state="translated">創建靜態 HTML 網站</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Pythonサイトを作成</target>
+                <target state="translated">創建 Python 網站</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>新規サイト</target>
+                <target state="translated">新增網站</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>新規WordPressサイト</target>
+                <target state="translated">新的 WordPress 網站</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>プリインストールWordPress</target>
+                <target state="translated">預安裝 WordPress</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
-                <target>戻る</target>
+                <target state="translated">返回</target>
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
-                <target>サイトタイトル</target>
+                <target state="translated">網站名稱</target>
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>管理者メールアドレス</target>
+                <target state="translated">管理員電子郵件</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>管理者ユーザー名</target>
+                <target state="translated">管理員使用者名</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>管理者パスワード</target>
+                <target state="translated">管理員密碼</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
-                <target>管理者URL</target>
+                <target state="translated">管理員網址</target>
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>マルチサイト</target>
+                <target state="translated">多網站</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>バーチャルホストテンプレートが使用できます。 %vhostTemplate% </target>
+                <target state="translated">虛擬範本%vhostTemplate%不存在.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>WordPressサイトが作成されました！</target>
+                <target state="translated">WordPress網站已經創建！</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>作成したWordPressサイトの認証情報をコピーします。</target>
+                <target state="translated">複製您創建的WordPress網站的憑據.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>作成中</target>
+                <target state="translated">正在建立</target>
             </trans-unit>
             <trans-unit id="saving">
                 <source>Saving</source>
-                <target>保存中</target>
+                <target state="translated">正在儲存</target>
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
-                <target>新規PHPサイト</target>
+                <target state="translated">新的 PHP 網站</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>このサイトのメインのSSHユーザーです。</target>
+                <target state="translated">網站的主 SSH 使用者.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
-                <target>サイトを作成中です。</target>
+                <target state="translated">網站已創建.</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>新規静的HTMLサイト</target>
+                <target state="translated">新的靜態 HTML 網站</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>新規Node.jsサイト</target>
+                <target state="translated">新建節點.js網站</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Node.js Version</target>
+                <target state="translated">節點.js版本</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>ポートを追加</target>
+                <target state="translated">應用埠</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
-                <target>Node.jsの設定</target>
+                <target state="translated">節點.js設定</target>
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
-                <target>Node.jsの設定が保存されました。</target>
+                <target state="translated">節點.js設定已保存.</target>
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>新規Pythonサイト</target>
+                <target state="translated">新建Python網站</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
-                <target>Python Version</target>
+                <target state="translated">Python版本</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>別のバージョンが必要？</target>
+                <target state="translated">是否需要其他版本？</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>ドキュメントをチェックする。</target>
+                <target state="translated">查看文件.</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
-                <target>Pythonの設定</target>
+                <target state="translated">Python設定</target>
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
                 <source>Python Settings have been saved.</source>
-                <target>Pythonの設定が保存されました。</target>
+                <target state="translated">Python 設定已保存.</target>
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>オペレーティングシステム</target>
+                <target state="translated">作業系統</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>クラウド</target>
+                <target state="translated">雲端</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
-                <target>リージョン</target>
+                <target state="translated">地區</target>
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
@@ -1612,67 +1608,67 @@
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>監視</target>
+                <target state="translated">監控</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>直近30分</target>
+                <target state="translated">最近30分鐘</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>直近1時間</target>
+                <target state="translated">最近1小時</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>直近3時間</target>
+                <target state="translated">最近3小時</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>直近6時間</target>
+                <target state="translated">最近 6 小時</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>直近12時間</target>
+                <target state="translated">最近12小時</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1分</target>
+                <target state="translated">1 分鐘</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5分</target>
+                <target state="translated">5分鐘</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15分</target>
+                <target state="translated">15分鐘</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>CPU使用率</target>
+                <target state="translated">CPU 使用率</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Disk使用率</target>
+                <target state="translated">磁碟使用率</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Memory使用率</target>
+                <target state="translated">記憶體使用率</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>平均読み込み</target>
+                <target state="translated">平均負載</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>遠隔バックアップ</target>
+                <target state="translated">遠端備份</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>ストレージプロバイダー</target>
+                <target state="translated">存儲提供者</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>ストレージプロバイダーを選択</target>
+                <target state="translated">選擇存儲提供者</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1680,23 +1676,23 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone Config</source>
-                <target>Rcloneカスタム設定</target>
+                <target>Custom Rclone Config</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>続行</target>
+                <target state="translated">下一步</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>リモートバックアップを有効</target>
+                <target state="translated">啟用遠端備份</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>毎日</target>
+                <target state="translated">每日</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
-                <target>時間</target>
+                <target state="translated">時間</target>
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
@@ -1704,171 +1700,171 @@
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Bucket名</target>
+                <target>Bucket Name</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>ストレージディレクトリ</target>
+                <target state="translated">存儲目錄</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>ルートからの相対的なバックアップの保存先</target>
+                <target state="translated">相對於根目錄存儲備份的位置.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>既存のシークレットキーを引き続き使用する場合は、空白にします。</target>
+                <target state="translated">留空以繼續使用現有的秘密訪問金鑰.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>除く</target>
+                <target state="translated">排除</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>リモートバックアップの設定が保存されました。</target>
+                <target state="translated">遠端備份設定已保存.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>リモートバックアップの設定が削除されました。</target>
+                <target state="translated">已刪除遠端備份設定.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
-                <target>アクセスキー</target>
+                <target state="translated">存取金鑰</target>
             </trans-unit>
             <trans-unit id="secret-access-key">
                 <source>Secret Access Key</source>
-                <target>シークレットキー</target>
+                <target>Secret Access Key</target>
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>GoogleDriveアカウントのメールアドレス</target>
+                <target state="translated">您的Google硬碟與電子信箱.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>サービスアカウント</target>
+                <target state="translated">服務帳戶</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
-                <target>既存のサービスアカウントを引き続き使用する場合は、空欄にしてください。</target>
+                <target state="translated">留空以繼續使用現有服務帳戶.</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>アクセスコードをリクエスト</target>
+                <target state="translated">要求存取代碼</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>アクセスコード</target>
+                <target state="translated">存取代碼</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>ボタンをクリックし、次のフィールドにアクセスコードを貼り付けてください。</target>
+                <target>點擊按鈕並將訪問代碼黏貼到下一個字段中</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>バックアップを作成</target>
+                <target state="translated">新增備份</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>まもなくバックグラウンドでバックアップが始まります。</target>
+                <target state="translated">備份將很快在後台啟動.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>認証方法</target>
+                <target state="translated">身份驗證方法</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>キー</target>
+                <target state="translated">密鑰</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>リモートサーバーパス</target>
+                <target state="translated">遠端伺服器路徑</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>プライベートキーパス</target>
+                <target state="translated">私鑰路徑</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>スペース名</target>
+                <target>Space Name</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>スペースエンドポイント</target>
+                <target>Space Endpoint</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>S3対応エンドポイント用フォーマット</target>
+                <target>Format for S3 compatible endpoints</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
-                <target>Varnishキャッシュ</target>
+                <target state="translated">反向網站快取</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
-                <target>Varnishサーバー</target>
+                <target state="translated">反向網站快取伺服器</target>
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>キャッシュの有効期限</target>
+                <target state="translated">快取週期</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>リフレッシュされるまでのキャッシュの有効期限(秒)</target>
+                <target state="translated">刷新前的快取週期（以秒為單位）</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>キャッシュタグのプレフィックス</target>
+                <target state="translated">快取標記前綴</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>除外されたパラメータ</target>
+                <target state="translated">排除的參數</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>キャッシュを無効にするGETパラメータのリスト(,区切り)</target>
+                <target state="translated">用於禁用快取的 GET 參數清單，用逗號分隔.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Varnishキャッシュから除外するURLとファイル。</target>
+                <target state="translated">反向網站快取不快取的 URL 和檔案.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnishキャッシュの設定が保存されました。</target>
+                <target state="translated">反向網站快取設定已保存.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>すべてのキャッシュの解放</target>
+                <target state="translated">清除整個快取</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>カンマで区切られたURL、またはタグを解放することができます。</target>
+                <target state="translated">您可以清除以逗號分隔的單個URL或標籤.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnishキャッシュが解放されました。</target>
+                <target state="translated">網站快取已被清除.</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>リバースプロキシを作成</target>
+                <target>創建反向代理</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>新しいリバースプロキシ</target>
+                <target>新的反向代理</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
-                <source>リバースプロキシURL</source>
-                <target></target>
+                <source>Reverse Proxy Url</source>
+                <target>反向代理網址</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>リバースプロキシが作成されました。</target>
+                <target>反向代理已創建.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>リバースプロキシの設定</target>
+                <target>設定反向代理</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>リバースプロキシの設定が保存されました。</target>
+                <target>反向代理設定已保存.</target>
             </trans-unit>
         </body>
     </file>

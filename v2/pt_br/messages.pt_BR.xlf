@@ -82,6 +82,10 @@
                 <source>Italian</source>
                 <target>Italiano</target>
             </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>Japonês</target>
+            </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
                 <target>Espanhol</target>

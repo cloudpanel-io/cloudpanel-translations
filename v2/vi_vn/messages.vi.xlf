@@ -82,6 +82,10 @@
                 <source>Italian</source>
                 <target>Ý</target>
             </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>Tiếng Nhật</target>
+            </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
                 <target>Tây Ban Nha</target>
