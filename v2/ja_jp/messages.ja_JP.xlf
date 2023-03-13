@@ -64,7 +64,7 @@
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>German</target>
+                <target>Deutsch</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
@@ -72,15 +72,15 @@
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>French</target>
+                <target>Français</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Dutch</target>
+                <target>Nederlands</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italian</target>
+                <target>Italiano</target>
             </trans-unit>
             <trans-unit id="locale-japanese">
                 <source>Japanese</source>
@@ -88,59 +88,63 @@
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>Español</target>
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
-                <target>Polish</target>
+                <target>Polski</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portuguese</target>
+                <target>Português</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Portuguese (Brasil)</target>
+                <target>Português do Brasil</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>Ελληνικά</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Lietuvių</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>Indonesian</target>
+                <target>Indonesia</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Romanian</target>
+                <target>Română</target>
             </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
-                <target>Russian</target>
+                <target>Русский</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>Turkish</target>
+                <target>Türkçe</target>
             </trans-unit>
             <trans-unit id="locale-ukrainian">
                 <source>Ukrainian</source>
-                <target>Ukrainian</target>
+                <target>Українська</target>
             </trans-unit>
             <trans-unit id="locale-arabic">
                 <source>Arabic</source>
-                <target>Arabic</target>
+                <target>العربية</target>
             </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
-                <target>Vietnamese</target>
+                <target>Tiếng Việt</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>简体中文</target>
             </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
-                <target>中国語 (繁体字)</target>
+                <target>繁體中文</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
@@ -184,7 +188,7 @@
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>設定</target>
+                <target>Settings</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
@@ -244,7 +248,7 @@
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>セキュリティ</target>
+                <target>Security</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
@@ -263,9 +267,7 @@
                 <target>2段階認証</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
-                <source>Two-Factor authentication adds an extra layer of security to your account.
-                    Whenever you sign in, you’ll need to enter both your password and also a
-                    security code.</source>
+                <source>セキュリティを強化する2段階認証が利用できます。ログインにはパスワードと2段階認証コードが必要になります。</source>
                 <target>セキュリティを強化する2段階認証が利用できます。ログインにはパスワードと2段階認証コードが必要になります。</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
@@ -277,10 +279,8 @@
                 <target>アプリに接続</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
-                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan
-                    the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>%googleAuthenticatorLink% または %duoLink%
-                    などの認証アプリを使用して、QRコードをスキャンしてください。6桁のコードが表示されたら、以下のフォームに入力してください。</target>
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>%googleAuthenticatorLink% または %duoLink% などの認証アプリを使用して、QRコードをスキャンしてください。6桁のコードが表示されたら、以下のフォームに入力してください。</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
@@ -291,8 +291,7 @@
                 <target>こちらを参照してください。</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
-                <source>Select manual entry on your app, and enter your user name: "%userName%" and
-                    the code: %secret%</source>
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
                 <target>アプリで手動入力してください。ユーザー名: "%userName%" キー: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
@@ -429,7 +428,7 @@
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>アクション</target>
+                <target>操作</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
@@ -541,7 +540,7 @@
             </trans-unit>
             <trans-unit id="actions">
                 <source>Actions</source>
-                <target>Actions</target>
+                <target>操作</target>
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
@@ -549,19 +548,19 @@
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>標準認証</target>
+                <target>BASIC認証</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>標準認証が有効</target>
+                <target>BASIC認証が有効</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>CloudPanelにベーシック認証を追加し、セキュリティを強化</target>
+                <target>CloudPanelにBASIC認証を追加し、セキュリティを強化</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>ベーシック認証が有効化されました。</target>
+                <target>BASIC認証が有効化されました。</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
@@ -588,8 +587,7 @@
                 <target>マスカレードアドレス</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
-                <source>MasqueradeAddress causes the server to display the network information for
-                    the specified IP address or DNS hostname to the client.</source>
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
                 <target>マスカレードアドレスを指定すると、指定されたIPアドレス、またはDNSホスト名のネットワーク情報をクライアントに表示します。</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
@@ -614,7 +612,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>タイムゾーンを変更したときは、インスタンスの再起動が推奨です。</target>
+                <target>タイムゾーンを変更したときは、インスタンスを再起動することをおすすめします。</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -726,7 +724,7 @@
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>周波数</target>
+                <target>周期</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
@@ -830,7 +828,7 @@
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>大きさ</target>
+                <target>サイズ</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
@@ -910,11 +908,11 @@
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
-                <target>バーチャルホスト</target>
+                <target>Vhost</target>
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>データベース</target>
+                <target>Databases</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
@@ -926,7 +924,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>ファイルマネージャー</target>
+                <target>File Manager</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
@@ -934,7 +932,7 @@
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>ログ</target>
+                <target>Logs</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -942,7 +940,7 @@
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Rootディレクトリ</target>
+                <target>ルートディレクトリ</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
@@ -973,13 +971,11 @@
                 <target>スクリプトが使用できるメモリの最大容量を設定します。</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
-                <source>Sets the maximum time a script is allowed to run before it is terminated by
-                    the parser.</source>
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
                 <target>サーバーによって強制終了されるまでの、スクリプトの最大実行時間を設定します。</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
-                <source>Sets the maximum time a script is allowed to parse input data, like POST and
-                    GET.</source>
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
                 <target>スクリプトが、POSTやGETなどのデータを解析する際の、許容時間を設定します。</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
@@ -1011,8 +1007,7 @@
                 <target>サイトを削除</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users,
-                    and configs, and they will be non-recoverable.</source>
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
                 <target>サイトを削除すると、すべてのファイル(設定、データベース、ユーザー)が削除され、復元することができなくなります。</target>
             </trans-unit>
             <trans-unit id="cancel">
@@ -1203,10 +1198,8 @@
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
                 <target>Let's Encrypt SSL証明書で保護するドメイン名を入力します。</target>
             </trans-unit>
-            <trans-unit
-                id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
-                <source>A DNS record pointing to this server is required to issue a Let's Encrypt
-                    Certificate.</source>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
                 <target>Let's Encrypt 証明書を発行するには、DNSレコードを適切に設定する必要があります。</target>
             </trans-unit>
             <trans-unit id="domain-names">
@@ -1287,11 +1280,11 @@
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>基本認証</target>
+                <target>BASIC認証</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>基本認証をバイパスするIPリスト(,区切り)</target>
+                <target>BASIC認証をバイパスするIPリスト(,区切り)</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
@@ -1302,8 +1295,7 @@
                 <target>Cloudflareからのトラフィックのみを許可する</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
-                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled
-                    for your dns records.</source>
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
                 <target>ネームサーバーをCloudflareに向ける必要があり、DNSレコードのプロキシを有効にする必要があります。</target>
             </trans-unit>
             <trans-unit id="ssh-users">
@@ -1312,7 +1304,7 @@
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Home Directory</target>
+                <target>ホームディレクトリ</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
@@ -1432,7 +1424,7 @@
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>ページスピード</target>
+                <target>PageSpeed</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
@@ -1440,15 +1432,15 @@
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>ページスピードの設定が無効です。 エラーメッセージ: %errorMessage%</target>
+                <target>PageSpeedの設定が無効です。 エラーメッセージ: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>ページスピード設定が保存されました。</target>
+                <target>PageSpeedの設定が保存されました。</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>ページスピードキャッシュ解放されました。</target>
+                <target>PageSpeedキャッシュが解放されました。</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
@@ -1596,15 +1588,15 @@
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>オペレーティングシステム</target>
+                <target>OS</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>クラウド</target>
+                <target>Cloud</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
-                <target>リージョン</target>
+                <target>Region</target>
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
@@ -1656,19 +1648,19 @@
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Disk使用率</target>
+                <target>ディスク使用率</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Memory使用率</target>
+                <target>メモリ使用率</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>平均読み込み</target>
+                <target>サーバ負荷</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>遠隔バックアップ</target>
+                <target>リモートバックアップ</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
@@ -1724,7 +1716,7 @@
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>除く</target>
+                <target>除外</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
