@@ -32,7 +32,7 @@
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
-                <target>בלוק</target>
+                <target>בלוג</target>
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
@@ -168,7 +168,7 @@
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>מעבד</target>
+                <target>מעבדים</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
@@ -532,7 +532,7 @@
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>הכתובת IP שלי</target>
+                <target>כתובת ה-IP שלי</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
@@ -560,7 +560,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>הפעלת אימות בסיסי בכניסה ל-CloudPanel יוסיף שכבה נוספת של הגנה.</target>
+                <target>הפעלת אימות בסיסי בכניסה ל-CloudPanel תוסיף שכבה נוספת של הגנה.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
@@ -956,7 +956,7 @@
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target>כללי</target>
+                <target>כללית</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
@@ -996,7 +996,7 @@
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>ניתן להגדיר פרמטרי PHP באופן חופשי בתוך php.ini.</target>
+                <target>ניתן להגדיר פרמטרי PHP באופן חופשי והם יתווספו ל-php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
@@ -1608,7 +1608,7 @@
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>מזהה מוכנה</target>
+                <target>מזהה מכונה</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
@@ -1796,7 +1796,7 @@
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>פורמט עבור יעדים תואמי S3</target>
+                <target>פורמט עבור יעדים תואמי S3 לדוגמה</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
@@ -1856,7 +1856,7 @@
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>כתובת המתווך ההפוך</target>
+                <target>כתובת לתיווך הפוך</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
