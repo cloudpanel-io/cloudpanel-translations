@@ -1,4 +1,4 @@
-var en = {
+var he = {
     Save: "שמירה",
     "Save all": "שמירה של כולם",
     Rename: "שינוי שם",
