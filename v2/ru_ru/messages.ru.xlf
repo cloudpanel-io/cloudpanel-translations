@@ -168,15 +168,15 @@
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Ядер</target>
+                <target state="translated">ядер</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Объем Памяти</target>
+                <target state="translated">оперативной памяти</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>Пользователь</target>
+                <target state="translated">Имя пользователя</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
@@ -220,7 +220,7 @@
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Создать Пользователя</target>
+                <target state="translated">Создать пользователя</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
@@ -232,19 +232,19 @@
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>Создание Администратора</target>
+                <target state="translated">Создание администратора</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Зона Администратора</target>
+                <target state="translated">Зона администратора</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Дашборд</target>
+                <target state="translated">Панель управления</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>Учетная Запись</target>
+                <target state="translated">Учетная запись</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
@@ -264,7 +264,7 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>Двухфакторная Аутентификация</target>
+                <target state="translated">Двухфакторная аутентификация</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
@@ -272,7 +272,7 @@
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>Включить Двухфакторную Аутентификацию</target>
+                <target state="translated">Включить двухфакторную аутентификацию</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
@@ -312,7 +312,7 @@
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Вернуться к Сайтам</target>
+                <target state="translated">Вернуться к сайтам</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
@@ -320,11 +320,11 @@
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Добавить Пользователя</target>
+                <target state="translated">Добавить пользователя</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>Новый Пользователь</target>
+                <target state="translated">Новый аользователь</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
@@ -332,7 +332,7 @@
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Не Активный</target>
+                <target state="translated">Неактивный</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
@@ -344,7 +344,7 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Менеджер Сайта</target>
+                <target state="translated">Менеджер сайта</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
@@ -388,7 +388,7 @@
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Время События</target>
+                <target state="translated">Время события</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
@@ -412,7 +412,7 @@
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>Показать Сообщение</target>
+                <target state="translated">Показать сообщение</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
@@ -476,7 +476,7 @@
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>Добавить Правило</target>
+                <target state="translated">Добавить правило</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
@@ -504,7 +504,7 @@
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Диапазон Портов</target>
+                <target state="translated">Диапазон портов</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
@@ -548,7 +548,7 @@
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Базовая Аутентификация</target>
+                <target state="translated">Базовая аутентификация</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
@@ -596,7 +596,7 @@
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Настройки Сервера</target>
+                <target state="translated">Настройки сервера</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
@@ -620,15 +620,15 @@
             </trans-unit>
             <trans-unit id="database-servers">
                 <source>Database Servers</source>
-                <target>Серверы Баз Данных</target>
+                <target state="translated">Серверы баз данных</target>
             </trans-unit>
             <trans-unit id="add-database-server">
                 <source>Add Database Server</source>
-                <target>Добавить Сервер Базы Данных</target>
+                <target state="translated">Добавить сервер базы данных</target>
             </trans-unit>
             <trans-unit id="edit-database-server">
                 <source>Edit Database Server</source>
-                <target>Изменить Сервер Базы Данных</target>
+                <target state="translated">Изменить сервер базы данных</target>
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
@@ -672,7 +672,7 @@
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Пользовательский Домен</target>
+                <target state="translated">Пользовательский домен</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
@@ -688,7 +688,7 @@
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Бэкапы</target>
+                <target state="translated">Резервные копии</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
@@ -696,27 +696,27 @@
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>Учетные Данные AWS</target>
+                <target state="translated">Учетные данные AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>Ключ Доступа AWS</target>
+                <target state="translated">Ключ доступа AWS</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>Секретный Ключ Доступа AWS</target>
+                <target state="translated">Секретный ключ доступа AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>Ключи Доступа AWS недействительны.</target>
+                <target state="translated">Ключи доступа AWS недействительны.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>Ключи Доступа AWS сохранены.</target>
+                <target state="translated">Ключи доступа AWS сохранены.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Настройки Образов</target>
+                <target state="translated">Настройки образов</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
@@ -728,27 +728,27 @@
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Срок Хранения (Дней)</target>
+                <target state="translated">Срок хранения (дней)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Настройки Образов сохранены.</target>
+                <target state="translated">Настройки образов сохранены.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
-                <target>Каждый Час</target>
+                <target state="translated">Каждый час</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>Каждые Три Часа</target>
+                <target state="translated">Каждые три часа</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Каждые Шесть Часов</target>
+                <target state="translated">Каждые шесть часов</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Каждые Двенадцать Часов</target>
+                <target state="translated">Каждые двенадцать часов</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
@@ -756,11 +756,11 @@
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Создать Снимок</target>
+                <target state="translated">Создать образ</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Имя Снимка</target>
+                <target state="translated">Имя образа</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
@@ -768,7 +768,7 @@
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Доступный</target>
+                <target state="translated">Доступно</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
@@ -776,7 +776,7 @@
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
-                <target>Неуспешный</target>
+                <target state="translated">Ошибка</target>
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
@@ -808,15 +808,15 @@
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
-                <target>Настройки Снапшотов</target>
+                <target state="translated">Настройки снапшотов</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Включить Автоматические Снапшоты</target>
+                <target state="translated">Включить автоматические снапшоты</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>Создать Снапшот</target>
+                <target state="translated">Создать снапшот</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
@@ -824,7 +824,7 @@
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Имя Снапшота</target>
+                <target state="translated">Имя снапшота</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
@@ -852,27 +852,27 @@
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Ключ Api</target>
+                <target state="translated">Ключ API</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target>Недействительный ключ Api.</target>
+                <target state="translated">Недействительный ключ API.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target>Ключ Api сохранен.</target>
+                <target state="translated">Ключ API сохранен.</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Api Токен</target>
+                <target state="translated">API токен</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Токен Api недействителен.</target>
+                <target state="translated">Токен API недействителен.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Токен Api сохранен.</target>
+                <target state="translated">Токен API сохранен.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
@@ -888,11 +888,11 @@
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Пользователь Сайта</target>
+                <target state="translated">Пользователь сайта</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Пароль Пользователя Сайта</target>
+                <target state="translated">Пароль пользователя сайта</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
@@ -908,11 +908,11 @@
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
-                <target>Вирт. Хост</target>
+                <target state="translated">Вирт. хост</target>
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>Базы Данных</target>
+                <target state="translated">Базы данных</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
@@ -924,7 +924,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>Файловый Менеджер</target>
+                <target state="translated">Файловый менеджер</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
@@ -936,15 +936,15 @@
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
-                <target>Параметры Домена</target>
+                <target state="translated">Параметры домена</target>
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Корневой Каталог</target>
+                <target state="translated">Корневой каталог</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>Имя Домена</target>
+                <target state="translated">Имя домена</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
@@ -968,7 +968,7 @@
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Устанавливает максимальный объем памяти, который разрешено использовать скрипту.</target>
+                <target state="translated">Устанавливает максимальный объем оперативной памяти, который разрешено использовать скрипту.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
@@ -1004,7 +1004,7 @@
             </trans-unit>
             <trans-unit id="delete-site">
                 <source>Delete Site</source>
-                <target>Удалить Сайт</target>
+                <target state="translated">Удалить сайт</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
@@ -1024,7 +1024,7 @@
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
-                <target>Настройки Пользователя Сайта</target>
+                <target state="translated">Настройки пользователя сайта</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
@@ -1032,11 +1032,11 @@
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
-                <target>SSH Ключи</target>
+                <target state="translated">SSH ключи</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Редактор Виртуального Хоста</target>
+                <target state="translated">Редактор виртуального хоста</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
@@ -1052,15 +1052,15 @@
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
-                <target>База Данных</target>
+                <target state="translated">База данных</target>
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>Добавить Базу Данных</target>
+                <target state="translated">Добавить базу данных</target>
             </trans-unit>
             <trans-unit id="new-database">
                 <source>New Database</source>
-                <target>Новая База Данных</target>
+                <target state="translated">Новая база данных</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
                 <source>Database has been added.</source>
@@ -1072,11 +1072,11 @@
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Пользователи Базы Данных</target>
+                <target state="translated">Пользователи базы данных</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>Добавить Пользователя БД</target>
+                <target state="translated">Добавить пользователя БД</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
@@ -1084,31 +1084,31 @@
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
-                <target>Чтение и Запись</target>
+                <target state="translated">Чтение и запись</target>
             </trans-unit>
             <trans-unit id="read-only">
                 <source>Read Only</source>
-                <target>Только Чтение</target>
+                <target state="translated">Только чтение</target>
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>Новый Пользователь БД</target>
+                <target state="translated">Новый пользователь БД</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Имя Базы Данных</target>
+                <target state="translated">Имя базы данных</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>Имя Пользователя БД</target>
+                <target state="translated">Имя пользователя БД</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>Пароль Пользователя БД</target>
+                <target state="translated">Пароль пользователя БД</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
-                <target>Права Доступа</target>
+                <target state="translated">Права доступа</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
@@ -1124,7 +1124,7 @@
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
-                <target>Редактировать Пользователя БД</target>
+                <target state="translated">Редактировать пользователя БД</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
@@ -1160,7 +1160,7 @@
             </trans-unit>
             <trans-unit id="expiration-date">
                 <source>Expiration Date</source>
-                <target>Срок Годности</target>
+                <target state="translated">Дата истечения</target>
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
@@ -1168,11 +1168,11 @@
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>Приватный Ключ</target>
+                <target state="translated">Приватный ключ</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
-                <target>Цепочка Сертификатов</target>
+                <target state="translated">Цепочка сертификата</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
                 <source>Certificate has been deleted.</source>
@@ -1188,11 +1188,11 @@
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>Импортировать и Установить</target>
+                <target state="translated">Импортировать и установить</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>Создать и Установить</target>
+                <target state="translated">Создать и установить</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
@@ -1204,15 +1204,15 @@
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
-                <target>Доменные Имена</target>
+                <target state="translated">Доменные имена</target>
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
-                <target>Добавить Домен</target>
+                <target state="translated">Добавить домен</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>Пользовательский Домен CloudPanel</target>
+                <target state="translated">Пользовательский домен CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
@@ -1244,7 +1244,7 @@
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>CIDR Формат</target>
+                <target state="translated">CIDR формат</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
@@ -1264,7 +1264,7 @@
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>Добавить Бота</target>
+                <target state="translated">Добавить бота</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
@@ -1276,11 +1276,11 @@
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>Имя Бота</target>
+                <target state="translated">Имя бота</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
-                <target>Базовая HTTP Аутентификация</target>
+                <target state="translated">Базовая HTTP аутентификация</target>
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
@@ -1288,7 +1288,7 @@
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>Белый Список IP</target>
+                <target state="translated">Белый список IP</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
@@ -1296,23 +1296,23 @@
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>Серверы имен должны указывать на Cloudflare, и прокси должен быть включен для ваших записей dns.</target>
+                <target state="translated">Серверы имен должны указывать на Cloudflare, и прокси должен быть включен для ваших записей DNS.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
-                <target>SSH Пользователи</target>
+                <target state="translated">SSH пользователи</target>
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Домашний Каталог</target>
+                <target state="translated">Домашний каталог</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
-                <target>SSH Пользователь</target>
+                <target state="translated">SSH кользователь</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>Новый SSH Пользователь</target>
+                <target state="translated">Новый SSH пользователь</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
@@ -1320,19 +1320,19 @@
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
-                <target>FTP Пользователь</target>
+                <target state="translated">FTP пользователь</target>
             </trans-unit>
             <trans-unit id="ftp-users">
                 <source>FTP Users</source>
-                <target>FTP Пользователи</target>
+                <target state="translated">FTP пользователи</target>
             </trans-unit>
             <trans-unit id="new-ftp-user">
                 <source>New FTP User</source>
-                <target>Новый FTP Пользователь</target>
+                <target state="translated">Новый FTP пользователь</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Добавить Задание Cron</target>
+                <target state="translated">Добавить задание Cron</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
@@ -1340,7 +1340,7 @@
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>Новое Задание Cron</target>
+                <target state="translated">Новое задание Cron</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
@@ -1452,27 +1452,27 @@
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>Создать PHP Сайт</target>
+                <target state="translated">Создать PHP сайт</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Создать Node.js Сайт</target>
+                <target state="translated">Создать Node.js сайт</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Создать Статический HTML Сайт</target>
+                <target state="translated">Создать статический HTML сайт</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Создать Python Сайт</target>
+                <target state="translated">Создать Python сайт</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>Новый Сайт</target>
+                <target state="translated">Новый сайт</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>Новый Сайт WordPress</target>
+                <target state="translated">Новый сайт WordPress</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
@@ -1484,23 +1484,23 @@
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
-                <target>Название Сайта</target>
+                <target state="translated">Название сайта</target>
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>E-mail Администратора</target>
+                <target state="translated">E-mail администратора</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>Имя Пользователя Администратора</target>
+                <target state="translated">Имя пользователя администратора</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>Пароль Администратора</target>
+                <target state="translated">Пароль администратора</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
-                <target>Сайт Администратора</target>
+                <target state="translated">Сайт администратора</target>
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
@@ -1528,7 +1528,7 @@
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
-                <target>Новый PHP Сайт</target>
+                <target state="translated">Новый PHP сайт</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
@@ -1540,11 +1540,11 @@
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>Новый Статический HTML Сайт</target>
+                <target state="translated">Новый статический HTML Сайт</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>Новый Node.js Сайт</target>
+                <target state="translated">Новый Node.js сайт</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
@@ -1552,7 +1552,7 @@
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>Порт Приложения</target>
+                <target state="translated">Порт приложения</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
@@ -1564,7 +1564,7 @@
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>Новый Python Сайт</target>
+                <target state="translated">Новый Python сайт</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
@@ -1588,7 +1588,7 @@
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>Операционная Система</target>
+                <target state="translated">Операционная система</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
@@ -1600,11 +1600,11 @@
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
-                <target>ID Дроплета</target>
+                <target state="translated">ID дроплета</target>
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>ID Экземпляра</target>
+                <target state="translated">ID экземпляра</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
@@ -1616,31 +1616,31 @@
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Последний Час</target>
+                <target state="translated">Последний час</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Последние 3 Часа</target>
+                <target state="translated">Последние 3 часа</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>Последние 6 Часов</target>
+                <target state="translated">Последние 6 часов</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Последние 12 Часов</target>
+                <target state="translated">Последние 12 часов</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 Минута</target>
+                <target state="translated">1 минута</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 Минут</target>
+                <target state="translated">5 минут</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 Минут</target>
+                <target state="translated">15 минут</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
@@ -1648,11 +1648,11 @@
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Использование Диска</target>
+                <target state="translated">Использование диска</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Использование Памяти</target>
+                <target state="translated">Использование оперативной памяти</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
@@ -1660,15 +1660,15 @@
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Удалённый Бэкап</target>
+                <target state="translated">Удалённая резервная копия</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Поставщик Хранилища</target>
+                <target state="translated">Поставщик хранилища</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Выберите Поставщика Хранилища</target>
+                <target state="translated">Выберите поставщика хранилища</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1676,7 +1676,7 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone Config</source>
-                <target>Кастомная Конфигурация Rclone</target>
+                <target state="translated">Пользовательская конфигурация Rclone</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
@@ -1684,7 +1684,7 @@
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Включить Удалённый Бекап</target>
+                <target state="translated">Включить удаленное резервное копирование</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
@@ -1700,11 +1700,11 @@
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Имя Бакета</target>
+                <target state="translated">Имя бакета</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Каталог Хранения</target>
+                <target state="translated">Директория хранилища</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
@@ -1728,11 +1728,11 @@
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
-                <target>Ключ Доступа</target>
+                <target state="translated">Ключ доступа</target>
             </trans-unit>
             <trans-unit id="secret-access-key">
                 <source>Secret Access Key</source>
-                <target>Секретный Ключ Доступа</target>
+                <target state="translated">Секретный ключ доступа</target>
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
@@ -1740,7 +1740,7 @@
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>Сервисный Аккаунт</target>
+                <target state="translated">Сервисный аккаунт</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
@@ -1748,11 +1748,11 @@
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Запросить Код Доступа</target>
+                <target state="translated">Запросить код доступа</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Код Доступа</target>
+                <target state="translated">Код доступа</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
@@ -1760,15 +1760,15 @@
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Создать Бекап</target>
+                <target state="translated">Создать резервную копию</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>Создание бекапа будет запущено в фоновом режиме в ближайшее время.</target>
+                <target state="translated">Создание резервной копии будет запущено в фоновом режиме в ближайшее время.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Метод Аутентификации</target>
+                <target state="translated">Метод аутентификации</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
@@ -1776,19 +1776,19 @@
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Путь на Удалённом Сервере</target>
+                <target state="translated">Путь на удалённом сервере</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Путь к Закрытому Ключу</target>
+                <target state="translated">Путь к приватному улючу</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Имя Пространства</target>
+                <target state="translated">Имя пространства</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>Конечная Точка Пространства</target>
+                <target state="translated">Конечная точка пространства</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
@@ -1796,15 +1796,15 @@
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
-                <target>Varnish Кэш</target>
+                <target state="translated">Varnish кэш</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
-                <target>Varnish Сервер</target>
+                <target state="translated">Varnish сервер</target>
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Время Жизни Кэша</target>
+                <target state="translated">Время жизни кэша</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
@@ -1812,7 +1812,7 @@
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Префикс Тега Кэша</target>
+                <target state="translated">Префикс тега кэша</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
@@ -1824,15 +1824,15 @@
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>URL и файлы, которые Varnish Кэш не должен кэшировать.</target>
+                <target state="translated">URL и файлы, которые Varnish кэш не должен кэшировать.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Настройки Кэша Varnish сохранены.</target>
+                <target state="translated">Настройки кэша Varnish сохранены.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Очистить Весь Кэш</target>
+                <target state="translated">Очистить весь кэш</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
@@ -1844,27 +1844,27 @@
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Создать Обратный Прокси</target>
+                <target state="translated">Создать обратный прокси-сервер</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>Новый Обратный Прокси</target>
+                <target state="translated">Новый обратный прокси-сервер</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Проксируемый Url</target>
+                <target state="translated">URL обратного прокси-сервера</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Обратный Прокси создан.</target>
+                <target state="translated">Обратный прокси-сервер создан.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Настройки Обратного Прокси</target>
+                <target state="translated">Настройки обратного прокси-сервера</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Настройки Обратного Прокси сохранены.</target>
+                <target state="translated">Настройки обратного прокси-сервера сохранены.</target>
             </trans-unit>
         </body>
     </file>
