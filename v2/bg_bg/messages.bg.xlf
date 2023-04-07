@@ -658,28 +658,25 @@
                 <source>Database Server has been added.</source>
                 <target>Сървърът за база данни е добавен.</target>
             </trans-unit>
-            
-            
-            
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
-                <target>Database Server has been updated.</target>
+                <target>Сървъра с базата от данни е актуализиран.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>Database Server has been deleted.</target>
+                <target>Сървъра с базата данни е изтрит.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>Database Server has been changed.</target>
+                <target>Сървъра с базата данни е променен.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Custom Domain</target>
+                <target>Персонализиран домейн</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
-                <target>TLS Certificate</target>
+                <target>TLS сертификат</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
@@ -691,188 +688,191 @@
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Backups</target>
+                <target>Бекъп</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Images</target>
+                <target>Копие на сървъра (Image)</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>AWS Credentials</target>
+                <target>AWS Удостоверения</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
-                <target>AWS Access Key</target>
+                <target>AWS Ключ за достъп</target>
             </trans-unit>
             <trans-unit id="aws-secret-access-key">
                 <source>AWS Secret Access Key</source>
-                <target>AWS Secret Access Key</target>
+                <target>AWS Таен ключ за достъп</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-are-not-valid">
                 <source>AWS Access Keys are not valid.</source>
-                <target>AWS Access Keys are not valid.</target>
+                <target>AWS Ключовете за достъп не са валидни.</target>
             </trans-unit>
             <trans-unit id="aws-access-keys-have-been-saved">
                 <source>AWS Access Keys have been saved.</source>
-                <target>AWS Access Keys have been saved.</target>
+                <target>AWS Ключовете за достъп са запазени.</target>
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Images Settings</target>
+                <target>Настройки на копие на сървъра</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Enable Automatic Images</target>
+                <target>Включване на автоматичните копия</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>Frequency</target>
+                <target>Честота</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Retention Period (Days)</target>
+                <target>Период на съхранение (дни)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Images Settings have been saved.</target>
+                <target>Настройките за копията бяха запазени.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
-                <target>Every Hour</target>
+                <target>На всеки час</target>
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>Every Three Hours</target>
+                <target>На всеки три часа</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Every Six Hours</target>
+                <target>НА всеки шест часа</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Every Twelve Hours</target>
+                <target>На всеки дванадесет часа</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>Once per Day</target>
+                <target>Веднъж на ден</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Create Image</target>
+                <target>Създаване на копие на сървър</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Image Name</target>
+                <target>Име на коието</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>No images found.</target>
+                <target>Не са намерени копия на сървъра.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Available</target>
+                <target>Наличен</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
-                <target>Pending</target>
+                <target>В очакване</target>
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
-                <target>Failed</target>
+                <target>Неуспешен</target>
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Created At</target>
+                <target>Създаден на</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Image is being created.</target>
+                <target>Създава се копие на сървъра.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Image is being deleted.</target>
+                <target>Копието се изтрива.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>Access Token is not valid.</target>
+                <target>Токена за достъп не е валиден.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
                 <source>Access Token has been saved.</source>
-                <target>Access Token has been saved.</target>
+                <target>Токена за достъп е запазен.</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>Access Token</target>
+                <target>Токен за достъп</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
-                <target>Snapshots</target>
+                <target>Моментно копие (Snapshot)</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
-                <target>Snapshots Settings</target>
+                <target>Настройки на моментните копия</target>
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Enable Automatic Snapshots</target>
+                <target>Активиране на автоматични моментни копия</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>Create Snapshot</target>
+                <target>Създаване моментно копие</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
-                <target>No snapshots found.</target>
+                <target>Няма намерени моментни копия.</target>
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Snapshot Name</target>
+                <target>Име на моментното копие</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>Size</target>
+                <target>Размер</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
-                <target>Snapshot is being created.</target>
+                <target>Моментното копие се създава.</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
                 <source>Snapshot is being deleted.</source>
-                <target>Snapshot is being deleted.</target>
+                <target>Моментното копие се изтрива.</target>
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Service Account Keys</target>
+                <target>Ключове за услуги на акаунта</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
-                <target>Service Account Keys are not valid.</target>
+                <target>Ключовете за услуги на акаунта не са валидни.</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
                 <source>Service Account Keys have been saved.</source>
-                <target>Service Account Keys have been saved.</target>
+                <target>Ключовете за услуги на акаунта са запазени.</target>
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Api Key</target>
+                <target>API ключ</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target>Api Key is not valid.</target>
+                <target>API ключът не е валиден.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target>Api Key has been saved.</target>
+                <target>API ключът е запазен.</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Api Token</target>
+                <target>API токен</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Api Token is not valid.</target>
+                <target>API токенът не е валиден.</target>
             </trans-unit>
+           
+            
+            
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
                 <target>Api Token has been saved.</target>
