@@ -4,224 +4,227 @@
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>Yes</target>
+                <target>Да</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
-                <target>No</target>
+                <target>Не</target>
             </trans-unit>
             <trans-unit id="all">
                 <source>All</source>
-                <target>All</target>
+                <target>Всичко</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>Support</source>
-                <target>Support</target>
+                <target>Поддръжка</target>
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Click to Copy</target>
+                <target>Кликнете за копиране</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Copied to Clipboard</target>
+                <target>Копирано в клипборда</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>Loading</target>
+                <target>Зареждане</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
-                <target>Blog</target>
+                <target>Блог</target>
             </trans-unit>
             <trans-unit id="contact">
                 <source>Contact</source>
-                <target>Contact</target>
+                <target>Контакт</target>
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Docs</target>
+                <target>Документация</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Update available</target>
+                <target>Налична е актуализация</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Issues</target>
+                <target>Проблеми</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Submit</target>
+                <target>Изпрати</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>Site</target>
+                <target>Уебсайт</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Sites</target>
+                <target>Уебсайтове</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>German</target>
+                <target>Немски</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>English</target>
+                <target>Английски</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>French</target>
+                <target>Френски</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Dutch</target>
+                <target>Холандски</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italian</target>
+                <target>Италиански</target>
             </trans-unit>
             <trans-unit id="locale-japanese">
                 <source>Japanese</source>
-                <target>Japanese</target>
+                <target>Японски</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>Испански</target>
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
-                <target>Polish</target>
+                <target>Полски</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portuguese</target>
+                <target>Португалски</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Portuguese (Brasil)</target>
+                <target>Португалски (Бразилия)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>Гръцки</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Литовски</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>Indonesian</target>
+                <target>Индонезийски</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Romanian</target>
+                <target>Румънски</target>
             </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
-                <target>Russian</target>
+                <target>Руски</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>Turkish</target>
+                <target>Турски</target>
             </trans-unit>
             <trans-unit id="locale-ukrainian">
                 <source>Ukrainian</source>
-                <target>Ukrainian</target>
+                <target>Украйински</target>
             </trans-unit>
             <trans-unit id="locale-arabic">
                 <source>Arabic</source>
-                <target>Arabic</target>
+                <target>Арабски</target>
             </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
-                <target>Vietnamese</target>
+                <target>Виетнамски</target>
             </trans-unit>
             <trans-unit id="locale-chinese-simplified">
                 <source>Chinese (Simplified)</source>
-                <target>Chinese (Simplified)</target>
+                <target>Кистайски (Опростен)</target>
             </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
-                <target>Chinese (Taiwan)</target>
+                <target>Китайски (Тайван)</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>IPv4 Public IP</target>
+                <target>Публичен IPv4 адрес</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IPv6 Public IP</target>
+                <target>Публичен IPv6 адрес</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>Операционна система</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Hostname</target>
+                <target>Хостнейм</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>CPU</target>
+                <target>Процесор (CPU)</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores</target>
+                <target>Ядра</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Memory</target>
+                <target>Памет</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>User Name</target>
+                <target>Потребителско име</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Password</target>
+                <target>Парола</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Log In</target>
+                <target>Вход</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>Settings</target>
+                <target>Настройки</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Logout</target>
+                <target>Изход</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Language</target>
+                <target>Език</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>First Name</target>
+                <target>Име</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Last Name</target>
+                <target>Фамилия</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-Mail</target>
+                <target>Имейл</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>Timezone</target>
+                <target>Часова зона</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Generate new password</target>
+                <target>Генериране на нова парола</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Create User</target>
+                <target>Създаване на потребител</target>
             </trans-unit>
+         
+            
+            
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
                 <target>I agree to the <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> and acknowledge the <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
