@@ -222,121 +222,120 @@
                 <source>Create User</source>
                 <target>Създаване на потребител</target>
             </trans-unit>
-         
-            
-            
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>I agree to the <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">license terms</a>]]> and acknowledge the <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">privacy policy</a>]]>.</target>
+                <target>Съгласявам се с <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">общите условия</a>]]> и приемам <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">политиката за поверителност</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>An error has occurred, error message: %errorMessage%</target>
+                <target>Възникна грешка, съобщението за грешка е: %errorMessage%</target>      
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>Admin User Creation</target>
+                <target>Създаване на администраторски потребител</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Admin Area</target>
+                <target>Администраторска зона</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Dashboard</target>
+                <target>Контролен панел</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>Account</target>
+                <target>Акаунт</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Security</target>
+                <target>Сигурност</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
-                <target>The account information has been saved.</target>
+                <target>Информацията за акаунта е запазена.</target>
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
-                <target>Save</target>
+                <target>Запази</target>
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>Create</target>
+                <target>Създай</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>Two-Factor Authentication</target>
+                <target>Двуфакторна автентикация</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</target>
+                <target>Двуфакторната автентикация добавя допълнителен слой сигурност за вашия акаунт. Винаги когато влизате, ще трябва да въведете както парола, така и код за сигурност.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>Enable Two-Factor Authentication</target>
+                <target>Активиране на двуфакторна автентикация</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
-                <target>Connect your app</target>
+                <target>Свържете приложението си</target>
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
                 <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</target>
+                <target>Използвайте приложение за автентикация като %googleAuthenticatorLink% или %duoLink% за сканиране на QR кода. Ще видите 6-цифрен код, който трябва да въведете по-долу.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
-                <target>Having trouble scanning the code?</target>
+                <target>Имате проблеми при сканиране на кода?</target>
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Try this instead</target>
+                <target>Опитайте това, вместо другото</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
-                <target>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</target>
+                <target>Изберете ръчен вход в приложението си и въведете потребителското си име: "%userName%" и кода: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>Two-Factor Authentication has been enabled.</target>
+                <target>Двуфакторната аутентикация е активирана.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>Disable Two-Factor Authentication</target>
+                <target>Изключване на двуфакторната аутентикация</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>Two-Factor Authentication has been disabled.</target>
+                <target>Двуфакторната аутентикация е деактивирана.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
-                <target>Enter authentication code</target>
+                <target>Въведете код за аутентикация</target>
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Back to Sites</target>
+                <target>Обратно към сайтовете</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>Users</target>
+                <target>Потребители</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Add User</target>
+                <target>Добавяне на потребител</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>New User</target>
+                <target>Нов потребител</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>Active</target>
+                <target>Активен</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Not Active</target>
+                <target>Неактивен</target>
             </trans-unit>
+            
+ 
             <trans-unit id="role-admin">
                 <source>Admin</source>
                 <target>Admin</target>
