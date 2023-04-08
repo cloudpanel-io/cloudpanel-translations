@@ -870,44 +870,41 @@
                 <source>Api Token is not valid.</source>
                 <target>API токенът не е валиден.</target>
             </trans-unit>
-           
-            
-            
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Api Token has been saved.</target>
+                <target>Токенът за API е запазен.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
-                <target>No sites found.</target>
+                <target>Не са намерени сайтове.</target>
             </trans-unit>
             <trans-unit id="add-site">
                 <source>+ Add Site</source>
-                <target>+ Add Site</target>
+                <target>+ Добави сайт</target>
             </trans-unit>
             <trans-unit id="domain">
                 <source>Domain</source>
-                <target>Domain</target>
+                <target>Домейн</target>
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Site User</target>
+                <target>Потребителски профили на сайта</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Site User Password</target>
+                <target>Парола на потребителски профили на сайта</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
-                <target>App</target>
+                <target>Приложение</target>
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
-                <target>Manage</target>
+                <target>Управление</target>
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>IP Address</target>
+                <target>IP адрес</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
@@ -915,7 +912,7 @@
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>Databases</target>
+                <target>Бази данни</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
@@ -927,7 +924,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>File Manager</target>
+                <target>Файлов мениджър</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
@@ -935,243 +932,243 @@
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Logs</target>
+                <target>Логове</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
-                <target>Domain Settings</target>
+                <target>Настройки за домейн</target>
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Root Directory</target>
+                <target>Основна (Root) директория</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
-                <target>Domain Name</target>
+                <target>Име на домейн</target>
             </trans-unit>
             <trans-unit id="application">
                 <source>Application</source>
-                <target>Application</target>
+                <target>Приложение</target>
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target>Generic</target>
+                <target>Общи</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>Root Directory has been saved.</target>
+                <target>Основната (Root) директория е запазена.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
-                <target>PHP Settings</target>
+                <target>Настройки на PHP</target>
             </trans-unit>
             <trans-unit id="php-version">
                 <source>PHP Version</source>
-                <target>PHP Version</target>
+                <target>Версия на PHP</target>
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Sets the maximum amount of memory that a script is allowed to allocate.</target>
+                <target>Задава максималният размер на памета, който скриптът може да задели.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Sets the maximum time a script is allowed to run before it is terminated by the parser.</target>
+                <target>Задава максималното време, за което е разрешено изпълнението на скрипта, преди да бъде прекъснат от парсера.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Sets the maximum time a script is allowed to parse input data, like POST and GET.</target>
+                <target>Задава максималното време, в което скриптът може да парсира данни от входящи заявки като POST и GET.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>Sets the limit of the number of inputs for posting forms.</target>
+                <target>Задава лимита за броя на полетата за въвеждане на информация във формите, които могат да се изпратят чрез POST заявки.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
-                <target>Maximum size of POST data that PHP will accept.</target>
+                <target>Максималният размер на данните, които могат да се изпратят чрез POST заявки, които PHP ще приеме.</target>
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>The maximum size of an uploaded file.</target>
+                <target>Максималният размер на качен файл.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>You can define any PHP parameters like you would define in the php.ini.</target>
+                <target>Можете да задавате всички PHP параметри по същия начин, както бихте го направили в php.ini файла.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
-                <target>Additional Configuration Directives</target>
+                <target>Допълнителни директиви за конфигурацията</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
                 <source>PHP Settings have been saved.</source>
-                <target>PHP Settings have been saved.</target>
+                <target>Настройките на PHP са запазени.</target>
             </trans-unit>
             <trans-unit id="delete-site">
                 <source>Delete Site</source>
-                <target>Delete Site</target>
+                <target>Изтрий сайта</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</target>
+                <target>Изтриването на сайт ще премахне окончателно всички файлове, бази данни, потребители и конфигурации на сайта и те няма да могат да бъдат възстановени.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
-                <target>Cancel</target>
-            </trans-unit>
+                <target>Отказ</target>
+            </trans-unit> 
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>To confirm deletion, type %domain% into the field.</target>
+                <target>За да потвърдите изтриването, въведете %domain% в полето.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>Site has been deleted.</target>
+                <target>Уебсайтът беше изтрит.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
-                <target>Site User Settings</target>
+                <target>Потребителски настройки на сайта</target>
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
-                <target>Site User Settings have been saved.</target>
+                <target>Потребителски настройки бяха запазени.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
-                <target>SSH Keys</target>
+                <target>SSH ключове</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Vhost Editor</target>
+                <target>Vhost редактор</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>Vhost has been saved.</target>
+                <target>Vhost беше запазен.</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
-                <target>Vhost is not valid, error message: %errorMessage%</target>
+                <target>Vhost не е валиден, съобщение за грешка: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
-                <target>No databases found.</target>
+                <target>Няма намерени бази данни.</target>
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
-                <target>Database</target>
+                <target>База данни</target>
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>Add Database</target>
+                <target>Добавяне на база данни</target>
             </trans-unit>
             <trans-unit id="new-database">
                 <source>New Database</source>
-                <target>New Database</target>
+                <target>Нова база данни</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
                 <source>Database has been added.</source>
-                <target>Database has been added.</target>
+                <target>Базата данни беше добавена.</target>
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
                 <source>Database has been deleted.</source>
-                <target>Database has been deleted.</target>
+                <target>Базата данни е изтрита.</target>
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Database Users</target>
+                <target>Потребителско име на базата данни</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>Add Database User</target>
+                <target>Добавяне на потребителско име за базата данни</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
-                <target>No database users found.</target>
+                <target>Не са намерени потребителски имена на базата данни.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
-                <target>Read and Write</target>
+                <target>Четене и писане</target>
             </trans-unit>
             <trans-unit id="read-only">
                 <source>Read Only</source>
-                <target>Read Only</target>
+                <target>Само четене</target>
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>New Database User</target>
+                <target>Ново потребителско име за базата данни</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Database Name</target>
+                <target>Име на базата данни</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>Database User Name</target>
+                <target>Потребителско име за базата данни</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>Database User Password</target>
+                <target>Парола на потребителско име за базата данни</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
-                <target>Permissions</target>
+                <target>Права за достъп</target>
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>No database found; create a database first.</target>
+                <target>Не е намерена база данни! Първо създайте база данни.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>Database User has been added.</target>
+                <target>Потребителското име за базата данни е добавено.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>Database User has been deleted.</target>
+                <target>Потребителското име за базата данни е изтрито.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
-                <target>Edit Database User</target>
+                <target>Редактиране на потребителско име за базата данни</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>Database User has been updated.</target>
+                <target>Потребителското име за базата данни е обновено.</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
-                <target>Certificates</target>
+                <target>Сертификати</target>
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>New Let's Encrypt Certificate</target>
+                <target>Нов сертификат Let's Encrypt</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>Import Certificate</target>
+                <target>Импортиране на сертификат</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
-                <target>No certificates found.</target>
+                <target>Няма открити сертификати.</target>
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
-                <target>Self-Signed</target>
+                <target>Self-Signed сертификат</target>
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
-                <target>Imported</target>
+                <target>Импортиран</target>
             </trans-unit>
             <trans-unit id="domains">
                 <source>Domains</source>
-                <target>Domains</target>
+                <target>Домейни</target>
             </trans-unit>
             <trans-unit id="expiration-date">
                 <source>Expiration Date</source>
-                <target>Expiration Date</target>
+                <target>Дата на изтичане</target>
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>Installed</target>
+                <target>Инсталиран</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>Private Key</target>
+                <target>Частен ключ</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
@@ -1179,52 +1176,56 @@
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
                 <source>Certificate has been deleted.</source>
-                <target>Certificate has been deleted.</target>
+                <target>Сертификатът е изтрит.</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>Certificate has been installed.</target>
+                <target>Сертификатът е инсталиран.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
-                <target>Install</target>
+                <target>Инсталиране</target>
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>Import and Install</target>
+                <target>Импортиране и инсталиране</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>Create and Install</target>
+                <target>Създаване и инсталиране</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</target>
+                <target>Въведете имената на домейните, които искате да защитите с Let's Encrypt SSL сертификат.</target>
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</target>
+                <target>Необходимо е DNS запис, който да сочи към този сървър, за да се издаде Let's Encrypt Certificate.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
-                <target>Domain Names</target>
+                <target>Имена на домейни</target>
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
-                <target>Add Domain</target>
+                <target>Добавяне на домейн</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>CloudPanel Custom Domain</target>
+                <target>Персонализиран домейн на CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>CloudPanel Custom Domain has been saved.</target>
+                <target>Персонализираният домейн за CloudPanel е запазен.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
-                <target>IP Blocking</target>
+                <target>Блокиране на IP адреси</target>
             </trans-unit>
+            
+            
+            
+            
             <trans-unit id="add-ip">
                 <source>Add IP</source>
                 <target>Add IP</target>
