@@ -17,7 +17,7 @@ var bg = {
     Table: "Таблица",
     Cards: "Карти",
     Total: "Общо",
-    "Are you sure ?": "Сигурно ли сте?",
+    "Are you sure ?": "Сигурни ли сте?",
     Details: "Детайли",
     "Enter a new name": "Въведете ново име",
     Add: "Добави",
