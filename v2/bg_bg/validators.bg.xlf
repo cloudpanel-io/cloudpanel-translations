@@ -4,27 +4,27 @@
         <body>
             <trans-unit id="does-not-exist">
                 <source>Does not exist.</source>
-                <target>Does not exist.</target>
+                <target>Не съществува.</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
                 <source>This value already exists.</source>
-                <target>This value already exists.</target>
+                <target>Тази стойност вече съществува.</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
                 <source>This value is not a valid domain name.</source>
-                <target>This value is not a valid domain name.</target>
+                <target>Тази стойност не е валидно домейн име.</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
                 <source>Does not match certificate.</source>
-                <target>Does not match certificate.</target>
+                <target>Не отговаря на сертификата.</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
                 <source>Database Server credentials are not valid.</source>
-                <target>Database Server credentials are not valid.</target>
+                <target>Потребителските данни за сървъра на базата данни не са валидни.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>Port is already in use.</target>
+                <target>Портът вече се използва.</target>
             </trans-unit>
         </body>
     </file>
