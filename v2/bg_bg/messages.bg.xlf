@@ -1222,65 +1222,61 @@
                 <source>IP Blocking</source>
                 <target>Блокиране на IP адреси</target>
             </trans-unit>
-            
-            
-            
-            
             <trans-unit id="add-ip">
                 <source>Add IP</source>
-                <target>Add IP</target>
+                <target>Добавяне на IP адрес</target>
             </trans-unit>
             <trans-unit id="ip">
                 <source>IP</source>
-                <target>IP</target>
+                <target>IP адрес</target>
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>No ips found.</target>
+                <target>Няма открити IP адреси.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
-                <target>Examples</target>
+                <target>Примери</target>
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
-                <target>Single IP</target>
+                <target>Единичен IP адрес</target>
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>CIDR Format</target>
+                <target>Формат CIDR</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
-                <target>IP has been added.</target>
+                <target>IP адресът е добавен.</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>IP has been deleted.</target>
+                <target>IP адресът е изтрит.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
-                <target>No bots found.</target>
+                <target>Няма намерени ботове.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
-                <target>Bots Blocking</target>
+                <target>Блокиране на ботове</target>
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>Add Bot</target>
+                <target>Добавяне на бот</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>Bot has been added.</target>
+                <target>Ботът е добавен.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
-                <target>Bot has been deleted.</target>
+                <target>Ботът е изтрит.</target>
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>Bot Name</target>
+                <target>Име на бот</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
@@ -1288,143 +1284,143 @@
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>List of IPs to bypassing the basic authentication, comma separated.</target>
+                <target>Списък на IP адресите, които да заобиколят basic authentication, разделени със запетаи.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>Whitelisted IPs</target>
+                <target>Списък с разрешени (whitelist) IP адреси</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
-                <target>Allow traffic from Cloudflare only</target>
+                <target>Разрешаване на трафик само от Cloudflare</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</target>
+                <target>Name сървърите трябва да са насочени към Cloudflare, и proxy-то трябва да е активирано за вашите DNS записи.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
-                <target>SSH Users</target>
+                <target>SSH Потребители</target>
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Home Directory</target>
+                <target>Начална директория</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
-                <target>SSH User</target>
+                <target>SSH Потребител</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>New SSH User</target>
+                <target>Нов SSH Потребител</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
-                <target>User has been saved.</target>
+                <target>Потребителят е запазен.</target>
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
-                <target>FTP User</target>
+                <target>FTP Потребител</target>
             </trans-unit>
             <trans-unit id="ftp-users">
                 <source>FTP Users</source>
-                <target>FTP Users</target>
-            </trans-unit>
+                <target>FTP Потребители</target>
+            </trans-unit>   
             <trans-unit id="new-ftp-user">
                 <source>New FTP User</source>
-                <target>New FTP User</target>
+                <target>Нов FTP потребител</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Add Cron Job</target>
+                <target>Добавяне на Cron Job</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>No cron jobs found.</target>
+                <target>Не са открити Cron задачи.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>New Cron Job</target>
+                <target>Нов Cron Job</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
-                <target>Every minute</target>
+                <target>Всяка минута</target>
             </trans-unit>
             <trans-unit id="every-5-minutes">
                 <source>Every 5 minutes</source>
-                <target>Every 5 minutes</target>
+                <target>Всеки 5 минути</target>
             </trans-unit>
             <trans-unit id="once-an-hour">
                 <source>Once an hour</source>
-                <target>Once an hour</target>
+                <target>Веднъж на час</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
                 <source>Every 3 hours</source>
-                <target>Every 3 hours</target>
+                <target>Всеки 3 часа</target>
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>Once a day (At 00:00)</target>
+                <target>Веднъж на ден (в 00:00)</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
-                <target>Every day at 4 a.m.</target>
+                <target>Всеки ден в 4:00 ч.</target>
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>Once a week (At 00:00 on Sunday)</target>
+                <target>Веднъж на седмица (в 00:00 в неделя)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>Once a month (At 00:00 on day-of-month 1)</target>
+                <target>Веднъж на месец (в 00:00 на ден 1)</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
-                <target>Template</target>
+                <target>Шаблон</target>
             </trans-unit>
             <trans-unit id="minute">
                 <source>Minute</source>
-                <target>Minute</target>
+                <target>Минута</target>
             </trans-unit>
             <trans-unit id="hour">
                 <source>Hour</source>
-                <target>Hour</target>
+                <target>Час</target>
             </trans-unit>
             <trans-unit id="day">
                 <source>Day</source>
-                <target>Day</target>
+                <target>Ден</target>
             </trans-unit>
             <trans-unit id="month">
                 <source>Month</source>
-                <target>Month</target>
+                <target>Месец</target>
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
-                <target>Weekday</target>
+                <target>Ден от седмицата</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>Cron Job has been added.</target>
+                <target>Cron Job задачата е добавена успешно.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Cron Job has been deleted.</target>
+                <target>Cron Job задачата е изтрита успешно.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Cron Job has been saved.</target>
+                <target>Cron Job задачата е запазена успешно.</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
-                <target>Schedule</target>
+                <target>График</target>
             </trans-unit>
             <trans-unit id="command">
                 <source>Command</source>
-                <target>Command</target>
+                <target>Команда</target>
             </trans-unit>
             <trans-unit id="update">
                 <source>Update</source>
-                <target>Update</target>
+                <target>Актуализиране</target>
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
@@ -1432,100 +1428,112 @@
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Purge Cache</target>
+                <target>Изчисти кеш</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>PageSpeed Setting are not valid, error message: %errorMessage%</target>
+                <target>Настройките на PageSpeed не са валидни, грешка: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>Page Speed Settings have been saved.</target>
+                <target>Настройките на Page Speed са запазени.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>Page Speed Cache has been purged.</target>
+                <target>Кешът на Page Speed е изчистен.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
-                <target>What kind of site would you like to create?</target>
+                <target>Какъв вид сайт искате да създадете?</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>Create a WordPress Site</target>
+                <target>Създайте сайт с WordPress</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>Create a PHP Site</target>
+                <target>Създайте сайт с PHP</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Create a Node.js Site</target>
+                <target>Създайте сайт с Node.js</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Create a Static HTML Site</target>
+                <target>Създайте сайт със статични HTML страници</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Create a Python Site</target>
+                <target>Създайте сайт с Python</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>New Site</target>
+                <target>Нов сайт</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>New WordPress Site</target>
+                <target>Нов сайт с WordPress</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>Pre-Install WordPress</target>
+                <target>Pre-Install на WordPress</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
-                <target>Back</target>
+                <target>Назад</target>
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
-                <target>Site Title</target>
+                <target>Заглавие на сайта</target>
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>Admin E-Mail</target>
+                <target>Административен имейл</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>Admin User Name</target>
+                <target>Админи потребителско име</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>Admin Password</target>
+                <target>Админи парола</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
-                <target>Admin Url</target>
+                <target>Админи URL адрес</target>
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>Multisite</target>
+                <target>Мултисайт</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>Vhost Template %vhostTemplate% does not exist.</target>
+                <target>Шаблонът Vhost %vhostTemplate% не съществува.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>WordPress Site has been created!</target>
+                <target>Сайт с WordPress е създаден!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Copy the credentials for your created WordPress site.</target>
+                <target>Копирайте данните за вход във вашия WordPress сайт.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>Creating</target>
+                <target>Създаване</target>
             </trans-unit>
+            
+            
+            
+           
+            
+ 
+       
+            
+            
+            
+            
+            
             <trans-unit id="saving">
                 <source>Saving</source>
                 <target>Saving</target>
