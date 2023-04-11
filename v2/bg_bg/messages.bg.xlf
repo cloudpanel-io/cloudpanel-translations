@@ -1521,86 +1521,74 @@
             <trans-unit id="creating">
                 <source>Creating</source>
                 <target>Създаване</target>
-            </trans-unit>
-            
-            
-            
-           
-            
- 
-       
-            
-            
-            
-            
-            
+            </trans-unit> 
             <trans-unit id="saving">
                 <source>Saving</source>
-                <target>Saving</target>
+                <target>Записване</target>
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
-                <target>New PHP Site</target>
+                <target>Нов сайт с PHP</target>
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>The main SSH User for the site.</target>
+                <target>Главният SSH потребител за сайта.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
-                <target>Site has been created.</target>
+                <target>Сайтът е създаден.</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>New Static HTML Site</target>
+                <target>Нов статичен HTML сайт</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>New Node.js Site</target>
+                <target>Нов Node.js сайт</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Node.js Version</target>
+                <target>Версия на Node.js</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>App Port</target>
+                <target>App порт</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
-                <target>Node.js Settings</target>
+                <target>Настройки на Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
-                <target>Node.js Settings have been saved.</target>
+                <target>Настройките на Node.js са запазени.</target>
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>New Python Site</target>
+                <target>Нов сайт с Python</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
-                <target>Python Version</target>
+                <target>Версия на Python</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>Is another version needed?</target>
+                <target>Нужна ли е друга версия?</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Check out the docs.</target>
-            </trans-unit>
-            <trans-unit id="python-settings">
+                <target>Проверете документацията.</target>
+            </trans-unit> 
+           <trans-unit id="python-settings">
                 <source>Python Settings</source>
-                <target>Python Settings</target>
+                <target>Python настройки</target>
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
                 <source>Python Settings have been saved.</source>
-                <target>Python Settings have been saved.</target>
+                <target>Настройките на Python са запазени.</target>
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>Operating System</target>
+                <target>Операционна система</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
@@ -1608,79 +1596,79 @@
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
-                <target>Region</target>
+                <target>Регион</target>
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
-                <target>Droplet ID</target>
+                <target>ID на Droplet</target>
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>Instance ID</target>
+                <target>ID на сървъра</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>Monitoring</target>
+                <target>Мониторинг</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>Last 30 Minutes</target>
+                <target>Последните 30 минути</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Last Hour</target>
+                <target>Последният час</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Last 3 Hours</target>
+                <target>Последните 3 часа</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>Last 6 Hours</target>
+                <target>Последните 6 часа</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Last 12 Hours</target>
+                <target>Последните 12 часа</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 Minute</target>
+                <target>1 минута</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 Minutes</target>
+                <target>5 минути</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 Minutes</target>
+                <target>15 минути</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>CPU Usage</target>
+                <target>CPU натоварване</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Disk Usage</target>
+                <target>Използвано пространство</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Memory Usage</target>
+                <target>Използвана памет</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Load Average</target>
+                <target>Средно натоварване</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Remote Backup</target>
+                <target>Отдалечено резервно копие</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Storage Provider</target>
+                <target>Backup доставчик</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Select Storage Provider</target>
+                <target>Изберете доставчик</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1688,23 +1676,23 @@
             </trans-unit>
             <trans-unit id="custom-rclone-config">
                 <source>Custom Rclone Config</source>
-                <target>Custom Rclone Config</target>
+                <target>Персонализирано Rclone конфигуриране</target>
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>Continue</target>
+                <target>Продължи</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Enable Remote Backup</target>
+                <target>Активиране на Remote Backup</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>Daily</target>
+                <target>Ежедневно</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
-                <target>Time</target>
+                <target>Време</target>
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
@@ -1712,91 +1700,91 @@
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Bucket Name</target>
+                <target>Име на Bucket</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Storage Directory</target>
+                <target>Папка за съхранение</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Where to store backups relative to the root.</target>
+                <target>Къде да се съхраняват резервните копия спрямо root.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>Leave blank to continue using the existing secret access key.</target>
+                <target>Оставете празно, за да продължите да използвате текущият таен ключ за достъп.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Excludes</target>
+                <target>Изключения</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Remote Backup Settings have been saved.</target>
+                <target>Настройките за Remote Backup бяха запазени.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Remote Backup Settings have been deleted.</target>
+                <target>Настройките за Remote Backup бяха изтрити.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
-                <target>Access Key</target>
+                <target>Ключ за достъп</target>
             </trans-unit>
             <trans-unit id="secret-access-key">
                 <source>Secret Access Key</source>
-                <target>Secret Access Key</target>
+                <target>Таен ключ за достъп</target>
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>Your google drive account email address.</target>
+                <target>Имейл адрес на Google Drive акаунта ви.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
-                <target>Service Account</target>
+                <target>Акаунт за услуга</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
-                <target>Leave blank to continue using the existing service account.</target>
+                <target>Оставете празно, за да продължите да използвате настоящия акаунт.</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Request Access Code</target>
+                <target>Изискване на код за достъп</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Access Code</target>
+                <target>Код за достъп</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>Click on the button and paste the access code into the next field.</target>
+                <target>Щракнете върху бутона и поставете кода за достъп в следващото поле.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Create Backup</target>
+                <target>Създайте Резервно копие</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>The backup will be started in the background shortly.</target>
+                <target>Резервното копие ще бъде стартирано скоро на заден план.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
-                <target>Authentication Method</target>
+                <target>Метод за удостоверяване</target>
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Key</target>
+                <target>Ключ</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Remote Server Path</target>
+                <target>Отдалечен път на сървъра</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Private Key Path</target>
-            </trans-unit>
+                <target>Път на частен ключа</target>
+            </trans-unit> 
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Space Name</target>
+                <target>Space име</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
@@ -1804,79 +1792,79 @@
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Format for S3 compatible endpoints</target>
+                <target>Формат за съвместими с S3 compatible endpoints</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
-                <target>Varnish Cache</target>
+                <target>Varnish кеш</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
-                <target>Varnish Server</target>
+                <target>Varnish Сървър</target>
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Cache Lifetime</target>
+                <target>Времетраене на кеша</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Cache Lifetime in seconds before being refreshed.</target>
+                <target>Времетраене на кеша в секунди преди да се опресни.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Cache Tag Prefix</target>
+                <target>Cache Tag префикс</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Excluded Params</target>
+                <target>Изключени (Excluded) параметри</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>List of GET parameters, separated by a comma, to disable caching.</target>
+                <target>Списък на GET параметри, разделени със запетая, които да се деактивира кеширането.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Urls and files that Varnish Cache shouldn't cache.</target>
+                <target>Уеб адреси и файлове, които Varnish Cache не би трябвало да кешира.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnish Cache Settings have been saved.</target>
+                <target>Настройките на Varnish кеша са запазени.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Purge Entire Cache</target>
-            </trans-unit>
+                <target>Изтриване на целия кеш</target>
+            </trans-unit> 
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>You can purge single urls or tags separated by comma.</target>
+                <target>Можете да изчистите единични URL адреси или тагове, разделени със запетая.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish Cache has been purged.</target>
+                <target>Varnish кеша е изчистен.</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Create a Reverse Proxy</target>
+                <target>Създайте Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>New Reverse Proxy</target>
+                <target>Нов Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Reverse Proxy Url</target>
+                <target>URL адрес на Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Reverse Proxy has been created.</target>
+                <target>Reverse Proxy-то е създадено.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Reverse Proxy Settings</target>
+                <target>Настройки на Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Reverse Proxy Settings have been saved.</target>
+                <target>Настройките на Reverse Proxy-то са запазени.</target>
             </trans-unit>
         </body>
     </file>
