@@ -60,7 +60,7 @@
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>网站群</target>
+                <target>网站列表</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
@@ -155,8 +155,7 @@
                 <target>繁体中文</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
-                <source>IPv4
-                    Public IP</source>
+                <source>IPv4 Public IP</source>
                 <target>IPv4 公共 IP</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
@@ -201,7 +200,7 @@
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>登出</target>
+                <target>注销</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
@@ -228,13 +227,11 @@
                 <target>生成新密码</target>
             </trans-unit>
             <trans-unit id="create-user-button">
-                <source>Create
-                    User</source>
+                <source>Create User</source>
                 <target>新增用户</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
-                <source>I agree to
-                    the license terms and acknowledge the privacy policy.</source>
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
                 <target>我同意<![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">许可条款</a>]]>并承认<![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">隐私政策</a>]]>。</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
@@ -247,7 +244,7 @@
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>管理区</target>
+                <target>管理后台</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
@@ -312,12 +309,10 @@
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>
-                    停用双因素身份验证</target>
+                <target>停用双因素身份验证</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
-                <source>Two-Factor
-                    Authentication has been disabled.</source>
+                <source>Two-Factor Authentication has been disabled.</source>
                 <target>双因素身份验证已被禁用。</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
@@ -454,8 +449,7 @@
                 <target>警告</target>
             </trans-unit>
             <trans-unit id="critical">
-                <source>
-                    Critical</source>
+                <source>Critical</source>
                 <target>严重</target>
             </trans-unit>
             <trans-unit id="more-information">
@@ -523,8 +517,7 @@
                 <target>端口范围</target>
             </trans-unit>
             <trans-unit id="ip-version">
-                <source>IP
-                    Version</source>
+                <source>IP Version</source>
                 <target>IP 版本</target>
             </trans-unit>
             <trans-unit id="rule-source">
@@ -633,8 +626,7 @@
                 <target>建议在更改时区后重启实例。</target>
             </trans-unit>
             <trans-unit id="general">
-                <source>
-                    General</source>
+                <source>General</source>
                 <target>综合</target>
             </trans-unit>
             <trans-unit id="database-servers">
@@ -751,8 +743,7 @@
                 <target>保留期 (天)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
-                <source>Images
-                    Settings have been saved.</source>
+                <source>Images Settings have been saved.</source>
                 <target>映像设置已保存。</target>
             </trans-unit>
             <trans-unit id="every-hour">
@@ -816,8 +807,7 @@
                 <target>访问令牌无效。</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
-                <source>Access
-                    Token has been saved.</source>
+                <source>Access Token has been saved.</source>
                 <target>访问令牌已保存。</target>
             </trans-unit>
             <trans-unit id="access-token">
@@ -939,8 +929,7 @@
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
-                <target>
-                    SSL/TLS</target>
+                <target>SSL/TLS</target>
             </trans-unit>
             <trans-unit id="ssh-ftp">
                 <source>SSH/FTP</source>
@@ -996,8 +985,7 @@
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>
-                    设置脚本在被解析器终止之前允许运行的最长时间。</target>
+                <target>设置脚本在被解析器终止之前允许运行的最长时间。</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
@@ -1032,8 +1020,7 @@
                 <target>删除网站</target>
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
-                <source>Deleting a site will permanently remove all site files, databases, users, and
-                    configs, and they will be non-recoverable.</source>
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
                 <target>删除网站将永久删除所有网站文件、数据库、用户和配置，并且它们将不可恢复。</target>
             </trans-unit>
             <trans-unit id="cancel">
@@ -1085,8 +1072,7 @@
                 <target>添加数据库</target>
             </trans-unit>
             <trans-unit id="new-database">
-                <source>New
-                    Database</source>
+                <source>New Database</source>
                 <target>新增数据库</target>
             </trans-unit>
             <trans-unit id="database-has-been-added">
@@ -1143,8 +1129,7 @@
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>
-                    已添加数据库用户。</target>
+                <target>已添加数据库用户。</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
@@ -1252,8 +1237,7 @@
                 <target>IP 封锁</target>
             </trans-unit>
             <trans-unit id="add-ip">
-                <source>Add
-                    IP</source>
+                <source>Add IP</source>
                 <target>新增 IP</target>
             </trans-unit>
             <trans-unit id="ip">
@@ -1366,9 +1350,8 @@
                 <target>新增定时任务</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
-                <source>No cron jobs
-                    found.</source>
-                <target>未找到任何定时任务.</target>
+                <source>No cron jobs found.</source>
+                <target>未找到任何定时任务。</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
@@ -1628,7 +1611,7 @@
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>云端</target>
+                <target>云提供商</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
@@ -1659,8 +1642,7 @@
                 <target>最近3小时</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
-                <source>Last
-                    6 Hours</source>
+                <source>Last 6 Hours</source>
                 <target>最近6小时</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
@@ -1725,8 +1707,7 @@
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>
-                    每日</target>
+                <target>每日</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
@@ -1734,11 +1715,11 @@
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
-                <target>桶</target>
+                <target>Bucket</target>
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>桶名</target>
+                <target>Bucket 名</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
@@ -1834,8 +1815,7 @@
                 <target>S3 兼容端点的格式</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
-                <source>Varnish
-                    Cache</source>
+                <source>Varnish Cache</source>
                 <target>Varnish 缓存</target>
             </trans-unit>
             <trans-unit id="varnish-server">
@@ -1880,8 +1860,7 @@
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish
-                    缓存已被清除。</target>
+                <target>Varnish缓存已被清除。</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
