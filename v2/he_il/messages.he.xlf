@@ -66,6 +66,10 @@
                 <source>German</source>
                 <target>גרמנית</target>
             </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>בולגרית</target>
+            </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
                 <target>אנגלית</target>

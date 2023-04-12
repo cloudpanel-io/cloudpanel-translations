@@ -66,6 +66,10 @@
                 <source>German</source>
                 <target>Almanca</target>
             </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>Bulgarca</target>
+            </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
                 <target>İngilizce</target>
@@ -73,6 +77,10 @@
             <trans-unit id="locale-french">
                 <source>French</source>
                 <target>Fransızca</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>İbranice</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>

@@ -66,15 +66,21 @@
                 <source>German</source>
                 <target>德语</target>
             </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>保加利亚语</target>
+            </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
                 <target>英语</target>
             </trans-unit>
             <trans-unit id="locale-french">
-                <source>
-                    French</source>
-                <target>
-                    法语</target>
+                <source>French</source>
+                <target>法语</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>希伯来语</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
@@ -83,6 +89,10 @@
             <trans-unit id="locale-italian">
                 <source>Italian</source>
                 <target>意大利语</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>日语</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>

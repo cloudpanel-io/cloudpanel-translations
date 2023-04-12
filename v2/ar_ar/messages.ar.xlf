@@ -66,6 +66,10 @@
                 <source>German</source>
                 <target>الألمانية</target>
             </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>البلغارية</target>
+            </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
                 <target>الإنجليزية</target>
@@ -73,6 +77,10 @@
             <trans-unit id="locale-french">
                 <source>French</source>
                 <target>الفرنسية</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>العبرية</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="bg" target-language="bg" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="bg" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
@@ -65,6 +65,10 @@
             <trans-unit id="locale-german">
                 <source>German</source>
                 <target>Немски</target>
+            </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>Български</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
