@@ -20,11 +20,11 @@
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Кликнете за копиране</target>
+                <target>Копирай!</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target>Копирано в клипборда</target>
+                <target>Копирано!</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
@@ -44,7 +44,7 @@
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Налична е актуализация</target>
+                <target>Има нова актуализация</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
@@ -56,11 +56,11 @@
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>Уебсайт</target>
+                <target>Уеб сайт</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Уебсайтове</target>
+                <target>Уеб сайтове</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
@@ -160,7 +160,7 @@
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>Операционна система</target>
+                <target>ОС</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
@@ -240,7 +240,7 @@
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Администраторска зона</target>
+                <target>Зона за администратори</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
@@ -508,7 +508,7 @@
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Диапазон на портове</target>
+                <target>Портове</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
@@ -568,7 +568,7 @@
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Стартирани</target>
+                <target>Работи</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
@@ -612,7 +612,7 @@
             </trans-unit> 
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Сървърът ще рестартира скоро.</target>
+                <target>Сървърът ще се рестартира скоро.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
@@ -764,7 +764,7 @@
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Име на коието</target>
+                <target>Име на копието</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
@@ -892,11 +892,11 @@
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Потребителски профили на сайта</target>
+                <target>Профили на сайта (Account)</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Парола на потребителски профили на сайта</target>
+                <target>Сайт акаунт парола</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
@@ -1024,7 +1024,7 @@
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>Уебсайтът беше изтрит.</target>
+                <target>Уеб сайтът беше изтрит.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
@@ -1032,7 +1032,7 @@
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
-                <target>Потребителски настройки бяха запазени.</target>
+                <target>Потребителските настройки бяха запазени.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
@@ -1060,7 +1060,7 @@
             </trans-unit>
             <trans-unit id="add-database">
                 <source>Add Database</source>
-                <target>Добавяне на база данни</target>
+                <target>Създаване на база данни</target>
             </trans-unit>
             <trans-unit id="new-database">
                 <source>New Database</source>
@@ -1076,15 +1076,15 @@
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Потребителско име на базата данни</target>
+                <target>Потребители към базата данни</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>Добавяне на потребителско име за базата данни</target>
+                <target>Добавяне на потребители към базата данни</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
-                <target>Не са намерени потребителски имена на базата данни.</target>
+                <target>Не са намерени потребители към базата данни.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
@@ -1096,7 +1096,7 @@
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>Ново потребителско име за базата данни</target>
+                <target>Нов потребител към базата данни</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
@@ -1104,11 +1104,11 @@
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>Потребителско име за базата данни</target>
+                <target>Потребителско име към базата данни</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>Парола на потребителско име за базата данни</target>
+                <target>Парола на потребител към базата данни</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
@@ -1120,19 +1120,19 @@
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>Потребителското име за базата данни е добавено.</target>
+                <target>Потребителя към базата данни е добавен.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>Потребителското име за базата данни е изтрито.</target>
+                <target>Потребителя към базата данни е изтрит.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
-                <target>Редактиране на потребителско име за базата данни</target>
+                <target>Редактиране на потребител към базата данни</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>Потребителското име за базата данни е обновено.</target>
+                <target>Потребителското име към базата данни е обновено.</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
@@ -1216,11 +1216,11 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>Персонализиран домейн на CloudPanel</target>
+                <target>URL адрес за вход в CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>Персонализираният домейн за CloudPanel е запазен.</target>
+                <target>Вашият персонален URL адреса за CloudPanel е запазен.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
@@ -1432,7 +1432,7 @@
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Изчисти кеш</target>
+                <target>Изчисти кеша</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
@@ -1520,7 +1520,7 @@
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Копирайте данните за вход във вашия WordPress сайт.</target>
+                <target>Копирайте данните за вход за вашия WordPress сайт.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
@@ -1536,7 +1536,7 @@
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>Главният SSH потребител за сайта.</target>
+                <target>Главен SSH потребител за сайта.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
@@ -1592,11 +1592,11 @@
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
-                <target>Операционна система</target>
+                <target>ОС</target>
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>Cloud</target>
+                <target>Сървър</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
@@ -1752,7 +1752,7 @@
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Изискване на код за достъп</target>
+                <target>Изисква се код за достъп</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
