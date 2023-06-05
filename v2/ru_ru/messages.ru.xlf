@@ -236,7 +236,7 @@
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target state="translated">Создание администратора</target>
+                <target state="translated">Создание аккаунта администратора</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
