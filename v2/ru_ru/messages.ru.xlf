@@ -52,7 +52,7 @@
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Отправить</target>
+                <target>Подтвердить</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
@@ -144,7 +144,7 @@
             </trans-unit>
             <trans-unit id="locale-chinese-simplified">
                 <source>Chinese (Simplified)</source>
-                <target>Китайский (упрощенное письмо)</target>
+                <target>Китайский (упрощенный)</target>
             </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
@@ -164,19 +164,19 @@
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Имя Хоста</target>
+                <target>Имя хоста</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>ЦП</target>
+                <target>Кол-во ядер</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target state="translated">ядер</target>
+                <target state="translated">vCPU</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target state="translated">оперативной памяти</target>
+                <target state="translated">Оперативная память</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
@@ -212,7 +212,7 @@
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-Mail</target>
+                <target state="translated">E-mail</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
@@ -232,7 +232,7 @@
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
-                <target>Произошла ошибка, сообщение: %errorMessage%</target>
+                <target state="translated">Произошла ошибка, сообщение об ошибке: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
@@ -448,7 +448,7 @@
             </trans-unit>
             <trans-unit id="more-information">
                 <source>More Information</source>
-                <target>Больше Информации</target>
+                <target state="translated">Больше информации</target>
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
@@ -584,7 +584,7 @@
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
-                <target>Настройки Proftpd</target>
+                <target state="translated">Настройки ProFTPD</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
@@ -648,7 +648,7 @@
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP или DNS Имя</target>
+                <target state="translated">IP или DNS имя</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
@@ -668,7 +668,7 @@
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>Сервер баз данных удален.</target>
+                <target state="translated">Сервер базы данных удален.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
@@ -680,7 +680,7 @@
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
-                <target>TLS Сертификат</target>
+                <target state="translated">TLS сертификат</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
@@ -832,7 +832,7 @@
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>Размер</target>
+                <target>Характеристики</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
@@ -908,7 +908,7 @@
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>IP Адрес</target>
+                <target>IP адрес</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
@@ -932,7 +932,7 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron</target>
+                <target>Задачи Cron</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
@@ -960,7 +960,7 @@
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>Корневой каталог сохранен.</target>
+                <target>Корневая директория сохранена.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
@@ -1140,11 +1140,11 @@
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>Новый сертификат Let’s Encrypt</target>
+                <target state="translated">Новый сертификат Let’s Encrypt</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>Импортировать Сертификат</target>
+                <target>Импортировать сертификат</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
@@ -1156,7 +1156,7 @@
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
-                <target>Импортирован</target>
+                <target>Импортировано</target>
             </trans-unit>
             <trans-unit id="domains">
                 <source>Domains</source>
@@ -1264,7 +1264,7 @@
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
-                <target>Блокировка Ботов</target>
+                <target>Блокировка ботов</target>
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
@@ -1616,7 +1616,7 @@
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>Последние 30 Минут</target>
+                <target>Последние 30 минут</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
@@ -1712,7 +1712,7 @@
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Где хранить бэкапы относительно корня.</target>
+                <target>Где хранить резервные копии относительно корня.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
@@ -1724,11 +1724,11 @@
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Настройки удаленного бекапа сохранены.</target>
+                <target>Настройки удаленного резервного копирования сохранены.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Настройки удаленного бекапа удалены.</target>
+                <target>Настройки удаленного резервного копирования удалены.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
