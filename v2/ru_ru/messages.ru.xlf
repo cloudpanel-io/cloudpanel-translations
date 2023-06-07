@@ -168,7 +168,7 @@
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>Кол-во ядер</target>
+                <target>vCPU</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
