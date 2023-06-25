@@ -850,7 +850,7 @@
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>大小</target>
+                <target>规格</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
