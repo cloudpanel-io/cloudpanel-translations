@@ -6,7 +6,7 @@ var bg = {
     Edit: "Редактиране",
     Delete: "Изтриване",
     Folder: "Папка",
-    "Add New": "Нобави нов",
+    "Add New": "Добави нов",
     Size: "Размер",
     Date: "Дата",
     "back to parent folder": "назад до главната папка",
