@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>بله</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>خیر</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>همه</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>پشتیبانی</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>کلیک برای کپی</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>کپی شد</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>در حال بارگزاری</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>وبلاگ</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>تماس</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>مستندات</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>به روزرسانی در دسترس است</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>اشکالات</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>ثبت</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>سایت</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>سایت‌ها</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>آلمانی</target>
+            </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>بلغاری</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>English</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>فرانسوی</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>عبری</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>هلندی</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>ایتالیایی</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>ژاپنی</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>اسپانیایی</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>لهستانی</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>پرتغالی</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>پرتغالی (برزیل)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>یونانی</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>لیتوانیایی</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>اندونزیایی</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>رومانیایی</target>
+            </trans-unit>
+            <trans-unit id="locale-russian">
+                <source>Russian</source>
+                <target>روسی</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>ترکی</target>
+            </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                <target>اکراینی</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>عربی</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>ویتنامی</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>چینی (ساده شده)</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>چینی (تایوان)</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>آیپی نسخه ۴ همگانی</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>آیپی نسخه ۶ همگانی</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>سیستم عامل</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>نام میزبان</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>پردازنده</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>هسته‌ها</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                <target>میزان رم</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                <target>نام کاربری</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                <target>کلمه عبور</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                <target>ورود</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                <target>تنظیمات</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                <target>خروج</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                <target>زبان</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                <target>نام</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                <target>نام خانوادگی</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                <target>ایمیل</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                <target>منطقه زمانی</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                <target>پیشنهاد کلمه عبور</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                <target>ساخت کاربر</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>من با <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">شرایط لایسنس</a>]]> موافقم و به <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">سیاست حریم خصوصی</a>]]>آگاهی دارم.</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>خطایی رخ داد، پیام خطا: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>ساخت کاربر ادمین</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>ناحیه ادمین</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>پیشخوان</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>حساب</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>امنیت</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>اطلاعات حساب ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>ذخیره</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>ساخت</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>احراز هویت دو مرحله‌ای</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>احراز هویت دو مرحله‌ای یک لایه امنیتی دیگر به حساب شما اضافه می‌کند. در هنگام ورود به حساب کاربری، علاوه بر کلمه عبور باید کد امنیتی را نیز وارد کنید.</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>فعالسازی احراز هویت دو مرحله‌ای</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>اتصال اپلیکیشن</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>با استفاده از %googleAuthenticatorLink% یا %duoLink%, کیوآر کد را اسکن کنید. یک کد ۶ رقمی نمایش داده خواهد شد که لازم است آن را در کادر زیر وارد نمایید</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>نمی‌توانید اسکن کنید؟</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>از این روش اقدام کنید</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>روش ورود دستی را در اپلیکیشن خود انتخاب کرده و نام کاربری: "%userName%" و این کد را وارد نمایید: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>احراز هویت دو مرحله‌ای فعال شد.</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>غیرفعال کردن احراز هویت دو مرحله‌ای</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>احراز هویت دو مرحله‌ای غیرفعال شد.</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>کد احراز هویت را وارد کنید</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>بازگشت به سایت‌ها</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>کاربران</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>افزودن کاربر</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>کاربر جدید</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>فعال</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>غیرفعال</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>ادمین</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>کاربر</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>مدیر سایت</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>کاربر ایجاد شد.</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>کاربر به روز شد.</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>کاربری وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>نقش</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>وضعیت</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>حذف</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>آیا مطمئن هستید؟</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>کاربر حذف شد</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>رویدادها</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>رویدادی وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>زمان رویداد</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>رویداد</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>نمایش</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>اعلان‌ها</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>اعلان جدیدی نیست.</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>اعلان‌ها حذف شدند.</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>نمایش پیام</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>درجه اهمیت</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>تاریخ</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>پیام</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>اقدام</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>جهت اطلاع</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>هشدار</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                <target>بحرانی</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>اطلاعات بیشتر</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>خوانده شده</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>خوانده نشده</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>نرم‌افزارها</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>دیوار آتش</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>سرویس</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>سرویس‌ها</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>قوانین</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>افزودن قانون</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>قانونی تعریف نشده است.</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>افزودن قانون</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>قوانین به روز شدند.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>قانون حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>نوع</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>سفارشی TCP</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>محدوده درگاه</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>نسخه آیپی</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>منبع</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>سفارشی</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>Anywhere-IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>Anywhere-IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>My IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP or CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>شرح</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>اقدامات</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>ویرایش قانون فایروال</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>احراز هویت پایه</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>فعالسازی احراز هویت پایه</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>احراز هویت پایه یک لایه امنیتی دیگر در برابر دسترسی به کلادپنل قرار می‌دهد.</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>احراز هویت پایه فعال شد.</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>در حال اجرا</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>متوقف شده</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>راه‌اندازی مجدد</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>سرویس مجددا اجرا خواهد شد.</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>Proftpd تنظیمات</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>MasqueradeAddress</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>MasqueradeAddress ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>تنظیمات نرم‌افزار</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>منطقه زمانی ثبت شد.</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>راه‌اندازی مجدد</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>نرم‌افزار مجددا اجرا خواهد شد.</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>پیشنهاد می‌شود پس از تغییر منطقه زمانی نرم‌افزار را متوقف و مجددا اجرا نمایید.</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>همگانی</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>سرورهای پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>افزودن سرور پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>ویرایش سرور پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>انجین</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>میزبان</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>درگاه</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP یا نام DNS</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>گواهی امینتی</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>تنظیم به عنوان فعال</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>سرور پایگاه‌داده اضافه شد.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>سرور پایگاه داده به‌روز شد.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>سرور پایگاه داده حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>سرور پایگاه داده تغییر کرد.</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>دامنه سفارشی</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>TLS گواهینامه‌های</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Let's Encrypt HTTP Challenge</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Let's Encrypt DNS Challenge</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>پشتیبان‌‌گیری</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>ایمیج‌ها</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>AWS Credentials</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>AWS Access Key</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>AWS Secret Access Key</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>AWS Access Keys معتبر نیستند</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>AWS Access Keys ذخیره شدند.</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>تنظیمات ایمیج</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>فعالسازی ایمیج‌های خودکار</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>دفعات تکرار</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>دوره نگهداری (روز)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>تنظیمات ایمیج ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>هر ساعت</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>هر سه ساعت</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>هر شش ساعت</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>هر دوازده ساعت</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>روزانه</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>ساخت ایمیج</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>نام ایمیج</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>ایمیجی پیدا نشد.</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>در دسترس</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>معلق</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>ناموفق</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>ساخته شده در</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>ایمیج در حال ساخت است.</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>ایمیج در حال حذف است.</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>Access Token معتبر نیست.</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>Access Token ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>Access Token</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>اسنپ‌شات‌ها</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>تنظیمات اسنپ‌شات</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>فعالسازی اسنپ‌شات خودکار</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>ساخت اسنپ شات</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>اسنپ‌شات وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>نام اسنپ‌شات</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>اندازه</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>اسنپ‌شات در حال ساخت است.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>اسنپ‌شات در حال حذف است.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>Service Account Keys</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>Service Account Keys معتبر نیست.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>Service Account Keys ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>Api Key</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>Api Key معتبر نیست.</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>Api Key ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>Api Token</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>Api Token معتبر نیست.</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>Api Token ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>سایتی وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ افزودن سایت</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>دامنه</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                <target> نام کاربری سایت</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>کلمه عبور سایت در سرور</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>نرم‌افزار</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>مدیریت</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>آدرس آیپی</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>پایگاه‌ داده</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>مدیریت فایل</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>کرون</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>لاگ</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>تنظیمات دامنه</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>پوشه ریشه</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>نام دامنه</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>نرم‌افزار</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>عمومی</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>پوشه ریشه ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>PHP تنظیمات</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>PHP نسخه</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>حداکثر میزان رم مجاز به استفاده توسط این اسکریپت را تعیین می‌کند.</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>حداکثر زمان مجاز اجرای یک اسکریپت قبل از اینکه توسط پارسر متوقف شود را تعیین می‌کند.</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>حداکثر زمانی که یک اسکریپت مجاز به پردازش داده‌های ورودی مانند POST و GET است را تعیین می‌کند.</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>محدودیت تعداد ورودی در فرم‌های ارسالی را تعیین می‌کند.</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>حداکثر اندازه داده‌های POST که PHP قادر به پذیرش آنهاست.</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>حداکثر اندازه یک فایل آپلود شده.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>مشابه با php.ini در اینجا می‌توانید انواع پارامترهای PHP را تعریف کنید.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>دستورات پیکربندی اضافی</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>تنظیمات PHP ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>حذف سایت</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>حذف یک سایت، کلیه اطلاعات اعم از فایل‌ها، پایگاه داده، کاربران و تنظیمات را حذف می‌کند. اطلاعات حذف شده غیر قابل برگشت است.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>انصراف</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>جهت تایید برای حذف سایت, %domain% را در کادر وارد نمایید.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>سایت حذف شد</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>تنظیمات کاربر سایت</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>تنظیمات کاربر سایت ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>SSH کلیدهای</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>Vhost ویرایشگر</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>Vhost ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Vhost معتبر نیست, پیام خطا: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>پایگاه داده وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>افزودن پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>پایگاه داده جدید</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>پایگاه داده اضافه شد.</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>پایگاه داده حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>کاربران پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>افزودن کاربر پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>کاربر پایگاه داده وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>خواندن و نوشتن</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>فقط خواندن</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>کاربر پایگاه داده جدید</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>نام پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>نام کاربر پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>کلمه عبور کاربر پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>مجوزها</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>پایگاه داده ندارید. ابتدا یک پایگاه داده بسازید..</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>کاربر پایگاه داده ساخته شد.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>کاربر پایگاه داده حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>ویرایش کاربر پایگاه داده</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>کاربر پایگاه داده به روز شد.</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>گواهینامه‌ها</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>جدید Let's Encrypt گواهینامه</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>درونریزی گواهینامه</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>هیچ گواهینامه‌ای وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>Self-Signed</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>درونریزی شده</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>دامنه‌ها</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>تاریخ انقضا</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>نصب شده</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>Private Key</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>Certificate Chain</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>گواهینامه حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>گواهینامه نصب شد.</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>نصب</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>درونریزی و نصب</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>ساخت و نصب</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>لطفاً نام‌های دامنه‌ای که می‌خواهید با گواهینامه SSL Let's Encrypt ایمن کنید را وارد کنید.</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>برای صدور گواهینامه Let's Encrypt الزامیست یک رکورد DNS تنظیم شده با آیپی این سرور داشته باشید.</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>نام‌های دامنه</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>افزودن دامنه</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>دامنه سفارشی کلادپنل</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>دامنه سفارشی برای کلادپنل ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>مسدودسازی آیپی</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>افزودن آیپی</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>آیپی</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>آیپی وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>نمونه‌ها</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>Single IP</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>CIDR Format</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>آیپی اضافه شد.</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>آیپی حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>بات وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>مسدودسازی بات‌ها</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>افزودن بات</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>بات اضافه شد</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>بات حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>نام بات</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>احراز هویت پایه</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>لیست آیپی‌های مجاز به عبور از احراز هویت پایه، با کاما جدا کنید.</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>آیپی‌های مجاز</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>فقط ترافیک کلادفلیر مجاز باشد</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>نیم سرورهای شما باید برای کلادفلیر تنظیم شده باشد و پروکسی رکوردهای dns روشن شده باشند.</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>SSH کاربران</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>پوشه خانه</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>SSH کاربر</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>جدید SSH کاربر</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>کاربر ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>FTP کاربر</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>FTP کاربران</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>جدید FTP کاربر</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>افزودن کرون جاب</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>کرون جاب وجود ندارد.</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>کرون جاب جدید</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>هر دقیقه</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>هر ۵ دقیقه</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>هر ساعت یکبار</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>هر ۳ ساعت</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>یکبار در روز (در 00:00)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>یکبار در روز در 4 a.m.</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>هفته‌ای یکبار (در 00:00 یکشنبه‌ها)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>یکبار در ماه (در 00:00 روز ۱ هر ماه)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>قالب</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>دقیقه</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>ساعت</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>روز</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>ماه</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>روزهای هفته</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>کرون جاب اضافه شد.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>کرون جاب حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>کرون جاب ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>برنامه زمانی</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>دستور</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>به‌روز‌رسانی</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>سرعت صفحه</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>خالی کردن کش</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>تنظیمات سرعت صفحه معتبر نیست, پیام خطا: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>تنظیمات سرعت صفحه ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>کش صفحات خالی شد.</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>چه نوع سایتی می‌خواهید بسازید؟</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>یک سایت وردپرسی بساز</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>یک سایت PHP بساز</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>یک سایت Node.js بساز</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>یک سایت استاتیک HTML بساز</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>یک سایت پایتون بساز</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>سایت جدید</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>سایت جدید با وردپرس</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>پیش نصب وردپرس</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>بازگشت</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>عنوان سایت</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>ایمیل مدیر</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>نام کاربری مدیر</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>کلمه عبور مدیر</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>آدرس مدیر</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>چندسایته</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>Vhost قالب %vhostTemplate% موجود نیست.</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>سایت وردپرسی ساخته شد!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>اطلاعات سایت وردپرسی ساخته شده را کپی کنید.</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>در حال ساخت</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>در حال ذخیره</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>سایت جدید PHP</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>کاربر اصلی SSH برای سایت.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>سایت ساخته شد.</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>سایت استاتیک HTMl جدید</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>سایت Node.js جدید</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>Node.js نسخه</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>درگاه نرم‌افزار</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>Node.js تنظیمات</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>Node.js تنظیمات ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>سایت Python جدید</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>Python نسخه</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>نسخه دیگری نیاز دارید؟</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>مستندات را بررسی کنید.</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>Python تنظیمات</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>Python تنظیمات ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>سیستم عامل</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>ابر</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>منطقه</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>شناسه ماشین مجازی</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>شناسه نرم‌افزار</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>مانیتورینگ</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>۳۰ دقیقه اخیر</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>ساعت گذشته</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>۳ ساعت اخیر</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>۶ ساعت اخیر</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>۱۲ ساعت اخیر</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>۱ دقیقه</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>۵ دقیقه</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>۱۵ دقیقه</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>مصرف پردازنده</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>مصرف فضا</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>مصرف رم</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>میانگین لود</target>
+            </trans-unit>
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>پشتیبان‌‌گیری از راه دور</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>تامین‌کننده فضای ذخیره‌سازی</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>تامین کننده فضای ذخیره‌سازی را انتخاب کنید</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone Config</source>
+                <target>تنظیمات Rclone سفارشی</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>ادامه</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>فعالسازی پشتیبان‌گیری از راه دور</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>روزانه</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>زمان</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>باکت</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>نام باکت</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>پوشه ذخیره‌سازی</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>نسبت به روت سرور پشتیبان‌ها کجا ذخیره می‌شوند.</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>برای ادامه با کد دسترسی secret موجود خالی بگذارید.</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>استثناها</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>تنظیمات پشتیبان‌گیری از راه دور ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>تنظیمات پشتیبان‌گیری از راه دور حذف شد.</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>Access Key</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>Secret Access Key</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>آدرس ایمیل حساب گوگل درایو شما.</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>حساب کاربری سرویس</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>برای استفاده از حساب کاربری موجود خالی بگذارید.</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>درخواست کد دسترسی</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>کد دسترسی</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>روی دکمه کلیک کنید و کد دسترسی را در کادر بعدی درج نمایید.</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>ساخت پشتیبان</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>پشتیبان‌گیری به زودی در پس‌زمینه شروع خواهد شد.</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>شیوه احراز هویت</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>کلید</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>مسیر سرور ریموت</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>مسیر کلید Private</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>نام فضا</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>فضا Endpoint</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>قالبندی برای سازگاری با endpint های S3</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache">
+                <source>Varnish Cache</source>
+                <target>کش ورنیش</target>
+            </trans-unit>
+            <trans-unit id="varnish-server">
+                <source>Varnish Server</source>
+                <target>سرور ورنیش</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime">
+                <source>Cache Lifetime</source>
+                <target>طول عمر کش</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
+                <source>Cache Lifetime in seconds before being refreshed.</source>
+                <target>طول عمر کش به ثانیه قبل از اینکه مجددا ایجاد شود.</target>
+            </trans-unit>
+            <trans-unit id="cache-tag-prefix">
+                <source>Cache Tag Prefix</source>
+                <target>پیشوند برچسب کش</target>
+            </trans-unit>
+            <trans-unit id="excluded-params">
+                <source>Excluded Params</source>
+                <target>پارامترهای مستثنی</target>
+            </trans-unit>
+            <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
+                <source>List of GET parameters, separated by a comma, to disable caching.</source>
+                <target>لیستی از GET پارمترها, جدا شده با کاما, برای غیرفعالسازی کش.</target>
+            </trans-unit>
+            <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
+                <source>Urls and files that Varnish Cache shouldn't cache.</source>
+                <target>آدرس‌ها و فایل‌هایی که ورنیش نباید کش کند.</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-settings-have-been-saved">
+                <source>Varnish Cache Settings have been saved.</source>
+                <target>تنظیمات کش ورنیش ذخیره شد.</target>
+            </trans-unit>
+            <trans-unit id="purge-entire-cache">
+                <source>Purge Entire Cache</source>
+                <target>خالی کردن کل کش</target>
+            </trans-unit>
+            <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
+                <source>You can purge single urls or tags separated by comma.</source>
+                <target>شما می‌توانید برچسب‌ها یا آدرس‌های جدا شده با کاما را برای خالی کردن کش آن‌ها وارد کنید.</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-has-been-purged">
+                <source>Varnish Cache has been purged.</source>
+                <target>کش ورنیش خالی شد.</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>یک پروکسی معکوس بساز</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>پروکسی معکوس جدید</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                <target>آدرس پروکسی معکوس</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                <target>پروکسی معکوس ساخته شد.</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>تنظیمات پروکسی معکوس</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>تنظیمات پروکسی معکوس ذخیره شد.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
