@@ -7,7 +7,7 @@ var hans = {
     Delete: "删除",
     Folder: "文件夹",
     "Add New": "新建",
-    Size: "尺寸",
+    Size: "规格",
     Date: "日期",
     "back to parent folder": "返回主文件夹",
     Download: "下载",
