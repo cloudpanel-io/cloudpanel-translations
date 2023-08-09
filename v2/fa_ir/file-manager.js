@@ -1,4 +1,4 @@
-var en = {
+var fa = {
     Save: "ذخیره",
     "Save all": "ذخیره همه",
     Rename: "تغییر نام",
