@@ -102,6 +102,10 @@
                 <source>Spanish</source>
                 <target>Spanish</target>
             </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>Farsi</target>
+            </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
                 <target>Polandia</target>

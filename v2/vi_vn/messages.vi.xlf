@@ -98,6 +98,10 @@
                 <source>Spanish</source>
                 <target>Tây Ban Nha</target>
             </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>Tiếng Ba Tư</target>
+            </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
                 <target>Ba Lan</target>

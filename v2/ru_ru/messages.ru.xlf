@@ -94,6 +94,10 @@
                 <source>Spanish</source>
                 <target>Испанский</target>
             </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>Персидский</target>
+            </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
                 <target>Польский</target>

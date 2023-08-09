@@ -98,6 +98,10 @@
                 <source>Spanish</source>
                 <target>西班牙语</target>
             </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>波斯语</target>
+            </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
                 <target>波兰语</target>
