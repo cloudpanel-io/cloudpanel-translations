@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>کلیک برای کپی</target>
+                <target>برای کپی کردن کلیک کنید</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
@@ -64,11 +64,11 @@
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>آلمانی</target>
+                <target>Deutsch</target>
             </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
-                <target>بلغاری</target>
+                <target>Български</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
@@ -76,27 +76,27 @@
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>فرانسوی</target>
+                <target>Français</target>
             </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
-                <target>عبری</target>
+                <target>עברית</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>هلندی</target>
+                <target>Nederlands</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>ایتالیایی</target>
+                <target>Italiano</target>
             </trans-unit>
             <trans-unit id="locale-japanese">
                 <source>Japanese</source>
-                <target>ژاپنی</target>
+                <target>日本語</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>اسپانیایی</target>
+                <target>Español</target>
             </trans-unit>
             <trans-unit id="locale-persian">
                 <source>Persian</source>
@@ -104,67 +104,67 @@
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
-                <target>لهستانی</target>
+                <target>Polski</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>پرتغالی</target>
+                <target>Português</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>پرتغالی (برزیل)</target>
+                <target>Português (Brasil)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>یونانی</target>
+                <target>Ελληνικά</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>لیتوانیایی</target>
+                <target>Lietuvių</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>اندونزیایی</target>
+                <target>Indonesian</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>رومانیایی</target>
+                <target>Română</target>
             </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
-                <target>روسی</target>
+                <target>Русский</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>ترکی</target>
+                <target>Türkçe</target>
             </trans-unit>
             <trans-unit id="locale-ukrainian">
                 <source>Ukrainian</source>
-                <target>اکراینی</target>
+                <target>Українська</target>
             </trans-unit>
             <trans-unit id="locale-arabic">
                 <source>Arabic</source>
-                <target>عربی</target>
+                <target>العربية</target>
             </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
-                <target>ویتنامی</target>
+                <target>Tiếng Việt</target>
             </trans-unit>
             <trans-unit id="locale-chinese-simplified">
                 <source>Chinese (Simplified)</source>
-                <target>چینی (ساده شده)</target>
+                <target>简体中文</target>
             </trans-unit>
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
-                <target>چینی (تایوان)</target>
+                <target>正體中文</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>آیپی نسخه ۴ همگانی</target>
+                <target>آی‌پی نسخه ۴ عمومی</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>آیپی نسخه ۶ همگانی</target>
+                <target>آی‌پی نسخه ۶ عمومی</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
@@ -244,11 +244,11 @@
             </trans-unit>
             <trans-unit id="admin-user-creation">
                 <source>Admin User Creation</source>
-                <target>ساخت کاربر ادمین</target>
+                <target>ساخت کاربر مدیر</target>
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>ناحیه ادمین</target>
+                <target>ناحیه مدیریت</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
@@ -256,7 +256,7 @@
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
-                <target>حساب</target>
+                <target>حساب کاربری</target>
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
@@ -272,7 +272,7 @@
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>ساخت</target>
+                <target>ساختن</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
@@ -348,7 +348,7 @@
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
-                <target>ادمین</target>
+                <target>مدیر کل</target>
             </trans-unit>
             <trans-unit id="role-user">
                 <source>User</source>
@@ -440,7 +440,7 @@
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
-                <target>اقدام</target>
+                <target>اقدامات</target>
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
@@ -516,11 +516,11 @@
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>محدوده درگاه</target>
+                <target>محدوده پورت</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
-                <target>نسخه آیپی</target>
+                <target>نسخه آی‌پی</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
@@ -568,7 +568,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>احراز هویت پایه یک لایه امنیتی دیگر در برابر دسترسی به کلادپنل قرار می‌دهد.</target>
+                <target>احراز هویت پایه یک لایه امنیتی دیگر در برابر دسترسی به CloudPanel قرار می‌دهد.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
@@ -592,7 +592,7 @@
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
-                <target>Proftpd تنظیمات</target>
+                <target>تنظیمات Proftpd</target>
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
@@ -600,7 +600,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</target>
+                <target>MasqueradeAddress باعث می‌شود که سرور اطلاعات شبکه مربوط به آدرس IP یا نام میزبان DNS مشخص شده را به کلاینت نمایش دهد.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -652,7 +652,7 @@
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>درگاه</target>
+                <target>پورت</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
@@ -916,7 +916,7 @@
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>آدرس آیپی</target>
+                <target>آدرس آی‌پی</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
@@ -928,7 +928,7 @@
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
-                <target>SSL/TLS</target>
+                <target>گواهی SSL/TLS</target>
             </trans-unit>
             <trans-unit id="ssh-ftp">
                 <source>SSH/FTP</source>
@@ -936,15 +936,15 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>مدیریت فایل</target>
+                <target>مدیریت فایل‌ها</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>کرون</target>
+                <target>کرون‌جاب‌ها</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>لاگ</target>
+                <target>لاگ‌ها</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -952,7 +952,7 @@
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>پوشه ریشه</target>
+                <target>دایرکتوری ریشه</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
@@ -968,7 +968,7 @@
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>پوشه ریشه ذخیره شد.</target>
+                <target>دایرکتوری ریشه ذخیره شد.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
@@ -1044,15 +1044,15 @@
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
-                <target>SSH کلیدهای</target>
+                <target>کلیدهای SSH</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
-                <target>Vhost ویرایشگر</target>
+                <target>ویرایشگر Vhost</target>
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>Vhost ذخیره شد.</target>
+                <target>Vhost ذخیره شد</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
@@ -1148,11 +1148,11 @@
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>جدید Let's Encrypt گواهینامه</target>
+                <target>صدور گواهی Let's Encrypt</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
-                <target>درونریزی گواهینامه</target>
+                <target>درون‌ریزی یک گواهی</target>
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
@@ -1164,7 +1164,7 @@
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
-                <target>درونریزی شده</target>
+                <target>درون‌ریزی شده</target>
             </trans-unit>
             <trans-unit id="domains">
                 <source>Domains</source>
@@ -1176,11 +1176,11 @@
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>نصب شده</target>
+                <target>فعال</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>Private Key</target>
+                <target>کلید خصوصی</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
@@ -1188,11 +1188,11 @@
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
                 <source>Certificate has been deleted.</source>
-                <target>گواهینامه حذف شد.</target>
+                <target>گوهی حذف شد.</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>گواهینامه نصب شد.</target>
+                <target>گواهی نصب شد.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
@@ -1200,7 +1200,7 @@
             </trans-unit>
             <trans-unit id="import-and-install">
                 <source>Import and Install</source>
-                <target>درونریزی و نصب</target>
+                <target>درون‌ریزی و نصب</target>
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
@@ -1208,11 +1208,11 @@
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
-                <target>لطفاً نام‌های دامنه‌ای که می‌خواهید با گواهینامه SSL Let's Encrypt ایمن کنید را وارد کنید.</target>
+                <target>لطفاً نام‌های دامنه‌ای که می‌خواهید با گواهی SSL Let's Encrypt ایمن کنید را وارد کنید.</target>
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>برای صدور گواهینامه Let's Encrypt الزامیست یک رکورد DNS تنظیم شده با آیپی این سرور داشته باشید.</target>
+                <target>برای صدور گواهی Let's Encrypt الزامیست یک رکورد DNS تنظیم شده با آی‌پی این سرور داشته باشید.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1224,27 +1224,27 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>دامنه سفارشی کلادپنل</target>
+                <target>دامنه سفارشی CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>دامنه سفارشی برای کلادپنل ذخیره شد.</target>
+                <target>دامنه سفارشی برای CloudPanel ذخیره شد.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
-                <target>مسدودسازی آیپی</target>
+                <target>مسدودسازی آی‌پی</target>
             </trans-unit>
             <trans-unit id="add-ip">
                 <source>Add IP</source>
-                <target>افزودن آیپی</target>
+                <target>افزودن آی‌پی</target>
             </trans-unit>
             <trans-unit id="ip">
                 <source>IP</source>
-                <target>آیپی</target>
+                <target>آی‌پی</target>
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>آیپی وجود ندارد.</target>
+                <target>آی‌پی وجود ندارد.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
@@ -1252,7 +1252,7 @@
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
-                <target>Single IP</target>
+                <target>آی‌پی یکتا</target>
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
@@ -1260,11 +1260,11 @@
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
-                <target>آیپی اضافه شد.</target>
+                <target>آی‌پی اضافه شد.</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>آیپی حذف شد.</target>
+                <target>آی‌پی حذف شد.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
@@ -1296,11 +1296,11 @@
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>لیست آیپی‌های مجاز به عبور از احراز هویت پایه، با کاما جدا کنید.</target>
+                <target>لیست آی‌پی‌های مجاز به عبور از احراز هویت پایه، با کاما جدا کنید.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>آیپی‌های مجاز</target>
+                <target>آی‌پی‌های مجاز</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
@@ -1344,15 +1344,15 @@
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>افزودن کرون جاب</target>
+                <target>افزودن کرون‌جاب</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>کرون جاب وجود ندارد.</target>
+                <target>کرون‌جاب وجود ندارد.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>کرون جاب جدید</target>
+                <target>کرون‌جاب جدید</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
@@ -1460,23 +1460,23 @@
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>یک سایت وردپرسی بساز</target>
+                <target>یک سایت وردپرس</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>یک سایت PHP بساز</target>
+                <target>یک سایت PHP</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>یک سایت Node.js بساز</target>
+                <target>یک سایت Node.js</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>یک سایت استاتیک HTML بساز</target>
+                <target>یک سایت HTML ایستا</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>یک سایت پایتون بساز</target>
+                <target>یک سایت پایتون</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
@@ -1484,11 +1484,11 @@
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
-                <target>سایت جدید با وردپرس</target>
+                <target>سایت جدید وردپرس</target>
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>پیش نصب وردپرس</target>
+                <target>پیش‌نصب وردپرس</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
@@ -1500,15 +1500,15 @@
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>ایمیل مدیر</target>
+                <target>ایمیل وردپرس</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>نام کاربری مدیر</target>
+                <target>نام کاربری وردپرس</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>کلمه عبور مدیر</target>
+                <target>کلمه عبور وردپرس</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
@@ -1516,7 +1516,7 @@
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>چندسایته</target>
+                <target>وردپرس شبکه</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
@@ -1552,23 +1552,23 @@
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
-                <target>سایت استاتیک HTMl جدید</target>
+                <target>سایت جدید HTML ایستا</target>
             </trans-unit>
             <trans-unit id="new-nodejs-site">
                 <source>New Node.js Site</source>
-                <target>سایت Node.js جدید</target>
+                <target>سایت جدید Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Node.js نسخه</target>
+                <target>نسخه Node.js</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>درگاه نرم‌افزار</target>
+                <target>پورت نرم‌افزار</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
-                <target>Node.js تنظیمات</target>
+                <target>تنظیمات Node.js</target>
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
@@ -1576,11 +1576,11 @@
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
-                <target>سایت Python جدید</target>
+                <target>سایت جدید پایتون</target>
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
-                <target>Python نسخه</target>
+                <target>نسخه پایتون</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
@@ -1592,11 +1592,11 @@
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
-                <target>Python تنظیمات</target>
+                <target>تنظیمات پایتون</target>
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
                 <source>Python Settings have been saved.</source>
-                <target>Python تنظیمات ذخیره شد.</target>
+                <target>تنظیمات پایتون ذخیره شد.</target>
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
@@ -1628,7 +1628,7 @@
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>ساعت گذشته</target>
+                <target>یک ساعت اخیر</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
@@ -1648,11 +1648,11 @@
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>۵ دقیقه</target>
+                <target>دقیقه ۵</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>۱۵ دقیقه</target>
+                <target>دقیقه ۱۵</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
@@ -1676,11 +1676,11 @@
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>تامین‌کننده فضای ذخیره‌سازی</target>
+                <target>سرویس‌دهنده فضای ذخیره‌سازی</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>تامین کننده فضای ذخیره‌سازی را انتخاب کنید</target>
+                <target>سرویس‌دهنده فضای ذخیره‌سازی را انتخاب کنید</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1856,7 +1856,7 @@
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>یک پروکسی معکوس بساز</target>
+                <target>یک پروکسی معکوس</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
