@@ -7,7 +7,7 @@ var ko = {
   Delete: "삭제",
   Folder: "폴더",
   "Add New": "새로 추가",
-  Size: "사이즈",
+  Size: "크기",
   Date: "날짜",
   "back to parent folder": "상위 폴더로 가기",
   Download: "다운로드",
