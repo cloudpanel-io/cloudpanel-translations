@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
-                <target state="translated">클립보드에 복사했습니다</target>
+                <target>클립보드에 복사했습니다</target>
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
@@ -264,7 +264,7 @@
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
-                <target state="translated">계정 정보를 저장했습니다.</target>
+                <target>계정 정보를 저장했습니다.</target>
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
@@ -280,11 +280,11 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target state="translated">2단계 인증은 계정에 보안을 한층 더 강화합니다. 로그인할 때마다 비밀번호와 보안 코드를 모두 입력해야 합니다.</target>
+                <target>2단계 인증은 계정에 보안을 한층 더 강화합니다. 로그인할 때마다 비밀번호와 보안 코드를 모두 입력해야 합니다.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target state="translated">2단계 인증(2FA) 활성화</target>
+                <target>2단계 인증(2FA) 활성화</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
@@ -308,15 +308,15 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target state="translated">2단계 인증(2FA)을 활성화 했습니다.</target>
+                <target>2단계 인증(2FA)을 활성화 했습니다.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target state="translated">2단계 인증(2FA) 비활성화</target>
+                <target>2단계 인증(2FA) 비활성화</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target state="translated">2단계 인증(2FA)을 비활성화 했습니다.</target>
+                <target>2단계 인증(2FA)을 비활성화 했습니다.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
@@ -400,11 +400,11 @@
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target state="translated">이벤트 시간</target>
+                <target>이벤트 시간</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target state="translated">이벤트</target>
+                <target>이벤트</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
@@ -432,7 +432,7 @@
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target state="translated">날짜</target>
+                <target>날짜</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
@@ -492,7 +492,7 @@
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target state="translated">규칙이 없습니다.</target>
+                <target>규칙이 없습니다.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
@@ -568,7 +568,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target state="translated">CloudPanel에 기본 인증을 적용하면 보안을 한층 더 강화합니다.</target>
+                <target>CloudPanel에 기본 인증을 적용하면 보안을 한층 더 강화합니다.</target>
                 
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
@@ -601,7 +601,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target state="translated">MasqueradeAddress는 서버가 지정된 IP 주소 또는 DNS 호스트명에 대한 네트워크 정보를 클라이언트에 표시하도록 합니다.</target>
+                <target>MasqueradeAddress는 서버가 지정된 IP 주소 또는 DNS 호스트명에 대한 네트워크 정보를 클라이언트에 표시하도록 합니다.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -613,7 +613,7 @@
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
-                <target state="translated">표준 시간대가 저장되었습니다.</target>
+                <target>표준 시간대가 저장되었습니다.</target>
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
@@ -845,7 +845,7 @@
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
-                <target state="translated">스냅샷을 만들었습니다.</target>
+                <target>스냅샷을 만들었습니다.</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
                 <source>Snapshot is being deleted.</source>
@@ -869,11 +869,11 @@
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target state="translated">Api Key가 올바르지 않습니다.</target>
+                <target>Api Key가 올바르지 않습니다.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target state="translated">Api Key를 저장했습니다.</target>
+                <target>Api Key를 저장했습니다.</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
@@ -881,15 +881,15 @@
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target state="translated">Api 토큰이 유효하지 않습니다.</target>
+                <target>Api 토큰이 유효하지 않습니다.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target state="translated">Api 토큰을 저장했습니다.</target>
+                <target>Api 토큰을 저장했습니다.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
-                <target state="translated">사이트가 없습니다.</target>
+                <target>사이트가 없습니다.</target>
             </trans-unit>
             <trans-unit id="add-site">
                 <source>+ Add Site</source>
@@ -965,7 +965,7 @@
             </trans-unit>
             <trans-unit id="generic">
                 <source>Generic</source>
-                <target state="translated">일반</target>
+                <target>일반</target>
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
@@ -985,7 +985,7 @@
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target state="translated">구문 분석기(parser)에 의해 스크립트가 종료되기 전에 스크립트가 실행될 수 있는 최대 시간을 설정합니다.</target>
+                <target>구문 분석기(parser)에 의해 스크립트가 종료되기 전에 스크립트가 실행될 수 있는 최대 시간을 설정합니다.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
@@ -1281,7 +1281,7 @@
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target state="translated">봇을 추가했습니다.</target>
+                <target>봇을 추가했습니다.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
@@ -1749,7 +1749,7 @@
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target state="translated">구글 드라이브 게정 이메일 주소.</target>
+                <target>구글 드라이브 게정 이메일 주소.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
@@ -1837,11 +1837,11 @@
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target state="translated">Varnish Cache가 캐시하지 말아야 하는 URL 및 파일.</target>
+                <target>Varnish Cache가 캐시하지 말아야 하는 URL 및 파일.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target state="translated">Varnish Cache 설정을 저장했습니다.</target>
+                <target>Varnish Cache 설정을 저장했습니다.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
