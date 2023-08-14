@@ -114,6 +114,14 @@
                 <source>Greek</source>
                 <target>Греческий</target>
             </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>Корейский</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>Иврит</target>
+            </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Литовский</target>

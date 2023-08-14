@@ -78,9 +78,13 @@
                 <source>French</source>
                 <target>צרפתית</target>
             </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>Κορεατικά</target>
+            </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
-                <target>עברית</target>
+                <target>קוריאנית</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>

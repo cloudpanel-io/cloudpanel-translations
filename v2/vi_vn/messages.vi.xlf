@@ -78,6 +78,10 @@
                 <source>French</source>
                 <target>Pháp</target>
             </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>Tiếng Triều Tiên</target>
+            </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
                 <target>Tiếng Do Thái</target>

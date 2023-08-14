@@ -78,6 +78,10 @@
                 <source>French</source>
                 <target>Frans</target>
             </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>Koreaans</target>
+            </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
                 <target>Hebreeuws</target>

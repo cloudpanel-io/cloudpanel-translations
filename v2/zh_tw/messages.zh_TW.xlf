@@ -78,6 +78,10 @@
                 <source>French</source>
                 <target>French</target>
             </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>朝鮮語</target>
+            </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
                 <target>希伯來語</target>
@@ -97,6 +101,10 @@
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
                 <target>Spanish</target>
+            </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>波斯語</target>
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>

@@ -78,6 +78,10 @@
                 <source>French</source>
                 <target>Французька</target>
             </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>Корейська</target>
+            </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
                 <target>Іврит</target>
