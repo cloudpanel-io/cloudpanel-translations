@@ -28,7 +28,7 @@
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>로딩중</target>
+                <target>로딩 중</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
@@ -188,7 +188,7 @@
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>유저 이름</target>
+                <target>사용자 이름</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
@@ -224,7 +224,7 @@
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>표준시</target>
+                <target>표준 시간대</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
@@ -304,11 +304,11 @@
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
-                <target>앱에서 수동으로 입력하세요. 사용자 이름: "%userName%" 키: %secret%</target>
+                <target>앱에서 수동으로 입력하세요. 유저 이름: "%userName%" 키: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>2단계 인증(2FA)을 활성화 했습니다.</target>
+                <target>2단계 인증(2FA)을 활성화했습니다.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
@@ -316,7 +316,7 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>2단계 인증(2FA)을 비활성화 했습니다.</target>
+                <target>2단계 인증(2FA)을 비활성화했습니다.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
@@ -328,15 +328,15 @@
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>사용자</target>
+                <target>유저</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>사용자 추가</target>
+                <target>유저 추가</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>새 사용자</target>
+                <target>새 유저</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
@@ -364,7 +364,7 @@
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>사용자를 업데이트 했습니다.</target>
+                <target>사용자를 업데이트했습니다.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
@@ -424,7 +424,7 @@
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>메세지 보기</target>
+                <target>메시지 보기</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
@@ -436,7 +436,7 @@
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>메세지</target>
+                <target>메시지</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
@@ -464,7 +464,7 @@
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>안읽은 것으로 표시하기</target>
+                <target>안 읽은 것으로 표시하기</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
@@ -540,7 +540,7 @@
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>내 아이피</target>
+                <target>나의 아이피</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
@@ -573,7 +573,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>기본 인증을 활성화 했습니다.</target>
+                <target>기본 인증을 활성화했습니다.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
@@ -601,7 +601,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress는 서버가 지정된 IP 주소 또는 DNS 호스트명에 대한 네트워크 정보를 클라이언트에 표시하도록 합니다.</target>
+                <target>MasqueradeAddress는 서버가 지정된 IP 주소 또는 DNS 호스트 이름에 대한 네트워크 정보를 클라이언트에 표시하도록 합니다.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -625,7 +625,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>표준시를 변경한 후에는 인스턴스를 재시작하는 것을 권장합니다.</target>
+                <target>표준 시간대를 변경한 후에는 인스턴스를 재시작하는 것을 권장합니다.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -801,7 +801,7 @@
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>이미지가 삭제되었습니다.</target>
+                <target>이미지를 삭제했습니다.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
@@ -953,7 +953,7 @@
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>루트 디렉토리</target>
+                <target>루트 디렉터리</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
@@ -969,7 +969,7 @@
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>루트 디렉토리를 저장했습니다.</target>
+                <target>루트 디렉터리를 저장했습니다.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
@@ -1021,7 +1021,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>사이트를 삭제하면 모든 사이트 파일, 데이터베이스, 사용자 및 설정이 영구적으로 제거되며, 복구할 수 없게 됩니다.</target>
+                <target>사이트를 삭제하면 모든 사이트 파일, 데이터베이스, 유저 및 설정이 영구적으로 제거되며, 복구할 수 없게 됩니다.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1029,7 +1029,7 @@
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>삭제하기 위해서는 %domain%을 입력해주세요.</target>
+                <target>삭제하기 위해서는 %domain%을(를) 입력해주세요.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
@@ -1141,11 +1141,11 @@
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>데이터베이스를 업데이트 했습니다.</target>
+                <target>데이터베이스를 업데이트했습니다.</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
-                <target>인승서</target>
+                <target>인증서</target>
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
@@ -1177,7 +1177,7 @@
             </trans-unit>
             <trans-unit id="installed">
                 <source>Installed</source>
-                <target>사용중</target>
+                <target>사용 중</target>
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
@@ -1317,7 +1317,7 @@
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>홈 디렉토리</target>
+                <target>홈 디렉터리</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
@@ -1365,11 +1365,11 @@
             </trans-unit>
             <trans-unit id="once-an-hour">
                 <source>Once an hour</source>
-                <target>한 시간 마다</target>
+                <target>한 시간마다</target>
             </trans-unit>
             <trans-unit id="every-3-hours">
                 <source>Every 3 hours</source>
-                <target>세 시간 마다</target>
+                <target>세 시간마다</target>
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
@@ -1533,11 +1533,11 @@
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>작성중</target>
+                <target>작성 중</target>
             </trans-unit>
             <trans-unit id="saving">
                 <source>Saving</source>
-                <target>저장중</target>
+                <target>저장 중</target>
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
@@ -1549,7 +1549,7 @@
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
-                <target>사이트를 생성했습니다..</target>
+                <target>사이트를 생성했습니다.</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
@@ -1697,7 +1697,7 @@
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>리모트 백업을 활성화합니다</target>
+                <target>리모트 백업 활성화</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
@@ -1725,7 +1725,7 @@
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>기존의 secret access 키를 계속 사용하려면 비워 두세요.</target>
+                <target>기존의 Secret Access 키를 계속 사용하려면 비워 두세요.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
@@ -1769,7 +1769,7 @@
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>버튼을 클릭한 후 얻은 액세스 코드를 다음 칸에 붙여넣으세요.</target>
+                <target>버튼을 클릭한 후 얻은 액세스 코드를 다음 칸에 붙여 넣으세요.</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
@@ -1833,11 +1833,11 @@
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>캐싱 비활성화를 위해 쉼표로 구분된 GET 매개변수 목록.</target>
+                <target>캐시 비활성화를 위해 쉼표로 구분된 GET 매개변수 목록.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Varnish Cache가 캐시하지 말아야 하는 URL 및 파일.</target>
+                <target>Varnish Cache가 캐시 하지 말아야 하는 URL 및 파일.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
