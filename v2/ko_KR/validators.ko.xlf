@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ko" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="does-not-exist">
+                <source>Does not exist.</source>
+                <target>존재하지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="this-value-adready-exists">
+                <source>This value already exists.</source>
+                <target>이 값은 이미 존재합니다.</target>
+            </trans-unit>
+            <trans-unit id="this-value-is-not-a-valid-domain-name">
+                <source>This value is not a valid domain name.</source>
+                <target>이 값은 유효한 도메인 이름이 아닙니다.</target>
+            </trans-unit>
+            <trans-unit id="does-not-match-certificate">
+                <source>Does not match certificate.</source>
+                <target>인증서와 일치하지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="database-server-credentials-are-not-valid">
+                <source>Database Server credentials are not valid.</source>
+                <target>데이터베이스 서버 자격 증명이 유효하지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="port-is-already-in-use">
+                <source>Port is already in use.</source>
+                <target>포트가 이미 사용 중입니다.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

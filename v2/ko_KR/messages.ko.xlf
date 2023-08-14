@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ko" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>네</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>아니오</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>전부</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>지원</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>클릭하여 복사</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>클립보드에 복사했습니다</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>로딩 중</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>블로그</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>연락처</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>문서</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>업데이트 가능</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>이슈</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>제출</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>사이트</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>사이트</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>독일어</target>
+            </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>불가리아어</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>영어</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>프랑스어</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>헤브라이어</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>독일어</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>이탈리아어</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>일본어</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>스페인어</target>
+            </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>페르시아어</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>폴란드어</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>포르투갈어</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>포르투갈어 (브라질)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>그리스어</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>리투아니아어</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>인도네시아어</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>루마니아어</target>
+            </trans-unit>
+            <trans-unit id="locale-russian">
+                <source>Russian</source>
+                <target>러시아어</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>터키어</target>
+            </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                <target>우크라이나어</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>아랍어</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>베트남어</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>중국어 (간체)</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>중국어 (번체)</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>IPv4 공용 IP</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>IPv6 공용 IP</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>OS</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>Hostname</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>CPU</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>Cores</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                <target>Memory</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                <target>사용자 이름</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                <target>비밀번호</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                <target>로그인</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                <target>설정</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                <target>로그아웃</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                <target>언어</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                <target>이름</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                <target>성</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                <target>이메일</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                <target>표준 시간대</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                <target>새로운 비밀번호 생성하기</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                <target>계정 생성</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>저는 <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">라이선스 조건</a>]]>에 동의하며 <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">개인정보 보호정책</a>]]>을 확인했습니다.</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>오류가 발생했습니다. 오류 메시지: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>관리자 유저 생성</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>관리자 페이지</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>대시보드</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>계정</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>보안</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>계정 정보를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>저장</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>생성</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>2단계 인증(2FA)</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>2단계 인증은 계정에 보안을 한층 더 강화합니다. 로그인할 때마다 비밀번호와 보안 코드를 모두 입력해야 합니다.</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>2단계 인증(2FA) 활성화</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>앱을 연결하세요</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>%googleAuthenticatorLink% 또는 %duoLink%와 같은 인증 앱을 사용하여 QR 코드를 스캔합니다. 6자리 코드가 표시되면 아래에 입력하세요.</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>QC코드를 스캔하는에 어려움을 겪고 계신가요?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>대신 이걸 사용해보세요</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>앱에서 수동으로 입력하세요. 유저 이름: "%userName%" 키: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>2단계 인증(2FA)을 활성화했습니다.</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>2단계 인증(2FA) 비활성화</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>2단계 인증(2FA)을 비활성화했습니다.</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>인증코드 입력</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>사이트로 돌아가기</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>유저</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>유저 추가</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>새 유저</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>활성</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>비활성</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>관리자</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>사용자</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>사이트 관리자</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>사용자를 추가했습니다.</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>사용자를 업데이트했습니다.</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>사용자를 찾을 수 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>권한</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>상태</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>제거</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>확실하신가요?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>사용자를 제거했습니다.</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>이벤트</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>이벤트가 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>이벤트 시간</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>이벤트</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>보기</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>알림</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>알림이 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>알림을 제거했습니다.</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>메시지 보기</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>심각성</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>날짜</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>메시지</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>Action</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>정보</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>경고</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                <target>심각한</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>세부정보</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>읽은 것으로 표시하기</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>안 읽은 것으로 표시하기</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>인스턴스</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>방화벽</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>서비스</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>서비스</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>규칙</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>규칙 추가</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>규칙이 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>방화벽 규칙 추가</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>규칙이 등록되었습니다.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>규칙이 삭제되었습니다.</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>Type</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>사용자 정의 TCP</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>대상 포트 범위</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>IPv4 / IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>소스</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>사용자 정의</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>IPv4 전부</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>IPv6 전부</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>나의 아이피</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP 혹은 CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>설명</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>Actions</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>방화벽 규칙 수정하기</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>기본 인증</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>기본 인증 활성화</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>CloudPanel에 기본 인증을 적용하면 보안을 한층 더 강화합니다.</target>
+                
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>기본 인증을 활성화했습니다.</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>실행</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>정지</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>재시작</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>서비스가 곧 재시작됩니다.</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>Proftpd 설정</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>MasqueradeAddress</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress는 서버가 지정된 IP 주소 또는 DNS 호스트 이름에 대한 네트워크 정보를 클라이언트에 표시하도록 합니다.</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>MasqueradeAddress를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>인스턴스 설정</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>표준 시간대가 저장되었습니다.</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>재부팅</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>인스턴스가 곧 재시작됩니다.</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>표준 시간대를 변경한 후에는 인스턴스를 재시작하는 것을 권장합니다.</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>일반</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>데이터베이스 서버</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>데이터베이스 서버 추가</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>데이터베이스 서버 편집</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>Engine</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>호스트</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>포트</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP 혹은 DNS 이름</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>인증서</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>활성화</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>데이터베이스 서버를 추가했습니다.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>데이터베이스 서버가 업데이트 되었습니다.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>데이터베이스 서버가 삭제되었습니다.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>데이터베이스 서버가 변경되었습니다.</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>Custom Domain</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>TLS 인증서</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Let's Encrypt HTTP 챌린지</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Let's Encrypt DNS 챌린지</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>백업</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>이미지</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>AWS Credentials</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>AWS Access Key</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>AWS Secret Access Key</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>AWS Access Keys가 올바르지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>AWS Access Keys를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>이미지 설정</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>Enable Automatic Images</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>주기</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>보존 기간 (일)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>이미지 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>매시간</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>3시간마다</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>6시간마다</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>12시간마다</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>하루에 한 번</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>이미지 만들기</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>이미지 이름</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>이미지가 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>가능</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>보류 중</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>실패함</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>생성됨</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>이미지를 만들었습니다.</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>이미지를 삭제했습니다.</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>Access Token이 올바르지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>Access Token을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>Access Token</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>스냅샷</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>스냅샷 설정</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>자동 스냅샷 활성화</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>스냅샷 만들기</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>스냅샷이 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>스냅샷 이름</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>크기</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>스냅샷을 만들었습니다.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>스냅샷을 삭제했습니다.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>Service Account Keys</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>Service Account Keys가 올바르지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>Service Account Keys를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>Api Key</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>Api Key가 올바르지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>Api Key를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>Api 토큰</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>Api 토큰이 유효하지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>Api 토큰을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>사이트가 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ 사이트 추가</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>도메인</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                <target>사이트 유저</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>사이트 유저 비밀번호</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>앱</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>관리</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>IP 주소</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>Databases</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>파일 관리자</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>Cron 작업</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>로그</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>도메인 설정</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>루트 디렉터리</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>도메인 이름</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>어플리케이션</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>일반</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>루트 디렉터리를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>PHP 설정</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>PHP 버전</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>스크립트가 할당할 수 있는 최대 메모리 양을 설정합니다.</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>구문 분석기(parser)에 의해 스크립트가 종료되기 전에 스크립트가 실행될 수 있는 최대 시간을 설정합니다.</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>스크립트가 POST 및 GET과 같은 입력 데이터를 구문 분석할 수 있는 최대 시간을 설정합니다.</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>폼 전송을 위한, 입력의 최대 개수 제한을 설정합니다.</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>PHP가 허용하는 POST 데이터의 최대 크기를 설정합니다.</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>업로드 파일의 최대 크기.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>php.ini에 정의하는 것처럼 PHP 매개변수를 정의할 수 있습니다.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>추가 구성 지시</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>PHP 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>사이트 제거</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>사이트를 삭제하면 모든 사이트 파일, 데이터베이스, 유저 및 설정이 영구적으로 제거되며, 복구할 수 없게 됩니다.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>취소</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>삭제하기 위해서는 %domain%을(를) 입력해주세요.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>사이트를 제거했습니다.</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>사이트 유저 설정</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>사이트 유저 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>SSH 키</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>Vhost 편집</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>Vhost를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Vhost 설정이 올바르지 않습니다. 오류 메시지: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>데이터베이스가 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>데이터베이스</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>데이터베이스 추가</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>새 데이터베이스</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>데이터베이스를 추가했습니다.</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>데이터베이스를 제거했습니다.</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>데이터베이스 유저</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>데이터베이스 유저 추가</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>데이터베이스 유저가 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>읽기, 쓰기</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>읽기 전용</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>새로운 데이터베이스 유저</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>데이터베이스 이름</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>데이터베이스 유저 이름</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>데이터베이스 유저 비밀번호</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>권한</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>데이터베이스가 없습니다. 데이터베이스를 먼저 만드세요.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>데이터베이스 유저를 추가했습니다.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>데이터베이스 유저를 제거했습니다.</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>데이터베이스 유저 수정</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>데이터베이스를 업데이트했습니다.</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>인증서</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>새로운 Let's Encrypt 인증서</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>인증서 가져오기</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>인증서가 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>자체 서명</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>가져옴</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>도메인</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>만기</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>사용 중</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>Private Key</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>체인 인증서</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>인증서를 제거했습니다.</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>인증서를 설치(적용)했습니다.</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>Install</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>가져오고 설치(적용)</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>만들고 설치(적용)</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>Let's Encrypt SSL 인증서로 보호하려는 도메인 이름을 입력하세요.</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>Let's Encrypt 인증서를 발급하려면 이 서버를 가리키는 DNS 레코드가 필요합니다.</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>도메인 이름</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>도메인 추가</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>CloudPanel 사용자 도메인</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>CloudPanel 사용자 도메인을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>IP 차단</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>IP 추가</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>IP</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>IP 주소가 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>예제</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>한 개의 IP</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>CIDR 포맷</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>IP를 추가했습니다.</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>IP를 삭제했습니다.</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>봇이 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>봇 차단</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>봇 추가</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>봇을 추가했습니다.</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>봇을 삭제했습니다.</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>봇 이름</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>기본 인증</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>기본 인증 우회를 위한 IP 주소 목록을 쉼표로 구분하여 나열하세요.</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>화이트리스트에 등록된 IP 주소</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>클라우드플레어에서의 트래픽만 허용하기</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>네임 서버는 클라우드플레어를 가리켜야 하며, DNS 레코드에 대한 프록시를 활성화(주황 구름)해야 합니다.</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>SSH 유저</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>홈 디렉터리</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>SSH 유저</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>새 SSH 유저 추가</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>유저를 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>FTP 유저</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>FTP 유저</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>새 FTP 유저 추가</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>Cron Job 등록</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>등록된 cron jobs이 없습니다.</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>새 Cron Job 추가</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>매분</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>5분 마다</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>한 시간마다</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>세 시간마다</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>하루에 한 번 (00:00에)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>매일 오전 4시.</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>한 주에 한 번 (00:00 일요일)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>한 달에 한 번 (00:00에 매월 1일)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>탬플릿</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>분</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>시</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>일</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>월</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>요일</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>Cron 작업을 등록했습니다.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>Cron 작업을 삭제했습니다.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>Cron 작업을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>Schedule</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>Command</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>Update</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>PageSpeed</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>캐시 삭제</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>PageSpeed 설정이 올바르지 않습니다. 에러 메시지: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>Page Speed 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>Page Speed 캐시를 삭제했습니다.</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>어떤 사이트를 만드시겠어요?</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>WordPress 사이트 만들기</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>PHP 사이트 만들기</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>Node.js 사이트 만들기</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>정적 HTML 사이트 만들기</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>Python 사이트 만들기</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>새 사이트</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>새 WordPress 사이트</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>Pre-Install WordPress</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>뒤로</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>사이트 제목</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>관리자 이메일</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>관리자 유저 이름</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>관리자 비밀번호</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>관리자 Url</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>멀티사이트</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>Vhost %vhostTemplate% 탬플릿이 존재하지 않습니다.</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>WordPress를 만들었습니다!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>WordPress 사이트의 자격 증명을 복사하세요.</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>작성 중</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>저장 중</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>새 PHP 사이트</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>사이트의 주 SSH 유저.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>사이트를 생성했습니다.</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>새 정적 HTML Site</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>새 Node.js 사이트</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>Node.js 버전</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>앱 포트</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>Node.js 설정</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>Node.js 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>새 Python 사이트</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>Python 버전</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>다른 버전이 필요하신가요?</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>문서를 참고하세요.</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>Python 설정</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>Python 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>운영체제</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>Cloud</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>Region</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>디플롯 ID</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>인스턴스 ID</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>모니터링</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>지난 30 분</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>지난 한 시간</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>지난 3 시간</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>지난 6 시간</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>지난 12 시간</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>1 분</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>5 분</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>15 분</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>CPU 사용량</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>디스크 사용량</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>메모리 사용량</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>로트 평균</target>
+            </trans-unit>
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>리모트 백업</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>스토리지 제공자</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>스토리지 제공자를 고르세요</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone Config</source>
+                <target>커스텀 Rclone 설정</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>계속</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>리모트 백업 활성화</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>매일</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>시간</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>Bucket</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>Bucket Name</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>Storage Directory</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>루트 디렉터리와 상대적으로 어디에 백업을 저장할지 선택하세요.</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>기존의 Secret Access 키를 계속 사용하려면 비워 두세요.</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>제외</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>리모트 백업 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>리모트 백업 설정을 제거했습니다.</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>Access Key</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>Secret Access Key</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>구글 드라이브 게정 이메일 주소.</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>Service Account</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>기존 서비스 계정을 계속 사용하려면 비워 두세요.</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>Access Code 요청하기</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>Access Code</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>버튼을 클릭한 후 얻은 액세스 코드를 다음 칸에 붙여 넣으세요.</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>백업 만들기</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>백업이 백그라운드에서 곧 시작됩니다.</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>인증 방법</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>Key</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>Remote Server Path</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>Private Key Path</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Space Name</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Space Endpoint</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>S3 호환 엔드포인트 형식</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache">
+                <source>Varnish Cache</source>
+                <target>Varnish 캐시</target>
+            </trans-unit>
+            <trans-unit id="varnish-server">
+                <source>Varnish Server</source>
+                <target>Varnish 서버</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime">
+                <source>Cache Lifetime</source>
+                <target>캐시 수명</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
+                <source>Cache Lifetime in seconds before being refreshed.</source>
+                <target>새로 고치기 전 캐시 유지 시간(초).</target>
+            </trans-unit>
+            <trans-unit id="cache-tag-prefix">
+                <source>Cache Tag Prefix</source>
+                <target>캐시 태그 접두사</target>
+            </trans-unit>
+            <trans-unit id="excluded-params">
+                <source>Excluded Params</source>
+                <target>제외된 매개변수</target>
+            </trans-unit>
+            <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
+                <source>List of GET parameters, separated by a comma, to disable caching.</source>
+                <target>캐시 비활성화를 위해 쉼표로 구분된 GET 매개변수 목록.</target>
+            </trans-unit>
+            <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
+                <source>Urls and files that Varnish Cache shouldn't cache.</source>
+                <target>Varnish Cache가 캐시 하지 말아야 하는 URL 및 파일.</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-settings-have-been-saved">
+                <source>Varnish Cache Settings have been saved.</source>
+                <target>Varnish Cache 설정을 저장했습니다.</target>
+            </trans-unit>
+            <trans-unit id="purge-entire-cache">
+                <source>Purge Entire Cache</source>
+                <target>전체 캐시 삭제</target>
+            </trans-unit>
+            <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
+                <source>You can purge single urls or tags separated by comma.</source>
+                <target>쉼표로 구분된 단일 URL 또는 태그를 삭제할 수 있습니다.</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-has-been-purged">
+                <source>Varnish Cache has been purged.</source>
+                <target>Varnish Cache를 삭제했습니다.</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>리버스 프록시(역방향 프록시) 만들기</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>새 리버스 프록시</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                <target>리버스 프록시 Url</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                <target>리버스 프록시를 생성했습니다.</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>리버스 프록시 설정</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>리버스 프록시 설정을 저장했습니다.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
