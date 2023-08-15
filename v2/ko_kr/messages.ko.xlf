@@ -4,7 +4,7 @@
         <body>
             <trans-unit id="yes">
                 <source>Yes</source>
-                <target>네</target>
+                <target>예</target>
             </trans-unit>
             <trans-unit id="no">
                 <source>No</source>
@@ -332,15 +332,15 @@
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>유저</target>
+                <target>사용자 관리</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>유저 추가</target>
+                <target>사용자 추가</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>새 유저</target>
+		<target>새 사용자</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
@@ -372,7 +372,7 @@
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>사용자를 찾을 수 없습니다.</target>
+                <target>아직 사용자가 없습니다.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
@@ -581,11 +581,11 @@
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>실행</target>
+                <target>실행 중</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>정지</target>
+                <target>정지됨</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
@@ -1249,7 +1249,7 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>IP 주소가 없습니다.</target>
+                <target>아직 차단한 IP 주소가 없습니다.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
@@ -1273,7 +1273,7 @@
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
-                <target>봇이 없습니다.</target>
+                <target>아직 차단한 봇이 없습니다.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
@@ -1301,7 +1301,7 @@
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>기본 인증 우회를 위한 IP 주소 목록을 쉼표로 구분하여 나열하세요.</target>
+                <target>기본 인증을 적용하지 않을 IP 목록을 쉼표로 나열해 주세요.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
@@ -1353,7 +1353,7 @@
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>등록된 cron jobs이 없습니다.</target>
+                <target>등록된 cron 작업이 없습니다.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
@@ -1377,19 +1377,19 @@
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>하루에 한 번 (00:00에)</target>
+                <target>하루에 한 번 (0시)</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
-                <target>매일 오전 4시.</target>
+                <target>매일 오전 4시</target>
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>한 주에 한 번 (00:00 일요일)</target>
+                <target>한 주에 한 번 (일요일 0시)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>한 달에 한 번 (00:00에 매월 1일)</target>
+                <target>한 달에 한 번 (매월 1일 0시)</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
@@ -1673,7 +1673,7 @@
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>로트 평균</target>
+                <target>로드 평균</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
