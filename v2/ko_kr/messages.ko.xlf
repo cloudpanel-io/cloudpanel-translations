@@ -396,19 +396,19 @@
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
-                <target>이벤트</target>
+                <target>이력</target>
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>이벤트가 없습니다.</target>
+                <target>이력이 없습니다.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>이벤트 시간</target>
+                <target>기록 시간</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
-                <target>이벤트</target>
+                <target>기록</target>
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
