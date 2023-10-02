@@ -66,6 +66,10 @@
                 <source>German</source>
                 <target>German</target>
             </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                <target>Danish</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>Bulgarian</target>
