@@ -66,6 +66,10 @@
                 <source>German</source>
                 <target>Němčina</target>
             </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>Čeština</target>
+            </trans-unit>
             <trans-unit id="locale-danish">
                 <source>Danish</source>
                 <target>Dánština</target>
@@ -1605,7 +1609,7 @@
                 <source>Python Settings have been saved.</source>
                 <target>Nastavení Pythonu byla uložena.</target>
             </trans-unit>
-                        <<trans-unit id="operating-system">
+            <trans-unit id="operating-system">
                 <source>Operating System</source>
                 <target>Operační systém</target>
             </trans-unit>

@@ -66,6 +66,10 @@
                 <source>German</source>
                 <target>Almanca</target>
             </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>Çekçe</target>
+            </trans-unit>
             <trans-unit id="locale-danish">
                 <source>Danish</source>
                 <target>Danca</target>

@@ -66,6 +66,10 @@
                 <source>German</source>
                 <target>독일어</target>
             </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>체코어</target>
+            </trans-unit>
             <trans-unit id="locale-danish">
                 <source>Danish</source>
                 <target>덴마크어</target>
