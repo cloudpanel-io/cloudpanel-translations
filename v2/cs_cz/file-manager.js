@@ -1,4 +1,4 @@
-var id = {
+var cs = {
     Save: "Uložit",
     "Save all": "Uložit vše",
     Rename: "Přejmenovat",
