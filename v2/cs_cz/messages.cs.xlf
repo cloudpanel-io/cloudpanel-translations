@@ -48,7 +48,7 @@
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Problémy</target>
+                <target>Nahlásit problém</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
@@ -180,7 +180,7 @@
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>Operační systém</target>
+                <target>OS</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
@@ -264,7 +264,7 @@
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Přehledová stránka</target>
+                <target>Řídící panel</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
@@ -272,7 +272,7 @@
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Bezpečnost</target>
+                <target>Zabezpečení</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
@@ -572,7 +572,7 @@
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Basic Auth</target>
+                <target>Základní autentizace</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
@@ -588,7 +588,7 @@
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Běžící</target>
+                <target>Aktivní</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
@@ -716,7 +716,7 @@
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Obrázky</target>
+                <target>Obrazy</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
@@ -740,11 +740,11 @@
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Nastavení obrázků</target>
+                <target>Nastavení obrazů</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Povolit automatické obrázky</target>
+                <target>Povolit automatické obrazy</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
@@ -756,7 +756,7 @@
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Nastavení obrázků bylo uloženo.</target>
+                <target>Nastavení obrazů bylo uloženo.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
@@ -784,11 +784,11 @@
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Název obrázku</target>
+                <target>Název obrazu</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>Nebyly nalezeny žádné obrázky.</target>
+                <target>Nebyly nalezeny žádné obrazy.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
@@ -932,7 +932,7 @@
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
-                <target>Virtuální hostitel</target>
+                <target>Vhost editor</target>
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
@@ -956,7 +956,7 @@
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Záznamy</target>
+                <target>Logy</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -1511,7 +1511,7 @@
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>Admin E-Mail</target>
+                <target>E-mail správce</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
@@ -1527,7 +1527,7 @@
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>Vícesíťová</target>
+                <target>Multisite</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
@@ -1631,7 +1631,7 @@
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>Sledování</target>
+                <target>Monitorování</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
@@ -1719,11 +1719,11 @@
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
-                <target>Kôš</target>
+                <target>Kyblík "Bucket"</target>
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Název kýble</target>
+                <target>Název kyblíku</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
@@ -1731,7 +1731,7 @@
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Kde ukládat zálohy vzhledem k kořeni.</target>
+                <target>Umístění záloh vzhledem ke kořenovému adresáři.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
