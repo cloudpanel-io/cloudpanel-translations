@@ -1818,7 +1818,6 @@
                 <source>Format for S3 compatible endpoints</source>
                 <target>Formato per endpoint compatibili con S3</target>
             </trans-unit>
-            <!-- Translate Me Start -->
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
                 <target>Varnish Cache</target>
@@ -1829,69 +1828,68 @@
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Cache Lifetime</target>
+                <target>Durata Cache</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Cache Lifetime in seconds before being refreshed.</target>
+                <target>Durata Cache in secondi prima dell'aggiornamento.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Cache Tag Prefix</target>
+                <target>Prefisso Tag Cache</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Excluded Params</target>
+                <target>Parametri Esclusi</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>List of GET parameters, separated by a comma, to disable caching.</target>
+                <target>Elenco di parametri GET, separati da una virgola, per disabilitare la cache.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Urls and files that Varnish Cache shouldn't cache.</target>
+                <target>URL e file che Varnish Cache non deve memorizzare nella cache.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnish Cache Settings have been saved.</target>
+                <target>Impostazioni di Varnish Cache salvate.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Purge Entire Cache</target>
+                <target>Svuota completamente la Cache</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>You can purge single urls or tags separated by comma.</target>
+                <target>Puoi rimuovere singoli URL o tag separati da virgola.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish Cache has been purged.</target>
+                <target>Cache di Varnish svuotata.</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Create a Reverse Proxy</target>
+                <target>Crea un Proxy Inverso</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>New Reverse Proxy</target>
+                <target>Nuovo Proxy Inverso</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Reverse Proxy Url</target>
+                <target>URL proxy inverso</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Reverse Proxy has been created.</target>
+                <target>Proxy Inverso creato.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Reverse Proxy Settings</target>
+                <target>Impostazioni Proxy Inverso</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Reverse Proxy Settings have been saved.</target>
+                <target>Impostazioni Proxy Inverso salvate.</target>
             </trans-unit>
-            <!-- Translate Me End -->
         </body>
     </file>
 </xliff>
