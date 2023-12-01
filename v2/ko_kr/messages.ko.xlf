@@ -236,7 +236,7 @@
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
-                <target>표준 시간대</target>
+                <target>표준시</target>
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
@@ -292,7 +292,7 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>2단계 인증은 계정에 보안을 한층 더 강화합니다. 로그인할 때마다 비밀번호와 보안 코드를 모두 입력해야 합니다.</target>
+                <target>2단계 인증은 보안을 한층 더 강화합니다. 로그인할 때마다 비밀번호와 보안 코드를 모두 입력해야 합니다.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
@@ -348,7 +348,7 @@
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-		<target>새 사용자</target>
+		        <target>새 사용자</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
@@ -396,7 +396,7 @@
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>확실하신가요?</target>
+                <target>정말인가요?</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
@@ -512,11 +512,11 @@
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>규칙이 등록되었습니다.</target>
+                <target>규칙을 등록했습니다.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>규칙이 삭제되었습니다.</target>
+                <target>규칙을 삭제했습니다.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
@@ -580,8 +580,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>CloudPanel에 기본 인증을 적용하면 보안을 한층 더 강화합니다.</target>
-                
+                <target>CloudPanel에 기본 인증을 적용하면 보안을 한층 더 강화합니다.</target>   
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
@@ -613,7 +612,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress는 서버가 지정된 IP 주소 또는 DNS 호스트 이름에 대한 네트워크 정보를 클라이언트에 표시하도록 합니다.</target>
+                <target>MasqueradeAddress는 서버가 지정된 IP 주소 또는 DNS 호스트 이름에 대한 정보를 클라이언트에 표시합니다.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -625,7 +624,7 @@
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
-                <target>표준 시간대가 저장되었습니다.</target>
+                <target>표준시를 저장했습니다.</target>
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
@@ -637,7 +636,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>표준 시간대를 변경한 후에는 인스턴스를 재시작하는 것을 권장합니다.</target>
+                <target>표준시를 변경한 후에는 인스턴스를 재시작하는 것을 권장합니다.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -685,15 +684,15 @@
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
-                <target>데이터베이스 서버가 업데이트 되었습니다.</target>
+                <target>데이터베이스 서버를 업데이트했습니다.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>데이터베이스 서버가 삭제되었습니다.</target>
+                <target>데이터베이스 서버를 삭제했습니다.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>데이터베이스 서버가 변경되었습니다.</target>
+                <target>데이터베이스 서버를 변경했습니다.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
@@ -749,7 +748,7 @@
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>주기</target>
+                <target>빈도</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
@@ -997,7 +996,7 @@
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>구문 분석기(parser)에 의해 스크립트가 종료되기 전에 스크립트가 실행될 수 있는 최대 시간을 설정합니다.</target>
+                <target>구문 분석기(parser)에 의해 스크립트가 종료되기 전에 스크립트를 실행할 수 있는 최대 시간을 설정합니다.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
@@ -1309,7 +1308,7 @@
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>기본 인증을 적용하지 않을 IP 목록을 쉼표로 나열해 주세요.</target>
+                <target>기본 인증을 적용하지 않을 IP를 쉼표로 나열해 주세요.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
@@ -1693,7 +1692,7 @@
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>스토리지 제공자를 고르세요</target>
+                <target>스토리지 제공자 선택</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1725,11 +1724,11 @@
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Bucket Name</target>
+                <target>Bucket 이름</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
-                <target>Storage Directory</target>
+                <target>Storage 디렉터리</target>
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
@@ -1737,7 +1736,7 @@
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>기존의 Secret Access 키를 계속 사용하려면 비워 두세요.</target>
+                <target>기존의 Secret Access 키를 사용하려면 비워 두세요.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
@@ -1769,7 +1768,7 @@
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
-                <target>기존 서비스 계정을 계속 사용하려면 비워 두세요.</target>
+                <target>기존 서비스 계정을 사용하려면 비워 두세요.</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
@@ -1777,7 +1776,7 @@
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Access Code</target>
+                <target>Access 코드</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
@@ -1801,11 +1800,11 @@
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Remote Server Path</target>
+                <target>Remote Server 경로</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Private Key Path</target>
+                <target>Private Key 경로</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
@@ -1869,7 +1868,7 @@
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>리버스 프록시(역방향 프록시) 만들기</target>
+                <target>리버스 프록시 만들기</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
