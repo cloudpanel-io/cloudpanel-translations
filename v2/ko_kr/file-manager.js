@@ -17,7 +17,7 @@ var ko = {
   Table: "Table",
   Cards: "Cards",
   Total: "Total",
-  "Are you sure ?": "확실하신가요?",
+  "Are you sure ?": "정말인가요?",
   Details: "상세",
   "Enter a new name": "새로운 이름을 입력하세요",
   Add: "Add",
