@@ -74,6 +74,10 @@
                 <source>Danish</source>
                 <target>Daneză</target>
             </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>Bosniacă</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>Bulgară</target>

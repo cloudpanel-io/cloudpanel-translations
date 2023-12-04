@@ -74,6 +74,10 @@
                 <source>Danish</source>
                 <target>丹麥文</target>
             </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>波斯尼亚语</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>保加利亚语</target>

@@ -74,6 +74,10 @@
                 <source>Danish</source>
                 <target>덴마크어</target>
             </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>보스니아어</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>불가리아어</target>
