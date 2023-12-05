@@ -28,7 +28,7 @@ var bs = {
     "Are you sure you want to exit without saving?": "Jeste li sigurni da želite izaći bez spašavanja?",
     "Save before closing?": "Spasi prije zatvaranja?",
     Copy: "Kopiraj",
-    Cut: "Isječi",
+    Cut: "Isjeci",
     Paste: "Zalijepi",
     "Deleting...": "Brisanje...",
     "Copying...": "Kopiranje...",

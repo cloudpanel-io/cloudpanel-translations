@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Klikni za Kopiranje</target>
+                <target>Klikni da kopiraš</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
@@ -208,7 +208,7 @@
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Lozinka</target>
+                <target>Šifra</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
@@ -236,7 +236,7 @@
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-pošta</target>
+                <target>E-mail</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
@@ -244,7 +244,7 @@
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Generiraj novu lozinku</target>
+                <target>Generiši novu šifru</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
@@ -372,7 +372,7 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Upravitelj web stranice</target>
+                <target>Menadžer web stranice</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
@@ -488,7 +488,7 @@
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
-                <target>Vatrozid</target>
+                <target>Firewall</target>
             </trans-unit>
             <trans-unit id="service">
                 <source>Service</source>
@@ -512,7 +512,7 @@
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
-                <target>Dodaj pravilo vatrozida</target>
+                <target>Dodaj pravilo firewalla</target>
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
@@ -532,7 +532,7 @@
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Raspon vrata</target>
+                <target>Raspon port-a</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
@@ -556,7 +556,7 @@
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
-                <target>Moj IP</target>
+                <target>Moja IP</target>
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
@@ -572,7 +572,7 @@
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Uredi pravilo vatrozida</target>
+                <target>Uredi firewall pravilo</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
@@ -592,7 +592,7 @@
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Pokrenuto</target>
+                <target>Pokrenuto (funkcioniše)</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
@@ -624,7 +624,7 @@
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Postavke primjerka</target>
+                <target>Postavke instance-a</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
@@ -636,11 +636,11 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Primjerak će se uskoro ponovno pokrenuti.</target>
+                <target>Instance će se uskoro ponovno pokrenuti.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>Preporučuje se ponovno pokretanje primjerka nakon promjene vremenske zone.</target>
+                <target>Preporučuje se ponovno pokretanje instance-a nakon promjene vremenske zone.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -672,7 +672,7 @@
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP adresa ili DNS ime</target>
+                <target>IP adresa ili DNS naziv</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
@@ -716,15 +716,15 @@
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Rezerve</target>
+                <target>Backupi</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Slike</target>
+                <target>Images</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>AWS vjerodajnice</target>
+                <target>AWS akreditivi</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
@@ -744,11 +744,11 @@
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Podešavanja slika</target>
+                <target>Image podešavanja</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Omogući automatske slike</target>
+                <target>Omogući automatske Image</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
@@ -760,7 +760,7 @@
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Podešavanja slika su sačuvana.</target>
+                <target>Podešavanja za Imges su sačuvana.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
@@ -772,11 +772,11 @@
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Svaka šest sati</target>
+                <target>Svakih šest sati</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Svaka dvanaest sati</target>
+                <target>Svakih dvanaest sati</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
@@ -784,15 +784,15 @@
             </trans-unit>
             <trans-unit id="create-image">
             <source>Create Image</source>
-            <target>Kreiraj sliku</target>
+            <target>Kreiraj Image</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Naziv slike</target>
+                <target>Naziv za Image</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>Nema pronađenih slika.</target>
+                <target>Nema Image pronađenih.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
@@ -812,11 +812,11 @@
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Slika se kreira.</target>
+                <target>Image je kreiran.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Slika se briše.</target>
+                <target>Image se briše.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
@@ -832,7 +832,7 @@
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
-                <target>Snapshota</target>
+                <target>Snapshot</target>
             </trans-unit>
             <trans-unit id="snapshots-settings">
                 <source>Snapshots Settings</source>
@@ -920,7 +920,7 @@
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
-                <target>Lozinka korisnika web stranice</target>
+                <target>Šifra korisnika web stranice</target>
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
@@ -1124,7 +1124,7 @@
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Ime baze podataka</target>
+                <target>Naziv baze podataka</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
@@ -1132,7 +1132,7 @@
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
-                <target>Lozinka korisnika baze podataka</target>
+                <target>Šifra korisnika baze podataka</target>
             </trans-unit>
             <trans-unit id="permissions">
                 <source>Permissions</source>
@@ -1232,7 +1232,7 @@
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
-                <target>Domenska imena</target>
+                <target>Nazivi domena</target>
             </trans-unit>
             <trans-unit id="add-domain">
                 <source>Add Domain</source>
@@ -1264,7 +1264,7 @@
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
-                <target>Primeri</target>
+                <target>Primjeri</target>
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
@@ -1332,7 +1332,7 @@
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Direktorij za početak</target>
+                <target>Početni direktorij</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
@@ -1360,15 +1360,15 @@
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Dodaj Cron posao</target>
+                <target>Dodaj Cron zadatak</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>Nisu pronađeni Cron poslovi.</target>
+                <target>Nisu pronađeni Cron zadaci.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>Novi Cron posao</target>
+                <target>Novi Cron zadatak</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
@@ -1400,7 +1400,7 @@
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>Jednom mesečno (U 00:00 prvog dana u mesecu)</target>
+                <target>Jednom mjesečno (U 00:00 prvog dana u mesecu)</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
@@ -1420,7 +1420,7 @@
             </trans-unit>
             <trans-unit id="month">
                 <source>Month</source>
-                <target>Mesec</target>
+                <target>Mjesec</target>
             </trans-unit>
             <trans-unit id="weekday">
                 <source>Weekday</source>
@@ -1428,15 +1428,15 @@
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>Cron posao je dodan.</target>
+                <target>Cron zadatak je dodan.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Cron posao je izbrisan.</target>
+                <target>Cron zadatak je izbrisan.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Cron posao je sačuvan.</target>
+                <target>Cron zadatak je sačuvan.</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
@@ -1452,7 +1452,7 @@
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>Brzina stranice</target>
+                <target>PageSpeed</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
@@ -1524,7 +1524,7 @@
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>Admin lozinka</target>
+                <target>Admin šifra</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
@@ -1672,15 +1672,15 @@
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>Iskorištenje procesora</target>
+                <target>Iskorištenost procesora</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Iskorištenje diska</target>
+                <target>Iskorištenost diska</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Iskorištenje memorije</target>
+                <target>Iskorištenost memorije</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
@@ -1688,7 +1688,7 @@
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Udaljena rezerva</target>
+                <target>Remote backup</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
@@ -1728,7 +1728,7 @@
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Ime Bucket</target>
+                <target>Naziv Bucket-a</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
@@ -1812,7 +1812,7 @@
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Ime prostora</target>
+                <target>Naziv prostora</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
