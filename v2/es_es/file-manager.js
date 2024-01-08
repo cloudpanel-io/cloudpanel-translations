@@ -51,7 +51,7 @@ var es = {
     of: "de",
     used: "usado",
     "Open item location": "Abrir ubicación del elemento",
-    "Are you sure you want to delete": "¿Está seguro de que quiere eliminar?",
+    "Are you sure you want to delete": "¿Estás seguro de que quieres eliminar?",
     "these items:": "estos elementos:",
     "this item:": "este elemento:",
     "Delete files": "Eliminar archivos",
