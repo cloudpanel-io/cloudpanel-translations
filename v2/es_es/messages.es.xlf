@@ -60,7 +60,7 @@
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Páginas</target>
+                <target>Sitios</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
@@ -244,7 +244,7 @@
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Genera nueva contraseña</target>
+                <target>Generar nueva contraseña</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
@@ -384,7 +384,7 @@
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>No se ecuentran usuarios.</target>
+                <target>No se encuentran usuarios.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
@@ -416,7 +416,7 @@
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Hor del evento</target>
+                <target>Hora del evento</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
@@ -460,7 +460,7 @@
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
-                <target>Info</target>
+                <target>Información</target>
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
@@ -640,7 +640,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>Se recomienda reinicar la instancia después de haber cambiado la zona horaria.</target>
+                <target>Se recomienda reiniciar la instancia después de haber cambiado la zona horaria.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -916,7 +916,7 @@
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Usuario del Sitio</target>
+                <target>Usuario del Sitio.</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
@@ -1036,7 +1036,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Eliminando un sitio borrará permanentemente todos los archivos, bases de datos, usuarios y configuración. además no será posible restaurarlo.</target>
+                <target>Eliminar un sitio borrará permanentemente todos los archivos, bases de datos, usuarios y configuración. además no será posible restaurarlo.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1452,7 +1452,7 @@
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>Velocidad de página</target>
+                <target>Velocidad del sitio</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
@@ -1460,15 +1460,15 @@
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>La configuración de la velocidad de página no es válida, el mensaje de error es: %errorMessage%</target>
+                <target>La configuración de la velocidad del sitio no es válida, el mensaje de error es: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>La configuración de la velocídad de página se ha guardado.</target>
+                <target>La configuración de la velocídad del sitio se ha guardado.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>La caché de la velocidad de página se ha purgado.</target>
+                <target>La caché de la velocidad del sitio se ha purgado.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
@@ -1496,7 +1496,7 @@
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>New Sitio</target>
+                <target>Nuevo sitio</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
@@ -1532,7 +1532,7 @@
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>Multisitio</target>
+                <target>Multisitios</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
@@ -1540,7 +1540,7 @@
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>¡El sitio WordPress se ha creado!</target>
+                <target>¡El sitio con WordPress se ha creado!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
@@ -1576,7 +1576,7 @@
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Versuñib Node.js</target>
+                <target>Versión de Node.js</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
