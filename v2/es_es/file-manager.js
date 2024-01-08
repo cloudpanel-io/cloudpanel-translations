@@ -17,7 +17,7 @@ var es = {
     Table: "Tabla",
     Cards: "Tarjetas",
     Total: "Total",
-    "Are you sure ?": "¿Está seguro?",
+    "Are you sure ?": "¿Estás seguro?",
     Details: "Detalles",
     "Enter a new name": "Introduzca un nombre nuevo",
     Add: "Añadir",
