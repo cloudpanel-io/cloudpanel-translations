@@ -916,7 +916,7 @@
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Usuario del Sitio.</target>
+                <target>Usuario del Sitio</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
