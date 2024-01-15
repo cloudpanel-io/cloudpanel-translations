@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>El puerto ya esta en uso.</target>
+                <target>El puerto ya está en uso.</target>
             </trans-unit>
         </body>
     </file>

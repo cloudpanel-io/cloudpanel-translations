@@ -28,7 +28,7 @@
             </trans-unit>
             <trans-unit id="loading">
                 <source>Loading</source>
-                <target>Subiendo</target>
+                <target>Cargando</target>
             </trans-unit>
             <trans-unit id="blog">
                 <source>Blog</source>
@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Docs</target>
+                <target>Documentación</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -48,7 +48,7 @@
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
-                <target>Asuntos</target>
+                <target>Problemas</target>
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
@@ -108,7 +108,7 @@
             </trans-unit>
             <trans-unit id="locale-japanese">
                 <source>Japanese</source>
-                <target>Giapponese</target>
+                <target>Japonés</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
@@ -124,11 +124,11 @@
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portugés</target>
+                <target>Portugués</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Portugés (Brasil)</target>
+                <target>Portugués (Brasil)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
@@ -188,7 +188,7 @@
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Servidor</target>
+                <target>Nombre del host</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
@@ -196,7 +196,7 @@
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores</target>
+                <target>Núcleos</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
@@ -204,7 +204,7 @@
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>Nobre de usuario</target>
+                <target>Nombre de usuario</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
@@ -212,7 +212,7 @@
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Identificarse</target>
+                <target>Iniciar sesión</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
@@ -224,19 +224,19 @@
             </trans-unit>
             <trans-unit id="language">
                 <source>Lengaje</source>
-                <target>Language</target>
+                <target>Idioma</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>Nombre</target>
+                <target>Nombre(s)</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Apellido</target>
+                <target>Apellido(s)</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-Mail</target>
+                <target>Correo electrónico</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
@@ -244,11 +244,11 @@
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Genera contraseña nueva</target>
+                <target>Generar nueva contraseña</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Crea usuario</target>
+                <target>Crear usuario</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
@@ -264,7 +264,7 @@
             </trans-unit>
             <trans-unit id="admin-area">
                 <source>Admin Area</source>
-                <target>Área administrativa</target>
+                <target>Administración</target>
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
@@ -296,7 +296,7 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>La autenticación en dos pasos añade una capa extra de seguridad a tu cuenta. Siempre que inicie sesión necesitará introducir ambas, su contraseña y también un código de seguridad.</target>
+                <target>La autenticación en dos pasos añade una capa extra de seguridad a tu cuenta. Siempre que inicie sesión necesitará introducir ambas, contraseña y código de seguridad.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
@@ -384,7 +384,7 @@
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>No se ecuentran usuarios.</target>
+                <target>No se encuentran usuarios.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
@@ -416,7 +416,7 @@
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
-                <target>Hor del evento</target>
+                <target>Hora del evento</target>
             </trans-unit>
             <trans-unit id="event">
                 <source>Event</source>
@@ -460,7 +460,7 @@
             </trans-unit>
             <trans-unit id="info">
                 <source>Info</source>
-                <target>Info</target>
+                <target>Información</target>
             </trans-unit>
             <trans-unit id="warning">
                 <source>Warning</source>
@@ -536,7 +536,7 @@
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
-                <target>Versión IP</target>
+                <target>Versión de la IP</target>
             </trans-unit>
             <trans-unit id="rule-source">
                 <source>Source</source>
@@ -640,7 +640,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>Se recomienda reinicar la instancia después de haber cambiado la zona horaria.</target>
+                <target>Se recomienda reiniciar la instancia después de haber cambiado la zona horaria.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -660,7 +660,7 @@
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
-                <target>Máquina</target>
+                <target>Motor</target>
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
@@ -716,7 +716,7 @@
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Copias de seguridad</target>
+                <target>Respaldos</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
@@ -756,7 +756,7 @@
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Periodo de retención (Days)</target>
+                <target>Período de retención (Días)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
@@ -776,7 +776,7 @@
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Cada docoe horas</target>
+                <target>Cada doce horas</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
@@ -808,11 +808,11 @@
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Creada At</target>
+                <target>Creado en</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Se creó la imagen.</target>
+                <target>La imagen está siendo creada.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
@@ -916,7 +916,7 @@
             </trans-unit>
             <trans-unit id="site-user">
                 <source>Site User</source>
-                <target>Usuario Sitio</target>
+                <target>Usuario del Sitio</target>
             </trans-unit>
             <trans-unit id="site-user-password">
                 <source>Site User Password</source>
@@ -924,7 +924,7 @@
             </trans-unit>
             <trans-unit id="app">
                 <source>App</source>
-                <target>App</target>
+                <target>Aplicación</target>
             </trans-unit>
             <trans-unit id="manage">
                 <source>Manage</source>
@@ -988,11 +988,11 @@
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
-                <target>Configuración PHP</target>
+                <target>Configuración del PHP</target>
             </trans-unit>
             <trans-unit id="php-version">
                 <source>PHP Version</source>
-                <target>Version PHP</target>
+                <target>Versión del PHP</target>
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
@@ -1036,7 +1036,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Eliminando un sitio borrará permanentemente todos los archivos, bases de datos, usuarios y configuración. además no será posible restaurarlo.</target>
+                <target>Eliminar un sitio borrará permanentemente todos los archivos, bases de datos, usuarios y configuración. además no será posible restaurarlo.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1240,11 +1240,11 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>Dominio personalizado Cloudflare</target>
+                <target>Dominio personalizado CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>El dominio personalizado Cloudflare se ha guardado.</target>
+                <target>El dominio personalizado CloudPanel se ha guardado.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
@@ -1452,7 +1452,7 @@
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>Velocidad de página</target>
+                <target>Velocidad del sitio</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
@@ -1460,15 +1460,15 @@
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>La configuración de la velocidad de página no es válida, el mensaje de error es: %errorMessage%</target>
+                <target>La configuración de la velocidad del sitio no es válida, el mensaje de error es: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>La configuración de la velocídad de página se ha guardado.</target>
+                <target>La configuración de la velocídad del sitio se ha guardado.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>La caché de la velocidad de página se ha purgado.</target>
+                <target>La caché de la velocidad del sitio se ha purgado.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
@@ -1496,7 +1496,7 @@
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>New Sitio</target>
+                <target>Nuevo sitio</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
@@ -1532,7 +1532,7 @@
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>Multisitio</target>
+                <target>Multisitios</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
@@ -1540,7 +1540,7 @@
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>¡El sitio WordPress se ha creado!</target>
+                <target>¡El sitio con WordPress se ha creado!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
@@ -1576,7 +1576,7 @@
             </trans-unit>
             <trans-unit id="nodejs-version">
                 <source>Node.js Version</source>
-                <target>Versuñib Node.js</target>
+                <target>Versión de Node.js</target>
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
@@ -1596,7 +1596,7 @@
             </trans-unit>
             <trans-unit id="python-version">
                 <source>Python Version</source>
-                <target>Versiónn Python</target>
+                <target>Versión del Python</target>
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
@@ -1644,19 +1644,19 @@
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Última hora</target>
+                <target>Última Hora</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Últimas 3 horas</target>
+                <target>Últimas 3 Horas</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>Últimas 6 horas 6 Hours</target>
+                <target>Últimas 6 Horas</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Últimas 12 horas</target>
+                <target>Últimas 12 Horas</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
@@ -1672,7 +1672,7 @@
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
-                <target>Uso CPU</target>
+                <target>Uso de CPU</target>
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
@@ -1712,7 +1712,7 @@
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Activar copias de seguridad romotas</target>
+                <target>Activar respaldos romotos</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
@@ -1748,11 +1748,11 @@
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>La configuración de la copia de seguridad remota se ha guardado.</target>
+                <target>La configuración del respaldo remoto se ha guardado.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>La configuración remota de la copia de seguridad se he eliminado.</target>
+                <target>La configuración remota del respaldo se he eliminado.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
@@ -1788,7 +1788,7 @@
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Crear Copia de Seguridad</target>
+                <target>Crear respaldo</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
