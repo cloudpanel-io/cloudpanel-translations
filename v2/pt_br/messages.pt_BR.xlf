@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Documentos</target>
+                <target>Documentação</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -252,7 +252,7 @@
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>eu concordo com os <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">termos da licença</a>]]> e reconheço a <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">polítiva de privacidade</a>]]>.</target>
+                <target>eu concordo com os <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">termos da licença</a>]]> e reconheço a <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">política de privacidade</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
@@ -1604,7 +1604,7 @@
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Confira os documentos.</target>
+                <target>Confira a documentação.</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
