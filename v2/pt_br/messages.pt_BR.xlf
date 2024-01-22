@@ -412,7 +412,7 @@
             </trans-unit>
             <trans-unit id="no-events-found">
                 <source>No events found.</source>
-                <target>Nenhum Eventos encontrado.</target>
+                <target>Nenhum evento encontrado.</target>
             </trans-unit>
             <trans-unit id="event-time">
                 <source>Event Time</source>
@@ -436,7 +436,7 @@
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>notificação excluída.</target>
+                <target>Notificação excluída.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
@@ -448,7 +448,7 @@
             </trans-unit>
             <trans-unit id="date">
                 <source>Date</source>
-                <target>Encontro</target>
+                <target>Data</target>
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
@@ -524,7 +524,7 @@
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
-                <target>Modelo</target>
+                <target>Tipo</target>
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
@@ -548,11 +548,11 @@
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>Anywhere-IPv4</target>
+                <target>Qualquer - IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>Anywhere-IPv6</target>
+                <target>Qualquer - IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
@@ -684,7 +684,7 @@
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>Servidor de banco de dados foi adicionado.</target>
+                <target>O servidor de banco de dados foi adicionado.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
@@ -956,7 +956,7 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron Jobs</target>
+                <target>Cron Jobs Jobs</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
