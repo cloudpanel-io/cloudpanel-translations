@@ -532,7 +532,7 @@
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
-                <target>Portų diapazonas</target>
+                <target>Prievadų diapazonas</target>
             </trans-unit>
             <trans-unit id="ip-version">
                 <source>IP Version</source>
@@ -668,7 +668,7 @@
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>Portas</target>
+                <target>Prievadas</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
@@ -1580,7 +1580,7 @@
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>Pridėti Portą</target>
+                <target>Pridėti prievadą</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
