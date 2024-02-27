@@ -4,7 +4,7 @@
         <body>
             <trans-unit id="does-not-exist">
                 <source>Does not exist.</source>
-                <target>Neegzituoja.</target>
+                <target>Neegzistuoja.</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
                 <source>This value already exists.</source>
@@ -20,11 +20,11 @@
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
                 <source>Database Server credentials are not valid.</source>
-                <target>Duomenų bazės serverio įgaliojimai neteisingi.</target>
+                <target>Duomenų bazės serverio kredencialai neteisingi.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>Portas jau naudojamas.</target>
+                <target>Prievadas jau naudojamas.</target>
             </trans-unit>
         </body>
     </file>
