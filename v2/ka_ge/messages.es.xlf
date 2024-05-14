@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ka" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>კი</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>არა</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>ყველა</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>მხარდაჭერა</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>დააწკაპუნეთ კოპირებისთვის</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>კოპირებული არის ბუფერში</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>იტვირთება</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>ბლოგი</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>კონტაქტი</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>დოკუმენტაცია</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>განახლება ხელმისაწვდომია</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>პრობლემები</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>გაგზავნა</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>საიტი</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>საიტები</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>გერმანული</target>
+            </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>ჩეხური</target>
+            </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                <target>დანიური</target>
+            </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>ბოსნიური</target>
+            </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>ბულგარული</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>ინგლისური</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>ფრანგული</target>
+            </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>კორეული</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>ებრაული</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>ჰოლანდიური</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>იტალიური</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>იაპონური</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>ესპანური</target>
+            </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>სპარსული</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>პოლონური</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>პორტუგალიური</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>პორტუგალიური (ბრაზილია)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>ბერძნული</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>ლიტვური</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>ინდონეზიური</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>რუმინული</target>
+            </trans-unit>
+            <trans-unit id="locale-russian">
+                <source>Russian</source>
+                <target>რუსული</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>თურქული</target>
+            </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                <target>უკრაინული</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>არაბული</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>ვიეტნამური</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>ჩინური (გამოშვებული)</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>ჩინური (ტაივანი)</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>IPv4 საჯარო IP</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>IPv6 საჯარო IP</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>ოპერაციული სისტემა</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>ჰოსტის სახელწოდება</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>CPU</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>ბირთვი</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>ვეთანხმები ლიცენზიის პირობებს და ვიცი კონფიდენციურობის პოლიტიკა.</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>შეცდომა მიღებულია, შეცდომის შეტყობინება: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>ადმინისტრატორის ანგარიშის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>ადმინისტრატორის სივრცე</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>დეშბორდი</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>ანგარიში</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>უსაფრთხოება</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>ანგარიშის ინფორმაცია შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>შენახვა</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>შექმნა</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>ორეტაპიანი ავტორიზაცია</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>ორეტაპიანი ავტორიზაცია დაემატება დამატებითი უსაფრთხოებისთვის თქვენს ანგარიშს. როდესაც შეხვალთ, თქვენ უნდა შეიყვანოთ თქვენი პაროლი და უსაფრთხოების კოდი.</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>ორეტაპიანი ავტორიზაციის გააქტიურება</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>დააკავშირეთ აპლიკაცია</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>ავტორიზაციის აპის გამოყენებით, როგორიცაა %googleAuthenticatorLink% ან %duoLink%, დაასკანერეთ QR კოდი. ამის შემდეგ ის გიჩვენებთ 6 ციფრიან კოდს რომელიც უნდა შეიყვანოთ ქვემოთ.</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>პრობლემა გაქვთ QR კოდის სკანირებისას?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>სცადეთ ეს</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>აირჩიეთ ხელით შეტყობინება თქვენს აპში, და შეიყვანეთ თქვენი მომხმარებელის სახელი: "%userName%" და კოდი: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>ორეტაპიანი ავტორიზაცია ჩართულია.</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>ორეტაპიანი ავტორიზაციის გამორთვა.</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>ორეტაპიანი ავტორიზაცია გამორთულია.</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>შეიყვანეთ ავტორიზაციის კოდი</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>საიტების გვერდზე დაბრუნება</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>მომხმარებლები</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>მომხმარებლის დამატება</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>ახალი მომხმარებლის</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>აქტიური</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>არა აქტიური</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>ადმინისტრატორი</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>მომხმარებელი</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>ვებ-საიტის მენეჯერი</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>მომხმარებელი დამატებულია.</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>მომხმარებელი განახლებულია.</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>მომხმარებლები ვერ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>როლი</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>სტატუსი</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>წაშლა</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>დარწმუნებული ხართ?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>მომხმარებელი წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>ღონისძიებები</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>ღონისძიებები ვერ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>ღონისძიების დრო</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>ღონისძიება</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>ნახვა</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>შეტყობინებები</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>შეტყობინებები არ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>შეტყობინებები წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>შეტყობინებების ჩვენება</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>სიმძიმე</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>თარიღი</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>შეტყობინება</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>ქმედება</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>ინფორმაცია</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>გაფრთხილება</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                <target>Კრიტიკული</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>Მეტი ინფორმაცია</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>წაკითხულად მონიშვნა</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>წაუკითხავად მონიშვნა</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>ინსტანცია</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>Firewall</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>სერვისი</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>სერვისები</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>წესები</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>წესების დამატება</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>წესები არ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>Firewall წესის დამატება.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>წესები დამატებულია.</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>წესი წაიშლა.</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>ტიპი</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>მორგებული TCP</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>პორტის შუალედი</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>IP ვერსია</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>წყარო</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>მორგებული</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>სადმე-IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>სადმე-IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>ჩემი IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP ან CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>აღწერა</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>მოქმედებები</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>Firewall-ის წესის რედაქტირება</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>Basic Auth</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>Basic Auth-ის ჩართვა</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>CloudPanel-ის წინ Basic Auth ამატებს უსაფრთხოების დამატებით საფეხურს.</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>Basic Auth ჩართულია.</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>გაშვებულია</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>გაჩერებულია</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>გადატვირთვა</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>სერვისი განახლდება მალე.</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>Proftpd-ის პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>MasqueradeAddress</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress-ი გამოიჩნევს სერვერს, რომ აჩვენოს ქსელის ინფორმაცია განსაზღვრული IP მისამართის ან DNS ჰოსტნეიმისთვის კლიენტს.</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>MasqueradeAddress-ი შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>ინსტანციის პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>დროის სარტყელი შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>გადატვირთვა</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>ინსტანცია მალე გადაიტვირთება.</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>დროის სარტყელის შეცვლის შემდეგ, რეკომენდებულია ინსტანსის გადატვირთვა.</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>ზოგადი</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>მონაცემთა ბაზის სერვერები</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>დაამატეთ მონაცემთა ბაზის სერვერი</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>მონაცემთა ბაზის სერვერის რედაქტირება</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>ძრავა</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>ჰოსტი</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>პორტი</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP ან DNS სახელი</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>სერტიფიკატი</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>აქტიურად მონიშვნა</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>მონაცემთა სერვერი დაემატა.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>მონაცემთა სერვერი განახლებულია.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>მონაცემთა სერვერი წაიშალა.</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>მონაცემთა სერვერი შეიცვალა.</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>საბრენდო დომენი</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>TLS სერტიფიკატი</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Let's Encrypt HTTP წარმოება</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Let's Encrypt DNS წარმოება</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>სარეზერვო კოპიები</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>სურათები</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>AWS აუტორიზაცია</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>AWS წვდომის გასაღები</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>AWS Secret Access Key</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>AWS Access Keys არ არის სწორი.</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>AWS წვდომის გასაღებები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>სურათების პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>ავტომატური სურათების ჩართვა</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>სიხშირე</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>გადაკარგვის პერიოდი (დღეები)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>სურათების პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>ყოველ საათში</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>ყოველ სამ საათში</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>ყოველ ექვს საათში</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>ყოველ თორმეტ საათში</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>დღეში ერთხელ</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>Image-ის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>Image-ის სახელი</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>Image-ები არ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>ხელმისაწვდომია</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>ელოდება</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>ჩაიშალა</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>შექმნილია</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>Image შექმნილია.</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>Image წაიშალა.</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>Access Token არ არის სწორი.</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>Access Token შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>Access Token</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>Snapshots</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>Snapshot-ის პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>ავტომატური Snapshot-ების ჩართვა</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>Snapshot-ის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>Snapshot-ები არ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>Snapshot-ის სახელი</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>ზომა</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>Snapshot-ის შექმნა დაიწყო.</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>Snapshot-ის წაშლა დაიწყო.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>Service Account Keys</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>Service Account Keys არ არის სწორი.</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>Service Account Keys შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>API გასაღები</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>API გასაღები არ არის სწორი.</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>API გასაღები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>API Token</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>API Token არ არის სწორი.</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>API Token შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>საიტები არ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ საიტის დამატება</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>დომენი</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                <target>საიტის მომხმარებელი</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>საიტის მომხმარებელის პაროლი</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>აპლიკაცია</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>მართვა</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>IP მისამართი</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>მონცამემთა ბაზები</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>ფაილ მენეჯერი</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>Cron Jobs</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>ლოგები</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>დომენის პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>Root დირექტორია</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>დომენის სახელი</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>აპლიკაცია</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>ზოგადი</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>Root Directory შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>PHP პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>PHP ვერსია</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>მიუთითეთ მეხსიერების მაქსიმალურ მნიშვნელობა, რომელიც სკრიპტისთვის შეიძლება გამოიყოს.</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>მიუთითეთ მაქსიმალურ დრო, რომელისთვისაც ნებადართულია სკრიპტის გაშვება, სანამ იგი არ დასრულდება პარსერზე.</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>მიუთითეთ მაქსიმალურ დრო,რათა სკრიპტმა შეძლოს შეყვანილი მონაცემების გაანალიზება, როგორიცაა POST და GET</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>მიუთითეთ შეყვანის რაოდენობის ლიმიტი ფორმების განთავსებისთვის.</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>მიუთითეთ POST მონაცემების მაქსიმალური ზომა, რომელსაც PHP მიიღებს.</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>მიუთითეთ ატვირთული ფაილის მაქსიმალური ზომა.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>შეგიძლიათ განსაზღვროთ ნებისმიერი PHP პარამეტრი, როგორც ამას php.ini-ში განსაზღვრავთ.</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>კონფიგურაციის დამატებითი დირექტივები</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>PHP პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>საიტის წაშლა</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>საიტის წაშლა სამუდამოდ წაშლის საიტის ყველა ფაილს, მონაცემთა ბაზას, მომხმარებელს და კონფიგურაციას და მათი აღდგენა შეუძლებელია.</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>გაუქმება</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>წაშლის დასადასტურებლად, ველში ჩაწერეთ %domain%.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>საიტი წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>საიტის მომხმარებლის პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>საიტის მომხმარებლის პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>SSH გასაღებები</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>Vhost რედაქტორი</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>Vhost შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Vhost არასწორია, შეცდომა: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>მონაცემთა ბაზები არ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>მონაცემთა ბაზა</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>მონაცემთა ბაზის დამატება</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>ახალი მონაცემთა ბაზა</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>მონაცემთა ბაზა დამატებულია.</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>მონაცემთა ბაზა წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>მონაცემთა ბაზის მომხმარებლები</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>მონაცემთა ბაზის მომხმარებლის დამატება</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>მონაცემთა ბაზის მომხმარებლები ვერ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>წაკითხვა და ჩაწერა</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>მხოლოდ წაკითხვა</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>მონაცემთა ბაზის ახალი მომხმარებელი</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>მონაცემთა ბაზის სახელი</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>მონაცემთა ბაზის მომხმარებლის სახელი</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>მონაცემთა ბაზის მომხმარებლის პაროლი</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>უფლებები</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>მონაცემთა ბაზა ვერ მოიძებნა; ჯერ შექმენით მონაცემთა ბაზა.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>მონაცემთა ბაზის მომხმარებელი დამატებულია.</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>მონაცემთა ბაზის მომხმარებელი წაიშალა.</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>მონაცემთა ბაზის მომხმარებლის რედაქტირება</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>მონაცემთა ბაზის მომხმარებელი განახლებულია.</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>სერტიფიკატები</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>ახალი Let's Encrypt სერთიფიკატი</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>სერტიფიკატის გადმოტანა</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>სერთიფიკატები ვერ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>Self-Signed</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>გადმოტანილი</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>დომენები</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>ვადის გასვლის თარიღი</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>დაყენებულია</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>Private Key</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>Certificate Chain</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>სერთიფიკატი წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>სერთიფიკატი დაყენებულია.</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>დაყენება</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>გადმოტანა და დაყენება</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>შექმნა და დაყენება</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>შეიყვანეთ დომენის სახელები, რომელთა დაცვაც გსურთ Let's Encrypt SSL სერთიფიკატით.</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>საჭიროა DNS ჩანაწერი, რომელიც მიუთითებს ამ სერვერზე, Let's Encrypt Certificate-ის მისანიჭებლად.</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>დომენის სახელები</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>დომენის დამატება</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>CloudPanel მორგებული დომენი</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>CloudPanel მორგებული დომენი შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>IP ბლოკირება</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>IP-ის დამატება</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>IP</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>IP-ები ვერ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>მაგალითები</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>ერთი IP</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>CIDR ფორმატი</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>IP დამატებულია.</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>IP წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>ბოტები ვერ მოიძებნა.</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>ბოტების ბლოკირება</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>ბოტის დამატება</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>ბოტი დამატებულია.</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>ბოტი წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>ბოტის სახელი</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>Basic Authentication</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>Basic Authentication-ის გვერდის ავლით IP-ების სია, მძიმით გამოყოფილი.</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>თეთრ სიაში მოხვედრილი IP-ები</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>დაუშვით ტრაფიკი მხოლოდ Cloudflare-დან</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>Name Server-ები უნდა მიუთითებდეს Cloudflare-ზე და Proxy უნდა იყოს ჩართული თქვენი DNS ჩანაწერებისთვის.</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>SSH მომხმარებლები</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>მთავარი დირექტორია</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>SSH მომხმარებელი</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>ახალი SSH მომხმარებელი</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>მომხმარებელი შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>FTP მომხმარებელი</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>FTP მომხმარებლები</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>ახალი FTP მომხმარებელი</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>დაამატე Cron Job</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>Cron Job-ები ვერ მოიძებნა</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>ახალი Cron Job</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>ყოველ წუთში</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>ყოველ 5 წუთში</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>საათში ერთხელ</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>ყოველ 3 საათში</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>დღეში ერთხელ (00:00 საათზე)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>ყოველდღე დილის 4 საათზე.</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>კვირაში ერთხელ (კვირას 00:00 საათზე)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>თვეში ერთხელ (00:00 საათზე)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>შაბლონი</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>წუთი</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>საათი</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>დღე</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>თვე</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>კვირის დღე</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>Cron Job დამატებულია.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>Cron Job წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>Cron Job შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>განრიგი</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>ბრძანება</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>განახლება</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>PageSpeed</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>ქეშის გასუფთავება</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>PageSpeed პარამეტრი არასწორია, შეცდომის შეტყობინება: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>Page Speed-ის პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>Page Speed-ის ქეში გასუფთავებულია.</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>როგორი საიტის შექმნა გსურთ?</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>WordPress საიტის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>PHP საიტის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>Node.js საიტის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>სტატიკური HTML საიტის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>Python საიტის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>ახალი საიტი</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>ახალი WordPress საიტი</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>WordPress-ის წინასწარ ინსტალაცია</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>უკან</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>საიტის სათაური</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>ადმინისტრატორის ელ-ფოსტა</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>ადმინისტრატორის მომხმარებლის სახელი</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>ადმინისტრატორის პაროლი</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>ადმინისტრატორის URL</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>Multisite</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>Vhost შაბლონი %vhostTemplate% არ არსებობს.</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>WordPress საიტი შეიქმნა!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>დააკოპირეთ თქვენი შექმნილი WordPress საიტის მონაცემები და შეინახეთ!</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>მიმდინარეობს შექმნა</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>მიმდინარეობს შენახვა</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>ახალი PHP საიტი</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>საიტის მთავარი SSH მომხმარებელი.</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>საიტი შექმნილია.</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>ახალი სტატიკური HTML საიტი</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>ახალი Node.js საიტი</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>Node.js ვერსია</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>აპლიკაციის პორტი</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>Node.js პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>Node.js პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>ახალი Python საიტი</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>Python-ის ვერსია</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>სხვა ვერსიაა საჭირო?</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>გადახედეთ დოკუმენტაციას.</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>Python-ის პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>Python-ის პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>ოპერაციული სისტემა</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>Cloud</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>რეგიონი</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>Droplet ID</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>ინსტანციის ID</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>მონიტორინგი</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>ბოლო 30 წუთი</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>ბოლო 1 საათი</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>ბოლო 3 საათი</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>ბოლო 6 საათი</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>ბოლო 12 საათი</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>1 წუთი</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>5 წუთი</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>15 წუთი</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>CPU გამოყენება</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>დისკის გამოყენება</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>მეხსიერების გამოყენება</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>დატვირთვის საშუალო</target>
+            </trans-unit>
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>დისტანციური რეზერვი</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>მეხსიერების პროვაიდერი</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>მონიშნეთ მეხსიერების პროვაიდერი</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone Config</source>
+                <target>მორგებული Rclone კონფიგურაცია</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>გაგრძელება</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>ჩართეთ დისტანციური სარეზერვო ასლის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>ყოველდღიური</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>დრო</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>სეგმენტი</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>სეგმენტის სახელი</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>შენახვის დირექტორია</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>სად გსურთ Root ასლების შენახვა.</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>დატოვეთ ცარიელი, რათა გააგრძელოთ არსებული Secret Key-ით.</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>გამორიცხავს</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>დისტანციური სარეზერვო ასლის პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>დისტანციური სარეზერვო ასლის პარამეტრები წაშლილია.</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>წვდომის გასაღები</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>Secret Access Key</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>თქვენი Google Drive ანგარიშის ელფოსტის მისამართი.</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>სერვისის ანგარიში</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>დატოვეთ ცარიელი, რომ გააგრძელოთ არსებული სერვისის ანგარიშის გამოყენება.</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>მოითხოვეთ წვდომის კოდი</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>წვდომის კოდი</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>დააჭირეთ ღილაკს და ჩასვით წვდომის კოდი შემდეგ ველში.</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>სარეზერვო ასლის შექმნა</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>სარეზერვო ასლის შექმნა მალე დაიწყება უკანა ფონზე.</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>ავთენტიფიკაციის მეთოდი</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>გასაღები</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>დისტანციური სერვერის Path</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>პირადი გასაღების Path</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Space Name</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Space Endpoint</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>Format for S3 compatible endpoints</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache">
+                <source>Varnish Cache</source>
+                <target>Varnish ქეში</target>
+            </trans-unit>
+            <trans-unit id="varnish-server">
+                <source>Varnish Server</source>
+                <target>Varnish სერვერი</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime">
+                <source>Cache Lifetime</source>
+                <target>Lifetime ქეში</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
+                <source>Cache Lifetime in seconds before being refreshed.</source>
+                <target>Cache Lifetime in seconds before being refreshed.</target>
+            </trans-unit>
+            <trans-unit id="cache-tag-prefix">
+                <source>Cache Tag Prefix</source>
+                <target>ქეშის Tag Prefix</target>
+            </trans-unit>
+            <trans-unit id="excluded-params">
+                <source>Excluded Params</source>
+                <target>გამორიცხული პარამეტრები</target>
+            </trans-unit>
+            <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
+                <source>List of GET parameters, separated by a comma, to disable caching.</source>
+                <target>GET პარამეტრების სია, გამოყოფილი მძიმით, რათა გამორთოთ ქეშირება.</target>
+            </trans-unit>
+            <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
+                <source>Urls and files that Varnish Cache shouldn't cache.</source>
+                <target>URL-ები და ფაილები, რომლებიც Varnish Cache-ში არ უნდა იყოს ქეშირებული.</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-settings-have-been-saved">
+                <source>Varnish Cache Settings have been saved.</source>
+                <target>Varnish Cache პარამეტრები შენახულია.</target>
+            </trans-unit>
+            <trans-unit id="purge-entire-cache">
+                <source>Purge Entire Cache</source>
+                <target>მთლიანი ქეშის გასუფთავება</target>
+            </trans-unit>
+            <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
+                <source>You can purge single urls or tags separated by comma.</source>
+                <target>შეგიძლიათ გაწმინდოთ ერთი URL ან თეგები, რომლებიც გამოყოფილია მძიმით.</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-has-been-purged">
+                <source>Varnish Cache has been purged.</source>
+                <target>Varnish Cache გასუფთავებულია.</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>Reverse Proxy-ის შექმნა</target>
+            </trans-unit>
+                <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>ახალი Reverse Proxy</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                <target>Reverse Proxy URL</target>
+            </trans-unit>
+                <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+            <target>Reverse Proxy შექმნილია.</target>
+            </trans-unit>
+                <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>Reverse Proxy პარამეტრები</target>
+            </trans-unit>
+                <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>Reverse Proxy პარამეტრები შენახულია.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
