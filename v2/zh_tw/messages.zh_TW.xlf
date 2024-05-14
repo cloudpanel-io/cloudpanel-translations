@@ -74,6 +74,10 @@
                 <source>Danish</source>
                 <target>Danish</target>
             </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>波斯尼亚语</target>
+            </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
                 <target>Bulgarian</target>
@@ -129,6 +133,14 @@
             <trans-unit id="locale-greek">
                 <source>Greek</source>
                 <target>Greek</target>
+            </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>Serbian</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>Georgian</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>

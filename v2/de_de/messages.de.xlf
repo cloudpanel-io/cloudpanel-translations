@@ -134,6 +134,14 @@
                 <source>Greek</source>
                 <target>Griechisch</target>
             </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>Serbisch</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>Georgisch</target>
+            </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Litauisch</target>
