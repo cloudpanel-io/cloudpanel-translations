@@ -1,4 +1,4 @@
-var es = {
+var ka_ge = {
     Save: "შენახვა",
     "Save all": "ყველაფრის შენახვა",
     Rename: "გადარქმევა",
