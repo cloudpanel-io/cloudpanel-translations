@@ -1,4 +1,4 @@
-var bs = {
+var sr_rs = {
     Save: "Sačuvaj",
     "Save all": "Sačuvaj sve",
     Rename: "Preimenuj",
