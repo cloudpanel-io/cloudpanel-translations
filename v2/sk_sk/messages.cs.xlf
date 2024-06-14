@@ -1221,7 +1221,8 @@
             <trans-unit id="install">
                 <source>Install</source>
                 <target>Inštalovať</target>
-            </trans-unit><trans-unit id="import-and-install">
+            </trans-unit>
+            <trans-unit id="import-and-install">
                 <source>Import and Install</source>
                 <target>Importovať a nainštalovať</target>
             </trans-unit>
