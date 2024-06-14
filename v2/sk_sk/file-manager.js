@@ -1,4 +1,4 @@
-var cs = {
+var sk = {
   Save: "Uložiť",
   "Save all": "Uložiť všetko",
   Rename: "Premenovať",
