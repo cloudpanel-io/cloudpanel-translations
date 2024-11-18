@@ -8,23 +8,23 @@
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
                 <source>This value already exists.</source>
-                <target>Bu zaten mevcut.</target>
+                <target>Bu değer zaten var.</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
                 <source>This value is not a valid domain name.</source>
-                <target>Bu değer, ilgili domain için geçersiz.</target>
+                <target>Bu değer, geçerli bir etki alanı adı değil.</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
                 <source>Does not match certificate.</source>
-                <target>Sertifika ile eşleşme başarısız.</target>
+                <target>Sertifika ile eşleşmiyor.</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
                 <source>Database Server credentials are not valid.</source>
-                <target>Veritabanı sunucu giriş bilgileri yanlış.</target>
+                <target>Veri tabanı sunucusu kimlik doğrulama bilgileri geçersiz.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>Port zaten kullanımda.</target>
+                <target>Bağlantı noktası zaten kullanılıyor.</target>
             </trans-unit>
         </body>
     </file>
