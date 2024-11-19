@@ -154,6 +154,10 @@
                 <source>Romanian</source>
                 <target>الرومانية</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>السلوفاكية</target>
+            </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>التركية</target>

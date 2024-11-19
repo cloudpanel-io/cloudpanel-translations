@@ -134,6 +134,14 @@
                 <source>Greek</source>
                 <target>Grčki</target>
             </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>Serbian</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>Georgian</target>
+            </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Litvanski</target>
@@ -145,6 +153,10 @@
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
                 <target>Rumunski</target>
+            </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>Slovački</target>
             </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>

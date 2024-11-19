@@ -154,6 +154,10 @@
                 <source>Romanian</source>
                 <target>Rumania</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>Slovakia</target>
+            </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>Rusia</target>
