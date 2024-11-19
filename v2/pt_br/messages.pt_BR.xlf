@@ -964,7 +964,7 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron Jobs Jobs</target>
+                <target>Cron Jobs</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
