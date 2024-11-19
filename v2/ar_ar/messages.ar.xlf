@@ -158,6 +158,10 @@
                 <source>Slovak</source>
                 <target>السلوفاكية</target>
             </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>التايلندية</target>
+            </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>التركية</target>

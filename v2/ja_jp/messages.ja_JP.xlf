@@ -162,6 +162,10 @@
                 <source>Russian</source>
                 <target>Русский</target>
             </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>タイ語</target>
+            </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
                 <target>Türkçe</target>
