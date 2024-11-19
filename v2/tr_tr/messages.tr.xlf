@@ -956,11 +956,11 @@
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
-                <target>Sanal sunucu</target>
+                <target>Vhost</target>
             </trans-unit>
             <trans-unit id="databases">
                 <source>Databases</source>
-                <target>Veri tabanları</target>
+                <target>Veri Tabanları</target>
             </trans-unit>
             <trans-unit id="ssl-tls">
                 <source>SSL/TLS</source>
@@ -972,15 +972,15 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>Dosya yöneticisi</target>
+                <target>Dosya Yöneticisi</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Zamanlanmış görevler</target>
+                <target>Görevler</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Günlük kayıtları</target>
+                <target>Günlükler</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -1844,7 +1844,7 @@
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
-                <target>Varnish ön belleği</target>
+                <target>Varnish Önbellek</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
