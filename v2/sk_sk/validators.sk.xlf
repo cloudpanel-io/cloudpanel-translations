@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-    <file source-language="en" target-language="id" datatype="plaintext" original="file.ext">
+    <file source-language="en" target-language="sk" datatype="plaintext" original="file.ext">
         <body>
             <trans-unit id="does-not-exist">
                 <source>Does not exist.</source>
-                <target>Tidak ditemukan.</target>
+                <target>Neexistuje.</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
                 <source>This value already exists.</source>
-                <target>Nilai ini sudah ada.</target>
+                <target>Táto hodnota už existuje.</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
                 <source>This value is not a valid domain name.</source>
-                <target>Nilai ini bukan nama domain yang valid.</target>
+                <target>Táto hodnota nie je platným názvom domény.</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
                 <source>Does not match certificate.</source>
-                <target>Tidak cocok dengan sertifikat.</target>
+                <target>Nezodpovedá certifikátu.</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
                 <source>Database Server credentials are not valid.</source>
-                <target>Kredensial Server Database tidak valid.</target>
+                <target>Prihlasovacie údaje k databázovému serveru nie sú platné.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>Port sudah digunakan.</target>
-            </trans-unit>
-            <trans-unit id="the-credentials-are-not-valid">
-                <source>The credentials are not valid.</source>
-                <target>Kredensial tidak valid.</target>
+                <target>Port sa už používa.</target>
             </trans-unit>
         </body>
     </file>

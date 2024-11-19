@@ -154,9 +154,17 @@
                 <source>Romanian</source>
                 <target>Roumain</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>Slovaque</target>
+            </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>Russe</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>Thaï</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
@@ -292,7 +300,7 @@
             </trans-unit>
             <trans-unit id="save">
                 <source>Save</source>
-                <target>Appliquer</target>
+                <target>Sauvegarder</target>
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
@@ -324,7 +332,7 @@
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Essayez ceci à la place</target>
+                <target>Essayez plutôt ceci</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
@@ -816,7 +824,7 @@
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Créé a</target>
+                <target>Créé à</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
@@ -864,7 +872,7 @@
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
-                <target>Configuration</target>
+                <target>Taille</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
@@ -1404,7 +1412,7 @@
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>Toute les semaines (dimanche à 00:00)</target>
+                <target>Toutes les semaines (dimanche à 00:00)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
@@ -1872,7 +1880,7 @@
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>Vous pouvez purger des URLs individuelles ou tags séparés par une virgule.</target>
+                <target>Vous pouvez purger des URLs individuelles ou des tags séparés par une virgule.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>

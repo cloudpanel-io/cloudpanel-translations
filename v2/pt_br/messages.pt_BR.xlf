@@ -154,9 +154,17 @@
                 <source>Romanian</source>
                 <target>Romeno</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>Eslovaco</target>
+            </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>Russo</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>Tailandês</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
@@ -964,7 +972,7 @@
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Cron Jobs Jobs</target>
+                <target>Cron Jobs</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>

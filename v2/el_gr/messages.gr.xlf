@@ -154,9 +154,17 @@
                 <source>Romanian</source>
                 <target>Ρουμανικά</target>
             </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>Σλοβακικά</target>
+            </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>Ρωσικά</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>Ταϊλανδικά</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
