@@ -142,6 +142,10 @@
                 <source>Hebrew</source>
                 <target>Иврит</target>
             </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                <target>Венгерский</target>
+            </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
                 <target>Литовский</target>

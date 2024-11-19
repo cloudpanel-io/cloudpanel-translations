@@ -98,6 +98,10 @@
                 <source>Hebrew</source>
                 <target>Ebraico</target>
             </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                <target>Ungherese</target>
+            </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
                 <target>Olandese</target>

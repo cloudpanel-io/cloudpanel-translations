@@ -98,6 +98,10 @@
                 <source>Hebrew</source>
                 <target>Tiếng Do Thái</target>
             </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                <target>Tiếng Hung-ga-ri</target>
+            </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
                 <target>Hà Lan</target>

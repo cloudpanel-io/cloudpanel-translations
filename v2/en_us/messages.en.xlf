@@ -98,6 +98,10 @@
                 <source>Hebrew</source>
                 <target>Hebrew</target>
             </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                <target>Hungarian</target>
+            </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
                 <target>Dutch</target>
@@ -189,10 +193,6 @@
             <trans-unit id="locale-chinese-taiwan">
                 <source>Chinese (Taiwan)</source>
                 <target>Chinese (Taiwan)</target>
-            </trans-unit>
-            <trans-unit id="locale-hungarian">
-                <source>Hungarian</source>
-                <target>Hungarian</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>

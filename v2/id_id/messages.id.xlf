@@ -98,6 +98,10 @@
                 <source>Hebrew</source>
                 <target>Ibrani</target>
             </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                <target>Hongaria</target>
+            </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
                 <target>Dutch</target>
@@ -161,6 +165,10 @@
             <trans-unit id="locale-russian">
                 <source>Russian</source>
                 <target>Rusia</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>Thai</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
