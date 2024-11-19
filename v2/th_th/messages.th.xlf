@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="th" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>ใช่</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>ไม่ใช่</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>ทั้งหมด</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>สนับสนุน</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>คลิกเพื่อคัดลอก</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>คัดลอกไปยังคลิปบอร์ดแล้ว</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>กำลังโหลด</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>บล็อก</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>ติดต่อ</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>เอกสาร</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>มีการอัปเดต</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>ปัญหา</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>ส่ง</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>เว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>เว็บไซต์ทั้งหมด</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>เยอรมัน</target>
+            </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>เช็ก</target>
+            </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                <target>เดนมาร์ก</target>
+            </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>บอสเนีย</target>
+            </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>บัลแกเรีย</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>อังกฤษ</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>ฝรั่งเศส</target>
+            </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>เกาหลี</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>ฮีบรู</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>ดัตช์</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>อิตาลี</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>ญี่ปุ่น</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>สเปน</target>
+            </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>เปอร์เซีย</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>โปแลนด์</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>โปรตุเกส</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>โปรตุเกส (บราซิล)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>กรีก</target>
+            </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>เซอร์เบีย</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>จอร์เจีย</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>ลิทัวเนีย</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>อินโดนีเซีย</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>โรมาเนีย</target>
+            </trans-unit>
+            <trans-unit id="locale-russian">
+                <source>Russian</source>
+                <target>รัสเซีย</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>ตุรกี</target>
+            </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                <target>ยูเครน</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>อาหรับ</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>เวียดนาม</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>จีน (ตัวย่อ)</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>จีน (ไต้หวัน)</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>ไอพีสาธารณะ IPv4</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>ไอพีสาธารณะ IPv6</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>ระบบปฏิบัติการ</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>โฮสต์เนม</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>ซีพียู</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>แกนประมวลผล</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                <target>หน่วยความจำ</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                <target>ชื่อผู้ใช้</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                <target>รหัสผ่าน</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                <target>เข้าสู่ระบบ</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                <target>การตั้งค่า</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                <target>ออกจากระบบ</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                <target>ภาษา</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                <target>ชื่อ</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                <target>นามสกุล</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                <target>อีเมล</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                <target>เขตเวลา</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                <target>สร้างรหัสผ่านใหม่</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                <target>สร้างผู้ใช้</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>ฉันยอมรับข้อกำหนดการอนุญาตและยอมรับนโยบายความเป็นส่วนตัว</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>เกิดข้อผิดพลาด ข้อความ: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>การสร้างผู้ดูแลระบบ</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>พื้นที่ผู้ดูแลระบบ</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>แผงควบคุม</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>บัญชี</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>ความปลอดภัย</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>ข้อมูลบัญชีถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>บันทึก</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>สร้าง</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>การยืนยันตัวตนแบบสองขั้นตอน</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>การยืนยันตัวตนแบบสองขั้นตอนช่วยเพิ่มความปลอดภัยให้กับบัญชีของคุณ ทุกครั้งที่คุณลงชื่อเข้าใช้ คุณจะต้องใส่ทั้งรหัสผ่านและรหัสความปลอดภัย</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>เปิดใช้งานการยืนยันตัวตนแบบสองขั้นตอน</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>เชื่อมต่อแอปของคุณ</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>ใช้แอปยืนยันตัวตน เช่น %googleAuthenticatorLink% หรือ %duoLink% เพื่อสแกน QR โค้ด มันจะแสดงรหัส 6 หลักที่คุณต้องใส่ด้านล่าง</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>มีปัญหาในการสแกนโค้ดหรือไม่?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>ลองใช้วิธีนี้แทน</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>เลือกการป้อนข้อมูลแบบแมนนวลในแอปของคุณ และใส่ชื่อผู้ใช้ของคุณ: "%userName%" และรหัส: %secret%</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>การยืนยันตัวตนแบบสองขั้นตอนถูกเปิดใช้งานแล้ว</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>ปิดใช้งานการยืนยันตัวตนแบบสองขั้นตอน</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>การยืนยันตัวตนแบบสองขั้นตอนถูกปิดใช้งานแล้ว</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>ใส่รหัสยืนยันตัวตน</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>กลับไปที่เว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>ผู้ใช้</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>เพิ่มผู้ใช้</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>ผู้ใช้ใหม่</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>ใช้งานอยู่</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>ไม่ได้ใช้งาน</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>ผู้ดูแล</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>ผู้ใช้</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>ผู้จัดการเว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>ผู้ใช้ถูกเพิ่มแล้ว</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>ข้อมูลผู้ใช้ถูกอัปเดตแล้ว</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>ไม่พบผู้ใช้</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>บทบาท</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>สถานะ</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>ลบ</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>คุณแน่ใจหรือ?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>ผู้ใช้ถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>เหตุการณ์</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>ไม่พบเหตุการณ์</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>เวลาของเหตุการณ์</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>เหตุการณ์</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>ดู</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>การแจ้งเตือน</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>ไม่พบการแจ้งเตือน</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>การแจ้งเตือนถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>แสดงข้อความ</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>ความรุนแรง</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>วันที่</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>ข้อความ</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>การกระทำ</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>ข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>คำเตือน</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                <target>วิกฤต</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>ข้อมูลเพิ่มเติม</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>ทำเครื่องหมายว่าอ่านแล้ว</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>ทำเครื่องหมายว่ายังไม่ได้อ่าน</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>อินสแตนซ์</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>ไฟร์วอลล์</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>บริการ</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>บริการทั้งหมด</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>กฎ</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>เพิ่มกฎ</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>ไม่พบกฎ</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>เพิ่มกฎไฟร์วอลล์</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>กฎถูกเพิ่มแล้ว</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>กฎถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>ประเภท</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>TCP ที่กำหนดเอง</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>ช่วงพอร์ต</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>เวอร์ชัน IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>ที่มา</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>กำหนดเอง</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>ทุกที่-IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>ทุกที่-IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>IP ของฉัน</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP หรือ CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>คำอธิบาย</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>การกระทำ</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>แก้ไขกฎไฟร์วอลล์</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>การยืนยันตัวตนพื้นฐาน</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>เปิดใช้งานการยืนยันตัวตนพื้นฐาน</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>การยืนยันตัวตนพื้นฐานที่ใช้ร่วมกับ CloudPanel ช่วยเพิ่มชั้นความปลอดภัยเพิ่มเติม</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>การยืนยันตัวตนพื้นฐานถูกเปิดใช้งานแล้ว</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>กำลังทำงาน</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>หยุดแล้ว</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>รีสตาร์ท</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>บริการจะรีสตาร์ทในไม่ช้า</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>การตั้งค่า Proftpd</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>ที่อยู่ปลอม</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress ทำให้เซิร์ฟเวอร์แสดงข้อมูลเครือข่ายสำหรับที่อยู่ IP หรือโฮสต์เนม DNS ที่ระบุให้กับลูกค้า</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>ที่อยู่ปลอมถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>การตั้งค่าอินสแตนซ์</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>เขตเวลาถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>รีบูต</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>อินสแตนซ์จะรีบูตในไม่ช้า</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>แนะนำให้รีบูตอินสแตนซ์หลังจากเปลี่ยนเขตเวลา</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>ทั่วไป</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>เซิร์ฟเวอร์ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>เพิ่มเซิร์ฟเวอร์ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>แก้ไขเซิร์ฟเวอร์ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>เอนจิน</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>โฮสต์</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>พอร์ต</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP หรือชื่อ DNS</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>ใบรับรอง</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>ตั้งค่าให้ใช้งาน</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>เซิร์ฟเวอร์ฐานข้อมูลถูกเพิ่มแล้ว</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>เซิร์ฟเวอร์ฐานข้อมูลถูกอัปเดตแล้ว</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>เซิร์ฟเวอร์ฐานข้อมูลถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>เซิร์ฟเวอร์ฐานข้อมูลถูกเปลี่ยนแปลงแล้ว</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>โดเมนที่กำหนดเอง</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>ใบรับรอง TLS</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Let's Encrypt การท้าทาย HTTP</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Let's Encrypt การท้าทาย DNS</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>การสำรองข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>ภาพ</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>ข้อมูลประจำตัว AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>คีย์การเข้าถึง AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>คีย์เข้าถึงลับ AWS</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>คีย์การเข้าถึง AWS ไม่ถูกต้อง</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>คีย์การเข้าถึง AWS ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>การตั้งค่าภาพ</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>เปิดใช้งานภาพอัตโนมัติ</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>ความถี่</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>ระยะเวลาเก็บรักษา (วัน)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>การตั้งค่าภาพถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>ทุกชั่วโมง</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>ทุกสามชั่วโมง</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>ทุกหกชั่วโมง</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>ทุกสิบสองชั่วโมง</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>หนึ่งครั้งต่อวัน</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>สร้างภาพ</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>ชื่อภาพ</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>ไม่พบภาพ</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>พร้อมใช้งาน</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>รอดำเนินการ</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>ล้มเหลว</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>สร้างเมื่อ</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>กำลังสร้างภาพ</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>กำลังลบภาพ</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>โทเค็นการเข้าถึงไม่ถูกต้อง</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>โทเค็นการเข้าถึงถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>โทเค็นการเข้าถึง</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>สแนปชอต</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>การตั้งค่าสแนปชอต</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>เปิดใช้งานสแนปชอตอัตโนมัติ</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>สร้างสแนปชอต</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>ไม่พบสแนปชอต</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>ชื่อสแนปชอต</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>ขนาด</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>กำลังสร้างสแนปชอต</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>กำลังลบสแนปชอต</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>คีย์บัญชีบริการ</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>คีย์บัญชีบริการไม่ถูกต้อง</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>คีย์บัญชีบริการถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>คีย์ API</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>คีย์ API ไม่ถูกต้อง</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>คีย์ API ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>โทเค็น API</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>โทเค็น API ไม่ถูกต้อง</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>โทเค็น API ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>ไม่พบเว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ เพิ่มเว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>โดเมน</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                <target>ผู้ใช้เว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>รหัสผ่านผู้ใช้เว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>แอป</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>จัดการ</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>ที่อยู่ IP</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>ตัวจัดการไฟล์</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>งาน Cron</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>บันทึก</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>การตั้งค่าโดเมน</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>ไดเรกทอรีราก</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>ชื่อโดเมน</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>แอปพลิเคชัน</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>ทั่วไป</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>ไดเรกทอรีรากถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>การตั้งค่า PHP</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>เวอร์ชัน PHP</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>ตั้งค่าจำนวนหน่วยความจำสูงสุดที่สคริปต์สามารถใช้ได้</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>ตั้งค่าเวลาสูงสุดที่สคริปต์สามารถทำงานได้ก่อนที่จะถูกยกเลิกโดยตัวแปล</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>ตั้งค่าเวลาสูงสุดที่สคริปต์สามารถแยกวิเคราะห์ข้อมูลอินพุต เช่น POST และ GET</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>ตั้งค่าขีดจำกัดของจำนวนอินพุตสำหรับการส่งแบบฟอร์ม</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>ขนาดสูงสุดของข้อมูล POST ที่ PHP จะยอมรับ</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>ขนาดสูงสุดของไฟล์ที่อัปโหลด</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>คุณสามารถกำหนดพารามิเตอร์ PHP ใดๆ ได้เช่นเดียวกับที่คุณกำหนดใน php.ini</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>คำสั่งการตั้งค่าเพิ่มเติม</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>การตั้งค่า PHP ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>ลบเว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>การลบเว็บไซต์จะลบไฟล์ทั้งหมด ฐานข้อมูล ผู้ใช้ และการตั้งค่าออกอย่างถาวรและไม่สามารถกู้คืนได้</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>ยกเลิก</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>เพื่อยืนยันการลบ ให้พิมพ์ %domain% ลงในช่อง</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>เว็บไซต์ถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>การตั้งค่าผู้ใช้เว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>การตั้งค่าผู้ใช้เว็บไซต์ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>คีย์ SSH</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>ตัวแก้ไข Vhost</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>Vhost ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Vhost ไม่ถูกต้อง ข้อความข้อผิดพลาด: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>ไม่พบฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>เพิ่มฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>ฐานข้อมูลใหม่</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>ฐานข้อมูลถูกเพิ่มแล้ว</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>ฐานข้อมูลถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>ผู้ใช้ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>เพิ่มผู้ใช้ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>ไม่พบผู้ใช้ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>อ่านและเขียน</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>อ่านอย่างเดียว</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>ผู้ใช้ฐานข้อมูลใหม่</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>ชื่อฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>ชื่อผู้ใช้ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>รหัสผ่านผู้ใช้ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>สิทธิ์</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>ไม่พบฐานข้อมูล สร้างฐานข้อมูลก่อน</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>ผู้ใช้ฐานข้อมูลถูกเพิ่มแล้ว</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>ผู้ใช้ฐานข้อมูลถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>แก้ไขผู้ใช้ฐานข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>ผู้ใช้ฐานข้อมูลถูกอัปเดตแล้ว</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>ใบรับรอง</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>ใบรับรอง Let's Encrypt ใหม่</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>นำเข้าใบรับรอง</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>ไม่พบใบรับรอง</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>ลงนามด้วยตนเอง</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>นำเข้าแล้ว</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>โดเมน</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>วันหมดอายุ</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>ติดตั้งแล้ว</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>คีย์ส่วนตัว</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>โซ่ใบรับรอง</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>ใบรับรองถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>ใบรับรองถูกติดตั้งแล้ว</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>ติดตั้ง</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>นำเข้าและติดตั้ง</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>สร้างและติดตั้ง</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>ป้อนชื่อโดเมนที่คุณต้องการรักษาความปลอดภัยด้วยใบรับรอง SSL ของ Let's Encrypt</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>จำเป็นต้องมีเรคคอร์ด DNS ที่ชี้ไปยังเซิร์ฟเวอร์นี้เพื่อออกใบรับรอง Let's Encrypt</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>ชื่อโดเมน</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>เพิ่มโดเมน</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>โดเมนที่กำหนดเองของ CloudPanel</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>โดเมนที่กำหนดเองของ CloudPanel ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>การบล็อก IP</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>เพิ่ม IP</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>IP</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>ไม่พบ IP</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>ตัวอย่าง</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>IP เดี่ยว</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>รูปแบบ CIDR</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>เพิ่ม IP แล้ว</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>ลบ IP แล้ว</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>ไม่พบบอท</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>การบล็อกบอท</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>เพิ่มบอท</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>บอทถูกเพิ่มแล้ว</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>บอทถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>ชื่อบอท</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>การยืนยันตัวตนพื้นฐาน</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>รายการ IP เพื่อข้ามการยืนยันตัวตนพื้นฐาน คั่นด้วยเครื่องหมายจุลภาค</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>รายการ IP ที่อนุญาต</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>อนุญาตการเข้าชมเฉพาะจาก Cloudflare</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>เนมเซิร์ฟเวอร์ต้องชี้ไปที่ Cloudflare และต้องเปิดใช้งานพร็อกซีสำหรับเรคคอร์ด DNS ของคุณ</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>ผู้ใช้ SSH</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>ไดเรกทอรีหลัก</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>ผู้ใช้ SSH</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>ผู้ใช้ SSH ใหม่</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>ผู้ใช้ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>ผู้ใช้ FTP</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>ผู้ใช้ FTP ทั้งหมด</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>ผู้ใช้ FTP ใหม่</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>เพิ่มงาน Cron</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>ไม่พบบันทึกงาน Cron</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>งาน Cron ใหม่</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>ทุกนาที</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>ทุก 5 นาที</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>ทุกชั่วโมง</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>ทุก 3 ชั่วโมง</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>วันละครั้ง (เวลา 00:00)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>ทุกวันเวลา 4 นาฬิกา</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>สัปดาห์ละครั้ง (เวลา 00:00 ในวันอาทิตย์)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>เดือนละครั้ง (เวลา 00:00 ในวันที่ 1 ของเดือน)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>แม่แบบ</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>นาที</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>ชั่วโมง</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>วัน</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>เดือน</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>วันในสัปดาห์</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>งาน Cron ถูกเพิ่มแล้ว</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>งาน Cron ถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>งาน Cron ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>ตารางเวลา</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>คำสั่ง</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>อัปเดต</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>ความเร็วหน้าเว็บ</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>ล้างแคช</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>การตั้งค่า PageSpeed ไม่ถูกต้อง ข้อความข้อผิดพลาด: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>การตั้งค่าความเร็วหน้าเว็บถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>แคชความเร็วหน้าเว็บถูกล้างแล้ว</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>คุณต้องการสร้างเว็บไซต์ประเภทใด?</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>สร้างเว็บไซต์ WordPress</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>สร้างเว็บไซต์ PHP</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>สร้างเว็บไซต์ Node.js</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>สร้างเว็บไซต์ HTML แบบคงที่</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>สร้างเว็บไซต์ Python</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>เว็บไซต์ใหม่</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>เว็บไซต์ WordPress ใหม่</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>ติดตั้ง WordPress ล่วงหน้า</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>กลับ</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>ชื่อเว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>อีเมลผู้ดูแลระบบ</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>ชื่อผู้ใช้ผู้ดูแลระบบ</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>รหัสผ่านผู้ดูแลระบบ</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>URL ผู้ดูแลระบบ</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>หลายเว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>แม่แบบ Vhost %vhostTemplate% ไม่มีอยู่</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>สร้างเว็บไซต์ WordPress แล้ว!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>คัดลอกข้อมูลประจำตัวสำหรับเว็บไซต์ WordPress ที่คุณสร้าง</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>กำลังสร้าง</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>กำลังบันทึก</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>เว็บไซต์ PHP ใหม่</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>ผู้ใช้ SSH หลักสำหรับเว็บไซต์</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>สร้างเว็บไซต์แล้ว</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>เว็บไซต์ HTML แบบคงที่ใหม่</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>เว็บไซต์ Node.js ใหม่</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>เวอร์ชัน Node.js</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>พอร์ตแอป</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>การตั้งค่า Node.js</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>การตั้งค่า Node.js ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>เว็บไซต์ Python ใหม่</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>เวอร์ชัน Python</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>ต้องการเวอร์ชันอื่นหรือไม่?</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>ดูเอกสาร</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>การตั้งค่า Python</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>การตั้งค่า Python ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>ระบบปฏิบัติการ</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>คลาวด์</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>ภูมิภาค</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>รหัส Droplet</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>รหัสอินสแตนซ์</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>การตรวจสอบ</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>30 นาทีที่ผ่านมา</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>ชั่วโมงที่ผ่านมา</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>3 ชั่วโมงที่ผ่านมา</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>6 ชั่วโมงที่ผ่านมา</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>12 ชั่วโมงที่ผ่านมา</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>1 นาที</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>5 นาที</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>15 นาที</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>การใช้งาน CPU</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>การใช้งานดิสก์</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>การใช้งานหน่วยความจำ</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>ค่าเฉลี่ยโหลด</target>
+            </trans-unit>
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>การสำรองข้อมูลระยะไกล</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>ผู้ให้บริการพื้นที่เก็บข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>เลือกผู้ให้บริการพื้นที่เก็บข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone Config</source>
+                <target>การตั้งค่า Rclone แบบกำหนดเอง</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>ดำเนินการต่อ</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>เปิดใช้งานการสำรองข้อมูลระยะไกล</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>รายวัน</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>เวลา</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>บัคเก็ต</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>ชื่อบัคเก็ต</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>ไดเรกทอรีเก็บข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>ตำแหน่งที่จัดเก็บการสำรองข้อมูลเมื่อเทียบกับรูท</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>ปล่อยว่างไว้เพื่อใช้คีย์การเข้าถึงที่มีอยู่</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>ยกเว้น</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>การตั้งค่าการสำรองข้อมูลระยะไกลถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>การตั้งค่าการสำรองข้อมูลระยะไกลถูกลบแล้ว</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>คีย์การเข้าถึง</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>คีย์การเข้าถึงลับ</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>ที่อยู่อีเมลบัญชี Google Drive ของคุณ</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>บัญชีบริการ</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>ปล่อยว่างไว้เพื่อใช้บัญชีบริการที่มีอยู่</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>ขอรหัสการเข้าถึง</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>รหัสการเข้าถึง</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>คลิกที่ปุ่มและวางรหัสการเข้าถึงลงในช่องถัดไป</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>สร้างการสำรองข้อมูล</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>การสำรองข้อมูลจะเริ่มต้นในพื้นหลังในไม่ช้า</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>วิธีการยืนยันตัวตน</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>คีย์</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>เส้นทางเซิร์ฟเวอร์ระยะไกล</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>เส้นทางคีย์ส่วนตัว</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>ชื่อพื้นที่</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>จุดปลายทางของพื้นที่</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>รูปแบบสำหรับจุดปลายทางที่เข้ากันได้กับ S3</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache">
+                <source>Varnish Cache</source>
+                <target>แคช Varnish</target>
+            </trans-unit>
+            <trans-unit id="varnish-server">
+                <source>Varnish Server</source>
+                <target>เซิร์ฟเวอร์ Varnish</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime">
+                <source>Cache Lifetime</source>
+                <target>อายุการใช้งานแคช</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
+                <source>Cache Lifetime in seconds before being refreshed.</source>
+                <target>อายุการใช้งานแคชเป็นวินาทีก่อนที่จะรีเฟรช</target>
+            </trans-unit>
+            <trans-unit id="cache-tag-prefix">
+                <source>Cache Tag Prefix</source>
+                <target>คำนำหน้าแท็กแคช</target>
+            </trans-unit>
+            <trans-unit id="excluded-params">
+                <source>Excluded Params</source>
+                <target>พารามิเตอร์ที่ยกเว้น</target>
+            </trans-unit>
+            <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
+                <source>List of GET parameters, separated by a comma, to disable caching.</source>
+                <target>รายการพารามิเตอร์ GET คั่นด้วยเครื่องหมายจุลภาค เพื่อปิดการใช้งานแคช</target>
+            </trans-unit>
+            <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
+                <source>Urls and files that Varnish Cache shouldn't cache.</source>
+                <target>URL และไฟล์ที่ Varnish Cache ไม่ควรแคช</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-settings-have-been-saved">
+                <source>Varnish Cache Settings have been saved.</source>
+                <target>การตั้งค่าแคช Varnish ถูกบันทึกแล้ว</target>
+            </trans-unit>
+            <trans-unit id="purge-entire-cache">
+                <source>Purge Entire Cache</source>
+                <target>ล้างแคชทั้งหมด</target>
+            </trans-unit>
+            <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
+                <source>You can purge single urls or tags separated by comma.</source>
+                <target>คุณสามารถล้าง URL หรือแท็กแยกด้วยเครื่องหมายจุลภาคได้</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-has-been-purged">
+                <source>Varnish Cache has been purged.</source>
+                <target>แคช Varnish ถูกล้างแล้ว</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>สร้าง Reverse Proxy</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>Reverse Proxy ใหม่</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                <target>URL ของ Reverse Proxy</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                <target>Reverse Proxy ถูกสร้างแล้ว</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>การตั้งค่า Reverse Proxy</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>การตั้งค่า Reverse Proxy ถูกบันทึกแล้ว</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
