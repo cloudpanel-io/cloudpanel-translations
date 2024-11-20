@@ -4,27 +4,27 @@
         <body>
             <trans-unit id="does-not-exist">
                 <source>Does not exist.</source>
-                <target>Bulunamadı.</target>
+                <target>Mevcut Değil !</target>
             </trans-unit>
             <trans-unit id="this-value-adready-exists">
                 <source>This value already exists.</source>
-                <target>Bu değer zaten var.</target>
+                <target>Bu Değer Zaten Var !</target>
             </trans-unit>
             <trans-unit id="this-value-is-not-a-valid-domain-name">
                 <source>This value is not a valid domain name.</source>
-                <target>Bu değer, geçerli bir etki alanı adı değil.</target>
+                <target>Bu Değer, Geçerli Bir Alan Adı Değil !</target>
             </trans-unit>
             <trans-unit id="does-not-match-certificate">
                 <source>Does not match certificate.</source>
-                <target>Sertifika ile eşleşmiyor.</target>
+                <target>Sertifika ile Eşleşmiyor !</target>
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
                 <source>Database Server credentials are not valid.</source>
-                <target>Veri tabanı sunucusu kimlik doğrulama bilgileri geçersiz.</target>
+                <target>Veritabanı Sunucusu Kimlik Bilgileri Geçerli Değil !</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
-                <target>Bağlantı noktası zaten kullanılıyor.</target>
+                <target>Bu Port Zaten Kullanımda !</target>
             </trans-unit>
         </body>
     </file>
