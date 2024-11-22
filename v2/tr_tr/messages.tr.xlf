@@ -156,7 +156,7 @@
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Romence</target>
+                <target>Rumence</target>
             </trans-unit>
             <trans-unit id="locale-slovak">
                 <source>Slovak</source>
