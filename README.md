@@ -1,3 +1,5 @@
+## I'm reviewing and correcting the Türkçe translation 🇹🇷
+
 ## CloudPanel Translation
 
 **CloudPanel** needs you! To make **CloudPanel** famous worldwide, we need as many translations as possible.
@@ -23,3 +25,4 @@ How can you provide a translation for **CloudPanel**?
 * Report [Bugs](https://github.com/cloudpanel-io/cloudpanel-ce/issues) on Github
 * Help others on [Discord](https://discord.cloudpanel.io/)
 * [Get in touch with us](https://www.cloudpanel.io/contact/) if you have other ideas
+
