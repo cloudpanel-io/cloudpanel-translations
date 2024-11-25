@@ -40,7 +40,7 @@
             </trans-unit>
             <trans-unit id="docs">
                 <source>Docs</source>
-                <target>Docs</target>
+                <target>Dokumentacja</target>
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
@@ -392,7 +392,7 @@
             </trans-unit>
             <trans-unit id="role-site-manager">
                 <source>Site Manager</source>
-                <target>Manager Strony</target>
+                <target>Menadżer Strony</target>
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
@@ -524,7 +524,7 @@
             </trans-unit>
             <trans-unit id="add-rule">
                 <source>Add Rule</source>
-                <target>Dodaj Regułę</target>
+                <target>Dodaj regułę</target>
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
@@ -580,7 +580,7 @@
             </trans-unit>
             <trans-unit id="rule-source-ip-or-cidr">
                 <source>IP or CIDR</source>
-                <target>IP albo CIDR</target>
+                <target>IP lub CIDR</target>
             </trans-unit>
             <trans-unit id="rule-description">
                 <source>Description</source>
@@ -596,11 +596,11 @@
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Basic Auth</target>
+                <target>Podstawowe uwierzytelnianie</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Włącz Basic Auth</target>
+                <target>Włącz podstawowe uwierzytelnianie</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
@@ -692,7 +692,7 @@
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP albo nazwa domenowa</target>
+                <target>IP lub nazwa DNS</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
@@ -736,7 +736,7 @@
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
-                <target>Backupy</target>
+                <target>Kopie zapasowe</target>
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
