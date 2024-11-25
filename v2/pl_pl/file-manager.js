@@ -67,5 +67,5 @@ var pl = {
     "Extract directory": "Wyodrębnij katalog",
     "Extracting...": "Wyodrębnianie...",
     "Compress": "Kompresuj",
-    "Compressing...": "Kompresja...",w
+    "Compressing...": "Kompresja...",
 };
