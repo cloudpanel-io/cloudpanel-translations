@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="click-to-copy">
                 <source>Click to Copy</source>
-                <target>Nhập chuột để sao chép</target>
+                <target>Nhấn để sao chép</target>
             </trans-unit>
             <trans-unit id="copied-to-clipboard">
                 <source>Copied to Clipboard</source>
@@ -44,7 +44,7 @@
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Cập nhật có sẵn</target>
+                <target>Có bản cập nhật</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
@@ -56,43 +56,43 @@
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>Site</target>
+                <target>Trang web</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Danh sách Site</target>
+                <target>Trang web</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>Đức</target>
+                <target>Tiếng Đức</target>
             </trans-unit>
             <trans-unit id="locale-czech">
                 <source>Czech</source>
-                <target>Séc</target>
+                <target>Tiếng Séc</target>
             </trans-unit>
             <trans-unit id="locale-danish">
                 <source>Danish</source>
-                <target>Tiếng Đan-mạch</target>
+                <target>Tiếng Đan Mạch</target>
             </trans-unit>
             <trans-unit id="locale-bosnian">
                 <source>Bosnian</source>
-                <target>Bosnia</target>
+                <target>Tiếng Bosnia</target>
             </trans-unit>
             <trans-unit id="locale-bulgarian">
                 <source>Bulgarian</source>
-                <target>Tiếng Bun-ga-ri</target>
+                <target>Tiếng Bulgaria</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>Anh</target>
+                <target>Tiếng Anh</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>Pháp</target>
+                <target>Tiếng Pháp</target>
             </trans-unit>
             <trans-unit id="locale-korean">
                 <source>Korean</source>
-                <target>Tiếng Triều Tiên</target>
+                <target>Tiếng Hàn</target>
             </trans-unit>
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
@@ -100,15 +100,15 @@
             </trans-unit>
             <trans-unit id="locale-hungarian">
                 <source>Hungarian</source>
-                <target>Tiếng Hung-ga-ri</target>
+                <target>Tiếng Hungary</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Hà Lan</target>
+                <target>Tiếng Hà Lan</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Ý</target>
+                <target>Tiếng Ý</target>
             </trans-unit>
             <trans-unit id="locale-japanese">
                 <source>Japanese</source>
@@ -116,7 +116,7 @@
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Tây Ban Nha</target>
+                <target>Tiếng Tây Ban Nha</target>
             </trans-unit>
             <trans-unit id="locale-persian">
                 <source>Persian</source>
@@ -124,55 +124,63 @@
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
-                <target>Ba Lan</target>
+                <target>Tiếng Ba Lan</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Bồ Đào Nha</target>
+                <target>Tiếng Bồ Đào Nha</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Bồ Đào Nha (B'ra-zin)</target>
+                <target>Tiếng Bồ Đào Nha (Brasil)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Hy Lạp</target>
+                <target>Tiếng Hy Lạp</target>
             </trans-unit>
             <trans-unit id="locale-serbian">
                 <source>Serbian</source>
-                <target>Serbian</target>
+                <target>Tiếng Serbia</target>
             </trans-unit>
             <trans-unit id="locale-georgian">
                 <source>Georgian</source>
-                <target>Georgian</target>
+                <target>Tiếng Gruzia</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>Tiếng Litva</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>Indonesian</target>
+                <target>Tiếng Indonesia</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Rumani</target>
+                <target>Tiếng Rumani</target>
             </trans-unit>
             <trans-unit id="locale-slovak">
                 <source>Slovak</source>
-                <target>Slovak</target>
+                <target>Tiếng Slovak</target>
+            </trans-unit>
+            <trans-unit id="locale-russian">
+                <source>Russian</source>
+                <target>Tiếng Nga</target>
             </trans-unit>
             <trans-unit id="locale-thai">
                 <source>Thai</source>
-                <target>Thái</target>
+                <target>Tiếng Thái</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>Thổ Nhĩ Kỳ</target>
+                <target>Tiếng Thổ Nhĩ Kỳ</target>
             </trans-unit>
             <trans-unit id="locale-ukrainian">
                 <source>Ukrainian</source>
-                <target>Tiếng U-kren</target>
+                <target>Tiếng Ukraina</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>Tiếng Ả Rập</target>
             </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
@@ -186,17 +194,13 @@
                 <source>Chinese (Taiwan)</source>
                 <target>Tiếng Trung (Đài Loan)</target>
             </trans-unit>
-            <trans-unit id="locale-arabic">
-                <source>Arabic</source>
-                <target>Tiếng A-rập</target>
-            </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
-                <target>IPv4 Public IP</target>
+                <target>IP công cộng IPv4</target>
             </trans-unit>
             <trans-unit id="ipv6-public-ip">
                 <source>IPv6 Public IP</source>
-                <target>IPv6 Public IP</target>
+                <target>IP công cộng IPv6</target>
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
@@ -216,11 +220,11 @@
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Bộ nhớ RAM</target>
+                <target>Bộ nhớ</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
-                <target>Tên tài khoản</target>
+                <target>Tên người dùng</target>
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
@@ -252,7 +256,7 @@
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-Mail</target>
+                <target>Email</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
@@ -260,15 +264,15 @@
             </trans-unit>
             <trans-unit id="generate-new-password">
                 <source>Generate new password</source>
-                <target>Tự tạo mật khẩu mới</target>
+                <target>Tạo mật khẩu mới</target>
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Tạo tài khoản</target>
+                <target>Tạo người dùng</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
-                <target>Tôi đồng ý với các <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">điều khoản cấp phép</a>]]> và thừa nhận <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">chính sách bảo mật</a>]]>.</target>
+                <target>Tôi đồng ý với <![CDATA[<a href="https://www.cloudpanel.io/license-terms/" target="_blank">điều khoản giấy phép</a>]]> và công nhận <![CDATA[<a href="https://www.cloudpanel.io/privacy-policy/" target="_blank">chính sách bảo mật</a>]]>.</target>
             </trans-unit>
             <trans-unit id="an-error-has-occured">
                 <source>An error has occurred, error message: %errorMessage%</source>
@@ -292,7 +296,7 @@
             </trans-unit>
             <trans-unit id="security">
                 <source>Security</source>
-                <target>Bảo vệ</target>
+                <target>Bảo mật</target>
             </trans-unit>
             <trans-unit id="account-saved">
                 <source>The account information has been saved.</source>
@@ -304,19 +308,19 @@
             </trans-unit>
             <trans-unit id="create">
                 <source>Create</source>
-                <target>Tạo ra</target>
+                <target>Tạo</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication">
                 <source>Two-Factor Authentication</source>
-                <target>Xác thực 2 lớp</target>
+                <target>Xác thực hai yếu tố</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-explanation">
                 <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
-                <target>Xác thực hai lớp bổ sung thêm một lớp bảo mật cho tài khoản của bạn. Bất cứ khi nào bạn đăng nhập, bạn sẽ cần nhập cả mật khẩu và cả mã bảo mật.</target>
+                <target>Xác thực hai yếu tố bổ sung thêm một lớp bảo mật cho tài khoản của bạn. Mỗi khi đăng nhập, bạn sẽ cần nhập cả mật khẩu và mã bảo mật.</target>
             </trans-unit>
             <trans-unit id="enable-two-factor-authentication">
                 <source>Enable Two-Factor Authentication</source>
-                <target>Bật xác thực 2 lớp</target>
+                <target>Bật xác thực hai yếu tố</target>
             </trans-unit>
             <trans-unit id="connect-your-two-factor-app">
                 <source>Connect your app</source>
@@ -324,7 +328,7 @@
             </trans-unit>
             <trans-unit id="using-an-authenticator-app">
                 <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
-                <target>Sử dụng ứng dụng xác thực như %googleAuthenticatorLink% hoặc %duoLink%, quét mã QR. Nó sẽ hiển thị một mã gồm 6 chữ số mà bạn cần nhập vào bên dưới.</target>
+                <target>Sử dụng ứng dụng xác thực như %googleAuthenticatorLink% hoặc %duoLink%, quét mã QR. Nó sẽ hiển thị mã 6 chữ số mà bạn cần nhập bên dưới.</target>
             </trans-unit>
             <trans-unit id="having-trouble-scanning-the-code">
                 <source>Having trouble scanning the code?</source>
@@ -332,23 +336,23 @@
             </trans-unit>
             <trans-unit id="try-this-instead">
                 <source>Try this instead</source>
-                <target>Hãy thử cái này thay thế</target>
+                <target>Hãy thử cách này</target>
             </trans-unit>
             <trans-unit id="select-manual-entry-on-your-app">
                 <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
-                <target>Chọn mục nhập thủ công trên ứng dụng của bạn và nhập tên người dùng của bạn: "%userName%" và mã: %secret%</target>
+                <target>Chọn nhập thủ công trên ứng dụng của bạn và nhập tên người dùng của bạn: "%userName%" và mã: %secret%</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>Xác thực hai lớp đã được bật.</target>
+                <target>Xác thực hai yếu tố đã được bật.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
-                <target>Tắt xác thực hai lớp</target>
+                <target>Tắt xác thực hai yếu tố</target>
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>Xác thực hai lớp đã bị vô hiệu hóa.</target>
+                <target>Xác thực hai yếu tố đã bị tắt.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
@@ -356,23 +360,23 @@
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Quay lại trang web</target>
+                <target>Quay lại Trang web</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
-                <target>Tài khoản</target>
+                <target>Người dùng</target>
             </trans-unit>
             <trans-unit id="add-user">
                 <source>Add User</source>
-                <target>Thêm tài khoản</target>
+                <target>Thêm người dùng</target>
             </trans-unit>
             <trans-unit id="new-user">
                 <source>New User</source>
-                <target>Tài khoản mới</target>
+                <target>Người dùng mới</target>
             </trans-unit>
             <trans-unit id="active">
                 <source>Active</source>
-                <target>Hoạt động</target>
+                <target>Đang hoạt động</target>
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
@@ -392,15 +396,15 @@
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>Tài khoản đã được thêm.</target>
+                <target>Người dùng đã được thêm.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>Tài khoản đã được cập nhật.</target>
+                <target>Người dùng đã được cập nhật.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
-                <target>Không tìm thấy tài khoản.</target>
+                <target>Không tìm thấy người dùng.</target>
             </trans-unit>
             <trans-unit id="role">
                 <source>Role</source>
@@ -416,7 +420,7 @@
             </trans-unit>
             <trans-unit id="are-you-sure">
                 <source>Are you sure?</source>
-                <target>Bạn có đồng ý?</target>
+                <target>Bạn có chắc chắn?</target>
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
@@ -440,7 +444,7 @@
             </trans-unit>
             <trans-unit id="view">
                 <source>View</source>
-                <target>Lượt xem</target>
+                <target>Xem</target>
             </trans-unit>
             <trans-unit id="notifications">
                 <source>Notifications</source>
@@ -456,7 +460,7 @@
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
-                <target>Xem tin nhắn</target>
+                <target>Hiển thị thông báo</target>
             </trans-unit>
             <trans-unit id="severity">
                 <source>Severity</source>
@@ -468,7 +472,7 @@
             </trans-unit>
             <trans-unit id="message">
                 <source>Message</source>
-                <target>Tin nhắn</target>
+                <target>Thông báo</target>
             </trans-unit>
             <trans-unit id="action">
                 <source>Action</source>
@@ -492,15 +496,15 @@
             </trans-unit>
             <trans-unit id="mark-as-read">
                 <source>Mark as Read</source>
-                <target>Đánh dấu đã đọc</target>
+                <target>Đánh dấu là đã đọc</target>
             </trans-unit>
             <trans-unit id="mark-as-unread">
                 <source>Mark as Unread</source>
-                <target>Đánh dấu chưa đọc</target>
+                <target>Đánh dấu là chưa đọc</target>
             </trans-unit>
             <trans-unit id="instance">
                 <source>Instance</source>
-                <target>Dịch vụ</target>
+                <target>Phiên bản</target>
             </trans-unit>
             <trans-unit id="firewall">
                 <source>Firewall</source>
@@ -536,7 +540,7 @@
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>Quy tắc đã được xóa.</target>
+                <target>Quy tắc đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
@@ -544,7 +548,7 @@
             </trans-unit>
             <trans-unit id="custom-tcp">
                 <source>Custom TCP</source>
-                <target>Tùy chọn TCP</target>
+                <target>TCP tùy chỉnh</target>
             </trans-unit>
             <trans-unit id="port-range">
                 <source>Port Range</source>
@@ -560,15 +564,15 @@
             </trans-unit>
             <trans-unit id="rule-source-custom">
                 <source>Custom</source>
-                <target>Tùy chọn</target>
+                <target>Tùy chỉnh</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv4">
                 <source>Anywhere-IPv4</source>
-                <target>Bất cứ đâu-IPv4</target>
+                <target>Bất kỳ đâu-IPv4</target>
             </trans-unit>
             <trans-unit id="rule-source-anywhere-ipv6">
                 <source>Anywhere-IPv6</source>
-                <target>Bất cứ đâu-IPv6</target>
+                <target>Bất kỳ đâu-IPv6</target>
             </trans-unit>
             <trans-unit id="rule-source-my-ip">
                 <source>My IP</source>
@@ -588,7 +592,7 @@
             </trans-unit>
             <trans-unit id="edit-firewall-rule">
                 <source>Edit Firewall Rule</source>
-                <target>Chỉnh quy tắc tưởng lửa</target>
+                <target>Chỉnh sửa quy tắc tường lửa</target>
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
@@ -600,11 +604,11 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Basic Auth trước CloudPanel bổ sung thêm một lớp bảo mật.</target>
+                <target>Xác thực cơ bản trước CloudPanel bổ sung thêm một lớp bảo mật.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Xác thực cơ bản đã được kích hoạt.</target>
+                <target>Xác thực cơ bản đã được bật.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
@@ -620,7 +624,7 @@
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>Dịch vụ sẽ sớm khởi động lại.</target>
+                <target>Dịch vụ sẽ khởi động lại trong thời gian ngắn.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
@@ -628,7 +632,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>MasqueradeAddress</target>
+                <target>Địa chỉ Masquerade</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
@@ -636,11 +640,11 @@
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>MasqueradeAddress đã được lưu.</target>
+                <target>Địa chỉ Masquerade đã được lưu.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
-                <target>Cài đặt thực thể</target>
+                <target>Cài đặt phiên bản</target>
             </trans-unit>
             <trans-unit id="timezone-has-been-saved">
                 <source>Timezone has been saved.</source>
@@ -652,7 +656,7 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Thực thể sẽ sớm khởi động lại.</target>
+                <target>Phiên bản sẽ khởi động lại trong thời gian ngắn.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
@@ -676,19 +680,19 @@
             </trans-unit>
             <trans-unit id="engine">
                 <source>Engine</source>
-                <target>Nền tảng</target>
+                <target>Công cụ</target>
             </trans-unit>
             <trans-unit id="host">
                 <source>Host</source>
-                <target>Host</target>
+                <target>Máy chủ</target>
             </trans-unit>
             <trans-unit id="port">
                 <source>Port</source>
-                <target>Port</target>
+                <target>Cổng</target>
             </trans-unit>
             <trans-unit id="ip-or-dns-name">
                 <source>IP or DNS Name</source>
-                <target>IP hoặc DNS Name</target>
+                <target>IP hoặc tên DNS</target>
             </trans-unit>
             <trans-unit id="certificate">
                 <source>Certificate</source>
@@ -700,7 +704,7 @@
             </trans-unit>
             <trans-unit id="database-server-has-been-added">
                 <source>Database Server has been added.</source>
-                <target>Máy chủ cơ sở dữ liệu đã được thêm vào.</target>
+                <target>Máy chủ cơ sở dữ liệu đã được thêm.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-updated">
                 <source>Database Server has been updated.</source>
@@ -708,15 +712,15 @@
             </trans-unit>
             <trans-unit id="database-server-has-been-deleted">
                 <source>Database Server has been deleted.</source>
-                <target>Máy chủ cơ sở dữ liệu đã được xóa.</target>
+                <target>Máy chủ cơ sở dữ liệu đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="database-server-has-been-changed">
                 <source>Database Server has been changed.</source>
-                <target>Máy chủ cơ sở dữ liệu đã được thay đổi.</target>
+                <target>Máy chủ cơ sở dữ liệu đã bị thay đổi.</target>
             </trans-unit>
             <trans-unit id="custom-domain">
                 <source>Custom Domain</source>
-                <target>Tùy chỉnh tên miền</target>
+                <target>Tên miền tùy chỉnh</target>
             </trans-unit>
             <trans-unit id="tls-certificate">
                 <source>TLS Certificate</source>
@@ -724,11 +728,11 @@
             </trans-unit>
             <trans-unit id="lets-encrypt-http-challenge">
                 <source>Let's Encrypt HTTP Challenge</source>
-                <target>Let's Encrypt HTTP Challenge</target>
+                <target>Thử thách HTTP của Let's Encrypt</target>
             </trans-unit>
             <trans-unit id="lets-encrypt-dns-challenge">
                 <source>Let's Encrypt DNS Challenge</source>
-                <target>Let's Encrypt DNS Challenge</target>
+                <target>Thử thách DNS của Let's Encrypt</target>
             </trans-unit>
             <trans-unit id="backups">
                 <source>Backups</source>
@@ -736,11 +740,11 @@
             </trans-unit>
             <trans-unit id="images">
                 <source>Images</source>
-                <target>Hình ảnh</target>
+                <target>Ảnh</target>
             </trans-unit>
             <trans-unit id="aws-credentials">
                 <source>AWS Credentials</source>
-                <target>Chứng chỉ AWS</target>
+                <target>Thông tin đăng nhập AWS</target>
             </trans-unit>
             <trans-unit id="aws-access-key">
                 <source>AWS Access Key</source>
@@ -760,23 +764,23 @@
             </trans-unit>
             <trans-unit id="aws-images-settings">
                 <source>Images Settings</source>
-                <target>Cài đặt Hình ảnh</target>
+                <target>Cài đặt ảnh</target>
             </trans-unit>
             <trans-unit id="aws-enable-automatic-images">
                 <source>Enable Automatic Images</source>
-                <target>Bật hình ảnh tự động</target>
+                <target>Bật ảnh tự động</target>
             </trans-unit>
             <trans-unit id="frequency">
                 <source>Frequency</source>
-                <target>Chu kỳ</target>
+                <target>Tần suất</target>
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Thời gian lưu giữ (ngày)</target>
+                <target>Thời gian lưu giữ (Ngày)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
-                <target>Cài đặt Hình ảnh đã được lưu.</target>
+                <target>Cài đặt ảnh đã được lưu.</target>
             </trans-unit>
             <trans-unit id="every-hour">
                 <source>Every Hour</source>
@@ -784,39 +788,39 @@
             </trans-unit>
             <trans-unit id="every-three-hours">
                 <source>Every Three Hours</source>
-                <target>Mỗi 3 giờ</target>
+                <target>Mỗi ba giờ</target>
             </trans-unit>
             <trans-unit id="every-six-hours">
                 <source>Every Six Hours</source>
-                <target>Mỗi 6 giờ</target>
+                <target>Mỗi sáu giờ</target>
             </trans-unit>
             <trans-unit id="every-twelve-hours">
                 <source>Every Twelve Hours</source>
-                <target>Mỗi 12 giờ</target>
+                <target>Mỗi mười hai giờ</target>
             </trans-unit>
             <trans-unit id="once-per-day">
                 <source>Once per Day</source>
-                <target>Một lần trong ngày</target>
+                <target>Một lần mỗi ngày</target>
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Tạo hình ảnh</target>
+                <target>Tạo ảnh</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
-                <target>Tên hình ảnh</target>
+                <target>Tên ảnh</target>
             </trans-unit>
             <trans-unit id="no-images-found">
                 <source>No images found.</source>
-                <target>Không tìm thấy hình ảnh.</target>
+                <target>Không tìm thấy ảnh.</target>
             </trans-unit>
             <trans-unit id="available">
                 <source>Available</source>
-                <target>Sẵn có</target>
+                <target>Khả dụng</target>
             </trans-unit>
             <trans-unit id="pending">
                 <source>Pending</source>
-                <target>Chưa giải quyết</target>
+                <target>Đang chờ xử lý</target>
             </trans-unit>
             <trans-unit id="failed">
                 <source>Failed</source>
@@ -824,27 +828,27 @@
             </trans-unit>
             <trans-unit id="created-at">
                 <source>Created At</source>
-                <target>Tạo lúc</target>
+                <target>Được tạo lúc</target>
             </trans-unit>
             <trans-unit id="image-is-being-created">
                 <source>Image is being created.</source>
-                <target>Hình ảnh đã được tạo.</target>
+                <target>Ảnh đang được tạo.</target>
             </trans-unit>
             <trans-unit id="image-is-being-deleted">
                 <source>Image is being deleted.</source>
-                <target>Hình ảnh đã được xóa.</target>
+                <target>Ảnh đang bị xóa.</target>
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>Mã truy cập không hợp lệ.</target>
+                <target>Mã thông báo truy cập không hợp lệ.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
                 <source>Access Token has been saved.</source>
-                <target>Mã truy cập đã được lưu.</target>
+                <target>Mã thông báo truy cập đã được lưu.</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
-                <target>Mã truy cập</target>
+                <target>Mã thông báo truy cập</target>
             </trans-unit>
             <trans-unit id="snapshots">
                 <source>Snapshots</source>
@@ -856,7 +860,7 @@
             </trans-unit>
             <trans-unit id="enable-automatic-snapshots">
                 <source>Enable Automatic Snapshots</source>
-                <target>Bật Ảnh chụp nhanh Tự động</target>
+                <target>Bật ảnh chụp nhanh tự động</target>
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
@@ -868,7 +872,7 @@
             </trans-unit>
             <trans-unit id="snapshot-name">
                 <source>Snapshot Name</source>
-                <target>Tên ảnh chụp</target>
+                <target>Tên ảnh chụp nhanh</target>
             </trans-unit>
             <trans-unit id="size">
                 <source>Size</source>
@@ -876,15 +880,15 @@
             </trans-unit>
             <trans-unit id="snapshot-is-being-created">
                 <source>Snapshot is being created.</source>
-                <target>Ảnh chụp đã được tạo.</target>
+                <target>Ảnh chụp nhanh đang được tạo.</target>
             </trans-unit>
             <trans-unit id="snapshot-is-being-deleted">
                 <source>Snapshot is being deleted.</source>
-                <target>Ảnh chụp đã được xóa.</target>
+                <target>Ảnh chụp nhanh đang bị xóa.</target>
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Chìa khóa tài khoản dịch vụ</target>
+                <target>Khóa tài khoản dịch vụ</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
@@ -896,27 +900,27 @@
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Khóa Api</target>
+                <target>Khóa API</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
-                <target>Khóa Api không hợp lệ.</target>
+                <target>Khóa API không hợp lệ.</target>
             </trans-unit>
             <trans-unit id="api-key-has-been-saved">
                 <source>Api Key has been saved.</source>
-                <target>Khóa Api đã được lưu.</target>
+                <target>Khóa API đã được lưu.</target>
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Mã Api</target>
+                <target>Mã thông báo API</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Mã Api không hợp lệ.</target>
+                <target>Mã thông báo API không hợp lệ.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Mã Api đã được lưu.</target>
+                <target>Mã thông báo API đã được lưu.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
@@ -948,7 +952,7 @@
             </trans-unit>
             <trans-unit id="ip-address">
                 <source>IP Address</source>
-                <target>Địa chĩ IP</target>
+                <target>Địa chỉ IP</target>
             </trans-unit>
             <trans-unit id="vhost">
                 <source>Vhost</source>
@@ -968,7 +972,7 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>Quản lý tập tin</target>
+                <target>Trình quản lý tệp</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
@@ -1012,19 +1016,19 @@
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Đặt lượng bộ nhớ tối đa mà một tập lệnh được phép cấp phát.</target>
+                <target>Đặt số lượng bộ nhớ tối đa mà một tập lệnh được phép phân bổ.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Đặt thời gian tối đa mà một tập lệnh được phép chạy trước khi nó bị trình phân tích cú pháp kết thúc.</target>
+                <target>Đặt thời gian tối đa mà một tập lệnh được phép chạy trước khi nó bị bộ phân tích cú pháp chấm dứt.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Đặt thời gian tối đa mà một tập lệnh được phép phân tích cú pháp dữ liệu đầu vào, như POST và GET.</target>
+                <target>Đặt thời gian tối đa mà một tập lệnh được phép phân tích cú pháp dữ liệu đầu vào, chẳng hạn như POST và GET.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>Đặt giới hạn số lượng đầu vào để đăng biểu mẫu.</target>
+                <target>Đặt giới hạn số lượng đầu vào cho các biểu mẫu đăng.</target>
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
@@ -1036,11 +1040,11 @@
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
-                <target>Bạn có thể xác định bất kỳ tham số PHP nào giống như bạn định nghĩa trong php.ini.</target>
+                <target>Bạn có thể định nghĩa bất kỳ tham số PHP nào giống như bạn sẽ định nghĩa trong php.ini.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-directives">
                 <source>Additional Configuration Directives</source>
-                <target>Hướng dẫn cấu hình bổ sung</target>
+                <target>Chỉ thị cấu hình bổ sung</target>
             </trans-unit>
             <trans-unit id="php-settings-have-been-saved">
                 <source>PHP Settings have been saved.</source>
@@ -1052,7 +1056,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Xóa một trang web sẽ xóa vĩnh viễn tất cả các tệp trang, cơ sở dữ liệu, người dùng và cấu hình và chúng sẽ không thể khôi phục được.</target>
+                <target>Việc xóa một trang web sẽ vĩnh viễn xóa tất cả các tệp trang web, cơ sở dữ liệu, người dùng và cấu hình và chúng sẽ không thể khôi phục được.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1060,11 +1064,11 @@
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>Để xác nhận việc xóa, hãy nhập %domain% vào trường dữ liệu.</target>
+                <target>Để xác nhận xóa, hãy nhập %domain% vào trường.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>Trang web đã được xóa.</target>
+                <target>Trang web đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
@@ -1072,11 +1076,11 @@
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
-                <target>Cài đặt Người dùng Trang đã được lưu.</target>
+                <target>Cài đặt người dùng trang web đã được lưu.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
-                <target>SSH Keys</target>
+                <target>Khóa SSH</target>
             </trans-unit>
             <trans-unit id="vhost-editor">
                 <source>Vhost Editor</source>
@@ -1112,19 +1116,19 @@
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
                 <source>Database has been deleted.</source>
-                <target>Cơ sở dữ liệu đã được xóa.</target>
+                <target>Cơ sở dữ liệu đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Tài khoản cơ sở dữ liệu</target>
+                <target>Người dùng cơ sở dữ liệu</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
-                <target>Thêm tài khoản cơ sở dữ liệu</target>
+                <target>Thêm người dùng cơ sở dữ liệu</target>
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
-                <target>Không tìm thấy tài khoản cơ sở dữ liệu.</target>
+                <target>Không tìm thấy người dùng cơ sở dữ liệu.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
@@ -1136,15 +1140,15 @@
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>Tài khoản cơ sở dữ liệu mới</target>
+                <target>Người dùng cơ sở dữ liệu mới</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Tên sơ sở dữ liệu</target>
+                <target>Tên cơ sở dữ liệu</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>Tên tài khoản cơ sở dữ liệu</target>
+                <target>Tên người dùng cơ sở dữ liệu</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
@@ -1164,7 +1168,7 @@
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>Người dùng cơ sở dữ liệu đã được xóa.</target>
+                <target>Người dùng cơ sở dữ liệu đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
@@ -1180,7 +1184,7 @@
             </trans-unit>
             <trans-unit id="new-lets-encrypt-certificate">
                 <source>New Let's Encrypt Certificate</source>
-                <target>Thêm mới chứng chỉ Let's Encrypt</target>
+                <target>Chứng chỉ Let's Encrypt mới</target>
             </trans-unit>
             <trans-unit id="import-certificate">
                 <source>Import Certificate</source>
@@ -1212,7 +1216,7 @@
             </trans-unit>
             <trans-unit id="private-key">
                 <source>Private Key</source>
-                <target>Khóa cá nhân</target>
+                <target>Khóa riêng tư</target>
             </trans-unit>
             <trans-unit id="certificate-chain">
                 <source>Certificate Chain</source>
@@ -1244,7 +1248,7 @@
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Bản ghi DNS trỏ đến máy chủ này là bắt buộc để cấp Chứng chỉ Let's Encrypt Certificate.</target>
+                <target>Cần có bản ghi DNS trỏ đến máy chủ này để cấp Chứng chỉ Let's Encrypt.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1256,15 +1260,15 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain">
                 <source>CloudPanel Custom Domain</source>
-                <target>CloudPanel tùy chọn tên miền</target>
+                <target>Tên miền tùy chỉnh CloudPanel</target>
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>CloudPanel tùy chọn tên miền đã được lưu.</target>
+                <target>Tên miền tùy chỉnh CloudPanel đã được lưu.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
-                <target>Khóa IP</target>
+                <target>Chặn IP</target>
             </trans-unit>
             <trans-unit id="add-ip">
                 <source>Add IP</source>
@@ -1276,7 +1280,7 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>Không tìm thấy ips.</target>
+                <target>Không tìm thấy ip.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
@@ -1288,7 +1292,7 @@
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>CIDR Format</target>
+                <target>Định dạng CIDR</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
@@ -1296,7 +1300,7 @@
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>IP đã được xóa.</target>
+                <target>IP đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
@@ -1304,7 +1308,7 @@
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
-                <target>Chặn Bots</target>
+                <target>Chặn Bot</target>
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
@@ -1312,7 +1316,7 @@
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>Bot đã được thêm vào.</target>
+                <target>Bot đã được thêm.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
@@ -1320,7 +1324,7 @@
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
-                <target>Tên bot</target>
+                <target>Tên Bot</target>
             </trans-unit>
             <trans-unit id="basic-authentication">
                 <source>Basic Authentication</source>
@@ -1328,11 +1332,11 @@
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>Danh sách các IP cần bỏ qua xác thực cơ bản, được phân tách bằng dấu phẩy.</target>
+                <target>Danh sách các IP bỏ qua xác thực cơ bản, phân tách bằng dấu phẩy.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
-                <target>IP có trong danh sách trắng</target>
+                <target>IP trong danh sách trắng</target>
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
@@ -1340,39 +1344,39 @@
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>Máy chủ định danh phải trỏ đến Cloudflare và proxy cần được bật cho các bản ghi dns của bạn.</target>
+                <target>Máy chủ tên phải trỏ đến Cloudflare và proxy cần được bật cho các bản ghi dns của bạn.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
-                <target>Tài khoản SSH</target>
+                <target>Người dùng SSH</target>
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Thư mục Trang chủ</target>
+                <target>Thư mục chính</target>
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
-                <target>Tài khoản SSH</target>
+                <target>Người dùng SSH</target>
             </trans-unit>
             <trans-unit id="new-ssh-user">
                 <source>New SSH User</source>
-                <target>Tài khoản SSH mới</target>
+                <target>Người dùng SSH mới</target>
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
-                <target>Tài khoản đã được lưu.</target>
+                <target>Người dùng đã được lưu.</target>
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
-                <target>Tài khoản FTP</target>
+                <target>Người dùng FTP</target>
             </trans-unit>
             <trans-unit id="ftp-users">
                 <source>FTP Users</source>
-                <target>Tài khoản FTP</target>
+                <target>Người dùng FTP</target>
             </trans-unit>
             <trans-unit id="new-ftp-user">
                 <source>New FTP User</source>
-                <target>Tài khoản FTP mới</target>
+                <target>Người dùng FTP mới</target>
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
@@ -1380,11 +1384,11 @@
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>Không tìm thấy cron jobs.</target>
+                <target>Không tìm thấy cron job.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>Thêm Cron Job mới</target>
+                <target>Cron Job mới</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
@@ -1404,19 +1408,19 @@
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>Mỗi ngày một lần (lúc 00:00)</target>
+                <target>Mỗi ngày một lần (Lúc 00:00)</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
-                <target>Mỗi ngày lúc 4 giờ sáng.</target>
+                <target>Mỗi ngày lúc 4 giờ sáng</target>
             </trans-unit>
             <trans-unit id="once-a-week">
                 <source>Once a week (At 00:00 on Sunday)</source>
-                <target>Mỗi tuần một lần (Vào lúc 00:00 Chủ nhật)</target>
+                <target>Mỗi tuần một lần (Lúc 00:00 Chủ nhật)</target>
             </trans-unit>
             <trans-unit id="once-a-month">
                 <source>Once a month (At 00:00 on day-of-month 1)</source>
-                <target>Mỗi tháng một lần (Vào lúc 00:00 ngày của tháng 1)</target>
+                <target>Mỗi tháng một lần (Lúc 00:00 vào ngày 1)</target>
             </trans-unit>
             <trans-unit id="template">
                 <source>Template</source>
@@ -1430,7 +1434,7 @@
                 <source>Hour</source>
                 <target>Giờ</target>
             </trans-unit>
-            <trans-unit id="day">
+			<trans-unit id="day">
                 <source>Day</source>
                 <target>Ngày</target>
             </trans-unit>
@@ -1448,7 +1452,7 @@
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Cron Job đã được xóa.</target>
+                <target>Cron Job đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
@@ -1456,7 +1460,7 @@
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
-                <target>Đặt lịch</target>
+                <target>Lịch trình</target>
             </trans-unit>
             <trans-unit id="command">
                 <source>Command</source>
@@ -1468,15 +1472,15 @@
             </trans-unit>
             <trans-unit id="page-speed">
                 <source>PageSpeed</source>
-                <target>TốcĐộTrang</target>
+                <target>Tốc độ trang</target>
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Xóa bộ nhớ cache</target>
+                <target>Xóa bộ nhớ đệm</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>Cài đặt Tốc độ trang không hợp lệ, thông báo lỗi: %errorMessage%</target>
+                <target>Cài đặt PageSpeed không hợp lệ, thông báo lỗi: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
@@ -1504,15 +1508,15 @@
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Tạo một trang HTML tĩnh</target>
+                <target>Tạo một trang web HTML tĩnh</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Tạo một trang Python</target>
+                <target>Tạo một trang web Python</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
-                <target>Trang mới</target>
+                <target>Trang web mới</target>
             </trans-unit>
             <trans-unit id="new-wordpress-site">
                 <source>New WordPress Site</source>
@@ -1532,11 +1536,11 @@
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>E-Mail quản trị viên</target>
+                <target>Email quản trị viên</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>Tên quản trị viên</target>
+                <target>Tên người dùng quản trị viên</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
@@ -1544,15 +1548,15 @@
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
-                <target>Url quản trị</target>
+                <target>URL quản trị viên</target>
             </trans-unit>
             <trans-unit id="multisite">
                 <source>Multisite</source>
-                <target>Multisite</target>
+                <target>Đa trang</target>
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>Vhost mẫu %vhostTemplate% không tồn tại.</target>
+                <target>Mẫu Vhost %vhostTemplate% không tồn tại.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
@@ -1560,7 +1564,7 @@
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>Sao chép thông tin đăng nhập cho trang WordPress đã tạo của bạn.</target>
+                <target>Sao chép thông tin đăng nhập cho trang web WordPress bạn đã tạo.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
@@ -1576,7 +1580,7 @@
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>Tài khoản SSH chính cho trang web.</target>
+                <target>Người dùng SSH chính cho trang web.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
@@ -1596,7 +1600,7 @@
             </trans-unit>
             <trans-unit id="app-port">
                 <source>App Port</source>
-                <target>Port ứng dụng</target>
+                <target>Cổng ứng dụng</target>
             </trans-unit>
             <trans-unit id="nodejs-settings">
                 <source>Node.js Settings</source>
@@ -1616,11 +1620,11 @@
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>Có cần phiên bản khác không?</target>
+                <target>Cần một phiên bản khác?</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>Kiểm tra các tài liệu.</target>
+                <target>Xem tài liệu.</target>
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
@@ -1636,27 +1640,27 @@
             </trans-unit>
             <trans-unit id="cloud">
                 <source>Cloud</source>
-                <target>Cloud</target>
+                <target>Đám mây</target>
             </trans-unit>
             <trans-unit id="region">
                 <source>Region</source>
-                <target>Vùng</target>
+                <target>Khu vực</target>
             </trans-unit>
             <trans-unit id="droplet-id">
                 <source>Droplet ID</source>
-                <target>Droplet ID</target>
+                <target>ID Droplet</target>
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>Instance ID</target>
+                <target>ID phiên bản</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
-                <target>Theo dõi</target>
+                <target>Giám sát</target>
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>30 phút qua</target>
+                <target>30 phút trước</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
@@ -1664,27 +1668,27 @@
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>3 giờ qua</target>
+                <target>3 giờ trước</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>6 giờ qua</target>
+                <target>6 giờ trước</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>12 giờ qua</target>
+                <target>12 giờ trước</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 Phút</target>
+                <target>1 phút</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 Phút</target>
+                <target>5 phút</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 Phút</target>
+                <target>15 phút</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
@@ -1692,15 +1696,15 @@
             </trans-unit>
             <trans-unit id="disk-usage">
                 <source>Disk Usage</source>
-                <target>Sử dụng đĩa</target>
+                <target>Sử dụng ổ đĩa</target>
             </trans-unit>
             <trans-unit id="memory-usage">
                 <source>Memory Usage</source>
-                <target>Sử dụng RAM Memory</target>
+                <target>Sử dụng bộ nhớ</target>
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Tải trung bình</target>
+                <target>Trung bình tải</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
@@ -1708,18 +1712,18 @@
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Nhà cung cấp bộ nhớ</target>
+                <target>Nhà cung cấp lưu trữ</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Chọn nhà cung cấp bộ nhớ</target>
+                <target>Chọn nhà cung cấp lưu trữ</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
                 <target>SFTP</target>
             </trans-unit>
             <trans-unit id="custom-rclone-config">
-                <source>Custom Rclone config</source>
+                <source>Custom Rclone Config</source>
                 <target>Cấu hình Rclone tùy chỉnh</target>
             </trans-unit>
             <trans-unit id="continue">
@@ -1732,7 +1736,7 @@
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
-                <target>Hằng ngày</target>
+                <target>Hàng ngày</target>
             </trans-unit>
             <trans-unit id="time">
                 <source>Time</source>
@@ -1740,11 +1744,11 @@
             </trans-unit>
             <trans-unit id="bucket">
                 <source>Bucket</source>
-                <target>Gói</target>
+                <target>Bucket</target>
             </trans-unit>
             <trans-unit id="bucket-name">
                 <source>Bucket Name</source>
-                <target>Tên gói</target>
+                <target>Tên Bucket</target>
             </trans-unit>
             <trans-unit id="storage-directory">
                 <source>Storage Directory</source>
@@ -1752,7 +1756,7 @@
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>Nơi lưu trữ các bản sao lưu liên quan đến thư mục gốc.</target>
+                <target>Nơi lưu trữ bản sao lưu so với thư mục gốc.</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
@@ -1760,7 +1764,7 @@
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
-                <target>Không bao gồm</target>
+                <target>Loại trừ</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
@@ -1768,7 +1772,7 @@
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Cài đặt sao lưu từ xa đã được xóa.</target>
+                <target>Cài đặt sao lưu từ xa đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
@@ -1780,7 +1784,7 @@
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>Địa chỉ email tài khoản google drive của bạn.</target>
+                <target>Địa chỉ email tài khoản Google Drive của bạn.</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
@@ -1804,11 +1808,11 @@
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
-                <target>Tạo bản sao</target>
+                <target>Tạo bản sao lưu</target>
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>Quá trình sao lưu sẽ sớm được bắt đầu trong chế độ nền.</target>
+                <target>Việc sao lưu sẽ sớm được bắt đầu trong nền.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
@@ -1824,23 +1828,23 @@
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Đường dẫn khóa cá nhân</target>
+                <target>Đường dẫn khóa riêng tư</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Tên space</target>
+                <target>Tên không gian</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
-                <target>Space Endpoint</target>
+                <target>Điểm cuối không gian</target>
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>Định dạng cho các endpoints tương thích S3</target>
+                <target>Định dạng cho các điểm cuối tương thích S3</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
-                <target>Bộ đệm Varnish</target>
+                <target>Bộ nhớ đệm Varnish</target>
             </trans-unit>
             <trans-unit id="varnish-server">
                 <source>Varnish Server</source>
@@ -1848,43 +1852,43 @@
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Thời gian Cache</target>
+                <target>Thời gian tồn tại của bộ nhớ đệm</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Thời gian tồn tại của Cache tính bằng giây trước khi được làm mới.</target>
+                <target>Thời gian tồn tại của bộ nhớ đệm tính bằng giây trước khi được làm mới.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Tiền tố Cache Tag</target>
+                <target>Tiền tố thẻ bộ nhớ đệm</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Tham số loại trừ</target>
+                <target>Tham số bị loại trừ</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>Danh sách các tham số GET, được phân tách bằng dấu phẩy, để tắt bộ nhớ đệm.</target>
+                <target>Danh sách các tham số GET, phân tách bằng dấu phẩy, để tắt bộ nhớ đệm.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Các url và tệp mà Varnish Cache không nên lưu vào bộ đệm.</target>
+                <target>URL và tệp mà Varnish Cache không nên lưu vào bộ nhớ đệm.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Cài đặt bộ đệm Varnish đã được lưu.</target>
+                <target>Cài đặt bộ nhớ đệm Varnish đã được lưu.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Xóa toàn bộ bộ nhớ cache</target>
+                <target>Xóa toàn bộ bộ nhớ đệm</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>Bạn có thể xóa các url đơn lẻ hoặc các tag được phân tách bằng dấu phẩy.</target>
+                <target>Bạn có thể xóa các URL hoặc thẻ riêng lẻ được phân tách bằng dấu phẩy.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish Cache đã bị xóa.</target>
+                <target>Bộ nhớ đệm Varnish đã bị xóa.</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
@@ -1892,11 +1896,11 @@
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>Reverse Proxy Mới</target>
+                <target>Reverse Proxy mới</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Dường Dẫn Reverse Proxy</target>
+                <target>URL Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
@@ -1904,11 +1908,11 @@
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Thiết lập Reverse Proxy</target>
+                <target>Cài đặt Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Thiết lập Reverse Proxy đã được lưu.</target>
+                <target>Cài đặt Reverse Proxy đã được lưu.</target>
             </trans-unit>
         </body>
     </file>
