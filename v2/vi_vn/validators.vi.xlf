@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="database-server-credentials-are-not-valid">
                 <source>Database Server credentials are not valid.</source>
-                <target>Thông tin đăng nhập Máy chủ cơ sở dữ liệu không hợp lệ.</target>
+                <target>Thông tin đăng nhập máy chủ cơ sở dữ liệu không hợp lệ.</target>
             </trans-unit>
             <trans-unit id="port-is-already-in-use">
                 <source>Port is already in use.</source>
