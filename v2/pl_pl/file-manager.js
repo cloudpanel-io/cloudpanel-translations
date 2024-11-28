@@ -48,14 +48,14 @@ var pl = {
     video: "video",
     code: "kod",
     document: "dokument",
-    of: "of",
+    of: "z",
     used: "użyty",
     "Open item location": "Otwórz lokalizację elementu",
     "Are you sure you want to delete": "Czy jesteś pewny/a, że chcesz to usunąć",
     "these items:": "te elementy:",
     "this item:": "ten element:",
     "Delete files": "Usuń pliki",
-    and: "oraz",
+    and: "i",
     "more file(s)": "więcej plik(ów)",
     "Close the editor": "Zamknij edytor",
     "Close this file": "Zamknij ten plik",
@@ -67,5 +67,5 @@ var pl = {
     "Extract directory": "Wyodrębnij katalog",
     "Extracting...": "Wyodrębnianie...",
     "Compress": "Kompresuj",
-    "Compressing...": "Kompresja...",w
+    "Compressing...": "Kompresja...",
 };
