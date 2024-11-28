@@ -344,7 +344,7 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-enabled">
                 <source>Two-Factor Authentication has been enabled.</source>
-                <target>2FA Doğrulama Etkinleştirildi</target>
+                <target>2FA Doğrulama Etkinleştirildi.</target>
             </trans-unit>
             <trans-unit id="disable-two-factor-authentication">
                 <source>Disable Two-Factor Authentication</source>
@@ -352,7 +352,7 @@
             </trans-unit>
             <trans-unit id="two-factor-authentication-has-been-disabled">
                 <source>Two-Factor Authentication has been disabled.</source>
-                <target>2FA Doğrulama Kapatıldı</target>
+                <target>2FA Doğrulama Kapatıldı.</target>
             </trans-unit>
             <trans-unit id="enter-authentication-code">
                 <source>Enter authentication code</source>
@@ -396,11 +396,11 @@
             </trans-unit>
             <trans-unit id="user-has-been-added">
                 <source>User has been added.</source>
-                <target>Kullanıcı Eklendi</target>
+                <target>Kullanıcı Eklendi.</target>
             </trans-unit>
             <trans-unit id="user-has-been-updated">
                 <source>User has been updated.</source>
-                <target>Kullanıcı Bilgisi Güncellendi</target>
+                <target>Kullanıcı Bilgisi Güncellendi.</target>
             </trans-unit>
             <trans-unit id="no-users-found">
                 <source>No users found.</source>
@@ -424,7 +424,7 @@
             </trans-unit>
             <trans-unit id="user-has-been-deleted">
                 <source>User has been deleted.</source>
-                <target>Kullanıcı Silindi</target>
+                <target>Kullanıcı Silindi.</target>
             </trans-unit>
             <trans-unit id="events">
                 <source>Events</source>
@@ -456,7 +456,7 @@
             </trans-unit>
             <trans-unit id="notifications-has-been-deleted">
                 <source>Notification has been deleted.</source>
-                <target>Bildirim Silindi</target>
+                <target>Bildirim Silindi.</target>
             </trans-unit>
             <trans-unit id="show-message">
                 <source>Show Message</source>
@@ -528,7 +528,7 @@
             </trans-unit>
             <trans-unit id="no-rules-found">
                 <source>No rules found.</source>
-                <target>Henüz bir güvenlik kuralı bulunmuyor ...</target>
+                <target>Henüz bir güvenlik kuralı bulunmuyor.</target>
             </trans-unit>
             <trans-unit id="add-firewall-rule">
                 <source>Add Firewall Rule</source>
@@ -536,11 +536,11 @@
             </trans-unit>
             <trans-unit id="rule-has-been-added">
                 <source>Rule has been added.</source>
-                <target>Güvenlik Kuralı Eklendi</target>
+                <target>Güvenlik Kuralı Eklendi.</target>
             </trans-unit>
             <trans-unit id="rule-has-been-deleted">
                 <source>Rule has been deleted.</source>
-                <target>Güvenlik Kuralı Silindi</target>
+                <target>Güvenlik Kuralı Silindi.</target>
             </trans-unit>
             <trans-unit id="rule-type">
                 <source>Type</source>
@@ -604,11 +604,11 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Temel kimlik doğrulaması, CloudPanel için ekstra bir güvenlik katmanı ekler !</target>
+                <target>Temel kimlik doğrulaması, CloudPanel için ekstra bir güvenlik katmanı ekler.</target><!-- need a touch-->
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Temel Kimlik Doğrulaması Etkinleştirildi</target>
+                <target>Temel Kimlik Doğrulaması Etkinleştirildi.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
@@ -624,7 +624,7 @@
             </trans-unit>
             <trans-unit id="service-will-restart-shortly">
                 <source>Service will restart shortly.</source>
-                <target>Servis kısa süre içinde yeniden başlatılacak</target>
+                <target>Servis kısa süre içinde yeniden başlatılacak.</target>
             </trans-unit>
             <trans-unit id="proftpd-settings">
                 <source>Proftpd Settings</source>
@@ -636,11 +636,11 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>Maskeleme adresi sunucunun belirtilen ip adresi veya dns ana bilgisayar adının ağ bilgilerini istemciye göstermesini sağlar</target>
+                <target>Maskeleme adresi sunucunun belirtilen ip adresi veya dns ana bilgisayar adının ağ bilgilerini istemciye göstermesini sağlar.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>Maskeleme Adresi Kaydedildi</target>
+                <target>Maskeleme Adresi Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
@@ -656,7 +656,7 @@
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
-                <target>Sanal sunucu kısa süre içinde yeniden başlatılacak</target>
+                <target>Sanal sunucu kısa süre içinde yeniden başlatılacak.</target>
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
@@ -840,11 +840,11 @@
             </trans-unit>
             <trans-unit id="access-token-is-not-valid">
                 <source>Access Token is not valid.</source>
-                <target>Access Token Geçersiz</target>
+                <target>Access Token Geçersiz.</target>
             </trans-unit>
             <trans-unit id="access-token-has-been-saved">
                 <source>Access Token has been saved.</source>
-                <target>Access Token Kaydedildi</target>
+                <target>Access Token Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="access-token">
                 <source>Access Token</source>
@@ -888,19 +888,19 @@
             </trans-unit>
             <trans-unit id="service-account-keys">
                 <source>Service Account Keys</source>
-                <target>Service Account Keys</target>
+                <target>Hizmet Erişim Anahtarı</target>
             </trans-unit>
             <trans-unit id="service-account-keys-are-not-valid">
                 <source>Service Account Keys are not valid.</source>
-                <target>Service Account Keys Geçersiz.</target>
+                <target>Hizmet Erişim Anahtarı Geçersiz.</target>
             </trans-unit>
             <trans-unit id="service-account-keys-have-been-saved">
                 <source>Service Account Keys have been saved.</source>
-                <target>Service Account Keys Kaydedildi.</target>
+                <target>Hizmet Erişim Anahtarı Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="api-key">
                 <source>Api Key</source>
-                <target>Api Key</target>
+                <target>Api Anahtarı</target>
             </trans-unit>
             <trans-unit id="api-key-is-not-valid">
                 <source>Api Key is not valid.</source>
@@ -1004,7 +1004,7 @@
             </trans-unit>
             <trans-unit id="root-directory-has-been-saved">
                 <source>Root Directory has been saved.</source>
-                <target>Kök Dizin Kaydedildi</target>
+                <target>Kök Dizin Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="php-settings">
                 <source>PHP Settings</source>
@@ -1016,19 +1016,19 @@
             </trans-unit>
             <trans-unit id="memory-limit-explanation">
                 <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
-                <target>Bir betiğin ayırmasına izin verilebilecek belleğin azami miktarını belirler</target>
+                <target>Bir betiğin ayırmasına izin verilen maksimum bellek miktarını belirler.</target>
             </trans-unit>
             <trans-unit id="max-execution-explanation">
                 <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
-                <target>Çözümleyicinin sonlandırılmadan önce bir betiğin çalışabileceği azami süreyi belirler</target>
+                <target>Çözümleyicinin sonlandırılmadan önce bir betiğin çalışabileceği maksimum süreyi belirler.</target>
             </trans-unit>
             <trans-unit id="max-input-time-explanation">
                 <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
-                <target>Bir betiğin POST ve GET gibi girdileri çözümlemesi için gereken azami süreyi belirler</target>
+                <target>Bir betiğin POST ve GET gibi girdileri çözümlemesi için gereken maksimum süreyi belirler.</target>
             </trans-unit>
             <trans-unit id="max-input-vars-explanation">
                 <source>Sets the limit of the number of inputs for posting forms.</source>
-                <target>Kabul edilebilecek girdi değişkenlerinin sayısı belirler</target>
+                <target>Kabul edilebilecek girdi değişkenlerinin sayısını belirler.</target><!-- need a touch-->
             </trans-unit>
             <trans-unit id="post-max-size-explanation">
                 <source>Maximum size of POST data that PHP will accept.</source>
@@ -1036,7 +1036,7 @@
             </trans-unit>
             <trans-unit id="upload-max-filesize-explanation">
                 <source>The maximum size of an uploaded file.</source>
-                <target>Karşıya yüklenecek dosyalar için azami boyutu belirler</target>
+                <target>Karşıya yüklenecek maksimum dosya boyutunu belirler.</target>
             </trans-unit>
             <trans-unit id="additional-configuration-explanation">
                 <source>You can define any PHP parameters like you would define in the php.ini.</source>
@@ -1056,7 +1056,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Siteyi silmek istediğinizde siteye ait tüm dosyalar, veritabanları, kullanıcıları ve yapılandırmaları kalıcı olarak kaldırılır ve bu işlem geri alınamaz !</target>
+                <target>Siteyi silmek istediğinizde siteye ait tüm dosyalar, veritabanları, kullanıcıları ve yapılandırmaları kalıcı olarak silinir ve bu işlem geri alınamaz.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1064,11 +1064,11 @@
             </trans-unit>
             <trans-unit id="confirm-site-deletion">
                 <source>To confirm deletion, type %domain% into the field.</source>
-                <target>silme işlemini onaylamak için aşağıya %domain% yazın</target>
+                <target>Silme işlemini onaylamak için aşağıya %domain% yazın.</target>
             </trans-unit>
             <trans-unit id="site-has-been-deleted">
                 <source>Site has been deleted.</source>
-                <target>Site Başarıyla Silindi</target>
+                <target>Site Başarıyla Silindi.</target>
             </trans-unit>
             <trans-unit id="site-user-settings">
                 <source>Site User Settings</source>
@@ -1076,7 +1076,7 @@
             </trans-unit>
             <trans-unit id="site-user-settings-have-been-saved">
                 <source>Site User Settings have been saved.</source>
-                <target>Site Kullanıcısı Ayarları Kaydedildi</target>
+                <target>Site Kullanıcısı Ayarları Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="ssh-keys">
                 <source>SSH Keys</source>
@@ -1088,7 +1088,7 @@
             </trans-unit>
             <trans-unit id="vhost-has-been-saved">
                 <source>Vhost has been saved.</source>
-                <target>Vhost Kaydedildi</target>
+                <target>Vhost Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="vhost-is-not-valid">
                 <source>Vhost is not valid, error message: %errorMessage%</source>
@@ -1096,7 +1096,7 @@
             </trans-unit>
             <trans-unit id="no-databases-found">
                 <source>No databases found.</source>
-                <target>henüz bir veritabanı bulunmuyor ...</target>
+                <target>Henüz bir veritabanı bulunmuyor.</target>
             </trans-unit>
             <trans-unit id="database">
                 <source>Database</source>
@@ -1112,15 +1112,15 @@
             </trans-unit>
             <trans-unit id="database-has-been-added">
                 <source>Database has been added.</source>
-                <target>Veritabanı Eklendi</target>
+                <target>Veritabanı Eklendi.</target>
             </trans-unit>
             <trans-unit id="database-has-been-deleted">
                 <source>Database has been deleted.</source>
-                <target>Veritabanı Silindi</target>
+                <target>Veritabanı Silindi.</target>
             </trans-unit>
             <trans-unit id="database-users">
                 <source>Database Users</source>
-                <target>Veritabanı Kullanıcısı</target>
+                <target>Veritabanı Kullanıcısı.</target>
             </trans-unit>
             <trans-unit id="add-database-user">
                 <source>Add Database User</source>
@@ -1128,7 +1128,7 @@
             </trans-unit>
             <trans-unit id="no-database-users-found">
                 <source>No database users found.</source>
-                <target>henüz bir veritabanı kullanıcısı bulunmuyor ...</target>
+                <target>Henüz bir veritabanı kullanıcısı bulunmuyor.</target>
             </trans-unit>
             <trans-unit id="read-and-write">
                 <source>Read and Write</source>
@@ -1160,15 +1160,15 @@
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>henüz bir veritabanı bulunmuyor, önce bir veritabanı oluşturmalısınız ...</target>
+                <target>Henüz bir veritabanı bulunmuyor, önce bir veritabanı oluşturmalısınız.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
-                <target>Veritabanı Kullanıcısı Eklendi</target>
+                <target>Veritabanı Kullanıcısı Eklendi.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-deleted">
                 <source>Database User has been deleted.</source>
-                <target>Veritabanı Kullanıcısı Silindi</target>
+                <target>Veritabanı Kullanıcısı Silindi.</target>
             </trans-unit>
             <trans-unit id="edit-database-user">
                 <source>Edit Database User</source>
@@ -1176,7 +1176,7 @@
             </trans-unit>
             <trans-unit id="database-user-has-been-updated">
                 <source>Database User has been updated.</source>
-                <target>Veritabanı Kullanıcısı Güncellendi</target>
+                <target>Veritabanı Kullanıcısı Güncellendi.</target>
             </trans-unit>
             <trans-unit id="certificates">
                 <source>Certificates</source>
@@ -1192,7 +1192,7 @@
             </trans-unit>
             <trans-unit id="no-certificates-found">
                 <source>No certificates found.</source>
-                <target>henüz bir sertifika bulunmuyor ...</target>
+                <target>Henüz bir sertifika bulunmuyor.</target>
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
@@ -1224,11 +1224,11 @@
             </trans-unit>
             <trans-unit id="certificate-has-been-deleted">
                 <source>Certificate has been deleted.</source>
-                <target>Sertifika Silindi</target>
+                <target>Sertifika Silindi.</target>
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>Sertifika Kuruldu</target>
+                <target>Sertifika Kuruldu.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
@@ -1248,7 +1248,7 @@
             </trans-unit>
             <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
                 <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
-                <target>Let's Encrypt SSL sertifikası oluşturmak için bu sunucuya yönlendirilmiş bir dns kaydı gereklidir</target>
+                <target>Let's Encrypt SSL sertifikası oluşturmak için bu sunucuya yönlendirilmiş bir DNS kaydı gereklidir.</target>
             </trans-unit>
             <trans-unit id="domain-names">
                 <source>Domain Names</source>
@@ -1264,7 +1264,7 @@
             </trans-unit>
             <trans-unit id="cloudpanel-custom-domain-has-been-saved">
                 <source>CloudPanel Custom Domain has been saved.</source>
-                <target>CloudPanel Özel Alan Adı Eklendi</target>
+                <target>CloudPanel Özel Alan Adı Eklendi.</target>
             </trans-unit>
             <trans-unit id="ip-blocking">
                 <source>IP Blocking</source>
@@ -1280,31 +1280,31 @@
             </trans-unit>
             <trans-unit id="no-ips-found">
                 <source>No ips found.</source>
-                <target>henüz engellenmiş bir ip adresi bulunmuyor ...</target>
+                <target>Henüz engellenmiş bir ip adresi bulunmuyor.</target>
             </trans-unit>
             <trans-unit id="examples">
                 <source>Examples</source>
-                <target>örnek </target>
+                <target>örnek</target>
             </trans-unit>
             <trans-unit id="single-ip">
                 <source>Single IP</source>
-                <target>tek bir ip adresi engellemek için</target>
+                <target>Tek bir ip adresi engellemek için</target>
             </trans-unit>
             <trans-unit id="cidr-format">
                 <source>CIDR Format</source>
-                <target>cidr formatında engellemek için</target>
+                <target>CIDR formatında engellemek için</target>
             </trans-unit>
             <trans-unit id="ip-has-been-added">
                 <source>IP has been added.</source>
-                <target>IP Adresi Eklendi</target>
+                <target>IP Adresi Eklendi.</target>
             </trans-unit>
             <trans-unit id="ip-has-been-deleted">
                 <source>IP has been deleted.</source>
-                <target>IP Adresi Silindi</target>
+                <target>IP Adresi Silindi.</target>
             </trans-unit>
             <trans-unit id="no-bots-found">
                 <source>No bots found.</source>
-                <target>henüz bir bot kaydı bulunmuyor ...</target>
+                <target>Henüz bir bot kaydı bulunmuyor.</target>
             </trans-unit>
             <trans-unit id="bots-blocked">
                 <source>Bots Blocking</source>
@@ -1320,11 +1320,11 @@
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
-                <target>Bot Eklendi</target>
+                <target>Bot Eklendi.</target>
             </trans-unit>
             <trans-unit id="bot-has-been-deleted">
                 <source>Bot has been deleted.</source>
-                <target>Bot Silindi</target>
+                <target>Bot Silindi.</target>
             </trans-unit>
             <trans-unit id="bot-name">
                 <source>Bot Name</source>
@@ -1336,7 +1336,7 @@
             </trans-unit>
             <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
                 <source>List of IPs to bypassing the basic authentication, comma separated.</source>
-                <target>temel kimlik doğrulamasını pas geçecek ip adreslerini virgülle ayırarak buraya yazın</target>
+                <target>Temel kimlik doğrulamasını atlamak için ip adreslerini virgülle ayırarak buraya yazın.</target>
             </trans-unit>
             <trans-unit id="whitelisted-ips">
                 <source>Whitelisted IPs</source>
@@ -1348,7 +1348,7 @@
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
-                <target>ad sunucuları cloudflare'a yönlendirilmiş olmalı ve dns kayıtlarınız için proxy etkinleştirilmelidir</target>
+                <target>İsim sunucuları Cloudflare'a yönlendirilmelidir ve DNS kayıtlarınız için proxy'nin etkinleştirilmesi gerekmektedir.</target>
             </trans-unit>
             <trans-unit id="ssh-users">
                 <source>SSH Users</source>
@@ -1356,7 +1356,7 @@
             </trans-unit>
             <trans-unit id="home-directory">
                 <source>Home Directory</source>
-                <target>Giriş Dizini</target>
+                <target>Giriş Dizini</target> <!--need a touch-->
             </trans-unit>
             <trans-unit id="ssh-user">
                 <source>SSH User</source>
@@ -1368,7 +1368,7 @@
             </trans-unit>
             <trans-unit id="user-has-been-saved">
                 <source>User has been saved.</source>
-                <target>Kullanıcı Kaydedildi</target>
+                <target>Kullanıcı Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="ftp-user">
                 <source>FTP User</source>
@@ -1388,7 +1388,7 @@
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>henüz zamanlanmış bir görev bulunmuyor ...</target>
+                <target>Henüz zamanlanmış bir görev bulunmuyor.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
@@ -1452,15 +1452,15 @@
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>Zamanlanmış Görev Eklendi</target>
+                <target>Zamanlanmış Görev Eklendi.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Zamanlanmış Görev Silindi</target>
+                <target>Zamanlanmış Görev Silindi.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Zamanlanmış Görev Kaydedildi</target>
+                <target>Zamanlanmış Görev Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
@@ -1488,15 +1488,15 @@
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>Page Speed Ayarları Kaydedildi</target>
+                <target>Page Speed Ayarları Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>Page Speed Önbelleği Temizlendi</target>
+                <target>Page Speed Önbelleği Temizlendi.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
-                <target>Nasıl Bir Site Oluşturmak İstersiniz ?</target>
+                <target>Nasıl Bir Site Oluşturmak İstersiniz?</target>
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
@@ -1540,15 +1540,15 @@
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>WP E-Posta Adresi</target>
+                <target>WP Admin E-Posta Adresi</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
-                <target>WP Kullanıcı Adı</target>
+                <target>WP Admin Kullanıcı Adı</target>
             </trans-unit>
             <trans-unit id="admin-password">
                 <source>Admin Password</source>
-                <target>WP Kullanıcı Parolası</target>
+                <target>WP Admin Parolası</target>
             </trans-unit>
             <trans-unit id="admin-url">
                 <source>Admin Url</source>
@@ -1560,23 +1560,23 @@
             </trans-unit>
             <trans-unit id="vhost-template-does-not-exist">
                 <source>Vhost Template %vhostTemplate% does not exist.</source>
-                <target>vhost şablonu %vhostTemplate% bulunamadı</target>
+                <target>vhost şablonu %vhostTemplate% bulunamadı.</target>
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>WordPress Sitesi Oluşturuldu</target>
+                <target>WordPress Sitesi Oluşturuldu!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
-                <target>oluşturduğunuz WordPress sitesinin aşağıda yazılı kimlik bilgilerini kopyalayın !</target>
+                <target>Oluşturduğunuz WordPress sitesinin aşağıda yazılı kimlik bilgilerini kopyalayın.</target>
             </trans-unit>
             <trans-unit id="creating">
                 <source>Creating</source>
-                <target>Oluşturuluyor </target>
+                <target>Oluşturuluyor</target>
             </trans-unit>
             <trans-unit id="saving">
                 <source>Saving</source>
-                <target>Kaydediliyor </target>
+                <target>Kaydediliyor</target>
             </trans-unit>
             <trans-unit id="new-php-site">
                 <source>New PHP Site</source>
@@ -1584,11 +1584,11 @@
             </trans-unit>
             <trans-unit id="the-main-ssh-user-for-the-site">
                 <source>The main SSH User for the site.</source>
-                <target>sitenin ana ssh kullanıcısı</target>
+                <target>Sitenin ana SSH kullanıcısı.</target>
             </trans-unit>
             <trans-unit id="site-has-been-created">
                 <source>Site has been created.</source>
-                <target>Site Oluşturuldu</target>
+                <target>Site Oluşturuldu.</target>
             </trans-unit>
             <trans-unit id="new-static-html-site">
                 <source>New Static HTML Site</source>
@@ -1612,7 +1612,7 @@
             </trans-unit>
             <trans-unit id="nodejs-settings-have-been-saved">
                 <source>Node.js Settings have been saved.</source>
-                <target>Node.js Ayarları Kaydedildi</target>
+                <target>Node.js Ayarları Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="new-python-site">
                 <source>New Python Site</source>
@@ -1624,11 +1624,11 @@
             </trans-unit>
             <trans-unit id="is-another-version-needed">
                 <source>Is another version needed?</source>
-                <target>başka bir sürüm gerekiyorsa</target>
+                <target>Başka bir sürüm gerekiyorsa</target>
             </trans-unit>
             <trans-unit id="check-out-the-docs">
                 <source>Check out the docs.</source>
-                <target>buraya tıklayın</target>
+                <target>Buraya tıklayın.</target> <!-- need a touch-->
             </trans-unit>
             <trans-unit id="python-settings">
                 <source>Python Settings</source>
@@ -1636,7 +1636,7 @@
             </trans-unit>
             <trans-unit id="python-settings-have-been-saved">
                 <source>Python Settings have been saved.</source>
-                <target>Python Ayarları Kaydedildi</target>
+                <target>Python Ayarları Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="operating-system">
                 <source>Operating System</source>
@@ -1760,11 +1760,11 @@
             </trans-unit>
             <trans-unit id="where-to-store-backups-relative-to-the-root">
                 <source>Where to store backups relative to the root.</source>
-                <target>yedeklerin kök dizine göre depolanacağı yer</target>
+                <target>Yedeklerin kök dizine göre depolanacağı yer</target>
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
                 <source>Leave blank to continue using the existing secret access key.</source>
-                <target>geçerli gizli erişim anahtarını kullanmaya devam etmek için boş bırakın</target>
+                <target>Geçerli gizli erişim anahtarını kullanmaya devam etmek için boş bırakın.</target>
             </trans-unit>
             <trans-unit id="excludes">
                 <source>Excludes</source>
@@ -1772,11 +1772,11 @@
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-saved">
                 <source>Remote Backup Settings have been saved.</source>
-                <target>Uzaktan Yedekleme Ayarları Kaydedildi</target>
+                <target>Uzaktan Yedekleme Ayarları Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="remote-backup-settings-have-been-deleted">
                 <source>Remote Backup Settings have been deleted.</source>
-                <target>Uzaktan Yedekleme Ayarları Silindi</target>
+                <target>Uzaktan Yedekleme Ayarları Silindi.</target>
             </trans-unit>
             <trans-unit id="access-key">
                 <source>Access Key</source>
@@ -1788,7 +1788,7 @@
             </trans-unit>
             <trans-unit id="your-google-drive-account-email-address">
                 <source>Your google drive account email address.</source>
-                <target>doogle drive hesabınızda kullandığınız e-posta adresi</target>
+                <target>Google drive hesabınızda kullandığınız e-posta adresi</target>
             </trans-unit>
             <trans-unit id="service-account">
                 <source>Service Account</source>
@@ -1796,7 +1796,7 @@
             </trans-unit>
             <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
                 <source>Leave blank to continue using the existing service account.</source>
-                <target>geçerli servis hesabını kullanmaya devam etmek için boş bırakın</target>
+                <target>Geçerli servis hesabını kullanmaya devam etmek için boş bırakın</target>
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
@@ -1808,7 +1808,7 @@
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
-                <target>butona tıklayın ve erişim kodunu bir sonraki alana yapıştırın</target>
+                <target>Butona tıklayın ve erişim kodunu bir sonraki alana yapıştırın</target>
             </trans-unit>
             <trans-unit id="create-backup">
                 <source>Create Backup</source>
@@ -1816,7 +1816,7 @@
             </trans-unit>
             <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
                 <source>The backup will be started in the background shortly.</source>
-                <target>yedekleme kısa süre içinde arka planda başlatılacak</target>
+                <target>Yedekleme kısa süre içinde arka planda başlatılacak.</target>
             </trans-unit>
             <trans-unit id="authentication-method">
                 <source>Authentication Method</source>
@@ -1824,7 +1824,7 @@
             </trans-unit>
             <trans-unit id="key">
                 <source>Key</source>
-                <target>Key</target>
+                <target>Anahtar</target>
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
@@ -1844,7 +1844,7 @@
             </trans-unit>
             <trans-unit id="format-for-s3-compatible-endpoints">
                 <source>Format for S3 compatible endpoints</source>
-                <target>s3 uyumlu uç noktaların biçimi</target>
+                <target>S3 uyumlu uç noktaların biçimi</target>
             </trans-unit>
             <trans-unit id="varnish-cache">
                 <source>Varnish Cache</source>
@@ -1860,7 +1860,7 @@
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>yenilenmeden önce saniye cinsinden önbellek süresi</target>
+                <target>Yenilenmeden önce saniye cinsinden önbellek süresi.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
@@ -1872,15 +1872,15 @@
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
-                <target>önbelleğe alınmayacak virgülle ayrılmış get parametrelerinin listesi</target>
+                <target>Önbelleğe alınmayacak virgülle ayrılmış GET parametrelerinin listesi.</target>
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>önbelleğe alınmayacak url ve dosyaların listesi</target>
+                <target>Varnish Cache'in önbelleğe almaması gereken URL'ler ve dosyalar.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Varnish Önbellek Ayarları Kaydedildi</target>
+                <target>Varnish Önbellek Ayarları Kaydedildi.</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
@@ -1888,35 +1888,35 @@
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
-                <target>tek url'leri veya virgülle ayrılmış etiketleri temizleyebilirsiniz</target>
+                <target>Tekil url'leri veya virgülle ayrılmış etiketleri temizleyebilirsiniz.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>Varnish Önbelleği Temizlendi</target>
+                <target>Varnish Önbelleği Temizlendi.</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Ters Proxy Oluştur</target>
+                <target>Reverse Proxy Oluştur</target>
             </trans-unit>
             <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-                <target>Yeni Ters Proxy</target>
+                <target>Yeni Reverse Proxy</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Ters Proxy URL</target>
+                <target>Reverse Proxy Url</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-                <target>Ters Proxy Oluşturuldu</target>
+                <target>Reverse Proxy Oluşturuldu.</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-                <target>Ters Proxy Ayarları</target>
+                <target>Reverse Proxy Ayarları</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>Ters Proxy Ayarları Kaydedildi</target>
+                <target>Reverse Proxy Ayarları Kaydedildi.</target>
             </trans-unit>
         </body>
     </file>
