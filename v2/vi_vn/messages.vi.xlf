@@ -1434,7 +1434,7 @@
                 <source>Hour</source>
                 <target>Giờ</target>
             </trans-unit>
-			<trans-unit id="day">
+            <trans-unit id="day">
                 <source>Day</source>
                 <target>Ngày</target>
             </trans-unit>
