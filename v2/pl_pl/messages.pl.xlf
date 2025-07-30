@@ -204,7 +204,7 @@
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>System operacyjny</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
@@ -268,7 +268,7 @@
             </trans-unit>
             <trans-unit id="create-user-button">
                 <source>Create User</source>
-                <target>Stwórz użytkownika</target>
+                <target>Utwórz użytkownika</target>
             </trans-unit>
             <trans-unit id="license-terms-acknowledge">
                 <source>I agree to the license terms and acknowledge the privacy policy.</source>
@@ -596,19 +596,19 @@
             </trans-unit>
             <trans-unit id="basic-auth">
                 <source>Basic Auth</source>
-                <target>Podstawowe uwierzytelnianie</target>
+                <target>Podstawowa autoryzacja</target>
             </trans-unit>
             <trans-unit id="enable-basic-auth">
                 <source>Enable Basic Auth</source>
-                <target>Włącz podstawowe uwierzytelnianie</target>
+                <target>Włącz podstawową autoryzację</target>
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>Basic Auth przed CloudPanel wprowadza dodatkowy poziom zabezpieczeń.</target>
+                <target>Podstawowa autoryzacja przed CloudPanel dodaje dodatkową warstwę bezpieczeństwa.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
-                <target>Basic Auth został włączony.</target>
+                <target>Podstawowa autoryzacja została włączona.</target>
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
@@ -632,15 +632,15 @@
             </trans-unit>
             <trans-unit id="masquerade-address">
                 <source>MasqueradeAddress</source>
-                <target>MasqueradeAddress</target>
+                <target>Adres maskujący</target>
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress powoduje, że sewer będzie prezentował klientowi określone informacje dotyczące adresu IP albo nazwy hosta w DNS.</target>
+                <target>Adres maskujący powoduje, że serwer wyświetla informacje o sieci dla określonego adresu IP lub nazwy hosta DNS klientowi.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
-                <target>MasqueradeAddress została włączona.</target>
+                <target>Adres maskujący został zapisany.</target>
             </trans-unit>
             <trans-unit id="instance-settings">
                 <source>Instance Settings</source>
@@ -780,7 +780,7 @@
             </trans-unit>
             <trans-unit id="retention-period-days">
                 <source>Retention Period (Days)</source>
-                <target>Okres retencji (dni)</target>
+                <target>Okres przechowywania (dni)</target>
             </trans-unit>
             <trans-unit id="images-settings-have-been-saved">
                 <source>Images Settings have been saved.</source>
@@ -812,7 +812,7 @@
             </trans-unit>
             <trans-unit id="create-image">
                 <source>Create Image</source>
-                <target>Stwórz obraz</target>
+                <target>Utwórz obraz</target>
             </trans-unit>
             <trans-unit id="image-name">
                 <source>Image Name</source>
@@ -872,7 +872,7 @@
             </trans-unit>
             <trans-unit id="create-snapshot">
                 <source>Create Snapshot</source>
-                <target>Stwórz migawkę</target>
+                <target>Utwórz migawkę</target>
             </trans-unit>
             <trans-unit id="no-snapshots-found">
                 <source>No snapshots found.</source>
@@ -920,15 +920,15 @@
             </trans-unit>
             <trans-unit id="api-token">
                 <source>Api Token</source>
-                <target>Api Token</target>
+                <target>Token API</target>
             </trans-unit>
             <trans-unit id="api-token-is-not-valid">
                 <source>Api Token is not valid.</source>
-                <target>Api Token jest nieprawidłowy.</target>
+                <target>Token API jest nieprawidłowy.</target>
             </trans-unit>
             <trans-unit id="api-token-has-been-saved">
                 <source>Api Token has been saved.</source>
-                <target>Api Token został zapisany.</target>
+                <target>Token API został zapisany.</target>
             </trans-unit>
             <trans-unit id="no-sites-found">
                 <source>No sites found.</source>
@@ -980,11 +980,11 @@
             </trans-unit>
             <trans-unit id="file-manager">
                 <source>File Manager</source>
-                <target>File Manager</target>
+                <target>Menadżer plików</target>
             </trans-unit>
             <trans-unit id="cron-jobs">
                 <source>Cron Jobs</source>
-                <target>Tablica Cron</target>
+                <target>Zadania cron</target>
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
@@ -996,7 +996,7 @@
             </trans-unit>
             <trans-unit id="root-directory">
                 <source>Root Directory</source>
-                <target>Root Directory</target>
+                <target>Katalog główny</target>
             </trans-unit>
             <trans-unit id="domain-name">
                 <source>Domain Name</source>
@@ -1168,7 +1168,7 @@
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>Nie znaleziono bazy danych; stwórz najpierw bazę danych.</target>
+                <target>Nie znaleziono bazy danych; najpierw utwórz bazę danych.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
@@ -1204,7 +1204,7 @@
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
-                <target>Self-Signed</target>
+                <target>Certyfikat samopodpisany</target>
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
@@ -1248,7 +1248,7 @@
             </trans-unit>
             <trans-unit id="create-and-install">
                 <source>Create and Install</source>
-                <target>Stwórz i instaluj</target>
+                <target>Utwórz i zainstaluj</target>
             </trans-unit>
             <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
                 <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
@@ -1320,7 +1320,7 @@
             </trans-unit>
             <trans-unit id="add-bot">
                 <source>Add Bot</source>
-                <target>Dodaj Bot</target>
+                <target>Dodaj bota</target>
             </trans-unit>
             <trans-unit id="bot-has-been-added">
                 <source>Bot has been added.</source>
@@ -1388,15 +1388,15 @@
             </trans-unit>
             <trans-unit id="add-cron-job">
                 <source>Add Cron Job</source>
-                <target>Dodaj wpis do tablicy Cron</target>
+                <target>Dodaj zadanie cron</target>
             </trans-unit>
             <trans-unit id="no-cron-jobs-found">
                 <source>No cron jobs found.</source>
-                <target>Nie znaleziono wpisów w tablicy CRON.</target>
+                <target>Nie znaleziono zadań cron.</target>
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>Nowy wpis do tablicy Cron</target>
+                <target>Nowe zadanie cron/target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
@@ -1456,15 +1456,15 @@
             </trans-unit>
             <trans-unit id="cron-job-has-been-added">
                 <source>Cron Job has been added.</source>
-                <target>Wpis do tablica Cron został dodany.</target>
+                <target>Zadanie cron zostało dodane.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-deleted">
                 <source>Cron Job has been deleted.</source>
-                <target>Wpis w tablicy Cron został usunięty.</target>
+                <target>Zadanie cron zostało usunięte.</target>
             </trans-unit>
             <trans-unit id="cron-job-has-been-saved">
                 <source>Cron Job has been saved.</source>
-                <target>Wpis w tablicy cron został zapisany.</target>
+                <target>Zadanie cron zostało zapisane.</target>
             </trans-unit>
             <trans-unit id="schedule">
                 <source>Schedule</source>
@@ -1504,23 +1504,23 @@
             </trans-unit>
             <trans-unit id="create-a-wordpress-site">
                 <source>Create a WordPress Site</source>
-                <target>Stwórz witrynę WordPress</target>
+                <target>Utwórz witrynę WordPress</target>
             </trans-unit>
             <trans-unit id="create-a-php-site">
                 <source>Create a PHP Site</source>
-                <target>Stwórz witrynę PHP</target>
+                <target>Utwórz witrynę PHP</target>
             </trans-unit>
             <trans-unit id="create-a-nodejs-site">
                 <source>Create a Node.js Site</source>
-                <target>Stwórz witrynę Node.js</target>
+                <target>Utwórz witrynę Node.js</target>
             </trans-unit>
             <trans-unit id="create-a-static-html-site">
                 <source>Create a Static HTML Site</source>
-                <target>Stwórz statyczną witrynę HTML</target>
+                <target>Utwórz statyczną witrynę HTML</target>
             </trans-unit>
             <trans-unit id="create-a-python-site">
                 <source>Create a Python Site</source>
-                <target>Stwórz witrynę Python</target>
+                <target>Utwórz witrynę Python</target>
             </trans-unit>
             <trans-unit id="new-site">
                 <source>New Site</source>
@@ -1660,7 +1660,7 @@
             </trans-unit>
             <trans-unit id="instance-id">
                 <source>Instance ID</source>
-                <target>Instance ID</target>
+                <target>ID instancji</target>
             </trans-unit>
             <trans-unit id="monitoring">
                 <source>Monitoring</source>
