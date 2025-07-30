@@ -360,7 +360,7 @@
             </trans-unit>
             <trans-unit id="back-to-sites">
                 <source>Back to Sites</source>
-                <target>Volver a los sitios</target>
+                <target>Regresar a sitios</target>
             </trans-unit>
             <trans-unit id="users">
                 <source>Users</source>
@@ -380,7 +380,7 @@
             </trans-unit>
             <trans-unit id="not-active">
                 <source>Not Active</source>
-                <target>Not Active</target>
+                <target>Inactivo</target>
             </trans-unit>
             <trans-unit id="role-admin">
                 <source>Admin</source>
@@ -604,7 +604,7 @@
             </trans-unit>
             <trans-unit id="basic-auth-in-front-of-cloudpanel">
                 <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
-                <target>La autenticación básica en CloudPanel añade una capa extra de seguridad en el front.</target>
+                <target>La autenticación básica en CloudPanel añade una capa extra de seguridad.</target>
             </trans-unit>
             <trans-unit id="basic-auth-has-been-enabled">
                 <source>Basic Auth has been enabled.</source>
@@ -636,7 +636,7 @@
             </trans-unit>
             <trans-unit id="masquerade-address-explanation">
                 <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
-                <target>MasqueradeAddress provoca que el servidor muestre la información de la red para direcciones IP específicas o las DNS del servidor al cliente..</target>
+                <target>MasqueradeAddress provoca que el servidor muestre la información de la red para direcciones IP específicas o las DNS del servidor al cliente.</target>
             </trans-unit>
             <trans-unit id="masquerade-address-has-been-saved">
                 <source>MasqueradeAddress has been saved.</source>
@@ -980,7 +980,7 @@
             </trans-unit>
             <trans-unit id="logs">
                 <source>Logs</source>
-                <target>Logs</target>
+                <target>Registros</target>
             </trans-unit>
             <trans-unit id="domain-settings">
                 <source>Domain Settings</source>
@@ -1056,7 +1056,7 @@
             </trans-unit>
             <trans-unit id="deleting-a-site-will-be-permanently">
                 <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
-                <target>Eliminar un sitio borrará permanentemente todos los archivos, bases de datos, usuarios y configuración. además no será posible restaurarlo.</target>
+                <target>Eliminar el sitio borrará permanentemente todos los archivos, bases de datos, usuarios y configuración. además no será posible restaurarlo.</target>
             </trans-unit>
             <trans-unit id="cancel">
                 <source>Cancel</source>
@@ -1140,11 +1140,11 @@
             </trans-unit>
             <trans-unit id="new-database-user">
                 <source>New Database User</source>
-                <target>Usuario nuevo de base de datos</target>
+                <target>Nuevo usuario de base de datos</target>
             </trans-unit>
             <trans-unit id="database-name">
                 <source>Database Name</source>
-                <target>Database Nombre</target>
+                <target>Nombre de la base de datos</target>
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
@@ -1160,7 +1160,7 @@
             </trans-unit>
             <trans-unit id="no-database-found-create-a-database-first">
                 <source>No database found; create a database first.</source>
-                <target>No se encontraron bases de datos; crea primero una base de datos.</target>
+                <target>No se encontró ninguna base de datos; crea una base de datos primero.</target>
             </trans-unit>
             <trans-unit id="database-user-has-been-added">
                 <source>Database User has been added.</source>
@@ -1196,7 +1196,7 @@
             </trans-unit>
             <trans-unit id="self-signed">
                 <source>Self-Signed</source>
-                <target>Auto-firmados</target>
+                <target>Autofirmados</target>
             </trans-unit>
             <trans-unit id="imported">
                 <source>Imported</source>
@@ -1228,7 +1228,7 @@
             </trans-unit>
             <trans-unit id="certificate-has-been-installed">
                 <source>Certificate has been installed.</source>
-                <target>Certificate has been installed.</target>
+                <target>Certificado se ha instalado.</target>
             </trans-unit>
             <trans-unit id="install">
                 <source>Install</source>
@@ -1340,7 +1340,7 @@
             </trans-unit>
             <trans-unit id="allow-traffic-from-cloudflare-only">
                 <source>Allow traffic from Cloudflare only</source>
-                <target>Permitir sólo el trafico desde Cloudflare</target>
+                <target>Permitir sólo trafico desde Cloudflare</target>
             </trans-unit>
             <trans-unit id="the-name-servers-must-point-to-cloudflare">
                 <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
@@ -1408,7 +1408,7 @@
             </trans-unit>
             <trans-unit id="once-a-day">
                 <source>Once a day (At 00:00)</source>
-                <target>Una vez al día (A las 00:00)</target>
+                <target>Una vez al día (a las 00:00)</target>
             </trans-unit>
             <trans-unit id="every-day-at-4am">
                 <source>Every day at 4 a.m.</source>
@@ -1476,19 +1476,19 @@
             </trans-unit>
             <trans-unit id="purge-cache">
                 <source>Purge Cache</source>
-                <target>Purgar Cache</target>
+                <target>Purgar caché</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-are-not-valid">
                 <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
-                <target>La configuración de la velocidad del sitio no es válida, el mensaje de error es: %errorMessage%</target>
+                <target>La configuración de velocidad del sitio no es válida, el mensaje de error es: %errorMessage%</target>
             </trans-unit>
             <trans-unit id="page-speed-settings-have-been-saved">
                 <source>Page Speed Settings have been saved.</source>
-                <target>La configuración de la velocídad del sitio se ha guardado.</target>
+                <target>La configuración de velocídad del sitio se ha guardado.</target>
             </trans-unit>
             <trans-unit id="page-speed-cache-have-been-purged">
                 <source>Page Speed Cache has been purged.</source>
-                <target>La caché de la velocidad del sitio se ha purgado.</target>
+                <target>La caché de velocidad del sitio se ha purgado.</target>
             </trans-unit>
             <trans-unit id="what-kind-of-site-would-you-like-to-create">
                 <source>What kind of site would you like to create?</source>
@@ -1524,11 +1524,11 @@
             </trans-unit>
             <trans-unit id="pre-install-wordpress">
                 <source>Pre-Install WordPress</source>
-                <target>Pre-Instalar WordPress</target>
+                <target>Preinstalar WordPress</target>
             </trans-unit>
             <trans-unit id="back">
                 <source>Back</source>
-                <target>Volver</target>
+                <target>Regresar</target>
             </trans-unit>
             <trans-unit id="site-title">
                 <source>Site Title</source>
@@ -1536,7 +1536,7 @@
             </trans-unit>
             <trans-unit id="admin-email">
                 <source>Admin E-Mail</source>
-                <target>E-Mail administrador</target>
+                <target>Correo del administrador</target>
             </trans-unit>
             <trans-unit id="admin-user-name">
                 <source>Admin User Name</source>
@@ -1560,7 +1560,7 @@
             </trans-unit>
             <trans-unit id="wordpress-site-has-been-created">
                 <source>WordPress Site has been created!</source>
-                <target>¡El sitio con WordPress se ha creado!</target>
+                <target>¡El sitio WordPress se ha creado!</target>
             </trans-unit>
             <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
                 <source>Copy the credentials for your created WordPress site.</source>
@@ -1660,35 +1660,35 @@
             </trans-unit>
             <trans-unit id="last-30-minutes">
                 <source>Last 30 Minutes</source>
-                <target>Últimos 30 Minutos</target>
+                <target>Últimos 30 minutos</target>
             </trans-unit>
             <trans-unit id="last-hour">
                 <source>Last Hour</source>
-                <target>Última Hora</target>
+                <target>Última hora</target>
             </trans-unit>
             <trans-unit id="last-3-hours">
                 <source>Last 3 Hours</source>
-                <target>Últimas 3 Horas</target>
+                <target>Últimas 3 horas</target>
             </trans-unit>
             <trans-unit id="last-6-hours">
                 <source>Last 6 Hours</source>
-                <target>Últimas 6 Horas</target>
+                <target>Últimas 6 horas</target>
             </trans-unit>
             <trans-unit id="last-12-hours">
                 <source>Last 12 Hours</source>
-                <target>Últimas 12 Horas</target>
+                <target>Últimas 12 horas</target>
             </trans-unit>
             <trans-unit id="1-minute">
                 <source>1 Minute</source>
-                <target>1 Minuto</target>
+                <target>1 minuto</target>
             </trans-unit>
             <trans-unit id="5-minutes">
                 <source>5 Minutes</source>
-                <target>5 Minutos</target>
+                <target>5 minutos</target>
             </trans-unit>
             <trans-unit id="15-minutes">
                 <source>15 Minutes</source>
-                <target>15 Minutos</target>
+                <target>15 minutos</target>
             </trans-unit>
             <trans-unit id="cpu-usage">
                 <source>CPU Usage</source>
@@ -1732,7 +1732,7 @@
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
-                <target>Activar respaldos romotos</target>
+                <target>Activar respaldos remotos</target>
             </trans-unit>
             <trans-unit id="daily">
                 <source>Daily</source>
@@ -1796,11 +1796,11 @@
             </trans-unit>
             <trans-unit id="request-access-code">
                 <source>Request Access Code</source>
-                <target>Solicitar Código de Acceso</target>
+                <target>Solicitar código de acceso</target>
             </trans-unit>
             <trans-unit id="access-code">
                 <source>Access Code</source>
-                <target>Código de Acceso</target>
+                <target>Código de acceso</target>
             </trans-unit>
             <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
                 <source>Click on the button and paste the access code into the next field.</source>
@@ -1824,15 +1824,15 @@
             </trans-unit>
             <trans-unit id="remote-server-path">
                 <source>Remote Server Path</source>
-                <target>Ruta Servidor Remoto</target>
+                <target>Ruta servidor remoto</target>
             </trans-unit>
             <trans-unit id="private-key-path">
                 <source>Private Key Path</source>
-                <target>Ruta Clave Privada</target>
+                <target>Ruta de la clave privada</target>
             </trans-unit>
             <trans-unit id="space-name">
                 <source>Space Name</source>
-                <target>Nombre del Espacio</target>
+                <target>Nombre del espacio</target>
             </trans-unit>
             <trans-unit id="space-endpoint">
                 <source>Space Endpoint</source>
@@ -1852,19 +1852,19 @@
             </trans-unit>
             <trans-unit id="cache-lifetime">
                 <source>Cache Lifetime</source>
-                <target>Duración de la Caché</target>
+                <target>Duración de la caché</target>
             </trans-unit>
             <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
                 <source>Cache Lifetime in seconds before being refreshed.</source>
-                <target>Duración de la Caché en segundos antes de actualizarse.</target>
+                <target>Duración de la caché en segundos antes de actualizarse.</target>
             </trans-unit>
             <trans-unit id="cache-tag-prefix">
                 <source>Cache Tag Prefix</source>
-                <target>Prefijo de la Etiqueta de la Caché</target>
+                <target>Prefijo de la etiqueta de la caché</target>
             </trans-unit>
             <trans-unit id="excluded-params">
                 <source>Excluded Params</source>
-                <target>Parámetros Excluidos</target>
+                <target>Parámetros excluidos</target>
             </trans-unit>
             <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
                 <source>List of GET parameters, separated by a comma, to disable caching.</source>
@@ -1872,15 +1872,15 @@
             </trans-unit>
             <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
                 <source>Urls and files that Varnish Cache shouldn't cache.</source>
-                <target>Urls y ficheros que la Caché Varnish Cache no debería cachear.</target>
+                <target>Urls y ficheros que la caché Varnish no debería cachear.</target>
             </trans-unit>
             <trans-unit id="varnish-cache-settings-have-been-saved">
                 <source>Varnish Cache Settings have been saved.</source>
-                <target>Se han guardado los ajustes de la Caché Varnish</target>
+                <target>Se han guardado los ajustes de la caché Varnish</target>
             </trans-unit>
             <trans-unit id="purge-entire-cache">
                 <source>Purge Entire Cache</source>
-                <target>Purgar Toda la Caché</target>
+                <target>Purgar toda la caché</target>
             </trans-unit>
             <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
                 <source>You can purge single urls or tags separated by comma.</source>
@@ -1888,31 +1888,31 @@
             </trans-unit>
             <trans-unit id="varnish-cache-has-been-purged">
                 <source>Varnish Cache has been purged.</source>
-                <target>La Caché Varnish ha sido purgada</target>
+                <target>La caché Varnish ha sido purgada</target>
             </trans-unit>
             <trans-unit id="create-a-reverse-proxy">
                 <source>Create a Reverse Proxy</source>
-                <target>Crear un Proxy Inverso</target>
+                <target>Crear un proxy inverso</target>
             </trans-unit>
                 <trans-unit id="new-reverse-proxy">
                 <source>New Reverse Proxy</source>
-            <target>Nuevo Proxy Inverso</target>
+            <target>Nuevo proxy inverso</target>
             </trans-unit>
             <trans-unit id="reverse-proxy-url">
                 <source>Reverse Proxy Url</source>
-                <target>Url del Proxy Inverso</target>
+                <target>Url del proxy inverso</target>
             </trans-unit>
                 <trans-unit id="reverse-proxy-has-been-created">
                 <source>Reverse Proxy has been created.</source>
-            <target>El Proxy Inverso ha sido creado.</target>
+            <target>El Proxy inverso ha sido creado.</target>
             </trans-unit>
                 <trans-unit id="reverse-proxy-settings">
                 <source>Reverse Proxy Settings</source>
-            <target>Configuración del Proxy Inverso</target>
+            <target>Configuración del proxy inverso</target>
             </trans-unit>
                 <trans-unit id="reverse-proxy-settings-have-been-saved">
                 <source>Reverse Proxy Settings have been saved.</source>
-                <target>La configuración del Proxy Inverso ha sido guardada.</target>
+                <target>La configuración del proxy inverso ha sido guardada.</target>
             </trans-unit>
         </body>
     </file>
