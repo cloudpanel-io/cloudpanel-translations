@@ -82,6 +82,10 @@
                 <source>Bulgarian</source>
                 <target>ბულგარული</target>
             </trans-unit>
+            <trans-unit id="locale-finnish">
+                <source>Finnish</source>
+                <target>ფინური</target>
+            </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
                 <target>ინგლისური</target>

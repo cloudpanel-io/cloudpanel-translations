@@ -82,6 +82,10 @@
                 <source>Bulgarian</source>
                 <target>Búlgaro</target>
             </trans-unit>
+            <trans-unit id="locale-finnish">
+                <source>Finnish</source>
+                <target>Finnish</target>
+            </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
                 <target>Inglês</target>
@@ -97,6 +101,10 @@
             <trans-unit id="locale-hebrew">
                 <source>Hebrew</source>
                 <target>Hebraico</target>
+            </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                <target>Húngaro</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
