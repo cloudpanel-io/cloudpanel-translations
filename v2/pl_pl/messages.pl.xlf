@@ -1396,7 +1396,7 @@
             </trans-unit>
             <trans-unit id="new-cron-job">
                 <source>New Cron Job</source>
-                <target>Nowe zadanie cron/target>
+                <target>Nowe zadanie cron</target>
             </trans-unit>
             <trans-unit id="every-minute">
                 <source>Every minute</source>
