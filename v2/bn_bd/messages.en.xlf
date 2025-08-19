@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                    <target>আইপি ঠিকানা</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                    <target>আইপি যোগ করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                    <target>আইপি মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                    <target>আইপি ব্লকিং সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                    <target>আইপি ব্লকিং মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                    <target>আইপি ব্লকিং সক্রিয় করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                    <target>আইপি ব্লকিং নিষ্ক্রিয় করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                    <target>আইপি ব্লকিং সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                    <target>আইপি ব্লকিং সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                    <target>আইপি ব্লকিং সেটিংস মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                    <target>আইপি ব্লকিং সেটিংস সক্রিয় করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                    <target>আইপি ব্লকিং সেটিংস নিষ্ক্রিয় করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                    <target>জমা দিন</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                    <target>সাইট</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                    <target>সাইটসমূহ</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                    <target>জার্মান</target>
+            </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                    <target>চেক</target>
+            </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                    <target>ড্যানিশ</target>
+            </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                    <target>বসনিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                    <target>বুলগেরিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-finnish">
+                <source>Finnish</source>
+                    <target>ফিনিশ</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                    <target>ইংরেজি</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                    <target>ফরাসি</target>
+            </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                    <target>কোরিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                    <target>হিব্রু</target>
+            </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                    <target>হাঙ্গেরিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                    <target>ডাচ</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                    <target>ইতালিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                    <target>জাপানি</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                    <target>স্প্যানিশ</target>
+            </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                    <target>পার্সিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                    <target>পোলিশ</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                    <target>পর্তুগিজ</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                    <target>পর্তুগিজ (ব্রাজিল)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                    <target>গ্রিক</target>
+            </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                    <target>সার্বিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                    <target>জর্জিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                    <target>লিথুয়ানিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                    <target>ইন্দোনেশিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                    <target>রোমানিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                    <target>স্লোভাক</target>
+            </trans-unit>
+            <trans-unit id="locale-russian">
+                <source>Russian</source>
+                    <target>রাশিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                    <target>থাই</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                    <target>তুর্কি</target>
+            </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                    <target>ইউক্রেনিয়ান</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                    <target>আরবি</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                    <target>ভিয়েতনামী</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                    <target>চাইনিজ (সরলীকৃত)</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                    <target>চাইনিজ (তাইওয়ান)</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                    <target>IPv4 পাবলিক আইপি</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                    <target>IPv6 পাবলিক আইপি</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                    <target>ওএস</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                    <target>হোস্টনেম</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                    <target>সিপিইউ</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                    <target>কোর</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                    <target>মেমরি</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                    <target>ইউজার নাম</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                    <target>পাসওয়ার্ড</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                    <target>লগইন করুন</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                    <target>সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                    <target>লগআউট</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                    <target>ভাষা</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                    <target>প্রথম নাম</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                    <target>শেষ নাম</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                    <target>ই-মেইল</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                    <target>সময় অঞ্চল</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                    <target>নতুন পাসওয়ার্ড তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                    <target>ইউজার তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                    <target>আমি লাইসেন্স শর্তাবলীতে সম্মত এবং গোপনীয়তা নীতিমালা স্বীকার করছি।</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                    <target>একটি ত্রুটি ঘটেছে, ত্রুটির বার্তা: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                    <target>অ্যাডমিন ইউজার তৈরি</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                    <target>অ্যাডমিন এলাকা</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                    <target>ড্যাশবোর্ড</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                    <target>অ্যাকাউন্ট</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                    <target>নিরাপত্তা</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                    <target>অ্যাকাউন্ট তথ্য সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                    <target>সংরক্ষণ করুন</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                    <target>তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                    <target>দ্বি-স্তরীয় প্রমাণীকরণ</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                    <target>দ্বি-স্তরীয় প্রমাণীকরণ আপনার অ্যাকাউন্টে অতিরিক্ত নিরাপত্তা যোগ করে। যখনই আপনি সাইন ইন করবেন, আপনাকে পাসওয়ার্ড এবং নিরাপত্তা কোড উভয়ই প্রবেশ করতে হবে।</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                    <target>দ্বি-স্তরীয় প্রমাণীকরণ চালু করুন</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                    <target>আপনার অ্যাপ সংযোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                    <target>%googleAuthenticatorLink% বা %duoLink% এর মতো অ্যাপ ব্যবহার করে QR কোড স্ক্যান করুন। এটি একটি ৬-সংখ্যার কোড দেখাবে যা নিচে প্রবেশ করতে হবে।</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                    <target>কোড স্ক্যান করতে সমস্যা হচ্ছে?</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                    <target>এটি চেষ্টা করুন</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                    <target>আপনার অ্যাপে ম্যানুয়াল এন্ট্রি নির্বাচন করুন, এবং ইউজার নাম: "%userName%" ও কোড: %secret% লিখুন</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                    <target>দ্বি-স্তরীয় প্রমাণীকরণ চালু হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                    <target>দ্বি-স্তরীয় প্রমাণীকরণ বন্ধ করুন</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                    <target>দ্বি-স্তরীয় প্রমাণীকরণ বন্ধ হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                    <target>প্রমাণীকরণ কোড লিখুন</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                    <target>সাইটে ফিরে যান</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                    <target>ইউজারসমূহ</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                    <target>ইউজার যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                    <target>নতুন ইউজার</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                    <target>সক্রিয়</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                    <target>নিষ্ক্রিয়</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                    <target>অ্যাডমিন</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                    <target>ইউজার</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                    <target>সাইট ম্যানেজার</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                    <target>ইউজার যোগ হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                    <target>ইউজার আপডেট হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                    <target>কোনো ইউজার পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                    <target>ভূমিকা</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                    <target>অবস্থা</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                    <target>মুছে ফেলুন</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                    <target>আপনি কি নিশ্চিত?</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                    <target>ইউজার মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                    <target>ইভেন্টসমূহ</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                    <target>কোনো ইভেন্ট পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                    <target>ইভেন্ট সময়</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                    <target>ইভেন্ট</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                    <target>দেখুন</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                    <target>নোটিফিকেশনসমূহ</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                    <target>কোনো নোটিফিকেশন পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                    <target>নোটিফিকেশন মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                    <target>বার্তা দেখান</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                    <target>গুরুত্ব</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                    <target>তারিখ</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                    <target>বার্তা</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                    <target>কর্ম</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                    <target>তথ্য</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                    <target>সতর্কতা</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                    <target>গুরুতর</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                    <target>আরও তথ্য</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                    <target>পড়া হয়েছে হিসেবে চিহ্নিত করুন</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                    <target>অপঠিত হিসেবে চিহ্নিত করুন</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                    <target>ইনস্ট্যান্স</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                    <target>ফায়ারওয়াল</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                    <target>সেবা</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                    <target>সেবাসমূহ</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                    <target>নিয়মাবলী</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                    <target>নিয়ম যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                    <target>কোনো নিয়ম পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                    <target>ফায়ারওয়াল নিয়ম যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                    <target>নিয়ম যোগ হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                    <target>নিয়ম মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                    <target>ধরন</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                    <target>কাস্টম TCP</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                    <target>পোর্ট রেঞ্জ</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                    <target>আইপি ভার্সন</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                    <target>উৎস</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                    <target>কাস্টম</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                    <target>যেকোনো-IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                    <target>যেকোনো-IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                    <target>আমার আইপি</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                    <target>আইপি বা CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                    <target>বর্ণনা</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                    <target>কর্মসমূহ</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                    <target>ফায়ারওয়াল নিয়ম সম্পাদনা করুন</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                    <target>বেসিক অথ</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                    <target>বেসিক অথ চালু করুন</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                    <target>CloudPanel-এর সামনে বেসিক অথ অতিরিক্ত নিরাপত্তা যোগ করে।</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                    <target>বেসিক অথ চালু হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                    <target>চলছে</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                    <target>বন্ধ হয়েছে</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                    <target>পুনরায় চালু করুন</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                    <target>সেবা শীঘ্রই পুনরায় চালু হবে।</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                    <target>Proftpd সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                    <target>MasqueradeAddress</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                    <target>MasqueradeAddress সার্ভারকে নির্দিষ্ট আইপি ঠিকানা বা DNS হোস্টনেমের নেটওয়ার্ক তথ্য ক্লায়েন্টকে প্রদর্শন করতে বাধ্য করে।</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                    <target>MasqueradeAddress সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                    <target>ইনস্ট্যান্স সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                    <target>সময় অঞ্চল সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                    <target>রিবুট করুন</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                    <target>ইনস্ট্যান্স শীঘ্রই রিবুট হবে।</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                    <target>টাইমজোন পরিবর্তনের পর ইনস্ট্যান্স রিবুট করার পরামর্শ দেওয়া হয়।</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                    <target>সাধারণ</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                    <target>ডাটাবেস সার্ভারসমূহ</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                    <target>ডাটাবেস সার্ভার যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                    <target>ডাটাবেস সার্ভার সম্পাদনা করুন</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                    <target>ইঞ্জিন</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                    <target>হোস্ট</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                    <target>পোর্ট</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                    <target>আইপি বা DNS নাম</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                    <target>সার্টিফিকেট</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                    <target>সক্রিয় করুন</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                    <target>ডাটাবেস সার্ভার যোগ হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                    <target>ডাটাবেস সার্ভার আপডেট হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                    <target>ডাটাবেস সার্ভার মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                    <target>ডাটাবেস সার্ভার পরিবর্তিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                    <target>কাস্টম ডোমেইন</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                    <target>TLS সার্টিফিকেট</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                    <target>Let's Encrypt HTTP চ্যালেঞ্জ</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                    <target>Let's Encrypt DNS চ্যালেঞ্জ</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                    <target>ব্যাকআপসমূহ</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                    <target>ছবিসমূহ</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                    <target>AWS ক্রেডেনশিয়াল</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                    <target>AWS অ্যাক্সেস কী</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                    <target>AWS সিক্রেট অ্যাক্সেস কী</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                    <target>AWS অ্যাক্সেস কী বৈধ নয়।</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                    <target>AWS অ্যাক্সেস কী সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                    <target>ছবি সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                    <target>স্বয়ংক্রিয় ছবি চালু করুন</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                    <target>ফ্রিকোয়েন্সি</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                    <target>সংরক্ষণ সময়কাল (দিন)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                    <target>ছবি সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                    <target>প্রতি ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                    <target>প্রতি তিন ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                    <target>প্রতি ছয় ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                    <target>প্রতি বারো ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                    <target>প্রতি দিন একবার</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                    <target>ছবি তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                    <target>ছবির নাম</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                    <target>কোনো ছবি পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                    <target>উপলব্ধ</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                    <target>অপেক্ষমাণ</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                    <target>ব্যর্থ হয়েছে</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                    <target>তৈরি হয়েছে</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                    <target>ছবি তৈরি হচ্ছে।</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                    <target>ছবি মুছে ফেলা হচ্ছে।</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                    <target>অ্যাক্সেস টোকেন বৈধ নয়।</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                    <target>অ্যাক্সেস টোকেন সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                    <target>অ্যাক্সেস টোকেন</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                    <target>স্ন্যাপশটসমূহ</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                    <target>স্ন্যাপশট সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                    <target>স্বয়ংক্রিয় স্ন্যাপশট চালু করুন</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                    <target>স্ন্যাপশট তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                    <target>কোনো স্ন্যাপশট পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                    <target>স্ন্যাপশটের নাম</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                    <target>আকার</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                    <target>স্ন্যাপশট তৈরি হচ্ছে।</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                    <target>স্ন্যাপশট মুছে ফেলা হচ্ছে।</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                    <target>সার্ভিস অ্যাকাউন্ট কীসমূহ</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                    <target>সার্ভিস অ্যাকাউন্ট কী বৈধ নয়।</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                    <target>সার্ভিস অ্যাকাউন্ট কী সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                    <target>এপিআই কী</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                    <target>এপিআই কী বৈধ নয়।</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                    <target>এপিআই কী সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                    <target>এপিআই টোকেন</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                    <target>এপিআই টোকেন বৈধ নয়।</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                    <target>এপিআই টোকেন সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                    <target>কোনো সাইট পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                    <target>+ সাইট যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                    <target>ডোমেইন</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                    <target>সাইট ইউজার</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                    <target>সাইট ইউজার পাসওয়ার্ড</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                    <target>অ্যাপ</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                    <target>পরিচালনা করুন</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                    <target>আইপি ঠিকানা</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                    <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                    <target>ডাটাবেসসমূহ</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                    <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                    <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                    <target>ফাইল ম্যানেজার</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                    <target>ক্রন জবস</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                    <target>লগসমূহ</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                    <target>ডোমেইন সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                    <target>মূল ডিরেক্টরি</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                    <target>ডোমেইন নাম</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                    <target>অ্যাপ্লিকেশন</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                    <target>সাধারণ</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                    <target>মূল ডিরেক্টরি সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                    <target>PHP সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                    <target>PHP ভার্সন</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                    <target>একটি স্ক্রিপ্ট সর্বাধিক কত মেমরি বরাদ্দ করতে পারবে তা নির্ধারণ করে।</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                    <target>একটি স্ক্রিপ্ট কতক্ষণ চলতে পারবে তার সর্বাধিক সময় নির্ধারণ করে, তারপরে পার্সার দ্বারা বন্ধ করা হবে।</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                    <target>একটি স্ক্রিপ্ট ইনপুট ডেটা (যেমন POST এবং GET) পার্স করার সর্বাধিক সময় নির্ধারণ করে।</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                    <target>ফর্ম পোস্ট করার জন্য ইনপুটের সংখ্যা সীমা নির্ধারণ করে।</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                    <target>PHP যে POST ডেটা গ্রহণ করবে তার সর্বাধিক আকার।</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                    <target>আপলোডকৃত ফাইলের সর্বাধিক আকার।</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                    <target>আপনি php.ini-তে যেমন PHP প্যারামিটার নির্ধারণ করেন, তেমনই এখানে নির্ধারণ করতে পারেন।</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                    <target>অতিরিক্ত কনফিগারেশন নির্দেশনা</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                    <target>PHP সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                    <target>সাইট মুছে ফেলুন</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                    <target>একটি সাইট মুছে ফেললে সমস্ত সাইট ফাইল, ডাটাবেস, ইউজার এবং কনফিগ স্থায়ীভাবে মুছে যাবে এবং পুনরুদ্ধারযোগ্য হবে না।</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                    <target>বাতিল করুন</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                    <target>মুছে ফেলা নিশ্চিত করতে, %domain% ফিল্ডে লিখুন।</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                    <target>সাইট মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                    <target>সাইট ইউজার সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                    <target>সাইট ইউজার সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                    <target>SSH কীসমূহ</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                    <target>Vhost এডিটর</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                    <target>Vhost সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                    <target>Vhost বৈধ নয়, ত্রুটির বার্তা: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                    <target>কোনো ডাটাবেস পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                    <target>ডাটাবেস</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                    <target>ডাটাবেস যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                    <target>নতুন ডাটাবেস</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                    <target>ডাটাবেস যোগ হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                    <target>ডাটাবেস মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                    <target>ডাটাবেস ইউজারসমূহ</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                    <target>ডাটাবেস ইউজার যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                    <target>কোনো ডাটাবেস ইউজার পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                    <target>পড়ুন এবং লিখুন</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                    <target>শুধুমাত্র পড়ুন</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                    <target>নতুন ডাটাবেস ইউজার</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                    <target>ডাটাবেসের নাম</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                    <target>ডাটাবেস ইউজারের নাম</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                    <target>ডাটাবেস ইউজার পাসওয়ার্ড</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                    <target>অনুমতিসমূহ</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                    <target>কোনো ডাটাবেস পাওয়া যায়নি; প্রথমে একটি ডাটাবেস তৈরি করুন।</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                    <target>ডাটাবেস ইউজার যোগ হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                    <target>ডাটাবেস ইউজার মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                    <target>ডাটাবেস ইউজার সম্পাদনা করুন</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                    <target>ডাটাবেস ইউজার আপডেট হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                    <target>সার্টিফিকেটসমূহ</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                    <target>নতুন Let's Encrypt সার্টিফিকেট</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                    <target>সার্টিফিকেট ইম্পোর্ট করুন</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                    <target>কোনো সার্টিফিকেট পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                    <target>সেল্ফ-সাইনড</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                    <target>ইম্পোর্টেড</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                    <target>ডোমেইনসমূহ</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                    <target>মেয়াদ উত্তীর্ণের তারিখ</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                    <target>ইনস্টল হয়েছে</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                    <target>প্রাইভেট কী</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                    <target>সার্টিফিকেট চেইন</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                    <target>সার্টিফিকেট মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                    <target>সার্টিফিকেট ইনস্টল হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                    <target>ইনস্টল করুন</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                    <target>ইম্পোর্ট এবং ইনস্টল করুন</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                    <target>তৈরি এবং ইনস্টল করুন</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                    <target>যে ডোমেইন নামগুলো আপনি Let's Encrypt SSL সার্টিফিকেট দিয়ে সুরক্ষিত করতে চান তা লিখুন।</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                    <target>এই সার্ভারে নির্দেশিত একটি DNS রেকর্ড থাকতে হবে Let's Encrypt সার্টিফিকেট ইস্যু করার জন্য।</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                    <target>ডোমেইন নামসমূহ</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                    <target>ডোমেইন যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                    <target>CloudPanel কাস্টম ডোমেইন</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                    <target>CloudPanel কাস্টম ডোমেইন সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                    <target>আইপি ব্লকিং</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                    <target>আইপি যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                    <target>আইপি</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                    <target>কোনো আইপি পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                    <target>উদাহরণ</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                    <target>একক আইপি</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                    <target>CIDR ফরম্যাট</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                    <target>আইপি যোগ করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                    <target>আইপি মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                    <target>কোনো বট পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                    <target>বট ব্লকিং</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                    <target>বট যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                    <target>বট যোগ করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                    <target>বট মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                    <target>বটের নাম</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                    <target>বেসিক অথেন্টিকেশন</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                    <target>বেসিক অথেন্টিকেশন বাইপাস করতে কমা দিয়ে আলাদা আইপির তালিকা।</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                    <target>হোয়াইটলিস্টেড আইপি</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                    <target>শুধুমাত্র Cloudflare থেকে ট্রাফিক অনুমোদন করুন</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                    <target>নেম সার্ভারগুলো Cloudflare-এ নির্দেশিত হতে হবে এবং আপনার DNS রেকর্ডের জন্য প্রক্সি সক্রিয় করতে হবে।</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                    <target>SSH ব্যবহারকারীরা</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                    <target>হোম ডিরেক্টরি</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                    <target>SSH ব্যবহারকারী</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                    <target>নতুন SSH ব্যবহারকারী</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                    <target>ব্যবহারকারী সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                    <target>FTP ব্যবহারকারী</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                    <target>FTP ব্যবহারকারীরা</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                    <target>নতুন FTP ব্যবহারকারী</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                    <target>Cron Job যোগ করুন</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                    <target>কোনো Cron Job পাওয়া যায়নি।</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                    <target>নতুন Cron Job</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                    <target>প্রতি মিনিটে</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                    <target>প্রতি ৫ মিনিটে</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                    <target>প্রতি ঘণ্টায় একবার</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                    <target>প্রতি ৩ ঘণ্টায়</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                    <target>প্রতি দিন (০০:০০ টায়)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                    <target>প্রতি দিন সকাল ৪টায়</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                    <target>প্রতি সপ্তাহে (রবিবার ০০:০০ টায়)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                    <target>প্রতি মাসে (মাসের ১ তারিখ ০০:০০ টায়)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                    <target>টেমপ্লেট</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                    <target>মিনিট</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                    <target>ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                    <target>দিন</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                    <target>মাস</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                    <target>সপ্তাহের দিন</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                    <target>Cron Job যোগ করা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                    <target>Cron Job মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                    <target>Cron Job সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                    <target>সময়সূচি</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                    <target>কমান্ড</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                    <target>আপডেট</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                    <target>পেজস্পিড</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                    <target>ক্যাশ পরিষ্কার করুন</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                    <target>পেজস্পিড সেটিংস বৈধ নয়, ত্রুটির বার্তা: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                    <target>পেজস্পিড সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                    <target>পেজস্পিড ক্যাশ পরিষ্কার হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                    <target>আপনি কোন ধরনের সাইট তৈরি করতে চান?</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                    <target>একটি ওয়ার্ডপ্রেস সাইট তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                    <target>একটি PHP সাইট তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                    <target>একটি Node.js সাইট তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                    <target>একটি স্ট্যাটিক HTML সাইট তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                    <target>একটি পাইথন সাইট তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                    <target>নতুন সাইট</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                    <target>নতুন ওয়ার্ডপ্রেস সাইট</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                    <target>ওয়ার্ডপ্রেস প্রি-ইনস্টল করুন</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                    <target>পেছনে যান</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                    <target>সাইটের শিরোনাম</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                    <target>অ্যাডমিন ই-মেইল</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                    <target>অ্যাডমিন ব্যবহারকারীর নাম</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                    <target>অ্যাডমিন পাসওয়ার্ড</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                    <target>অ্যাডমিন ইউআরএল</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                    <target>মাল্টিসাইট</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                    <target>Vhost টেমপ্লেট %vhostTemplate% নেই।</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                    <target>ওয়ার্ডপ্রেস সাইট তৈরি হয়েছে!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                    <target>আপনার তৈরি ওয়ার্ডপ্রেস সাইটের ক্রেডেনশিয়াল কপি করুন।</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                    <target>তৈরি করা হচ্ছে</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                    <target>সংরক্ষণ করা হচ্ছে</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                    <target>নতুন PHP সাইট</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                    <target>সাইটের প্রধান SSH ব্যবহারকারী।</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                    <target>সাইট তৈরি হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                    <target>নতুন স্ট্যাটিক HTML সাইট</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                    <target>নতুন Node.js সাইট</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                    <target>Node.js ভার্সন</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                    <target>অ্যাপ পোর্ট</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                    <target>Node.js সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                    <target>Node.js সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                    <target>নতুন পাইথন সাইট</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                    <target>পাইথন ভার্সন</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                    <target>আরেকটি ভার্সন কি দরকার?</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                    <target>ডকুমেন্টেশন দেখুন।</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                    <target>পাইথন সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                    <target>পাইথন সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                    <target>অপারেটিং সিস্টেম</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                    <target>ক্লাউড</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                    <target>অঞ্চল</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                    <target>ড্রপলেট আইডি</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                    <target>ইনস্ট্যান্স আইডি</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                    <target>মনিটরিং</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                    <target>শেষ ৩০ মিনিট</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                    <target>শেষ ১ ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                    <target>শেষ ৩ ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                    <target>শেষ ৬ ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                    <target>শেষ ১২ ঘণ্টা</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                    <target>১ মিনিট</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                    <target>৫ মিনিট</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                    <target>১৫ মিনিট</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                    <target>CPU ব্যবহার</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                    <target>ডিস্ক ব্যবহার</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                    <target>মেমরি ব্যবহার</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                    <target>লোড গড়</target>
+            </trans-unit>
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                    <target>রিমোট ব্যাকআপ</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                    <target>স্টোরেজ প্রদানকারী</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                    <target>স্টোরেজ প্রদানকারী নির্বাচন করুন</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                    <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone Config</source>
+                    <target>কাস্টম Rclone কনফিগ</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                    <target>চালিয়ে যান</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                    <target>রিমোট ব্যাকআপ সক্রিয় করুন</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                    <target>দৈনিক</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                    <target>সময়</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                    <target>বাকেট</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                    <target>বাকেটের নাম</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                    <target>স্টোরেজ ডিরেক্টরি</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                    <target>রুটের সাথে সম্পর্কিত ব্যাকআপ কোথায় সংরক্ষণ করবেন।</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                    <target>বিদ্যমান সিক্রেট অ্যাক্সেস কী ব্যবহার করতে ফাঁকা রাখুন।</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                    <target>বর্জিত</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                    <target>রিমোট ব্যাকআপ সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                    <target>রিমোট ব্যাকআপ সেটিংস মুছে ফেলা হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                    <target>অ্যাক্সেস কী</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                    <target>সিক্রেট অ্যাক্সেস কী</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                    <target>আপনার গুগল ড্রাইভ অ্যাকাউন্টের ইমেইল ঠিকানা।</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                    <target>সার্ভিস অ্যাকাউন্ট</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                    <target>বিদ্যমান সার্ভিস অ্যাকাউন্ট ব্যবহার করতে ফাঁকা রাখুন।</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                    <target>অ্যাক্সেস কোড অনুরোধ করুন</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                    <target>অ্যাক্সেস কোড</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                    <target>বাটনে ক্লিক করুন এবং অ্যাক্সেস কোডটি পরবর্তী ঘরে পেস্ট করুন।</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                    <target>ব্যাকআপ তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                    <target>ব্যাকআপ শীঘ্রই ব্যাকগ্রাউন্ডে শুরু হবে।</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                    <target>প্রমাণীকরণ পদ্ধতি</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                    <target>কী</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                    <target>রিমোট সার্ভার পাথ</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                    <target>প্রাইভেট কী পাথ</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                    <target>স্পেসের নাম</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                    <target>স্পেস এন্ডপয়েন্ট</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                    <target>S3 কম্প্যাটিবল এন্ডপয়েন্টের জন্য ফরম্যাট</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache">
+                <source>Varnish Cache</source>
+                    <target>ভার্নিশ ক্যাশ</target>
+            </trans-unit>
+            <trans-unit id="varnish-server">
+                <source>Varnish Server</source>
+                    <target>ভার্নিশ সার্ভার</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime">
+                <source>Cache Lifetime</source>
+                    <target>ক্যাশের সময়কাল</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
+                <source>Cache Lifetime in seconds before being refreshed.</source>
+                    <target>রিফ্রেশ হওয়ার আগে ক্যাশের সময়কাল (সেকেন্ডে)।</target>
+            </trans-unit>
+            <trans-unit id="cache-tag-prefix">
+                <source>Cache Tag Prefix</source>
+                    <target>ক্যাশ ট্যাগ প্রিফিক্স</target>
+            </trans-unit>
+            <trans-unit id="excluded-params">
+                <source>Excluded Params</source>
+                    <target>বর্জিত প্যারামস</target>
+            </trans-unit>
+            <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
+                <source>List of GET parameters, separated by a comma, to disable caching.</source>
+                    <target>ক্যাশিং নিষ্ক্রিয় করতে কমা দিয়ে আলাদা GET প্যারামিটারগুলোর তালিকা।</target>
+            </trans-unit>
+            <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
+                <source>Urls and files that Varnish Cache shouldn't cache.</source>
+                    <target>ভার্নিশ ক্যাশ যেসব URL এবং ফাইল ক্যাশ করবে না।</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-settings-have-been-saved">
+                <source>Varnish Cache Settings have been saved.</source>
+                    <target>ভার্নিশ ক্যাশ সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="purge-entire-cache">
+                <source>Purge Entire Cache</source>
+                    <target>সম্পূর্ণ ক্যাশ পরিষ্কার করুন</target>
+            </trans-unit>
+            <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
+                <source>You can purge single urls or tags separated by comma.</source>
+                    <target>আপনি কমা দিয়ে আলাদা একক URL বা ট্যাগ পরিষ্কার করতে পারেন।</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-has-been-purged">
+                <source>Varnish Cache has been purged.</source>
+                    <target>ভার্নিশ ক্যাশ পরিষ্কার হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                    <target>রিভার্স প্রক্সি তৈরি করুন</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                    <target>নতুন রিভার্স প্রক্সি</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                    <target>রিভার্স প্রক্সি URL</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                    <target>রিভার্স প্রক্সি তৈরি হয়েছে।</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                    <target>রিভার্স প্রক্সি সেটিংস</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                    <target>রিভার্স প্রক্সি সেটিংস সংরক্ষিত হয়েছে।</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
