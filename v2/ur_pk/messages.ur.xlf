@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ur" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="yes">
+                <source>Yes</source>
+                <target>جی ہاں</target>
+            </trans-unit>
+            <trans-unit id="no">
+                <source>No</source>
+                <target>نہیں</target>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+                <target>سب</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>Support</source>
+                <target>معاونت</target>
+            </trans-unit>
+            <trans-unit id="click-to-copy">
+                <source>Click to Copy</source>
+                <target>کاپی کرنے کے لیے کلک کریں</target>
+            </trans-unit>
+            <trans-unit id="copied-to-clipboard">
+                <source>Copied to Clipboard</source>
+                <target>کلپ بورڈ پر کاپی ہو گیا</target>
+            </trans-unit>
+            <trans-unit id="loading">
+                <source>Loading</source>
+                <target>لوڈ ہو رہا ہے</target>
+            </trans-unit>
+            <trans-unit id="blog">
+                <source>Blog</source>
+                <target>بلاگ</target>
+            </trans-unit>
+            <trans-unit id="contact">
+                <source>Contact</source>
+                <target>رابطہ</target>
+            </trans-unit>
+            <trans-unit id="docs">
+                <source>Docs</source>
+                <target>دستاویزات</target>
+            </trans-unit>
+            <trans-unit id="update-available">
+                <source>Update available</source>
+                <target>اپ ڈیٹ دستیاب ہے</target>
+            </trans-unit>
+            <trans-unit id="issues">
+                <source>Issues</source>
+                <target>مسائل</target>
+            </trans-unit>
+            <trans-unit id="submit">
+                <source>Submit</source>
+                <target>جمع کریں</target>
+            </trans-unit>
+            <trans-unit id="site">
+                <source>Site</source>
+                <target>سائٹ</target>
+            </trans-unit>
+            <trans-unit id="sites">
+                <source>Sites</source>
+                <target>سائٹس</target>
+            </trans-unit>
+            <trans-unit id="locale-german">
+                <source>German</source>
+                <target>جرمن</target>
+            </trans-unit>
+            <trans-unit id="locale-czech">
+                <source>Czech</source>
+                <target>چیک</target>
+            </trans-unit>
+            <trans-unit id="locale-danish">
+                <source>Danish</source>
+                <target>ڈینش</target>
+            </trans-unit>
+            <trans-unit id="locale-bosnian">
+                <source>Bosnian</source>
+                <target>بوسنیائی</target>
+            </trans-unit>
+            <trans-unit id="locale-bulgarian">
+                <source>Bulgarian</source>
+                <target>بلغاریائی</target>
+            </trans-unit>
+            <trans-unit id="locale-finnish">
+                <source>Finnish</source>
+                <target>فنش</target>
+            </trans-unit>
+            <trans-unit id="locale-english">
+                <source>English</source>
+                <target>انگریزی</target>
+            </trans-unit>
+            <trans-unit id="locale-french">
+                <source>French</source>
+                <target>فرانسیسی</target>
+            </trans-unit>
+            <trans-unit id="locale-korean">
+                <source>Korean</source>
+                <target>کوریائی</target>
+            </trans-unit>
+            <trans-unit id="locale-hebrew">
+                <source>Hebrew</source>
+                <target>عبرانی</target>
+            </trans-unit>
+            <trans-unit id="locale-hungarian">
+                <source>Hungarian</source>
+                <target>ہنگریائی</target>
+            </trans-unit>
+            <trans-unit id="locale-dutch">
+                <source>Dutch</source>
+                <target>ڈچ</target>
+            </trans-unit>
+            <trans-unit id="locale-italian">
+                <source>Italian</source>
+                <target>اطالوی</target>
+            </trans-unit>
+            <trans-unit id="locale-japanese">
+                <source>Japanese</source>
+                <target>جاپانی</target>
+            </trans-unit>
+            <trans-unit id="locale-spanish">
+                <source>Spanish</source>
+                <target>ہسپانوی</target>
+            </trans-unit>
+            <trans-unit id="locale-persian">
+                <source>Persian</source>
+                <target>فارسی</target>
+            </trans-unit>
+            <trans-unit id="locale-polish">
+                <source>Polish</source>
+                <target>پولش</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese">
+                <source>Portuguese</source>
+                <target>پرتگالی</target>
+            </trans-unit>
+            <trans-unit id="locale-portuguese-brasil">
+                <source>Portuguese (Brasil)</source>
+                <target>پرتگالی (برازیل)</target>
+            </trans-unit>
+            <trans-unit id="locale-greek">
+                <source>Greek</source>
+                <target>یونانی</target>
+            </trans-unit>
+            <trans-unit id="locale-serbian">
+                <source>Serbian</source>
+                <target>سربیائی</target>
+            </trans-unit>
+            <trans-unit id="locale-georgian">
+                <source>Georgian</source>
+                <target>جارجیائی</target>
+            </trans-unit>
+            <trans-unit id="locale-lithuania">
+                <source>Lithuanian</source>
+                <target>لتھوانیائی</target>
+            </trans-unit>
+            <trans-unit id="locale-indonesian">
+                <source>Indonesian</source>
+                <target>انڈونیشیائی</target>
+            </trans-unit>
+            <trans-unit id="locale-romanian">
+                <source>Romanian</source>
+                <target>رومانیائی</target>
+            </trans-unit>
+            <trans-unit id="locale-slovak">
+                <source>Slovak</source>
+                <target>سلوواک</target>
+            </trans-unit>
+            <trans-unit id="locale-russian">
+                <source>Russian</source>
+                <target>روسی</target>
+            </trans-unit>
+            <trans-unit id="locale-thai">
+                <source>Thai</source>
+                <target>تھائی</target>
+            </trans-unit>
+            <trans-unit id="locale-turkish">
+                <source>Turkish</source>
+                <target>ترکی</target>
+            </trans-unit>
+            <trans-unit id="locale-ukrainian">
+                <source>Ukrainian</source>
+                <target>یوکرینی</target>
+            </trans-unit>
+            <trans-unit id="locale-arabic">
+                <source>Arabic</source>
+                <target>عربی</target>
+            </trans-unit>
+            <trans-unit id="locale-vietnamese">
+                <source>Vietnamese</source>
+                <target>ویت نامی</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-simplified">
+                <source>Chinese (Simplified)</source>
+                <target>چینی (آسان)</target>
+            </trans-unit>
+            <trans-unit id="locale-chinese-taiwan">
+                <source>Chinese (Taiwan)</source>
+                <target>چینی (تائیوان)</target>
+            </trans-unit>
+            <trans-unit id="ipv4-public-ip">
+                <source>IPv4 Public IP</source>
+                <target>عوامی IPv4 پتہ</target>
+            </trans-unit>
+            <trans-unit id="ipv6-public-ip">
+                <source>IPv6 Public IP</source>
+                <target>عوامی IPv6 پتہ</target>
+            </trans-unit>
+            <trans-unit id="os">
+                <source>OS</source>
+                <target>آپریٹنگ سسٹم</target>
+            </trans-unit>
+            <trans-unit id="hostname">
+                <source>Hostname</source>
+                <target>ہوسٹ کا نام</target>
+            </trans-unit>
+            <trans-unit id="cpu">
+                <source>CPU</source>
+                <target>CPU</target>
+            </trans-unit>
+            <trans-unit id="cores">
+                <source>Cores</source>
+                <target>کورز</target>
+            </trans-unit>
+            <trans-unit id="memory">
+                <source>Memory</source>
+                <target>میموری</target>
+            </trans-unit>
+            <trans-unit id="user-name">
+                <source>User Name</source>
+                <target>صارف نام</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>Password</source>
+                <target>پاس ورڈ</target>
+            </trans-unit>
+            <trans-unit id="login">
+                <source>Log In</source>
+                <target>لاگ ان کریں</target>
+            </trans-unit>
+            <trans-unit id="settings">
+                <source>Settings</source>
+                <target>ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="logout">
+                <source>Logout</source>
+                <target>لاگ آؤٹ کریں</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>Language</source>
+                <target>زبان</target>
+            </trans-unit>
+            <trans-unit id="firstName">
+                <source>First Name</source>
+                <target>پہلا نام</target>
+            </trans-unit>
+            <trans-unit id="lastName">
+                <source>Last Name</source>
+                <target>آخری نام</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>E-Mail</source>
+                <target>ای میل</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>Timezone</source>
+                <target>ٹائم زون</target>
+            </trans-unit>
+            <trans-unit id="generate-new-password">
+                <source>Generate new password</source>
+                <target>نیا پاس ورڈ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="create-user-button">
+                <source>Create User</source>
+                <target>صارف بنائیں</target>
+            </trans-unit>
+            <trans-unit id="license-terms-acknowledge">
+                <source>I agree to the license terms and acknowledge the privacy policy.</source>
+                <target>میں لائسنس کی شرائط سے متفق ہوں اور رازداری کی پالیسی کو تسلیم کرتا ہوں۔</target>
+            </trans-unit>
+            <trans-unit id="an-error-has-occured">
+                <source>An error has occurred, error message: %errorMessage%</source>
+                <target>ایک خرابی پیش آئی ہے، خرابی کا پیغام: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="admin-user-creation">
+                <source>Admin User Creation</source>
+                <target>منتظم کا اکاؤنٹ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="admin-area">
+                <source>Admin Area</source>
+                <target>منتظم کا حصہ</target>
+            </trans-unit>
+            <trans-unit id="dashboard">
+                <source>Dashboard</source>
+                <target>ڈیش بورڈ</target>
+            </trans-unit>
+            <trans-unit id="account">
+                <source>Account</source>
+                <target>اکاؤنٹ</target>
+            </trans-unit>
+            <trans-unit id="security">
+                <source>Security</source>
+                <target>سیکیورٹی</target>
+            </trans-unit>
+            <trans-unit id="account-saved">
+                <source>The account information has been saved.</source>
+                <target>اکاؤنٹ کی معلومات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="save">
+                <source>Save</source>
+                <target>محفوظ کریں</target>
+            </trans-unit>
+            <trans-unit id="create">
+                <source>Create</source>
+                <target>بنائیں</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication">
+                <source>Two-Factor Authentication</source>
+                <target>دو مرحلوں میں تصدیق</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-explanation">
+                <source>Two-Factor authentication adds an extra layer of security to your account. Whenever you sign in, you’ll need to enter both your password and also a security code.</source>
+                <target>دو مرحلوں میں تصدیق آپ کے اکاؤنٹ کی سیکیورٹی بڑھاتی ہے۔ ہر بار لاگ ان کرتے وقت آپ کو پاس ورڈ کے ساتھ ایک سیکیورٹی کوڈ بھی درج کرنا ہوگا۔</target>
+            </trans-unit>
+            <trans-unit id="enable-two-factor-authentication">
+                <source>Enable Two-Factor Authentication</source>
+                <target>دو مرحلوں میں تصدیق فعال کریں</target>
+            </trans-unit>
+            <trans-unit id="connect-your-two-factor-app">
+                <source>Connect your app</source>
+                <target>اپنی ایپ منسلک کریں</target>
+            </trans-unit>
+            <trans-unit id="using-an-authenticator-app">
+                <source>Using an authenticator app like %googleAuthenticatorLink% or %duoLink%, scan the QR code. It will display a 6 digit code which you need to enter below.</source>
+                <target>%googleAuthenticatorLink% یا %duoLink% جیسی تصدیقی ایپ سے QR کوڈ اسکین کریں۔ ایپ میں دکھایا گیا 6 ہندسوں کا کوڈ نیچے درج کریں۔</target>
+            </trans-unit>
+            <trans-unit id="having-trouble-scanning-the-code">
+                <source>Having trouble scanning the code?</source>
+                <target>کوڈ اسکین کرنے میں مشکل ہو رہی ہے؟</target>
+            </trans-unit>
+            <trans-unit id="try-this-instead">
+                <source>Try this instead</source>
+                <target>یہ طریقہ آزمائیں</target>
+            </trans-unit>
+            <trans-unit id="select-manual-entry-on-your-app">
+                <source>Select manual entry on your app, and enter your user name: "%userName%" and the code: %secret%</source>
+                <target>اپنی ایپ میں دستی اندراج منتخب کریں اور اپنا صارف نام: &quot;%userName%&quot; اور کوڈ: %secret% درج کریں۔</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-enabled">
+                <source>Two-Factor Authentication has been enabled.</source>
+                <target>دو مرحلوں میں تصدیق فعال ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="disable-two-factor-authentication">
+                <source>Disable Two-Factor Authentication</source>
+                <target>دو مرحلوں میں تصدیق غیر فعال کریں</target>
+            </trans-unit>
+            <trans-unit id="two-factor-authentication-has-been-disabled">
+                <source>Two-Factor Authentication has been disabled.</source>
+                <target>دو مرحلوں میں تصدیق غیر فعال ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="enter-authentication-code">
+                <source>Enter authentication code</source>
+                <target>تصدیقی کوڈ درج کریں</target>
+            </trans-unit>
+            <trans-unit id="back-to-sites">
+                <source>Back to Sites</source>
+                <target>سائٹس پر واپس جائیں</target>
+            </trans-unit>
+            <trans-unit id="users">
+                <source>Users</source>
+                <target>صارفین</target>
+            </trans-unit>
+            <trans-unit id="add-user">
+                <source>Add User</source>
+                <target>صارف شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="new-user">
+                <source>New User</source>
+                <target>نیا صارف</target>
+            </trans-unit>
+            <trans-unit id="active">
+                <source>Active</source>
+                <target>فعال</target>
+            </trans-unit>
+            <trans-unit id="not-active">
+                <source>Not Active</source>
+                <target>غیر فعال</target>
+            </trans-unit>
+            <trans-unit id="role-admin">
+                <source>Admin</source>
+                <target>منتظم</target>
+            </trans-unit>
+            <trans-unit id="role-user">
+                <source>User</source>
+                <target>صارف</target>
+            </trans-unit>
+            <trans-unit id="role-site-manager">
+                <source>Site Manager</source>
+                <target>سائٹ مینیجر</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-added">
+                <source>User has been added.</source>
+                <target>صارف شامل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-updated">
+                <source>User has been updated.</source>
+                <target>صارف کی معلومات اپ ڈیٹ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="no-users-found">
+                <source>No users found.</source>
+                <target>کوئی صارف نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="role">
+                <source>Role</source>
+                <target>کردار</target>
+            </trans-unit>
+            <trans-unit id="status">
+                <source>Status</source>
+                <target>حیثیت</target>
+            </trans-unit>
+            <trans-unit id="delete">
+                <source>Delete</source>
+                <target>حذف کریں</target>
+            </trans-unit>
+            <trans-unit id="are-you-sure">
+                <source>Are you sure?</source>
+                <target>کیا آپ کو یقین ہے؟</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-deleted">
+                <source>User has been deleted.</source>
+                <target>صارف حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="events">
+                <source>Events</source>
+                <target>واقعات</target>
+            </trans-unit>
+            <trans-unit id="no-events-found">
+                <source>No events found.</source>
+                <target>کوئی واقعہ نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="event-time">
+                <source>Event Time</source>
+                <target>واقعے کا وقت</target>
+            </trans-unit>
+            <trans-unit id="event">
+                <source>Event</source>
+                <target>واقعہ</target>
+            </trans-unit>
+            <trans-unit id="view">
+                <source>View</source>
+                <target>دیکھیں</target>
+            </trans-unit>
+            <trans-unit id="notifications">
+                <source>Notifications</source>
+                <target>اطلاعات</target>
+            </trans-unit>
+            <trans-unit id="no-notifications-found">
+                <source>No notifications found.</source>
+                <target>کوئی اطلاع نہیں ملی۔</target>
+            </trans-unit>
+            <trans-unit id="notifications-has-been-deleted">
+                <source>Notification has been deleted.</source>
+                <target>اطلاع حذف ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="show-message">
+                <source>Show Message</source>
+                <target>پیغام دکھائیں</target>
+            </trans-unit>
+            <trans-unit id="severity">
+                <source>Severity</source>
+                <target>شدت</target>
+            </trans-unit>
+            <trans-unit id="date">
+                <source>Date</source>
+                <target>تاریخ</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>Message</source>
+                <target>پیغام</target>
+            </trans-unit>
+            <trans-unit id="action">
+                <source>Action</source>
+                <target>کارروائی</target>
+            </trans-unit>
+            <trans-unit id="info">
+                <source>Info</source>
+                <target>معلومات</target>
+            </trans-unit>
+            <trans-unit id="warning">
+                <source>Warning</source>
+                <target>انتباہ</target>
+            </trans-unit>
+            <trans-unit id="critical">
+                <source>Critical</source>
+                <target>انتہائی سنگین</target>
+            </trans-unit>
+            <trans-unit id="more-information">
+                <source>More Information</source>
+                <target>مزید معلومات</target>
+            </trans-unit>
+            <trans-unit id="mark-as-read">
+                <source>Mark as Read</source>
+                <target>پڑھا ہوا نشان لگائیں</target>
+            </trans-unit>
+            <trans-unit id="mark-as-unread">
+                <source>Mark as Unread</source>
+                <target>بغیر پڑھا نشان لگائیں</target>
+            </trans-unit>
+            <trans-unit id="instance">
+                <source>Instance</source>
+                <target>انسٹینس</target>
+            </trans-unit>
+            <trans-unit id="firewall">
+                <source>Firewall</source>
+                <target>فائر وال</target>
+            </trans-unit>
+            <trans-unit id="service">
+                <source>Service</source>
+                <target>سروس</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>Services</source>
+                <target>سروسز</target>
+            </trans-unit>
+            <trans-unit id="rules">
+                <source>Rules</source>
+                <target>قواعد</target>
+            </trans-unit>
+            <trans-unit id="add-rule">
+                <source>Add Rule</source>
+                <target>قاعدہ شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="no-rules-found">
+                <source>No rules found.</source>
+                <target>کوئی قاعدہ نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="add-firewall-rule">
+                <source>Add Firewall Rule</source>
+                <target>فائر وال کا قاعدہ شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-added">
+                <source>Rule has been added.</source>
+                <target>قاعدہ شامل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="rule-has-been-deleted">
+                <source>Rule has been deleted.</source>
+                <target>قاعدہ حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="rule-type">
+                <source>Type</source>
+                <target>قسم</target>
+            </trans-unit>
+            <trans-unit id="custom-tcp">
+                <source>Custom TCP</source>
+                <target>حسب ضرورت TCP</target>
+            </trans-unit>
+            <trans-unit id="port-range">
+                <source>Port Range</source>
+                <target>پورٹس کی حد</target>
+            </trans-unit>
+            <trans-unit id="ip-version">
+                <source>IP Version</source>
+                <target>IP ورژن</target>
+            </trans-unit>
+            <trans-unit id="rule-source">
+                <source>Source</source>
+                <target>ماخذ</target>
+            </trans-unit>
+            <trans-unit id="rule-source-custom">
+                <source>Custom</source>
+                <target>حسب ضرورت</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv4">
+                <source>Anywhere-IPv4</source>
+                <target>کہیں سے بھی — IPv4</target>
+            </trans-unit>
+            <trans-unit id="rule-source-anywhere-ipv6">
+                <source>Anywhere-IPv6</source>
+                <target>کہیں سے بھی — IPv6</target>
+            </trans-unit>
+            <trans-unit id="rule-source-my-ip">
+                <source>My IP</source>
+                <target>میرا IP</target>
+            </trans-unit>
+            <trans-unit id="rule-source-ip-or-cidr">
+                <source>IP or CIDR</source>
+                <target>IP یا CIDR</target>
+            </trans-unit>
+            <trans-unit id="rule-description">
+                <source>Description</source>
+                <target>تفصیل</target>
+            </trans-unit>
+            <trans-unit id="actions">
+                <source>Actions</source>
+                <target>کارروائیاں</target>
+            </trans-unit>
+            <trans-unit id="edit-firewall-rule">
+                <source>Edit Firewall Rule</source>
+                <target>فائر وال کا قاعدہ تبدیل کریں</target>
+            </trans-unit>
+            <trans-unit id="basic-auth">
+                <source>Basic Auth</source>
+                <target>بنیادی تصدیق</target>
+            </trans-unit>
+            <trans-unit id="enable-basic-auth">
+                <source>Enable Basic Auth</source>
+                <target>بنیادی تصدیق فعال کریں</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-in-front-of-cloudpanel">
+                <source>Basic Auth in front of CloudPanel adds an extra layer of security.</source>
+                <target>CloudPanel تک رسائی سے پہلے بنیادی تصدیق سیکیورٹی کی ایک اضافی تہہ فراہم کرتی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="basic-auth-has-been-enabled">
+                <source>Basic Auth has been enabled.</source>
+                <target>بنیادی تصدیق فعال ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="running">
+                <source>Running</source>
+                <target>چل رہی ہے</target>
+            </trans-unit>
+            <trans-unit id="stopped">
+                <source>Stopped</source>
+                <target>بند ہے</target>
+            </trans-unit>
+            <trans-unit id="restart">
+                <source>Restart</source>
+                <target>دوبارہ شروع کریں</target>
+            </trans-unit>
+            <trans-unit id="service-will-restart-shortly">
+                <source>Service will restart shortly.</source>
+                <target>سروس کچھ ہی دیر میں دوبارہ شروع ہو جائے گی۔</target>
+            </trans-unit>
+            <trans-unit id="proftpd-settings">
+                <source>Proftpd Settings</source>
+                <target>Proftpd کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address">
+                <source>MasqueradeAddress</source>
+                <target>MasqueradeAddress</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-explanation">
+                <source>MasqueradeAddress causes the server to display the network information for the specified IP address or DNS hostname to the client.</source>
+                <target>MasqueradeAddress کے ذریعے سرور کلائنٹ کو مخصوص IP پتے یا DNS ہوسٹ نام کی نیٹ ورک معلومات دکھاتا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="masquerade-address-has-been-saved">
+                <source>MasqueradeAddress has been saved.</source>
+                <target>MasqueradeAddress محفوظ ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="instance-settings">
+                <source>Instance Settings</source>
+                <target>انسٹینس کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="timezone-has-been-saved">
+                <source>Timezone has been saved.</source>
+                <target>ٹائم زون محفوظ ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="reboot">
+                <source>Reboot</source>
+                <target>ری بوٹ کریں</target>
+            </trans-unit>
+            <trans-unit id="instance-will-reboot-shortly">
+                <source>Instance will reboot shortly.</source>
+                <target>انسٹینس کچھ ہی دیر میں ری بوٹ ہو جائے گا۔</target>
+            </trans-unit>
+            <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
+                <source>It's recommended to reboot the instance after changing the timezone.</source>
+                <target>ٹائم زون تبدیل کرنے کے بعد انسٹینس کو ری بوٹ کرنے کی تجویز دی جاتی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>General</source>
+                <target>عمومی</target>
+            </trans-unit>
+            <trans-unit id="database-servers">
+                <source>Database Servers</source>
+                <target>ڈیٹابیس سرورز</target>
+            </trans-unit>
+            <trans-unit id="add-database-server">
+                <source>Add Database Server</source>
+                <target>ڈیٹابیس سرور شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="edit-database-server">
+                <source>Edit Database Server</source>
+                <target>ڈیٹابیس سرور تبدیل کریں</target>
+            </trans-unit>
+            <trans-unit id="engine">
+                <source>Engine</source>
+                <target>انجن</target>
+            </trans-unit>
+            <trans-unit id="host">
+                <source>Host</source>
+                <target>ہوسٹ</target>
+            </trans-unit>
+            <trans-unit id="port">
+                <source>Port</source>
+                <target>پورٹ</target>
+            </trans-unit>
+            <trans-unit id="ip-or-dns-name">
+                <source>IP or DNS Name</source>
+                <target>IP یا DNS نام</target>
+            </trans-unit>
+            <trans-unit id="certificate">
+                <source>Certificate</source>
+                <target>سرٹیفکیٹ</target>
+            </trans-unit>
+            <trans-unit id="set-active">
+                <source>Set Active</source>
+                <target>فعال کریں</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-added">
+                <source>Database Server has been added.</source>
+                <target>ڈیٹابیس سرور شامل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-updated">
+                <source>Database Server has been updated.</source>
+                <target>ڈیٹابیس سرور کی معلومات اپ ڈیٹ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-deleted">
+                <source>Database Server has been deleted.</source>
+                <target>ڈیٹابیس سرور حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="database-server-has-been-changed">
+                <source>Database Server has been changed.</source>
+                <target>ڈیٹابیس سرور تبدیل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="custom-domain">
+                <source>Custom Domain</source>
+                <target>حسب ضرورت ڈومین</target>
+            </trans-unit>
+            <trans-unit id="tls-certificate">
+                <source>TLS Certificate</source>
+                <target>TLS سرٹیفکیٹ</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-http-challenge">
+                <source>Let's Encrypt HTTP Challenge</source>
+                <target>Let&apos;s Encrypt کی HTTP تصدیق</target>
+            </trans-unit>
+            <trans-unit id="lets-encrypt-dns-challenge">
+                <source>Let's Encrypt DNS Challenge</source>
+                <target>Let&apos;s Encrypt کی DNS تصدیق</target>
+            </trans-unit>
+            <trans-unit id="backups">
+                <source>Backups</source>
+                <target>بیک اپس</target>
+            </trans-unit>
+            <trans-unit id="images">
+                <source>Images</source>
+                <target>امیجز</target>
+            </trans-unit>
+            <trans-unit id="aws-credentials">
+                <source>AWS Credentials</source>
+                <target>AWS کی اسناد</target>
+            </trans-unit>
+            <trans-unit id="aws-access-key">
+                <source>AWS Access Key</source>
+                <target>AWS رسائی کلید</target>
+            </trans-unit>
+            <trans-unit id="aws-secret-access-key">
+                <source>AWS Secret Access Key</source>
+                <target>AWS خفیہ رسائی کلید</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-are-not-valid">
+                <source>AWS Access Keys are not valid.</source>
+                <target>AWS کی رسائی کلیدیں درست نہیں ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="aws-access-keys-have-been-saved">
+                <source>AWS Access Keys have been saved.</source>
+                <target>AWS کی رسائی کلیدیں محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="aws-images-settings">
+                <source>Images Settings</source>
+                <target>امیجز کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="aws-enable-automatic-images">
+                <source>Enable Automatic Images</source>
+                <target>خودکار امیجز فعال کریں</target>
+            </trans-unit>
+            <trans-unit id="frequency">
+                <source>Frequency</source>
+                <target>وقفہ</target>
+            </trans-unit>
+            <trans-unit id="retention-period-days">
+                <source>Retention Period (Days)</source>
+                <target>محفوظ رکھنے کی مدت (دن)</target>
+            </trans-unit>
+            <trans-unit id="images-settings-have-been-saved">
+                <source>Images Settings have been saved.</source>
+                <target>امیجز کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="every-hour">
+                <source>Every Hour</source>
+                <target>ہر گھنٹے</target>
+            </trans-unit>
+            <trans-unit id="every-three-hours">
+                <source>Every Three Hours</source>
+                <target>ہر تین گھنٹے بعد</target>
+            </trans-unit>
+            <trans-unit id="every-six-hours">
+                <source>Every Six Hours</source>
+                <target>ہر چھ گھنٹے بعد</target>
+            </trans-unit>
+            <trans-unit id="every-twelve-hours">
+                <source>Every Twelve Hours</source>
+                <target>ہر بارہ گھنٹے بعد</target>
+            </trans-unit>
+            <trans-unit id="once-per-day">
+                <source>Once per Day</source>
+                <target>دن میں ایک بار</target>
+            </trans-unit>
+            <trans-unit id="create-image">
+                <source>Create Image</source>
+                <target>امیج بنائیں</target>
+            </trans-unit>
+            <trans-unit id="image-name">
+                <source>Image Name</source>
+                <target>امیج کا نام</target>
+            </trans-unit>
+            <trans-unit id="no-images-found">
+                <source>No images found.</source>
+                <target>کوئی امیج نہیں ملی۔</target>
+            </trans-unit>
+            <trans-unit id="available">
+                <source>Available</source>
+                <target>دستیاب</target>
+            </trans-unit>
+            <trans-unit id="pending">
+                <source>Pending</source>
+                <target>زیر التوا</target>
+            </trans-unit>
+            <trans-unit id="failed">
+                <source>Failed</source>
+                <target>ناکام</target>
+            </trans-unit>
+            <trans-unit id="created-at">
+                <source>Created At</source>
+                <target>بنانے کا وقت</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-created">
+                <source>Image is being created.</source>
+                <target>امیج بن رہی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="image-is-being-deleted">
+                <source>Image is being deleted.</source>
+                <target>امیج حذف ہو رہی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="access-token-is-not-valid">
+                <source>Access Token is not valid.</source>
+                <target>رسائی ٹوکن درست نہیں ہے۔</target>
+            </trans-unit>
+            <trans-unit id="access-token-has-been-saved">
+                <source>Access Token has been saved.</source>
+                <target>رسائی ٹوکن محفوظ ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="access-token">
+                <source>Access Token</source>
+                <target>رسائی ٹوکن</target>
+            </trans-unit>
+            <trans-unit id="snapshots">
+                <source>Snapshots</source>
+                <target>اسنیپ شاٹس</target>
+            </trans-unit>
+            <trans-unit id="snapshots-settings">
+                <source>Snapshots Settings</source>
+                <target>اسنیپ شاٹس کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="enable-automatic-snapshots">
+                <source>Enable Automatic Snapshots</source>
+                <target>خودکار اسنیپ شاٹس فعال کریں</target>
+            </trans-unit>
+            <trans-unit id="create-snapshot">
+                <source>Create Snapshot</source>
+                <target>اسنیپ شاٹ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="no-snapshots-found">
+                <source>No snapshots found.</source>
+                <target>کوئی اسنیپ شاٹ نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="snapshot-name">
+                <source>Snapshot Name</source>
+                <target>اسنیپ شاٹ کا نام</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>Size</source>
+                <target>حجم</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-created">
+                <source>Snapshot is being created.</source>
+                <target>اسنیپ شاٹ بن رہا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="snapshot-is-being-deleted">
+                <source>Snapshot is being deleted.</source>
+                <target>اسنیپ شاٹ حذف ہو رہا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys">
+                <source>Service Account Keys</source>
+                <target>سروس اکاؤنٹ کی کلیدیں</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-are-not-valid">
+                <source>Service Account Keys are not valid.</source>
+                <target>سروس اکاؤنٹ کی کلیدیں درست نہیں ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="service-account-keys-have-been-saved">
+                <source>Service Account Keys have been saved.</source>
+                <target>سروس اکاؤنٹ کی کلیدیں محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="api-key">
+                <source>Api Key</source>
+                <target>API کلید</target>
+            </trans-unit>
+            <trans-unit id="api-key-is-not-valid">
+                <source>Api Key is not valid.</source>
+                <target>API کلید درست نہیں ہے۔</target>
+            </trans-unit>
+            <trans-unit id="api-key-has-been-saved">
+                <source>Api Key has been saved.</source>
+                <target>API کلید محفوظ ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="api-token">
+                <source>Api Token</source>
+                <target>API ٹوکن</target>
+            </trans-unit>
+            <trans-unit id="api-token-is-not-valid">
+                <source>Api Token is not valid.</source>
+                <target>API ٹوکن درست نہیں ہے۔</target>
+            </trans-unit>
+            <trans-unit id="api-token-has-been-saved">
+                <source>Api Token has been saved.</source>
+                <target>API ٹوکن محفوظ ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="no-sites-found">
+                <source>No sites found.</source>
+                <target>کوئی سائٹ نہیں ملی۔</target>
+            </trans-unit>
+            <trans-unit id="add-site">
+                <source>+ Add Site</source>
+                <target>+ سائٹ شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="domain">
+                <source>Domain</source>
+                <target>ڈومین</target>
+            </trans-unit>
+            <trans-unit id="site-user">
+                <source>Site User</source>
+                <target>سائٹ کا صارف</target>
+            </trans-unit>
+            <trans-unit id="site-user-password">
+                <source>Site User Password</source>
+                <target>سائٹ کے صارف کا پاس ورڈ</target>
+            </trans-unit>
+            <trans-unit id="app">
+                <source>App</source>
+                <target>ایپ</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>Manage</source>
+                <target>انتظام کریں</target>
+            </trans-unit>
+            <trans-unit id="ip-address">
+                <source>IP Address</source>
+                <target>IP پتہ</target>
+            </trans-unit>
+            <trans-unit id="vhost">
+                <source>Vhost</source>
+                <target>Vhost</target>
+            </trans-unit>
+            <trans-unit id="databases">
+                <source>Databases</source>
+                <target>ڈیٹابیسز</target>
+            </trans-unit>
+            <trans-unit id="ssl-tls">
+                <source>SSL/TLS</source>
+                <target>SSL/TLS</target>
+            </trans-unit>
+            <trans-unit id="ssh-ftp">
+                <source>SSH/FTP</source>
+                <target>SSH/FTP</target>
+            </trans-unit>
+            <trans-unit id="file-manager">
+                <source>File Manager</source>
+                <target>فائل مینیجر</target>
+            </trans-unit>
+            <trans-unit id="cron-jobs">
+                <source>Cron Jobs</source>
+                <target>کرون جابز</target>
+            </trans-unit>
+            <trans-unit id="logs">
+                <source>Logs</source>
+                <target>لاگز</target>
+            </trans-unit>
+            <trans-unit id="domain-settings">
+                <source>Domain Settings</source>
+                <target>ڈومین کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="root-directory">
+                <source>Root Directory</source>
+                <target>روٹ ڈائریکٹری</target>
+            </trans-unit>
+            <trans-unit id="domain-name">
+                <source>Domain Name</source>
+                <target>ڈومین کا نام</target>
+            </trans-unit>
+            <trans-unit id="application">
+                <source>Application</source>
+                <target>ایپلیکیشن</target>
+            </trans-unit>
+            <trans-unit id="generic">
+                <source>Generic</source>
+                <target>عمومی</target>
+            </trans-unit>
+            <trans-unit id="root-directory-has-been-saved">
+                <source>Root Directory has been saved.</source>
+                <target>روٹ ڈائریکٹری محفوظ ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="php-settings">
+                <source>PHP Settings</source>
+                <target>PHP کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="php-version">
+                <source>PHP Version</source>
+                <target>PHP ورژن</target>
+            </trans-unit>
+            <trans-unit id="memory-limit-explanation">
+                <source>Sets the maximum amount of memory that a script is allowed to allocate.</source>
+                <target>اسکرپٹ کے لیے مختص کی جانے والی میموری کی زیادہ سے زیادہ مقدار طے کرتا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="max-execution-explanation">
+                <source>Sets the maximum time a script is allowed to run before it is terminated by the parser.</source>
+                <target>پارسر کی جانب سے اسکرپٹ بند کیے جانے سے پہلے اسے چلنے کے لیے ملنے والا زیادہ سے زیادہ وقت طے کرتا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="max-input-time-explanation">
+                <source>Sets the maximum time a script is allowed to parse input data, like POST and GET.</source>
+                <target>POST اور GET جیسے ان پٹ ڈیٹا کو پارس کرنے کے لیے اسکرپٹ کو ملنے والا زیادہ سے زیادہ وقت طے کرتا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="max-input-vars-explanation">
+                <source>Sets the limit of the number of inputs for posting forms.</source>
+                <target>فارم جمع کراتے وقت ان پٹ فیلڈز کی زیادہ سے زیادہ تعداد طے کرتا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="post-max-size-explanation">
+                <source>Maximum size of POST data that PHP will accept.</source>
+                <target>POST ڈیٹا کا زیادہ سے زیادہ حجم جسے PHP قبول کرے گا۔</target>
+            </trans-unit>
+            <trans-unit id="upload-max-filesize-explanation">
+                <source>The maximum size of an uploaded file.</source>
+                <target>اپ لوڈ کی جانے والی فائل کا زیادہ سے زیادہ حجم۔</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-explanation">
+                <source>You can define any PHP parameters like you would define in the php.ini.</source>
+                <target>آپ یہاں PHP کے پیرامیٹرز اسی طرح درج کر سکتے ہیں جیسے php.ini میں کرتے ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="additional-configuration-directives">
+                <source>Additional Configuration Directives</source>
+                <target>اضافی کنفیگریشن ہدایات</target>
+            </trans-unit>
+            <trans-unit id="php-settings-have-been-saved">
+                <source>PHP Settings have been saved.</source>
+                <target>PHP کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="delete-site">
+                <source>Delete Site</source>
+                <target>سائٹ حذف کریں</target>
+            </trans-unit>
+            <trans-unit id="deleting-a-site-will-be-permanently">
+                <source>Deleting a site will permanently remove all site files, databases, users, and configs, and they will be non-recoverable.</source>
+                <target>سائٹ حذف کرنے سے اس کی تمام فائلیں، ڈیٹابیسز، صارفین اور ترتیبات مستقل طور پر حذف ہو جائیں گی اور انہیں واپس نہیں لایا جا سکے گا۔</target>
+            </trans-unit>
+            <trans-unit id="cancel">
+                <source>Cancel</source>
+                <target>منسوخ کریں</target>
+            </trans-unit>
+            <trans-unit id="confirm-site-deletion">
+                <source>To confirm deletion, type %domain% into the field.</source>
+                <target>حذف کرنے کی تصدیق کے لیے خانے میں %domain% لکھیں۔</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-deleted">
+                <source>Site has been deleted.</source>
+                <target>سائٹ حذف ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings">
+                <source>Site User Settings</source>
+                <target>سائٹ کے صارف کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="site-user-settings-have-been-saved">
+                <source>Site User Settings have been saved.</source>
+                <target>سائٹ کے صارف کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="ssh-keys">
+                <source>SSH Keys</source>
+                <target>SSH کلیدیں</target>
+            </trans-unit>
+            <trans-unit id="vhost-editor">
+                <source>Vhost Editor</source>
+                <target>Vhost ایڈیٹر</target>
+            </trans-unit>
+            <trans-unit id="vhost-has-been-saved">
+                <source>Vhost has been saved.</source>
+                <target>Vhost محفوظ ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="vhost-is-not-valid">
+                <source>Vhost is not valid, error message: %errorMessage%</source>
+                <target>Vhost درست نہیں ہے، خرابی کا پیغام: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="no-databases-found">
+                <source>No databases found.</source>
+                <target>کوئی ڈیٹابیس نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="database">
+                <source>Database</source>
+                <target>ڈیٹابیس</target>
+            </trans-unit>
+            <trans-unit id="add-database">
+                <source>Add Database</source>
+                <target>ڈیٹابیس شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="new-database">
+                <source>New Database</source>
+                <target>نیا ڈیٹابیس</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-added">
+                <source>Database has been added.</source>
+                <target>ڈیٹابیس شامل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="database-has-been-deleted">
+                <source>Database has been deleted.</source>
+                <target>ڈیٹابیس حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="database-users">
+                <source>Database Users</source>
+                <target>ڈیٹابیس کے صارفین</target>
+            </trans-unit>
+            <trans-unit id="add-database-user">
+                <source>Add Database User</source>
+                <target>ڈیٹابیس کا صارف شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="no-database-users-found">
+                <source>No database users found.</source>
+                <target>ڈیٹابیس کا کوئی صارف نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="read-and-write">
+                <source>Read and Write</source>
+                <target>پڑھنے اور لکھنے کی اجازت</target>
+            </trans-unit>
+            <trans-unit id="read-only">
+                <source>Read Only</source>
+                <target>صرف پڑھنے کی اجازت</target>
+            </trans-unit>
+            <trans-unit id="new-database-user">
+                <source>New Database User</source>
+                <target>ڈیٹابیس کا نیا صارف</target>
+            </trans-unit>
+            <trans-unit id="database-name">
+                <source>Database Name</source>
+                <target>ڈیٹابیس کا نام</target>
+            </trans-unit>
+            <trans-unit id="database-user-name">
+                <source>Database User Name</source>
+                <target>ڈیٹابیس کا صارف نام</target>
+            </trans-unit>
+            <trans-unit id="database-user-password">
+                <source>Database User Password</source>
+                <target>ڈیٹابیس کے صارف کا پاس ورڈ</target>
+            </trans-unit>
+            <trans-unit id="permissions">
+                <source>Permissions</source>
+                <target>اجازتیں</target>
+            </trans-unit>
+            <trans-unit id="no-database-found-create-a-database-first">
+                <source>No database found; create a database first.</source>
+                <target>کوئی ڈیٹابیس نہیں ملا؛ پہلے ایک ڈیٹابیس بنائیں۔</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-added">
+                <source>Database User has been added.</source>
+                <target>ڈیٹابیس کا صارف شامل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-deleted">
+                <source>Database User has been deleted.</source>
+                <target>ڈیٹابیس کا صارف حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="edit-database-user">
+                <source>Edit Database User</source>
+                <target>ڈیٹابیس کا صارف تبدیل کریں</target>
+            </trans-unit>
+            <trans-unit id="database-user-has-been-updated">
+                <source>Database User has been updated.</source>
+                <target>ڈیٹابیس کے صارف کی معلومات اپ ڈیٹ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="certificates">
+                <source>Certificates</source>
+                <target>سرٹیفکیٹس</target>
+            </trans-unit>
+            <trans-unit id="new-lets-encrypt-certificate">
+                <source>New Let's Encrypt Certificate</source>
+                <target>نیا Let&apos;s Encrypt سرٹیفکیٹ</target>
+            </trans-unit>
+            <trans-unit id="import-certificate">
+                <source>Import Certificate</source>
+                <target>سرٹیفکیٹ درآمد کریں</target>
+            </trans-unit>
+            <trans-unit id="no-certificates-found">
+                <source>No certificates found.</source>
+                <target>کوئی سرٹیفکیٹ نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="self-signed">
+                <source>Self-Signed</source>
+                <target>خود دستخط شدہ</target>
+            </trans-unit>
+            <trans-unit id="imported">
+                <source>Imported</source>
+                <target>درآمد شدہ</target>
+            </trans-unit>
+            <trans-unit id="domains">
+                <source>Domains</source>
+                <target>ڈومینز</target>
+            </trans-unit>
+            <trans-unit id="expiration-date">
+                <source>Expiration Date</source>
+                <target>میعاد ختم ہونے کی تاریخ</target>
+            </trans-unit>
+            <trans-unit id="installed">
+                <source>Installed</source>
+                <target>نصب شدہ</target>
+            </trans-unit>
+            <trans-unit id="private-key">
+                <source>Private Key</source>
+                <target>نجی کلید</target>
+            </trans-unit>
+            <trans-unit id="certificate-chain">
+                <source>Certificate Chain</source>
+                <target>سرٹیفکیٹ کی زنجیر</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-deleted">
+                <source>Certificate has been deleted.</source>
+                <target>سرٹیفکیٹ حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="certificate-has-been-installed">
+                <source>Certificate has been installed.</source>
+                <target>سرٹیفکیٹ نصب ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="install">
+                <source>Install</source>
+                <target>نصب کریں</target>
+            </trans-unit>
+            <trans-unit id="import-and-install">
+                <source>Import and Install</source>
+                <target>درآمد کرکے نصب کریں</target>
+            </trans-unit>
+            <trans-unit id="create-and-install">
+                <source>Create and Install</source>
+                <target>بنا کر نصب کریں</target>
+            </trans-unit>
+            <trans-unit id="enter-domain-names-you-want-to-secure-with-lets-encrypt-certificate">
+                <source>Enter domain names you want to secure with a Let's Encrypt SSL Certificate.</source>
+                <target>وہ ڈومین نام درج کریں جنہیں آپ Let&apos;s Encrypt کے SSL سرٹیفکیٹ سے محفوظ بنانا چاہتے ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="a-dns-record-pointing-to-this-server-is-required-to-issue-a-lets-encrypt-certificate.">
+                <source>A DNS record pointing to this server is required to issue a Let's Encrypt Certificate.</source>
+                <target>Let&apos;s Encrypt سرٹیفکیٹ جاری کرنے کے لیے اس سرور کی طرف اشارہ کرنے والا DNS ریکارڈ ضروری ہے۔</target>
+            </trans-unit>
+            <trans-unit id="domain-names">
+                <source>Domain Names</source>
+                <target>ڈومین نام</target>
+            </trans-unit>
+            <trans-unit id="add-domain">
+                <source>Add Domain</source>
+                <target>ڈومین شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain">
+                <source>CloudPanel Custom Domain</source>
+                <target>CloudPanel کا حسب ضرورت ڈومین</target>
+            </trans-unit>
+            <trans-unit id="cloudpanel-custom-domain-has-been-saved">
+                <source>CloudPanel Custom Domain has been saved.</source>
+                <target>CloudPanel کا حسب ضرورت ڈومین محفوظ ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="ip-blocking">
+                <source>IP Blocking</source>
+                <target>IP بلاک کرنا</target>
+            </trans-unit>
+            <trans-unit id="add-ip">
+                <source>Add IP</source>
+                <target>IP شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="ip">
+                <source>IP</source>
+                <target>IP</target>
+            </trans-unit>
+            <trans-unit id="no-ips-found">
+                <source>No ips found.</source>
+                <target>کوئی IP پتہ نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="examples">
+                <source>Examples</source>
+                <target>مثالیں</target>
+            </trans-unit>
+            <trans-unit id="single-ip">
+                <source>Single IP</source>
+                <target>ایک IP پتہ</target>
+            </trans-unit>
+            <trans-unit id="cidr-format">
+                <source>CIDR Format</source>
+                <target>CIDR فارمیٹ</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-added">
+                <source>IP has been added.</source>
+                <target>IP پتہ شامل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="ip-has-been-deleted">
+                <source>IP has been deleted.</source>
+                <target>IP پتہ حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="no-bots-found">
+                <source>No bots found.</source>
+                <target>کوئی بوٹ نہیں ملا۔</target>
+            </trans-unit>
+            <trans-unit id="bots-blocked">
+                <source>Bots Blocking</source>
+                <target>بوٹس بلاک کرنا</target>
+            </trans-unit>
+            <trans-unit id="add-bot">
+                <source>Add Bot</source>
+                <target>بوٹ شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-added">
+                <source>Bot has been added.</source>
+                <target>بوٹ شامل ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="bot-has-been-deleted">
+                <source>Bot has been deleted.</source>
+                <target>بوٹ حذف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="bot-name">
+                <source>Bot Name</source>
+                <target>بوٹ کا نام</target>
+            </trans-unit>
+            <trans-unit id="basic-authentication">
+                <source>Basic Authentication</source>
+                <target>بنیادی تصدیق</target>
+            </trans-unit>
+            <trans-unit id="list-of-ips-to-bypassing-the-basic-authentication">
+                <source>List of IPs to bypassing the basic authentication, comma separated.</source>
+                <target>وہ IP پتے جنہیں بنیادی تصدیق کے بغیر رسائی کی اجازت ہے، کوما سے الگ کرکے درج کریں۔</target>
+            </trans-unit>
+            <trans-unit id="whitelisted-ips">
+                <source>Whitelisted IPs</source>
+                <target>اجازت یافتہ IP پتے</target>
+            </trans-unit>
+            <trans-unit id="allow-traffic-from-cloudflare-only">
+                <source>Allow traffic from Cloudflare only</source>
+                <target>صرف Cloudflare سے آنے والی ٹریفک کی اجازت دیں</target>
+            </trans-unit>
+            <trans-unit id="the-name-servers-must-point-to-cloudflare">
+                <source>The name servers must point to Cloudflare, and the proxy needs to be enabled for your dns records.</source>
+                <target>نیم سرورز کو Cloudflare کی طرف اشارہ کرنا چاہیے اور آپ کے DNS ریکارڈز کے لیے پراکسی فعال ہونی چاہیے۔</target>
+            </trans-unit>
+            <trans-unit id="ssh-users">
+                <source>SSH Users</source>
+                <target>SSH صارفین</target>
+            </trans-unit>
+            <trans-unit id="home-directory">
+                <source>Home Directory</source>
+                <target>ہوم ڈائریکٹری</target>
+            </trans-unit>
+            <trans-unit id="ssh-user">
+                <source>SSH User</source>
+                <target>SSH صارف</target>
+            </trans-unit>
+            <trans-unit id="new-ssh-user">
+                <source>New SSH User</source>
+                <target>نیا SSH صارف</target>
+            </trans-unit>
+            <trans-unit id="user-has-been-saved">
+                <source>User has been saved.</source>
+                <target>صارف کی معلومات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="ftp-user">
+                <source>FTP User</source>
+                <target>FTP صارف</target>
+            </trans-unit>
+            <trans-unit id="ftp-users">
+                <source>FTP Users</source>
+                <target>FTP صارفین</target>
+            </trans-unit>
+            <trans-unit id="new-ftp-user">
+                <source>New FTP User</source>
+                <target>نیا FTP صارف</target>
+            </trans-unit>
+            <trans-unit id="add-cron-job">
+                <source>Add Cron Job</source>
+                <target>کرون جاب شامل کریں</target>
+            </trans-unit>
+            <trans-unit id="no-cron-jobs-found">
+                <source>No cron jobs found.</source>
+                <target>کوئی کرون جاب نہیں ملی۔</target>
+            </trans-unit>
+            <trans-unit id="new-cron-job">
+                <source>New Cron Job</source>
+                <target>نئی کرون جاب</target>
+            </trans-unit>
+            <trans-unit id="every-minute">
+                <source>Every minute</source>
+                <target>ہر منٹ</target>
+            </trans-unit>
+            <trans-unit id="every-5-minutes">
+                <source>Every 5 minutes</source>
+                <target>ہر 5 منٹ بعد</target>
+            </trans-unit>
+            <trans-unit id="once-an-hour">
+                <source>Once an hour</source>
+                <target>ہر گھنٹے ایک بار</target>
+            </trans-unit>
+            <trans-unit id="every-3-hours">
+                <source>Every 3 hours</source>
+                <target>ہر 3 گھنٹے بعد</target>
+            </trans-unit>
+            <trans-unit id="once-a-day">
+                <source>Once a day (At 00:00)</source>
+                <target>روزانہ ایک بار (00:00 بجے)</target>
+            </trans-unit>
+            <trans-unit id="every-day-at-4am">
+                <source>Every day at 4 a.m.</source>
+                <target>روزانہ صبح 4 بجے</target>
+            </trans-unit>
+            <trans-unit id="once-a-week">
+                <source>Once a week (At 00:00 on Sunday)</source>
+                <target>ہفتے میں ایک بار (اتوار کو 00:00 بجے)</target>
+            </trans-unit>
+            <trans-unit id="once-a-month">
+                <source>Once a month (At 00:00 on day-of-month 1)</source>
+                <target>مہینے میں ایک بار (پہلی تاریخ کو 00:00 بجے)</target>
+            </trans-unit>
+            <trans-unit id="template">
+                <source>Template</source>
+                <target>سانچہ</target>
+            </trans-unit>
+            <trans-unit id="minute">
+                <source>Minute</source>
+                <target>منٹ</target>
+            </trans-unit>
+            <trans-unit id="hour">
+                <source>Hour</source>
+                <target>گھنٹہ</target>
+            </trans-unit>
+            <trans-unit id="day">
+                <source>Day</source>
+                <target>دن</target>
+            </trans-unit>
+            <trans-unit id="month">
+                <source>Month</source>
+                <target>مہینہ</target>
+            </trans-unit>
+            <trans-unit id="weekday">
+                <source>Weekday</source>
+                <target>ہفتے کا دن</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-added">
+                <source>Cron Job has been added.</source>
+                <target>کرون جاب شامل ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-deleted">
+                <source>Cron Job has been deleted.</source>
+                <target>کرون جاب حذف ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="cron-job-has-been-saved">
+                <source>Cron Job has been saved.</source>
+                <target>کرون جاب محفوظ ہو گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="schedule">
+                <source>Schedule</source>
+                <target>شیڈول</target>
+            </trans-unit>
+            <trans-unit id="command">
+                <source>Command</source>
+                <target>کمانڈ</target>
+            </trans-unit>
+            <trans-unit id="update">
+                <source>Update</source>
+                <target>اپ ڈیٹ کریں</target>
+            </trans-unit>
+            <trans-unit id="page-speed">
+                <source>PageSpeed</source>
+                <target>PageSpeed</target>
+            </trans-unit>
+            <trans-unit id="purge-cache">
+                <source>Purge Cache</source>
+                <target>کیش صاف کریں</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-are-not-valid">
+                <source>PageSpeed Setting are not valid, error message: %errorMessage%</source>
+                <target>PageSpeed کی ترتیبات درست نہیں ہیں، خرابی کا پیغام: %errorMessage%</target>
+            </trans-unit>
+            <trans-unit id="page-speed-settings-have-been-saved">
+                <source>Page Speed Settings have been saved.</source>
+                <target>PageSpeed کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="page-speed-cache-have-been-purged">
+                <source>Page Speed Cache has been purged.</source>
+                <target>PageSpeed کا کیش صاف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="what-kind-of-site-would-you-like-to-create">
+                <source>What kind of site would you like to create?</source>
+                <target>آپ کس قسم کی سائٹ بنانا چاہتے ہیں؟</target>
+            </trans-unit>
+            <trans-unit id="create-a-wordpress-site">
+                <source>Create a WordPress Site</source>
+                <target>WordPress سائٹ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="create-a-php-site">
+                <source>Create a PHP Site</source>
+                <target>PHP سائٹ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="create-a-nodejs-site">
+                <source>Create a Node.js Site</source>
+                <target>Node.js سائٹ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="create-a-static-html-site">
+                <source>Create a Static HTML Site</source>
+                <target>جامد HTML سائٹ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="create-a-python-site">
+                <source>Create a Python Site</source>
+                <target>Python سائٹ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="new-site">
+                <source>New Site</source>
+                <target>نئی سائٹ</target>
+            </trans-unit>
+            <trans-unit id="new-wordpress-site">
+                <source>New WordPress Site</source>
+                <target>نئی WordPress سائٹ</target>
+            </trans-unit>
+            <trans-unit id="pre-install-wordpress">
+                <source>Pre-Install WordPress</source>
+                <target>WordPress پہلے سے نصب کریں</target>
+            </trans-unit>
+            <trans-unit id="back">
+                <source>Back</source>
+                <target>واپس</target>
+            </trans-unit>
+            <trans-unit id="site-title">
+                <source>Site Title</source>
+                <target>سائٹ کا عنوان</target>
+            </trans-unit>
+            <trans-unit id="admin-email">
+                <source>Admin E-Mail</source>
+                <target>منتظم کی ای میل</target>
+            </trans-unit>
+            <trans-unit id="admin-user-name">
+                <source>Admin User Name</source>
+                <target>منتظم کا صارف نام</target>
+            </trans-unit>
+            <trans-unit id="admin-password">
+                <source>Admin Password</source>
+                <target>منتظم کا پاس ورڈ</target>
+            </trans-unit>
+            <trans-unit id="admin-url">
+                <source>Admin Url</source>
+                <target>منتظم کا URL</target>
+            </trans-unit>
+            <trans-unit id="multisite">
+                <source>Multisite</source>
+                <target>ملٹی سائٹ</target>
+            </trans-unit>
+            <trans-unit id="vhost-template-does-not-exist">
+                <source>Vhost Template %vhostTemplate% does not exist.</source>
+                <target>Vhost کا سانچہ %vhostTemplate% موجود نہیں ہے۔</target>
+            </trans-unit>
+            <trans-unit id="wordpress-site-has-been-created">
+                <source>WordPress Site has been created!</source>
+                <target>WordPress سائٹ بن گئی ہے!</target>
+            </trans-unit>
+            <trans-unit id="copy-the-credentials-for-your-created-wordpress-site">
+                <source>Copy the credentials for your created WordPress site.</source>
+                <target>اپنی نئی WordPress سائٹ کی لاگ ان معلومات کاپی کریں۔</target>
+            </trans-unit>
+            <trans-unit id="creating">
+                <source>Creating</source>
+                <target>بنایا جا رہا ہے</target>
+            </trans-unit>
+            <trans-unit id="saving">
+                <source>Saving</source>
+                <target>محفوظ کیا جا رہا ہے</target>
+            </trans-unit>
+            <trans-unit id="new-php-site">
+                <source>New PHP Site</source>
+                <target>نئی PHP سائٹ</target>
+            </trans-unit>
+            <trans-unit id="the-main-ssh-user-for-the-site">
+                <source>The main SSH User for the site.</source>
+                <target>سائٹ کا مرکزی SSH صارف۔</target>
+            </trans-unit>
+            <trans-unit id="site-has-been-created">
+                <source>Site has been created.</source>
+                <target>سائٹ بن گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="new-static-html-site">
+                <source>New Static HTML Site</source>
+                <target>نئی جامد HTML سائٹ</target>
+            </trans-unit>
+            <trans-unit id="new-nodejs-site">
+                <source>New Node.js Site</source>
+                <target>نئی Node.js سائٹ</target>
+            </trans-unit>
+            <trans-unit id="nodejs-version">
+                <source>Node.js Version</source>
+                <target>Node.js ورژن</target>
+            </trans-unit>
+            <trans-unit id="app-port">
+                <source>App Port</source>
+                <target>ایپ کی پورٹ</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings">
+                <source>Node.js Settings</source>
+                <target>Node.js کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="nodejs-settings-have-been-saved">
+                <source>Node.js Settings have been saved.</source>
+                <target>Node.js کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="new-python-site">
+                <source>New Python Site</source>
+                <target>نئی Python سائٹ</target>
+            </trans-unit>
+            <trans-unit id="python-version">
+                <source>Python Version</source>
+                <target>Python ورژن</target>
+            </trans-unit>
+            <trans-unit id="is-another-version-needed">
+                <source>Is another version needed?</source>
+                <target>کیا کوئی اور ورژن درکار ہے؟</target>
+            </trans-unit>
+            <trans-unit id="check-out-the-docs">
+                <source>Check out the docs.</source>
+                <target>دستاویزات دیکھیں۔</target>
+            </trans-unit>
+            <trans-unit id="python-settings">
+                <source>Python Settings</source>
+                <target>Python کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="python-settings-have-been-saved">
+                <source>Python Settings have been saved.</source>
+                <target>Python کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="operating-system">
+                <source>Operating System</source>
+                <target>آپریٹنگ سسٹم</target>
+            </trans-unit>
+            <trans-unit id="cloud">
+                <source>Cloud</source>
+                <target>کلاؤڈ</target>
+            </trans-unit>
+            <trans-unit id="region">
+                <source>Region</source>
+                <target>خطہ</target>
+            </trans-unit>
+            <trans-unit id="droplet-id">
+                <source>Droplet ID</source>
+                <target>Droplet ID</target>
+            </trans-unit>
+            <trans-unit id="instance-id">
+                <source>Instance ID</source>
+                <target>انسٹینس ID</target>
+            </trans-unit>
+            <trans-unit id="monitoring">
+                <source>Monitoring</source>
+                <target>نگرانی</target>
+            </trans-unit>
+            <trans-unit id="last-30-minutes">
+                <source>Last 30 Minutes</source>
+                <target>گزشتہ 30 منٹ</target>
+            </trans-unit>
+            <trans-unit id="last-hour">
+                <source>Last Hour</source>
+                <target>گزشتہ گھنٹہ</target>
+            </trans-unit>
+            <trans-unit id="last-3-hours">
+                <source>Last 3 Hours</source>
+                <target>گزشتہ 3 گھنٹے</target>
+            </trans-unit>
+            <trans-unit id="last-6-hours">
+                <source>Last 6 Hours</source>
+                <target>گزشتہ 6 گھنٹے</target>
+            </trans-unit>
+            <trans-unit id="last-12-hours">
+                <source>Last 12 Hours</source>
+                <target>گزشتہ 12 گھنٹے</target>
+            </trans-unit>
+            <trans-unit id="1-minute">
+                <source>1 Minute</source>
+                <target>1 منٹ</target>
+            </trans-unit>
+            <trans-unit id="5-minutes">
+                <source>5 Minutes</source>
+                <target>5 منٹ</target>
+            </trans-unit>
+            <trans-unit id="15-minutes">
+                <source>15 Minutes</source>
+                <target>15 منٹ</target>
+            </trans-unit>
+            <trans-unit id="cpu-usage">
+                <source>CPU Usage</source>
+                <target>CPU کا استعمال</target>
+            </trans-unit>
+            <trans-unit id="disk-usage">
+                <source>Disk Usage</source>
+                <target>ڈسک کا استعمال</target>
+            </trans-unit>
+            <trans-unit id="memory-usage">
+                <source>Memory Usage</source>
+                <target>میموری کا استعمال</target>
+            </trans-unit>
+            <trans-unit id="load-average">
+                <source>Load Average</source>
+                <target>اوسط لوڈ</target>
+            </trans-unit>
+            <trans-unit id="remote-backup">
+                <source>Remote Backup</source>
+                <target>ریموٹ بیک اپ</target>
+            </trans-unit>
+            <trans-unit id="storage-provider">
+                <source>Storage Provider</source>
+                <target>اسٹوریج فراہم کنندہ</target>
+            </trans-unit>
+            <trans-unit id="select-storage-provider">
+                <source>Select Storage Provider</source>
+                <target>اسٹوریج فراہم کنندہ منتخب کریں</target>
+            </trans-unit>
+            <trans-unit id="sftp">
+                <source>SFTP</source>
+                <target>SFTP</target>
+            </trans-unit>
+            <trans-unit id="custom-rclone-config">
+                <source>Custom Rclone Config</source>
+                <target>حسب ضرورت Rclone کنفیگریشن</target>
+            </trans-unit>
+            <trans-unit id="continue">
+                <source>Continue</source>
+                <target>جاری رکھیں</target>
+            </trans-unit>
+            <trans-unit id="enable-remote-backup">
+                <source>Enable Remote Backup</source>
+                <target>ریموٹ بیک اپ فعال کریں</target>
+            </trans-unit>
+            <trans-unit id="daily">
+                <source>Daily</source>
+                <target>روزانہ</target>
+            </trans-unit>
+            <trans-unit id="time">
+                <source>Time</source>
+                <target>وقت</target>
+            </trans-unit>
+            <trans-unit id="bucket">
+                <source>Bucket</source>
+                <target>بکٹ</target>
+            </trans-unit>
+            <trans-unit id="bucket-name">
+                <source>Bucket Name</source>
+                <target>بکٹ کا نام</target>
+            </trans-unit>
+            <trans-unit id="storage-directory">
+                <source>Storage Directory</source>
+                <target>اسٹوریج ڈائریکٹری</target>
+            </trans-unit>
+            <trans-unit id="where-to-store-backups-relative-to-the-root">
+                <source>Where to store backups relative to the root.</source>
+                <target>روٹ کے لحاظ سے بیک اپس محفوظ کرنے کا مقام۔</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-secret-access-key">
+                <source>Leave blank to continue using the existing secret access key.</source>
+                <target>موجودہ خفیہ رسائی کلید استعمال کرتے رہنے کے لیے خالی چھوڑ دیں۔</target>
+            </trans-unit>
+            <trans-unit id="excludes">
+                <source>Excludes</source>
+                <target>شامل نہ کیے جانے والے آئٹمز</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-saved">
+                <source>Remote Backup Settings have been saved.</source>
+                <target>ریموٹ بیک اپ کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="remote-backup-settings-have-been-deleted">
+                <source>Remote Backup Settings have been deleted.</source>
+                <target>ریموٹ بیک اپ کی ترتیبات حذف ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="access-key">
+                <source>Access Key</source>
+                <target>رسائی کلید</target>
+            </trans-unit>
+            <trans-unit id="secret-access-key">
+                <source>Secret Access Key</source>
+                <target>خفیہ رسائی کلید</target>
+            </trans-unit>
+            <trans-unit id="your-google-drive-account-email-address">
+                <source>Your google drive account email address.</source>
+                <target>آپ کے Google Drive اکاؤنٹ کا ای میل پتہ۔</target>
+            </trans-unit>
+            <trans-unit id="service-account">
+                <source>Service Account</source>
+                <target>سروس اکاؤنٹ</target>
+            </trans-unit>
+            <trans-unit id="leave-blank-to-continue-using-the-existing-service-account">
+                <source>Leave blank to continue using the existing service account.</source>
+                <target>موجودہ سروس اکاؤنٹ استعمال کرتے رہنے کے لیے خالی چھوڑ دیں۔</target>
+            </trans-unit>
+            <trans-unit id="request-access-code">
+                <source>Request Access Code</source>
+                <target>رسائی کوڈ حاصل کریں</target>
+            </trans-unit>
+            <trans-unit id="access-code">
+                <source>Access Code</source>
+                <target>رسائی کوڈ</target>
+            </trans-unit>
+            <trans-unit id="click-on-the-button-and-paste-the-access-code-into-the-next-field.">
+                <source>Click on the button and paste the access code into the next field.</source>
+                <target>بٹن پر کلک کریں اور رسائی کوڈ اگلے خانے میں پیسٹ کریں۔</target>
+            </trans-unit>
+            <trans-unit id="create-backup">
+                <source>Create Backup</source>
+                <target>بیک اپ بنائیں</target>
+            </trans-unit>
+            <trans-unit id="the-backup-will-be-started-in-the-background-shortly">
+                <source>The backup will be started in the background shortly.</source>
+                <target>بیک اپ کچھ ہی دیر میں پس منظر میں شروع ہو جائے گا۔</target>
+            </trans-unit>
+            <trans-unit id="authentication-method">
+                <source>Authentication Method</source>
+                <target>تصدیق کا طریقہ</target>
+            </trans-unit>
+            <trans-unit id="key">
+                <source>Key</source>
+                <target>کلید</target>
+            </trans-unit>
+            <trans-unit id="remote-server-path">
+                <source>Remote Server Path</source>
+                <target>ریموٹ سرور کا راستہ</target>
+            </trans-unit>
+            <trans-unit id="private-key-path">
+                <source>Private Key Path</source>
+                <target>نجی کلید کا راستہ</target>
+            </trans-unit>
+            <trans-unit id="space-name">
+                <source>Space Name</source>
+                <target>Space کا نام</target>
+            </trans-unit>
+            <trans-unit id="space-endpoint">
+                <source>Space Endpoint</source>
+                <target>Space کا اینڈ پوائنٹ</target>
+            </trans-unit>
+            <trans-unit id="format-for-s3-compatible-endpoints">
+                <source>Format for S3 compatible endpoints</source>
+                <target>S3 سے مطابقت رکھنے والے اینڈ پوائنٹس کا فارمیٹ</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache">
+                <source>Varnish Cache</source>
+                <target>Varnish کیش</target>
+            </trans-unit>
+            <trans-unit id="varnish-server">
+                <source>Varnish Server</source>
+                <target>Varnish سرور</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime">
+                <source>Cache Lifetime</source>
+                <target>کیش کی مدت</target>
+            </trans-unit>
+            <trans-unit id="cache-lifetime-in-seconds-before-being-refreshed">
+                <source>Cache Lifetime in seconds before being refreshed.</source>
+                <target>تازہ کیے جانے سے پہلے کیش کی مدت، سیکنڈ میں۔</target>
+            </trans-unit>
+            <trans-unit id="cache-tag-prefix">
+                <source>Cache Tag Prefix</source>
+                <target>کیش ٹیگ کا سابقہ</target>
+            </trans-unit>
+            <trans-unit id="excluded-params">
+                <source>Excluded Params</source>
+                <target>خارج کردہ پیرامیٹرز</target>
+            </trans-unit>
+            <trans-unit id="list-of-get-parameters-separated-by-a-comma-to-disable-caching">
+                <source>List of GET parameters, separated by a comma, to disable caching.</source>
+                <target>کیشنگ غیر فعال کرنے کے لیے GET پیرامیٹرز کی فہرست کوما سے الگ کرکے درج کریں۔</target>
+            </trans-unit>
+            <trans-unit id="urls-and-files-that-varnish-cache-shouldnt-cache">
+                <source>Urls and files that Varnish Cache shouldn't cache.</source>
+                <target>وہ URLs اور فائلیں جنہیں Varnish کیش میں محفوظ نہیں کرنا چاہیے۔</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-settings-have-been-saved">
+                <source>Varnish Cache Settings have been saved.</source>
+                <target>Varnish کیش کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="purge-entire-cache">
+                <source>Purge Entire Cache</source>
+                <target>پورا کیش صاف کریں</target>
+            </trans-unit>
+            <trans-unit id="you-can-purge-single-urls-or-tags-separated-by-comma">
+                <source>You can purge single urls or tags separated by comma.</source>
+                <target>آپ الگ الگ URLs یا ٹیگز کوما سے الگ کرکے درج کر کے ان کا کیش صاف کر سکتے ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="varnish-cache-has-been-purged">
+                <source>Varnish Cache has been purged.</source>
+                <target>Varnish کیش صاف ہو گیا ہے۔</target>
+            </trans-unit>
+            <trans-unit id="create-a-reverse-proxy">
+                <source>Create a Reverse Proxy</source>
+                <target>ریورس پراکسی بنائیں</target>
+            </trans-unit>
+            <trans-unit id="new-reverse-proxy">
+                <source>New Reverse Proxy</source>
+                <target>نئی ریورس پراکسی</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-url">
+                <source>Reverse Proxy Url</source>
+                <target>ریورس پراکسی کا URL</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-has-been-created">
+                <source>Reverse Proxy has been created.</source>
+                <target>ریورس پراکسی بن گئی ہے۔</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings">
+                <source>Reverse Proxy Settings</source>
+                <target>ریورس پراکسی کی ترتیبات</target>
+            </trans-unit>
+            <trans-unit id="reverse-proxy-settings-have-been-saved">
+                <source>Reverse Proxy Settings have been saved.</source>
+                <target>ریورس پراکسی کی ترتیبات محفوظ ہو گئی ہیں۔</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

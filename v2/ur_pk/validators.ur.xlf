@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" target-language="ur" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="does-not-exist">
+                <source>Does not exist.</source>
+                <target>موجود نہیں ہے۔</target>
+            </trans-unit>
+            <trans-unit id="this-value-adready-exists">
+                <source>This value already exists.</source>
+                <target>یہ قدر پہلے سے موجود ہے۔</target>
+            </trans-unit>
+            <trans-unit id="this-value-is-not-a-valid-domain-name">
+                <source>This value is not a valid domain name.</source>
+                <target>یہ درست ڈومین نام نہیں ہے۔</target>
+            </trans-unit>
+            <trans-unit id="does-not-match-certificate">
+                <source>Does not match certificate.</source>
+                <target>سرٹیفکیٹ سے مطابقت نہیں رکھتا۔</target>
+            </trans-unit>
+            <trans-unit id="database-server-credentials-are-not-valid">
+                <source>Database Server credentials are not valid.</source>
+                <target>ڈیٹابیس سرور کی لاگ ان معلومات درست نہیں ہیں۔</target>
+            </trans-unit>
+            <trans-unit id="port-is-already-in-use">
+                <source>Port is already in use.</source>
+                <target>یہ پورٹ پہلے سے استعمال میں ہے۔</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
